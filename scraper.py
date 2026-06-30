@@ -77,6 +77,13 @@ def parse_price(text):
     return None, raw
 
 
+def title_from_slug(url):
+    """Z URL '.../na-predaj-garsonka-bratislava.php' spraví čitateľný nadpis."""
+    slug = re.sub(r"\.php.*$", "", url.rsplit("/", 1)[-1])
+    words = slug.replace("-", " ").strip()
+    return (words[:1].upper() + words[1:]) if words else "Inzerát"
+
+
 def matches_type(text):
     """Sedí inzerát na hľadané typy bytov?"""
     h = norm(text)
@@ -159,11 +166,18 @@ def scrape_bazos():
         if not ads:
             break
         for ad in ads:
-            a = ad.select_one("div.inzeratynadpis a") or ad.select_one("a")
+            # odkaz na inzerát obsahuje /inzerat/
+            links = ad.select("a[href*='/inzerat/']")
+            a = links[0] if links else ad.select_one("a")
             if not a or not a.get("href"):
                 continue
             href = urllib.parse.urljoin("https://reality.bazos.sk", a["href"])
-            title = a.get_text(" ", strip=True)
+            # titulok: skús viac selektorov, záložne odvoď z URL slugu
+            t_el = (ad.select_one("h2.nadpis a") or ad.select_one(".nadpis a")
+                    or ad.select_one("div.inzeratynadpis a"))
+            title = t_el.get_text(" ", strip=True) if t_el else a.get_text(" ", strip=True)
+            if not title:
+                title = title_from_slug(href)
             price_el = ad.select_one("div.inzeratycena")
             loc_el = ad.select_one("div.inzeratylok")
             desc_el = ad.select_one("div.popis")
