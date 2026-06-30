@@ -86,5 +86,6 @@ MAX_STRAN = 3
 PORTALY = {
     "bazos": True,
     "nehnutelnosti": True,
-    "topreality": True,
+    "reality": True,
+    "topreality": False,   # zatiaľ vypnuté (treba doladiť správnu adresu)
 }

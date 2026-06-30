@@ -205,91 +205,110 @@ def scrape_bazos():
 # ── Portál: Nehnuteľnosti.sk ────────────────────────────────────────────────
 def scrape_nehnutelnosti():
     """
-    Nehnuteľnosti.sk je moderná appka (Next.js) — dáta sú v JSON bloku
-    __NEXT_DATA__ alebo v JSON-LD. Skúšame oboje, defenzívne.
+    Nehnuteľnosti.sk — inzeráty sú odkazy '/detail/<ID>/<slug>'.
+    Cena a lokalita sú v texte karty okolo odkazu.
     """
     out = []
-    url = (
-        "https://www.nehnutelnosti.sk/vysledky/"
-        f"?categories=1&transaction=1&priceTo={config.CENA_MAX}"
-        f"&query={urllib.parse.quote(config.LOKALITA)}"
-    )
+    base = "https://www.nehnutelnosti.sk"
+    url = f"{base}/vysledky/byty/bratislava/predaj"
     htmltext = fetch(url)
     if not htmltext:
         return out
     soup = BeautifulSoup(htmltext, "html.parser")
+    seen = set()
+    for a in soup.find_all("a", href=True):
+        m = re.search(r"/detail/([A-Za-z0-9_\-]+)/([a-z0-9\-]+)", a["href"])
+        if not m:
+            continue
+        lid = m.group(1)
+        if lid in seen:
+            continue
+        seen.add(lid)
+        href = a["href"]
+        if href.startswith("/"):
+            href = base + href
+        # nájdi kartu = najbližší rodič, čo obsahuje cenu (€) a nie je príliš veľký
+        card = a
+        card_text = ""
+        for _ in range(7):
+            card = card.parent
+            if card is None:
+                break
+            txt = re.sub(r"\s+", " ", card.get_text(" ", strip=True))
+            if "€" in txt and len(txt) < 700:
+                card_text = txt
+                break
+        title = title_from_slug(href)
+        mp = re.search(r"(\d[\d\s ]{3,})\s*€", card_text)
+        price_text = mp.group(1) if mp else ""
+        ml = re.search(r"(Bratislava[\w\-\s]{0,22})", card_text)
+        location = ml.group(1).strip() if ml else "Bratislava"
+        img = ""
+        if card is not None:
+            ie = card.find("img")
+            if ie:
+                img = ie.get("src") or ie.get("data-src") or ""
+                srcset = ie.get("srcset") or ""
+                if (not img or img.startswith("data:")) and srcset:
+                    img = srcset.split(",")[0].strip().split(" ")[0]
+        out.append(make_listing("nehnutelnosti", lid, title, href,
+                                 price_text, location, img, card_text[:300]))
+    return out
 
-    # 1) skús __NEXT_DATA__
-    nd = soup.find("script", id="__NEXT_DATA__")
-    if nd and nd.string:
-        try:
-            data = json.loads(nd.string)
-            out += _walk_for_listings(data)
-        except Exception as e:
-            print(f"   ⚠ nehnutelnosti __NEXT_DATA__: {e}")
 
-    # 2) skús JSON-LD (zoznam produktov / RealEstateListing)
+def scrape_reality():
+    """
+    Reality.sk — má štruktúrované dáta (schema.org ItemList → Product).
+    Parsujeme tolerantne (strict=False, býva tam riadkový znak v JSON).
+    """
+    out = []
+    url = "https://www.reality.sk/byty/bratislava/predaj/"
+    htmltext = fetch(url)
+    if not htmltext:
+        return out
+    soup = BeautifulSoup(htmltext, "html.parser")
     for s in soup.find_all("script", type="application/ld+json"):
         if not s.string:
             continue
         try:
-            data = json.loads(s.string)
+            d = json.loads(s.string, strict=False)
         except Exception:
             continue
-        items = data if isinstance(data, list) else [data]
-        for it in items:
-            if not isinstance(it, dict):
+        for block in (d if isinstance(d, list) else [d]):
+            if not isinstance(block, dict):
                 continue
-            if it.get("@type") in ("Product", "RealEstateListing", "Offer", "Apartment"):
-                title = it.get("name", "")
-                link = it.get("url", url)
-                offers = it.get("offers", {}) or {}
-                price = offers.get("price") if isinstance(offers, dict) else None
-                img = it.get("image", "")
+            t = block.get("@type")
+            types = t if isinstance(t, list) else [t]
+            if "ItemList" not in types:
+                continue
+            for el in block.get("itemListElement", []) or []:
+                me = None
+                if isinstance(el, dict):
+                    me = el.get("mainEntity") if isinstance(el.get("mainEntity"), dict) else el
+                if not isinstance(me, dict):
+                    continue
+                name = me.get("name", "")
+                desc = me.get("description", "")
+                link = me.get("url") or me.get("@id") or ""
+                img = me.get("image", "")
                 if isinstance(img, list):
                     img = img[0] if img else ""
-                lid = re.sub(r"\D", "", str(link))[-12:] or title[:30]
-                out.append(make_listing(
-                    "nehnutelnosti", lid, title, link,
-                    str(price or ""), config.LOKALITA, img,
-                    it.get("description", ""),
-                ))
+                if isinstance(img, dict):
+                    img = img.get("url") or img.get("contentUrl") or ""
+                offers = me.get("offers") or {}
+                if isinstance(offers, list):
+                    offers = offers[0] if offers else {}
+                price = offers.get("price") if isinstance(offers, dict) else None
+                price_text = str(price) if price else ""
+                if not price_text:  # záložne cena z textu
+                    mp = re.search(r"(\d[\d\s ]{3,})\s*€", f"{name} {desc}")
+                    price_text = mp.group(1) if mp else ""
+                if not (name and link):
+                    continue
+                lid = re.sub(r"\D", "", str(link))[-10:] or name[:30]
+                out.append(make_listing("reality", lid, str(name), str(link),
+                                         price_text, "Bratislava", str(img), str(desc)))
     return out
-
-
-def _walk_for_listings(obj, depth=0):
-    """Defenzívne prejde JSON a vytiahne, čo vyzerá ako inzeráty (title+url+price)."""
-    found = []
-    if depth > 8:
-        return found
-    if isinstance(obj, dict):
-        keys = set(obj.keys())
-        has_title = bool(keys & {"title", "name", "heading"})
-        has_url = bool(keys & {"url", "slug", "link", "uri"})
-        if has_title and has_url:
-            title = obj.get("title") or obj.get("name") or obj.get("heading") or ""
-            link = obj.get("url") or obj.get("link") or obj.get("uri") or obj.get("slug") or ""
-            if link and not str(link).startswith("http"):
-                link = urllib.parse.urljoin("https://www.nehnutelnosti.sk/", str(link))
-            price = obj.get("price") or obj.get("priceValue") or ""
-            img = obj.get("image") or obj.get("photo") or obj.get("thumbnail") or ""
-            if isinstance(img, list):
-                img = img[0] if img else ""
-            if isinstance(img, dict):
-                img = img.get("url") or img.get("src") or ""
-            lid = str(obj.get("id") or re.sub(r"\D", "", str(link))[-12:] or title[:30])
-            if title and link:
-                found.append(make_listing(
-                    "nehnutelnosti", lid, str(title), str(link),
-                    str(price), config.LOKALITA, str(img),
-                    str(obj.get("description", "")),
-                ))
-        for v in obj.values():
-            found += _walk_for_listings(v, depth + 1)
-    elif isinstance(obj, list):
-        for v in obj:
-            found += _walk_for_listings(v, depth + 1)
-    return found
 
 
 # ── Portál: TopReality.sk ───────────────────────────────────────────────────
@@ -334,6 +353,7 @@ def scrape_topreality():
 PORTAL_FUNKCIE = {
     "bazos": scrape_bazos,
     "nehnutelnosti": scrape_nehnutelnosti,
+    "reality": scrape_reality,
     "topreality": scrape_topreality,
 }
 
@@ -363,6 +383,7 @@ COND_LABEL = {
 PORTAL_LABEL = {
     "bazos": "Bazoš",
     "nehnutelnosti": "Nehnuteľnosti.sk",
+    "reality": "Reality.sk",
     "topreality": "TopReality.sk",
 }
 
