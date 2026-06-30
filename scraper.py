@@ -227,17 +227,13 @@ def scrape_nehnutelnosti():
         href = a["href"]
         if href.startswith("/"):
             href = base + href
-        # nájdi kartu = najbližší rodič, čo obsahuje cenu (€) a nie je príliš veľký
-        card = a
-        card_text = ""
-        for _ in range(7):
-            card = card.parent
-            if card is None:
-                break
-            txt = re.sub(r"\s+", " ", card.get_text(" ", strip=True))
-            if "€" in txt and len(txt) < 700:
-                card_text = txt
-                break
+        # karta jedného inzerátu = najbližší rodič s MUI triedou "grid-md-4"
+        card = a.find_parent(
+            lambda t: t.name == "div" and t.get("class")
+            and any("grid-md-4" in c for c in t.get("class")))
+        if card is None:
+            card = a.parent
+        card_text = re.sub(r"\s+", " ", card.get_text(" ", strip=True)) if card else ""
         title = title_from_slug(href)
         mp = re.search(r"(\d[\d\s ]{3,})\s*€", card_text)
         price_text = mp.group(1) if mp else ""
