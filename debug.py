@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Prieskum portálov — zistí, ako sú stránky postavené, aby sa dali napísať parsery.
-Spúšťa sa cez workflow 'debug.yml' (tlačidlo Run workflow). Výstup je v logu behu.
-NEpoužíva sa pri bežnom hľadaní — je to len jednorazový diagnostický nástroj.
-"""
+"""Cielený prieskum #2 — presná štruktúra reality.sk, nehnutelnosti.sk, topreality.sk."""
 import re
 import json
 import requests
@@ -13,82 +9,87 @@ HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"),
     "Accept-Language": "sk,cs;q=0.9,en;q=0.8",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-CANDIDATES = [
-    ("nehnutelnosti-A", "https://www.nehnutelnosti.sk/vysledky/bratislavsky-kraj/byty/predaj/"),
-    ("nehnutelnosti-B", "https://www.nehnutelnosti.sk/byty/bratislava/predaj/"),
-    ("topreality-A", "https://www.topreality.sk/byty-bratislava/predaj/"),
-    ("topreality-B", "https://www.topreality.sk/vyhladavanie/predaj/byty/bratislava/"),
-    ("reality-A", "https://www.reality.sk/byty/bratislava/predaj/"),
-    ("reality-B", "https://www.reality.sk/vysledky-hladania/?form%5Bsubtype%5D=1&form%5Bcategory%5D=1&form%5Blocation%5D=Bratislava"),
-    ("byty-A", "https://www.byty.sk/bratislava/predaj/"),
-    ("bazos-ref", "https://reality.bazos.sk/predam/byt/?hlokalita=Bratislava&humkreis=25&cenado=250000"),
-]
 
-LISTING_HREF = re.compile(r"/(detail|inzerat|byt|nehnutelnost|realitne-inzeraty|ponuka)/", re.I)
-BLOCK_WORDS = ["captcha", "cloudflare", "attention required", "pristup zamietnut",
-               "access denied", "are you a robot", "ddos"]
-
-
-def probe(name, url):
-    print("\n" + "=" * 70)
-    print(f"[{name}] {url}")
+def get(url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=30)
+        return r
     except Exception as e:
-        print(f"  CHYBA: {e}")
-        return
-    body = r.text or ""
-    low = body.lower()
-    print(f"  HTTP {r.status_code} | dĺžka {len(body)} | finalna URL: {r.url}")
-    blk = [w for w in BLOCK_WORDS if w in low]
-    if blk:
-        print(f"  ⚠ MOŽNÝ BLOK: {blk}")
-    soup = BeautifulSoup(body, "html.parser")
-    ldjson = soup.find_all("script", type="application/ld+json")
-    print(f"  ld+json blokov: {len(ldjson)}")
-    for i, s in enumerate(ldjson[:3]):
+        print("  CHYBA:", e)
+        return None
+
+
+def dump_ldjson(soup, label):
+    print(f"\n--- {label}: ld+json typy ---")
+    sample_done = False
+    for s in soup.find_all("script", type="application/ld+json"):
+        if not s.string:
+            continue
         try:
-            d = json.loads(s.string or "{}")
-            t = d.get("@type") if isinstance(d, dict) else type(d).__name__
-            print(f"     ld[{i}] @type={t} kľúče={list(d)[:8] if isinstance(d,dict) else ''}")
+            d = json.loads(s.string, strict=False)
         except Exception as e:
-            print(f"     ld[{i}] nečitateľné: {e}")
-    nd = soup.find("script", id="__NEXT_DATA__")
-    if nd and nd.string:
-        try:
-            d = json.loads(nd.string)
-            print(f"  __NEXT_DATA__ NÁJDENÉ, top kľúče: {list(d)}")
-            pp = d.get("props", {}).get("pageProps", {})
-            print(f"     pageProps kľúče: {list(pp)[:15]}")
-        except Exception as e:
-            print(f"  __NEXT_DATA__ nečitateľné: {e}")
-    # sample odkazov na inzeráty
-    hrefs = []
+            print("   nečitateľné:", e)
+            continue
+        items = d if isinstance(d, list) else [d]
+        for it in items:
+            if not isinstance(it, dict):
+                continue
+            t = it.get("@type")
+            print("   @type =", t, "| kľúče:", list(it)[:10])
+            if not sample_done and t not in ("WebSite", "Organization", "BreadcrumbList"):
+                print("   VZORKA:", json.dumps(it, ensure_ascii=False)[:700])
+                sample_done = True
+
+
+print("=" * 70, "\nREALITY.SK")
+r = get("https://www.reality.sk/byty/bratislava/predaj/")
+if r:
+    print("HTTP", r.status_code, "| dĺžka", len(r.text), "| URL", r.url)
+    soup = BeautifulSoup(r.text, "html.parser")
+    dump_ldjson(soup, "reality.sk")
+
+print("\n" + "=" * 70, "\nNEHNUTELNOSTI.SK — kde je cena")
+r = get("https://www.nehnutelnosti.sk/vysledky/byty/bratislava/predaj")
+if r:
+    soup = BeautifulSoup(r.text, "html.parser")
+    seen = set()
+    n = 0
     for a in soup.find_all("a", href=True):
-        if LISTING_HREF.search(a["href"]):
-            hrefs.append(a["href"])
+        m = re.search(r"/detail/([A-Za-z0-9_\-]+)/([a-z0-9\-]+)", a["href"])
+        if not m or m.group(1) in seen:
+            continue
+        seen.add(m.group(1))
+        # vystup okolo karty
+        p = a
+        for _ in range(5):
+            p = p.parent
+            if p is None:
+                break
+        txt = re.sub(r"\s+", " ", p.get_text(" ", strip=True))[:260] if p else ""
+        print(f"  [{m.group(2)[:40]}] -> {txt}")
+        n += 1
+        if n >= 4:
+            break
+
+print("\n" + "=" * 70, "\nTOPREALITY.SK — hľadám správne URL")
+for u in [
+    "https://www.topreality.sk/predaj/byty/bratislava/",
+    "https://www.topreality.sk/nehnutelnosti-predaj/byty/bratislava/",
+    "https://www.topreality.sk/vyhladavanie-1-1--0-0-0-0-0--0-0-1-0-0-0-0--0-0--0-0-1-0----.html",
+    "https://www.topreality.sk/byty/predaj/?lokalita=Bratislava",
+    "https://www.topreality.sk/",
+]:
+    r = get(u)
+    if not r:
+        continue
+    soup = BeautifulSoup(r.text, "html.parser")
+    hrefs = [a["href"] for a in soup.find_all("a", href=True)
+             if re.search(r"/(detail|inzerat|nehnutelnost|byt-)", a["href"], re.I)]
     uniq = list(dict.fromkeys(hrefs))
-    print(f"  odkazy na inzeráty (vzorka): {len(uniq)}")
-    for h in uniq[:6]:
-        print(f"     {h}")
-    # vzorka class názvov kontajnerov okolo prvého odkazu
-    if uniq:
-        first = soup.find("a", href=lambda x: x and uniq[0] in x)
-        if first:
-            chain = []
-            p = first
-            for _ in range(4):
-                p = p.parent
-                if p is None or p.name is None:
-                    break
-                chain.append(f"{p.name}.{'.'.join(p.get('class', []) or [])}")
-            print(f"     rodičovské tagy: {chain}")
+    print(f"  {r.status_code} | {len(r.text):>7} | odkazy:{len(uniq):>3} | {u}")
+    for h in uniq[:4]:
+        print("        ", h)
 
-
-if __name__ == "__main__":
-    for name, url in CANDIDATES:
-        probe(name, url)
-    print("\n=== KONIEC PRIESKUMU ===")
+print("\n=== KONIEC ===")
