@@ -105,7 +105,10 @@ def classify_condition(text):
 def passes_condition(cond):
     if not config.FILTROVAT_STAV:
         return True
-    # Chceme pôvodný stav alebo neznámy (nech nič neujde). Vyhodíme hotové/nové.
+    if getattr(config, "STAV_MODE", "rozumny") == "prisny":
+        # len byty, čo výslovne spomínajú pôvodný stav / na rekonštrukciu
+        return cond == "povodny"
+    # rozumný režim: pôvodný alebo neznámy. Vyhodíme jasné novostavby/rekonštrukcie.
     return cond in ("povodny", "neznamy")
 
 
@@ -373,8 +376,9 @@ def card_html(it, is_new):
         f'<img src="{html.escape(img)}" loading="lazy" alt="">'
         if img else '<div class="noimg">bez fotky</div>'
     )
+    data_price = it["price"] if it["price"] else ""
     return f"""
-    <a class="card{' is-new' if is_new else ''}" href="{html.escape(it['url'])}" target="_blank" rel="noopener">
+    <a class="card{' is-new' if is_new else ''}" data-price="{data_price}" href="{html.escape(it['url'])}" target="_blank" rel="noopener">
       <div class="thumb">{img_html}{badge_new}</div>
       <div class="body">
         <div class="price">{html.escape(str(price))}</div>
@@ -394,26 +398,48 @@ def build_html(listings, new_ids, stats):
     stats_html = " · ".join(
         f"{PORTAL_LABEL.get(k, k)}: {v}" for k, v in stats.items()
     )
+    smin = getattr(config, "SLIDER_MIN", 0)
+    smax = config.CENA_MAX
+    sdef = getattr(config, "SLIDER_DEFAULT_MAX", config.CENA_MAX)
     return f"""<!doctype html>
 <html lang="sk">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Realitný bot — byty Bratislava do {config.CENA_MAX:,} €</title>
+<title>Realitný bot — byty Bratislava</title>
 <style>
   * {{ box-sizing: border-box; }}
   body {{ font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin:0;
          background:#0f172a; color:#e2e8f0; }}
-  header {{ padding:20px; background:#1e293b; position:sticky; top:0; z-index:5;
+  header {{ padding:18px 20px; background:#1e293b; position:sticky; top:0; z-index:5;
            box-shadow:0 2px 10px rgba(0,0,0,.3); }}
-  h1 {{ margin:0 0 4px; font-size:20px; }}
+  h1 {{ margin:0 0 4px; font-size:19px; }}
   .meta {{ color:#94a3b8; font-size:13px; }}
+  /* cenový slider */
+  .filter {{ margin-top:14px; max-width:520px; }}
+  .filter .vals {{ display:flex; justify-content:space-between; font-weight:700;
+                  color:#fff; font-size:15px; margin-bottom:6px; }}
+  .slider {{ position:relative; height:34px; }}
+  .slider .base {{ position:absolute; top:14px; left:0; right:0; height:6px;
+                  background:#334155; border-radius:6px; }}
+  .slider .fill {{ position:absolute; top:14px; height:6px; background:#16a34a; border-radius:6px; }}
+  .slider input[type=range] {{ position:absolute; top:6px; left:0; width:100%; margin:0;
+       -webkit-appearance:none; background:none; pointer-events:none; height:22px; }}
+  .slider input[type=range]::-webkit-slider-thumb {{ -webkit-appearance:none; pointer-events:auto;
+       width:22px; height:22px; border-radius:50%; background:#16a34a; border:3px solid #0f172a;
+       cursor:pointer; box-shadow:0 1px 4px rgba(0,0,0,.5); }}
+  .slider input[type=range]::-moz-range-thumb {{ pointer-events:auto; width:18px; height:18px;
+       border-radius:50%; background:#16a34a; border:3px solid #0f172a; cursor:pointer; }}
+  .filter .row2 {{ display:flex; align-items:center; gap:10px; margin-top:8px;
+                  color:#94a3b8; font-size:13px; flex-wrap:wrap; }}
+  .filter .count {{ color:#fff; font-weight:700; }}
   .grid {{ display:grid; gap:14px; padding:18px;
           grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); }}
   .card {{ background:#1e293b; border-radius:14px; overflow:hidden; text-decoration:none;
           color:inherit; border:1px solid #334155; transition:transform .12s, border-color .12s; }}
   .card:hover {{ transform:translateY(-3px); border-color:#64748b; }}
   .card.is-new {{ border-color:#16a34a; box-shadow:0 0 0 1px #16a34a; }}
+  .card.hidden {{ display:none; }}
   .thumb {{ position:relative; aspect-ratio:4/3; background:#0f172a; }}
   .thumb img {{ width:100%; height:100%; object-fit:cover; }}
   .noimg {{ display:flex; align-items:center; justify-content:center; height:100%;
@@ -432,10 +458,58 @@ def build_html(listings, new_ids, stats):
 </head>
 <body>
 <header>
-  <h1>🏠 Realitný bot — byty v Bratislave do {config.CENA_MAX:,} €</h1>
-  <div class="meta">Aktualizované: {updated} · Nájdených: {len(listings)} · {stats_html}</div>
+  <h1>🏠 Realitný bot — byty v Bratislave</h1>
+  <div class="meta">Aktualizované: {updated} · Spolu: {len(listings)} · {stats_html}</div>
+
+  <div class="filter">
+    <div class="vals"><span id="lblMin">{smin:,} €</span><span id="lblMax">{sdef:,} €</span></div>
+    <div class="slider">
+      <div class="base"></div><div class="fill" id="fill"></div>
+      <input type="range" id="rMin" min="{smin}" max="{smax}" step="5000" value="{smin}">
+      <input type="range" id="rMax" min="{smin}" max="{smax}" step="5000" value="{sdef}">
+    </div>
+    <div class="row2">
+      <label><input type="checkbox" id="dohodou" checked> zahrnúť „cena dohodou"</label>
+      <span>·</span>
+      <span>zobrazené: <span class="count" id="count">{len(listings)}</span></span>
+    </div>
+  </div>
 </header>
-{f'<div class="grid">{cards}</div>' if listings else '<div class="empty">Zatiaľ žiadne vyhovujúce inzeráty. Bot kontroluje portály každú hodinu.</div>'}
+
+{f'<div class="grid" id="grid">{cards}</div>' if listings else '<div class="empty">Zatiaľ žiadne vyhovujúce inzeráty. Bot kontroluje portály každú hodinu.</div>'}
+
+<script>
+(function() {{
+  var rMin = document.getElementById('rMin'), rMax = document.getElementById('rMax');
+  if (!rMin) return;
+  var lblMin = document.getElementById('lblMin'), lblMax = document.getElementById('lblMax');
+  var fill = document.getElementById('fill'), countEl = document.getElementById('count');
+  var dohodou = document.getElementById('dohodou');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.card'));
+  var MIN = {smin}, MAX = {smax};
+  function fmt(n) {{ return n.toLocaleString('sk-SK').replace(/\\u00a0/g,' ') + ' €'; }}
+  function apply() {{
+    var lo = parseInt(rMin.value, 10), hi = parseInt(rMax.value, 10);
+    if (lo > hi) {{ var t = lo; lo = hi; hi = t; }}
+    lblMin.textContent = fmt(lo); lblMax.textContent = fmt(hi);
+    fill.style.left = ((lo - MIN) / (MAX - MIN) * 100) + '%';
+    fill.style.right = (100 - (hi - MIN) / (MAX - MIN) * 100) + '%';
+    var shown = 0;
+    cards.forEach(function(c) {{
+      var p = c.getAttribute('data-price');
+      var vis;
+      if (p === '' || p === null) {{ vis = dohodou.checked; }}
+      else {{ var v = parseInt(p, 10); vis = (v >= lo && v <= hi); }}
+      c.classList.toggle('hidden', !vis);
+      if (vis) shown++;
+    }});
+    countEl.textContent = shown;
+  }}
+  rMin.addEventListener('input', apply); rMax.addEventListener('input', apply);
+  dohodou.addEventListener('change', apply);
+  apply();
+}})();
+</script>
 </body>
 </html>"""
 
@@ -534,8 +608,11 @@ def main():
         f.write(build_html(all_listings, set(new_ids), stats))
     print(f"✅ Stránka zapísaná: {DOCS_HTML}")
 
-    # e‑mail (len ak sú nové)
-    send_email(new_listings)
+    # e‑mail (len nové a len do EMAIL_MAX, nech nechodia drahšie)
+    email_max = getattr(config, "EMAIL_MAX", config.CENA_MAX)
+    email_new = [it for it in new_listings
+                 if it["price"] is None or it["price"] <= email_max]
+    send_email(email_new)
     print("✔ Hotovo.")
 
 

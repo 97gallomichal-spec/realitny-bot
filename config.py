@@ -8,10 +8,18 @@ Toto je jediný súbor, ktorý bežne treba upravovať, keď chceš zmeniť krit
 LOKALITA = "Bratislava"
 OKRUH_KM = 25
 
-# Cenový strop v eurách (byty drahšie ako toto sa vyhodia)
-CENA_MAX = 200000
-# Spodná hranica (0 = bez spodnej hranice)
+# Cenový STROP zberu v eurách (drahšie sa vôbec nesťahuje).
+# Dávame trochu navrch (250k), aby mal cenový slider na stránke priestor hore.
+CENA_MAX = 250000
+# Spodná hranica zberu (0 = bez spodnej hranice)
 CENA_MIN = 0
+
+# Cenový slider na stránke — predvolené nastavenie posuvníkov.
+SLIDER_MIN = 0
+SLIDER_DEFAULT_MAX = 200000
+
+# E‑mail posiela len NOVÉ byty do tejto ceny (aby ti nechodili drahšie).
+EMAIL_MAX = 200000
 
 # Aké typy bytov hľadáme. Bot hľadá tieto kľúčové slová v nadpise + popise.
 # garsónka, 1-izbový, 2-izbový, dvojgarsónka
@@ -27,20 +35,39 @@ TYPY_REGEX = [
 ]
 
 # Stav bytu: chceme PÔVODNÝ STAV (na rekonštrukciu), NIE novostavby a NIE
-# kompletne zrekonštruované. Byty bez uvedeného stavu necháme (nech ti nič neujde),
-# ale viditeľne ich označíme.
+# kompletne zrekonštruované.
 # Ak nastavíš na False, stav sa nefiltruje vôbec (uvidíš všetko).
 FILTROVAT_STAV = True
 
-# Frázy, ktoré znamenajú "už hotové / nové" -> takéto byty vyhodíme
+# Režim filtrovania stavu:
+#   "rozumny" = vyhodí jasné novostavby/rekonštrukcie, zvyšok (neznámy stav) necháva
+#   "prisny"  = nechá LEN byty, čo výslovne spomínajú pôvodný stav / na rekonštrukciu
+#               (najčistejšie, ale uvidíš menej ponúk)
+STAV_MODE = "rozumny"
+
+# Frázy, ktoré znamenajú "už hotové / nové / developerské" -> takéto byty vyhodíme.
+# (text sa porovnáva bez diakritiky a malými písmenami)
 STAV_VYLUCIT = [
     r"novostavb",
-    r"kompletn[aá]\s+rekon",
-    r"kompletne\s+zrekon",
+    r"komplet\w*\s+rekon",
+    r"komplet\w*\s+zrekon",
     r"po\s+rekon",
-    r"zrekon[sš]truovan",
+    r"po\s+komplet",
+    r"(?<!ne)zrekon[sš]truovan",   # zrekonštruovaný (ale NIE „nezrekonštruovaný")
+    r"(?<!ne)prerob[ei]",          # prerobený (ale NIE „neprerobený" = pôvodný)
     r"novy\s+byt",
+    r"nove\s+byt",
     r"nov[yý]\s+projekt",
+    r"nov[yaeý]\s+styl",           # "nový štýlový"
+    r"nov[ae]\s+vystavb",
+    r"rezidencn",                  # rezidenčný projekt
+    r"rezidenci",
+    r"developer",
+    r"komunitn\w*\s+byvani",       # "komunitné bývanie"
+    r"kolaudac",
+    r"skolaudovan",
+    r"holobyt",                    # holobyt = nový, neobývaný
+    r"v\s+cene\s+standard",
 ]
 
 # Frázy, ktoré potvrdzujú "pôvodný stav" -> takéto byty zvýhodníme/označíme
