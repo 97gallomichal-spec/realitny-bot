@@ -139,12 +139,20 @@ def make_listing(portal, lid, title, url, price_text, location, image, desc):
     }
 
 
+def passes_location(location):
+    allowed = getattr(config, "LOKALITA_POVOLENA", None)
+    if not allowed:
+        return True
+    return any(a in norm(location) for a in allowed)
+
+
 def keep(listing):
     text = f"{listing['title']} {listing['desc']}"
     return (
         matches_type(text)
         and passes_price(listing["price"])
         and passes_condition(listing["condition"])
+        and passes_location(listing["location"])
     )
 
 
@@ -227,26 +235,34 @@ def scrape_nehnutelnosti():
         href = a["href"]
         if href.startswith("/"):
             href = base + href
-        # karta jedného inzerátu = najbližší rodič s MUI triedou "grid-md-4"
-        card = a.find_parent(
-            lambda t: t.name == "div" and t.get("class")
-            and any("grid-md-4" in c for c in t.get("class")))
-        if card is None:
-            card = a.parent
-        card_text = re.sub(r"\s+", " ", card.get_text(" ", strip=True)) if card else ""
+        # karta jedneho inzeratu = NAJBLIZSI rodic, ktory uz obsahuje cenu (eur znak).
+        # CSS triedy sa na strance menia, toto je spolahlivejsie.
+        card = a
+        card_text = ""
+        for _ in range(8):
+            card = card.parent
+            if card is None or card.name in ("body", "html"):
+                card = None
+                break
+            txt = card.get_text(" ", strip=True).replace("\xa0", " ")
+            if "\u20ac" in txt:
+                card_text = re.sub(r"\s+", " ", txt)
+                break
         title = title_from_slug(href)
-        mp = re.search(r"(\d[\d\s ]{3,})\s*€", card_text)
+        mp = re.search(r"(\d[\d\s]{3,})\s*\u20ac", card_text)
         price_text = mp.group(1) if mp else ""
         ml = re.search(r"(Bratislava[\w\-\s]{0,22})", card_text)
         location = ml.group(1).strip() if ml else "Bratislava"
         img = ""
         if card is not None:
-            ie = card.find("img")
-            if ie:
-                img = ie.get("src") or ie.get("data-src") or ""
-                srcset = ie.get("srcset") or ""
-                if (not img or img.startswith("data:")) and srcset:
-                    img = srcset.split(",")[0].strip().split(" ")[0]
+            for ie in card.find_all("img"):
+                src = ie.get("src") or ie.get("data-src") or ""
+                if not src:
+                    srcset = ie.get("srcset") or ""
+                    src = srcset.split(",")[0].strip().split(" ")[0] if srcset else ""
+                if src and "/_next/static/media/" not in src and not src.startswith("data:"):
+                    img = src
+                    break
         out.append(make_listing("nehnutelnosti", lid, title, href,
                                  price_text, location, img, card_text[:300]))
     return out

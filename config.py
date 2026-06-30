@@ -4,9 +4,14 @@ Nastavenia vyhľadávania pre realitného bota.
 Toto je jediný súbor, ktorý bežne treba upravovať, keď chceš zmeniť kritériá.
 """
 
-# Mesto / lokalita a okruh v km (Bazoš podporuje okruh)
+# Mesto / lokalita. OKRUH_KM = 0 znamená LEN Bratislava, žiadne okolité mestá
+# (Pezinok, Senec, Modra a pod. sa do výsledkov nedostanú).
 LOKALITA = "Bratislava"
-OKRUH_KM = 25
+OKRUH_KM = 0
+
+# Poistka navyše: lokalita inzerátu musí obsahovať jedno z týchto slov,
+# inak sa vyhodí (aj keby ho portál omylom vrátil mimo Bratislavy).
+LOKALITA_POVOLENA = ["bratislava"]
 
 # Cenový STROP zberu v eurách (drahšie sa vôbec nesťahuje).
 # Dávame trochu navrch (250k), aby mal cenový slider na stránke priestor hore.
