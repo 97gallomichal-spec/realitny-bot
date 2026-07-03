@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:JuGZu_YsZY_",
+    "portal": "nehnutelnosti",
+    "title": "Utulny a svetly byt s vlastnym parkovanim galvaniho dvory",
+    "url": "https://www.nehnutelnosti.sk/detail/JuGZu_YsZY_/utulny-a-svetly-byt-s-vlastnym-parkovanim-galvaniho-dvory",
+    "price": 230000,
+    "price_text": "230 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/TQoB_pxFS_fss?st=OuWAY8RQfAL91qhgN4U_GGxV8r-fB8LruM_26dpJGpk&ts=1783094499&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Útulný a svetlý byt s vlastným parkovaním - Galvaniho Dvory Bratislava-Ružinov, okres Bratislava II 2 izbový byt 45.5 m² 230 000 € 5 054,95 €/m² Útulný a svetlý byt s vlastným parkovaním - Galvaniho Dvory Bratislava-Ružinov, okres Bratislava II 2 izbový byt 45.5 m² Realitné kancelárie prosím",
+    "found_at": "2026-07-03T20:43:13.479513+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuUYt3EKM-n",
+    "portal": "nehnutelnosti",
+    "title": "Predaj zariadeneho 2i bytu na gundulicovej ulici v starom meste",
+    "url": "https://www.nehnutelnosti.sk/detail/JuUYt3EKM-n/predaj-zariadeneho-2i-bytu-na-gundulicovej-ulici-v-starom-meste",
+    "price": 215000,
+    "price_text": "215 000",
+    "location": "Bratislava-Staré Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/GD41EFzXi_fss?st=ZrcLUbmTwnwdmCLx5sFdKUpvkFTUApUw0htiAhqwl7U&ts=1783060988&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ - Zariadeného 2i bytu na Gunduličovej ulici v Starom Meste Gunduličova, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 33.66 m² 215 000 € 6 387,4 €/m² PREDAJ - Zariadeného 2i bytu na Gunduličovej ulici v Starom Meste Gunduličova, Bratislava-Staré Mesto, okres Bratislava I 2 i",
+    "found_at": "2026-07-03T20:43:13.479506+00:00"
+  },
+  {
+    "id": "bazos:193307721",
+    "portal": "bazos",
+    "title": "Investičná príležitosť – garsónka s loggiou",
+    "url": "https://reality.bazos.sk/inzerat/193307721/investicna-prilezitost-garsonka-s-loggiou.php",
+    "price": 105000,
+    "price_text": "105 000 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/721/193307721.jpg",
+    "condition": "neznamy",
+    "desc": "Broker Consulting a.s. ponúka na predaj útulnú garsónku s priestrannou loggiou v bytovom dome na Rybničnej ulici, v dynamicky sa rozvíjajúcej lokalite medzi Račou a Vajnorami.\nByt predstavuje výbornú voľbu ako štartovacie bývanie pre jednotlivca alebo pár, ale aj ako investíciu na dlhodobý prenájom.",
+    "found_at": "2026-07-03T20:43:13.479479+00:00"
+  },
+  {
+    "id": "bazos:192518608",
+    "portal": "bazos",
+    "title": "Zariadený 2-IZBOVÝ BYT S GARÁŽOU Bratislava Lamač",
+    "url": "https://reality.bazos.sk/inzerat/192518608/priestranny-2-izbovy-byt-s-garazou-bratislava-lamac.php",
+    "price": 248000,
+    "price_text": "248 000 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/608/192518608.jpg?t=1783095151",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj príjemný a svetlý 2-izbový byt v jednej z najobľúbenejších a najvyhľadávanejších mestských častí Bratislavy – Lamač. Byt sa nachádza vo výbornej lokalite obklopenej zeleňou s nádhernými výhľadmi na Malé Karpaty a zároveň s rýchlou dostupnosťou do centra mesta.Byt má veľmi praktick",
+    "found_at": "2026-07-03T20:43:13.479477+00:00"
+  },
+  {
     "id": "reality:20",
     "portal": "reality",
     "title": "OBHLIADKY CEZ VÍKEND - TOP MAKLÉR ponúka 2-izbový byt s BALKÓNOM v Bratislave – lokalita Na križovatkách.",
@@ -10,46 +62,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/5SqOv1dgy_fss?st=Fzfy6IjUNIGvq3zSgfLZHQF5DsSQgBgAMWB_ZSTqz9k&amp;ts=1781862830&amp;e=0",
     "condition": "neznamy",
     "desc": "OBHLIADKY CEZ VÍKEND - TOP MAKLÉR ponúka 2-izbový byt s BALKÓNOM v Bratislave – lokalita Na križovatkách.\n\n2 izby, balkón a cena 215 000 €.\nPresne ten typ bytu, ktorý dáva zmysel najmä ako investícia.\n\nBRATISLAVA, 2 IZBY, BALKÓN A DOBRÁ INVESTIČNÁ LOGIKA.\nByt sa nachádza na 5. poschodí, čo mu dáva p",
-    "found_at": "2026-07-03T16:07:41.754852+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju2NQKFMlUJ",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt s parkovanim v uzavretom areali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju2NQKFMlUJ/2-izbovy-byt-s-parkovanim-v-uzavretom-areali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Vrakuňa",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/aT5XyI0bU_fss?st=cdWMK4egZbl2nmCZlHGarYDi7T9hLRRfisFM40d3O28&ts=1777574833&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Svetlý 2-izbový byt s parkovaním v uzavretom areáli Železničná 31, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 54 m² 239 000 € 4 425,93 €/m² Svetlý 2-izbový byt s parkovaním v uzavretom areáli Železničná 31, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 54 m² Ponúkame na pred",
-    "found_at": "2026-07-03T16:07:41.754851+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuLc7Df9TW2",
-    "portal": "nehnutelnosti",
-    "title": "15 izbovy byt s lodziou 37 m2 kompletna obnova bytoveho domu",
-    "url": "https://www.nehnutelnosti.sk/detail/JuLc7Df9TW2/15-izbovy-byt-s-lodziou-37-m2-kompletna-obnova-bytoveho-domu",
-    "price": 148990,
-    "price_text": "148 990",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XzG77WBZd_fss?st=xMKtPgatVgRL5swsa231lLmAKA6H5MNqR_AhWNyI1Qw&ts=1782385808&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 1,5-izbový byt s lodžiou | 37 m² | Kompletná obnova bytového domu Vlčie hrdlo 1887, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 37.1 m² 148 990 € 4 015,9 €/m² 1,5-izbový byt s lodžiou | 37 m² | Kompletná obnova bytového domu Vlčie hrdlo 1887, Bratislava-Ružinov, okres Bratislava II",
-    "found_at": "2026-07-03T16:07:41.754849+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuH_a0KQegv",
-    "portal": "nehnutelnosti",
-    "title": "Obhliadky cez vikend top makler ponuka 2 izbovy byt s balkonom v bratislave lokalita na krizovatkach",
-    "url": "https://www.nehnutelnosti.sk/detail/JuH_a0KQegv/obhliadky-cez-vikend-top-makler-ponuka-2-izbovy-byt-s-balkonom-v-bratislave-lokalita-na-krizovatkach",
-    "price": 215000,
-    "price_text": "215 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/5SqOv1dgy_fss?st=8n7YzHxFLBsmkRCf31HhX9JZff-7jxgd1QKJT-en4vQ&ts=1781862830&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM OBHLIADKY CEZ VÍKEND - TOP MAKLÉR ponúka 2-izbový byt s BALKÓNOM v Bratislave – lokalita Na križovatkách. Na Križovatkách, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 47.15 m² 215 000 € 4 559,92 €/m² OBHLIADKY CEZ VÍKEND - TOP MAKLÉR ponúka 2-izbový byt s BALKÓNOM v Bratislave – lok",
-    "found_at": "2026-07-03T16:07:41.754847+00:00"
+    "found_at": "2026-07-03T16:07:41.754870+00:00"
   },
   {
     "id": "bazos:193299764",
@@ -62,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/764/193299764.jpg?t=1783090844",
     "condition": "neznamy",
     "desc": "Realitná kancelária REMAX vo výhradnom zastúpení klienta ponúka na predaj perfektnú príležitosť na kúpu na Cabanovej ulici, v obľúbenej časti bratislavskej Dúbravky. Čaká tu na Vás 2-izbový byt, ktorý dokazuje, že príjemné bývanie nie je len o metroch štvorcových, ale predovšetkým o pocite domova.\n\n",
-    "found_at": "2026-07-03T16:07:41.754825+00:00"
+    "found_at": "2026-07-03T16:07:41.754863+00:00"
   },
   {
     "id": "bazos:193303420",
@@ -75,7 +88,7 @@
     "image": "https://www.bazos.sk/img/1t/420/193303420.jpg",
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Veternicova\n\rMestská časť: Dlhé diely\n\rObec: Bratislava-Karlova Ves\n\r\n\r🏡 Hľadáte vlastné bývanie v pokojnej lokalite alebo nehnuteľnosť s investičným potenciálom?\n\nPonúkame na predaj svetlý 1-izbový byt na Veternicovej ulici v obľúbenej lokalite Bratisla ...",
-    "found_at": "2026-07-03T16:07:41.754822+00:00"
+    "found_at": "2026-07-03T16:07:41.754861+00:00"
   },
   {
     "id": "bazos:193291052",
@@ -195,19 +208,6 @@
     "found_at": "2026-07-03T09:46:04.310614+00:00"
   },
   {
-    "id": "bazos:193277537",
-    "portal": "bazos",
-    "title": "BOSEN | 1 izbový dizajnový apartmán na predaj",
-    "url": "https://reality.bazos.sk/inzerat/193277537/bosen-1-izbovy-dizajnovy-apartman-na-predaj.php",
-    "price": 209000,
-    "price_text": "209 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/537/193277537.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rMestská časť: Nivy\n\rObec: Bratislava-Ružinov\n\r\n\rBosen Group Vám exkluzívne ponúka na predaj zariadený 36m2 apartmán v Projekte PRÍSTAVNÁ  v mestskej časti Ružinov.\n\nLOKALITA\n\nPrístavná ulica v Ružinove je atraktívna lokalita s rastúcim potenciálom a výbornou dopravnou dostupn ...",
-    "found_at": "2026-07-02T21:54:24.084582+00:00"
-  },
-  {
     "id": "bazos:193278687",
     "portal": "bazos",
     "title": "PREDAJ - 1-izbový byt BA I.- Staré Mesto",
@@ -219,6 +219,32 @@
     "condition": "povodny",
     "desc": "Hľadáme 1-izbový byt v centre BA I.- ideál Obchodná ulica v úplne pôvodnom stave, v pôvodnom stave alebo čiastočná rekonštrukcia. Platba v hotovosti. Prijímam ponuky.",
     "found_at": "2026-07-02T21:54:24.084580+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuxQAp2RJDW",
+    "portal": "nehnutelnosti",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   },
   {
     "id": "bazos:192456709",
@@ -234,6 +260,19 @@
     "found_at": "2026-07-01T18:26:10.648629+00:00"
   },
   {
+    "id": "nehnutelnosti:JuK3mHZQ6ab",
+    "portal": "nehnutelnosti",
+    "title": "Utulna garsonka ruzinov na predaj",
+    "url": "https://www.nehnutelnosti.sk/detail/JuK3mHZQ6ab/utulna-garsonka-ruzinov-na-predaj",
+    "price": 95900,
+    "price_text": "95 900",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/-QMpu35lK_fss?st=QEjbsVOZgkILIldqkN3rnDpdbOrBikX9ncOn4zthoLk&ts=1779472337&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Útulná garsónka, Ružinov – na predaj Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II Garsónka 16.78 m² 95 900 € 5 715,14 €/m² Útulná garsónka, Ružinov – na predaj Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II Garsónka 16.78 m² Hľadáte bezstarostné bývanie alebo hotovú investíciu",
+    "found_at": "2026-07-01T10:50:46.584752+00:00"
+  },
+  {
     "id": "bazos:193239007",
     "portal": "bazos",
     "title": "Na predaj veľký 2 izbový byt s halou, Bratislava, Račianska",
@@ -245,6 +284,32 @@
     "condition": "neznamy",
     "desc": "VÝHRADNÉ ZASTÚPENIE. Ponúkame na predaj veľký 2 izbový byt s halou, v hlavnom meste Bratislava o výmere cca 60,36 m², nachádzajúci sa na 7. poschodí z 8 poschodového bytového domu Račianska ulica blízko Račianskeho mýta, Bratislava.\r\n\r\nByt v pôvodnom stave má vysoký strop v miestnostiach, predstavuj",
     "found_at": "2026-07-01T10:50:46.584734+00:00"
+  },
+  {
+    "id": "reality:13821",
+    "portal": "reality",
+    "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
+    "url": "https://www.reality.sk/byty/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/JuTsWhh1aHN/",
+    "price": 205000,
+    "price_text": "205000",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
+    "condition": "neznamy",
+    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
+    "found_at": "2026-06-30T21:24:22.153055+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuTsWhh1aHN",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 1 izbovy byt 38 m2 bakosova ulica bratislava lamac",
+    "url": "https://www.nehnutelnosti.sk/detail/JuTsWhh1aHN/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 38 m² 205 000 € 5 394,74 €/m² Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
+    "found_at": "2026-06-30T21:24:22.153040+00:00"
   },
   {
     "id": "bazos:192120675",
