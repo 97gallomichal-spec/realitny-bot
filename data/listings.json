@@ -1,16 +1,29 @@
 [
   {
-    "id": "nehnutelnosti:JuElSxF5XTJ",
+    "id": "nehnutelnosti:JunIKJxl3IB",
     "portal": "nehnutelnosti",
-    "title": "2 izbovy byt s balkonom a so satnikom v projekte pekna cesta",
-    "url": "https://www.nehnutelnosti.sk/detail/JuElSxF5XTJ/2-izbovy-byt-s-balkonom-a-so-satnikom-v-projekte-pekna-cesta",
-    "price": 241000,
-    "price_text": "241 000",
-    "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/KEy0NIF7T_fss?st=wNbQnVujmUKjpadhA6Awufi-5GCca-Ng3qfSyWHYCs8&ts=1777982963&e=0",
+    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
+    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
+    "price": 161000,
+    "price_text": "161 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Vyberte si medzi prvými! Spustili sme predaj bytovky \"B2\" a \"B3\" Horská, Bratislava-Rača, okres Bratislava III 2 izbový byt 52.92 m² 241 000 € 4 554,04 €/m² Vyberte si medzi prvými! Spustili sme predaj bytovky \"B2\" a \"B3\" Horská, Bratislava-Rača, okres Bratislava III 2 izbový byt 52.92 m² Po",
-    "found_at": "2026-07-04T12:13:37.627696+00:00"
+    "desc": "PREMIUM Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke n",
+    "found_at": "2026-07-04T16:40:23.741733+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuzMQFd6LUK",
+    "portal": "nehnutelnosti",
+    "title": "Krasny zariadeny 50m2 2 izbovy byt v ba 5 top cena",
+    "url": "https://www.nehnutelnosti.sk/detail/JuzMQFd6LUK/krasny-zariadeny-50m2-2-izbovy-byt-v-ba-5-top-cena",
+    "price": 229000,
+    "price_text": "229 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/zw4kaFvdR_fss?st=q4FneUHYj7hWvRsqiL-nlz2SVNfz_XDikEucPXzgIVk&ts=1783179837&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Krásny zariadený - 50m2 2-izbový byt v BA 5 - TOP CENA Žltá, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 50 m² 229 000 € 4 580 €/m² Krásny zariadený - 50m2 2-izbový byt v BA 5 - TOP CENA Žltá, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 50 m² Ponúkame na predaj moderný 2-",
+    "found_at": "2026-07-04T16:40:23.741731+00:00"
   },
   {
     "id": "bazos:193309797",
@@ -130,19 +143,6 @@
     "found_at": "2026-07-03T16:07:41.754861+00:00"
   },
   {
-    "id": "bazos:193294714",
-    "portal": "bazos",
-    "title": "REZERVOVANÉ Veľký 1-izbový byt 49 m² s lodžiou, parko",
-    "url": "https://reality.bazos.sk/inzerat/193294714/rezervovane-velky-1-izbovy-byt-49-m-s-lodziou-parko.php",
-    "price": 215000,
-    "price_text": "215 000 €",
-    "location": "Bratislava 821 04",
-    "image": "https://www.bazos.sk/img/1t/714/193294714.jpg",
-    "condition": "neznamy",
-    "desc": "REZERVOVANÉ! Predstavte si byt, ktorý vám dá viac priestoru, než by ste od 1-izbového bytu čakali. Miesto, kde si viete vytvoriť nielen bývanie, ale aj funkčný priestor na život – oddeliť si dennú a nočnú časť, pracovať z domu alebo ho jednoducho využiť ako investíciu, ktorá dáva zmysel.\r\n\r\nPonúkame",
-    "found_at": "2026-07-03T09:46:04.310614+00:00"
-  },
-  {
     "id": "bazos:192456709",
     "portal": "bazos",
     "title": "2-IZBOVÝ BYT,ČIASTOČNÁ REKONŠTRUKCIA,RUŽINOV,57m2",
@@ -167,32 +167,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt v mestskej časti Bratislava – Ružinov, lokalita Vlčie hrdlo.\nVýmera: 29 m²\nPoschodie: prízemie\nSamostatný vstup\nBezbariérový prístup\nStav: kompletne zariadený\nCena: 125.000,- EUR\nDISPOZÍCIA BYTU\nByt pozostáva z:\npredsiene spojenej s kuchyňou,\nkúpeľne s WC,\njednej prie",
     "found_at": "2026-07-01T10:50:46.584756+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuK3mHZQ6ab",
-    "portal": "nehnutelnosti",
-    "title": "Utulna garsonka ruzinov na predaj",
-    "url": "https://www.nehnutelnosti.sk/detail/JuK3mHZQ6ab/utulna-garsonka-ruzinov-na-predaj",
-    "price": 95900,
-    "price_text": "95 900",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/-QMpu35lK_fss?st=QEjbsVOZgkILIldqkN3rnDpdbOrBikX9ncOn4zthoLk&ts=1779472337&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Útulná garsónka, Ružinov – na predaj Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II Garsónka 16.78 m² 95 900 € 5 715,14 €/m² Útulná garsónka, Ružinov – na predaj Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II Garsónka 16.78 m² Hľadáte bezstarostné bývanie alebo hotovú investíciu",
-    "found_at": "2026-07-01T10:50:46.584752+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju1AbFbeqZa",
-    "portal": "nehnutelnosti",
-    "title": "Na predaj 1 izbovy byt v mestskej casti bratislava ruzinov",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1AbFbeqZa/na-predaj-1-izbovy-byt-v-mestskej-casti-bratislava-ruzinov",
-    "price": 120000,
-    "price_text": "120 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/TEgla-ys3_fss?st=ZYI6n1PRK2-HIxBcWtUcxnnfIXePXIPEzBSjcVfc99k&ts=1780049483&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Na predaj 1-izbový byt v mestskej časti Bratislava – Ružinov Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 29 m² 120 000 € 4 137,93 €/m² Na predaj 1-izbový byt v mestskej časti Bratislava – Ružinov Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 29 m² Po",
-    "found_at": "2026-07-01T10:50:46.584747+00:00"
   },
   {
     "id": "bazos:193239007",
