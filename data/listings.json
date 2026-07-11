@@ -1,5 +1,70 @@
 [
   {
+    "id": "bazos:193545955",
+    "portal": "bazos",
+    "title": "1- izbový byt na  Nobelovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193545955/1-izbovy-byt-na-nobelovej-ulici.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 831 02",
+    "image": "https://www.bazos.sk/img/1t/955/193545955.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj svetlý a prakticky riešený 1-izbový byt vo vyhľadávanej lokalite Bratislava III – Nové Mesto, na Nobelovej ulici.\r\nByt sa nachádza na 4. poschodí bytového domu a má celkovú výmeru 39,48 m². Dispozične pozostáva z priestrannej obytnej izby, samostatnej kuchyne, kúpeľne, samostatnéh",
+    "found_at": "2026-07-11T15:06:51.836064+00:00"
+  },
+  {
+    "id": "bazos:193545957",
+    "portal": "bazos",
+    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
+    "url": "https://reality.bazos.sk/inzerat/193545957/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/957/193545957.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
+    "found_at": "2026-07-11T15:06:51.836062+00:00"
+  },
+  {
+    "id": "bazos:193545961",
+    "portal": "bazos",
+    "title": "1 izbový byt na Nivách, Kvetná ulica",
+    "url": "https://reality.bazos.sk/inzerat/193545961/1-izbovy-byt-na-nivach-kvetna-ulica.php",
+    "price": 172500,
+    "price_text": "172 500 €",
+    "location": "Bratislava 821 08",
+    "image": "https://www.bazos.sk/img/1t/961/193545961.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
+    "found_at": "2026-07-11T15:06:51.836060+00:00"
+  },
+  {
+    "id": "bazos:193545963",
+    "portal": "bazos",
+    "title": "2- izbový byt na Rovníkovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193545963/2-izbovy-byt-na-rovnikovej-ulici.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 821 02",
+    "image": "https://www.bazos.sk/img/1t/963/193545963.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
+    "found_at": "2026-07-11T15:06:51.836058+00:00"
+  },
+  {
+    "id": "bazos:193545965",
+    "portal": "bazos",
+    "title": "2-izbový byt, ulica Bodrocká, Podunajské Biskupice",
+    "url": "https://reality.bazos.sk/inzerat/193545965/2-izbovy-byt-ulica-bodrocka-podunajske-biskupice.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/965/193545965.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt, nachádzajúci sa v mestskej časti Bratislava – Podunajské Biskupice, časť Dolné hony. Byt má rozlohu 49,40 m2 a nachádza sa na 3. zo 4. poschodí bez výťahu. Dispozícia bytu pozostáva zo:\r\n- vstupnej chodby\r\n- kuchyne\r\n- samostatnej spálne\r\n- priestrannej  obývačky\r\n- ",
+    "found_at": "2026-07-11T15:06:51.836056+00:00"
+  },
+  {
     "id": "nehnutelnosti:JurvZbDeiDQ",
     "portal": "nehnutelnosti",
     "title": "Hanacka 2i byt po novej rekonstrukcii nedaleko avionu",
@@ -10,46 +75,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/joWGzKa3Z_fss?st=aIVXU-1QFG3NE-960IJVEJfGfqnqcUHL3OnYzEZBpcY&ts=1783338770&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM HANÁCKA - 2i BYT PO NOVEJ REKONŠTRUKCII NEĎALEKO AVIONU Hanácka 6, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 52.79 m² 245 900 € 4 658,08 €/m² HANÁCKA - 2i BYT PO NOVEJ REKONŠTRUKCII NEĎALEKO AVIONU Hanácka 6, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 52.79 m² Hľadáte BY",
-    "found_at": "2026-07-11T13:46:42.218441+00:00"
-  },
-  {
-    "id": "bazos:193545170",
-    "portal": "bazos",
-    "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193545170/2-izbovy-byt-na-rovnikovej-ulici.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/170/193545170.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-07-11T13:46:42.218421+00:00"
-  },
-  {
-    "id": "bazos:193545194",
-    "portal": "bazos",
-    "title": "1 izbový byt na Nivách, Kvetná ulica",
-    "url": "https://reality.bazos.sk/inzerat/193545194/1-izbovy-byt-na-nivach-kvetna-ulica.php",
-    "price": 172500,
-    "price_text": "172 500 €",
-    "location": "Bratislava 820 01",
-    "image": "https://www.bazos.sk/img/1t/194/193545194.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
-    "found_at": "2026-07-11T13:46:42.218418+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuKir5hI00k",
-    "portal": "nehnutelnosti",
-    "title": "Na predaj kompletne zariadeny investicny 1 izbovy byt leskova ba stare mesto",
-    "url": "https://www.nehnutelnosti.sk/detail/JuKir5hI00k/na-predaj-kompletne-zariadeny-investicny-1-izbovy-byt-leskova-ba-stare-mesto",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/3p8cbQHAa_fss?st=jWmp8vIxj2T2H4Q2S-oD40ddRNCKGQx0tD5FM7GxMsc&ts=1781178990&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Na predaj kompletne zariadený investičný 1 - izbový byt, Leškova , BA - STARÉ MESTO Leškova, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 34 m² 159 900 € 4 702,94 €/m² Na predaj kompletne zariadený investičný 1 - izbový byt, Leškova , BA - STARÉ MESTO Leškova, Bratislava-Staré Mes",
-    "found_at": "2026-07-11T12:00:11.470255+00:00"
+    "found_at": "2026-07-11T13:46:42.218457+00:00"
   },
   {
     "id": "bazos:193536136",
@@ -104,17 +130,17 @@
     "found_at": "2026-07-11T08:55:32.452089+00:00"
   },
   {
-    "id": "nehnutelnosti:JuvvgIJ4Ctq",
+    "id": "nehnutelnosti:Jue_ytGKs0W",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 2 izbovy byt v povodnom stave so samostatnou kuchynou v pokojnej lokalite",
-    "url": "https://www.nehnutelnosti.sk/detail/JuvvgIJ4Ctq/herrys-na-predaj-2-izbovy-byt-v-povodnom-stave-so-samostatnou-kuchynou-v-pokojnej-lokalite",
-    "price": 208000,
-    "price_text": "208 000",
+    "title": "Atraktivny a vzdusny 2 izbovy byt v tehlovom dome s balkonom aj loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/Jue_ytGKs0W/atraktivny-a-vzdusny-2-izbovy-byt-v-tehlovom-dome-s-balkonom-aj-loggiou",
+    "price": 245900,
+    "price_text": "245 900",
     "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Or3Kp3S-u_fss?st=Zln0V4CKSvMXIgkrgk4OXNTu9MXCn2MGlyri4XADrlQ&ts=1783351856&e=0",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/C7eFu5PO__fss?st=3k3l43-qSQxc0oFNcW3whD0-_Xm3MyPQuhRPN3Cu0r0&ts=1783613583&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova, Bratislava-Rača, okres Bratislava III 2 izbový byt 56.34 m² 208 000 € 3 691,87 €/m² HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova",
-    "found_at": "2026-07-10T14:49:22.382923+00:00"
+    "desc": "PREMIUM Atraktívny a vzdušný 2-izbový byt v tehlovom dome s balkónom aj loggiou Kadnárová 41, Bratislava-Rača, okres Bratislava III 2 izbový byt 65.18 m² 245 900 € 3 772,63 €/m² Atraktívny a vzdušný 2-izbový byt v tehlovom dome s balkónom aj loggiou Kadnárová 41, Bratislava-Rača, okres Bratislava II",
+    "found_at": "2026-07-10T14:49:22.382919+00:00"
   },
   {
     "id": "bazos:193516802",
@@ -128,45 +154,6 @@
     "condition": "neznamy",
     "desc": "GRAFT ponúka na  predaj svetlú garsónku s veľkou loggiou ul. M.Schneidera Trnavského,  Dúbravka / BA IV. \r\n\r\nPonúkame na predaj svetlú garsónku vo vyhľadávanej lokalite Bratislavy – Dúbravka.\r\n\r\nRozloha bytu : 22 m² + loggia 8,5 m²\r\n\r\nK bytu prislúcha pivnica s výmerou 2 m².\r\n\r\nPoschodie : 4 / 12  \r",
     "found_at": "2026-07-10T14:49:22.382917+00:00"
-  },
-  {
-    "id": "bazos:193514774",
-    "portal": "bazos",
-    "title": "BOSEN | Skvelý 1 izb byt v novom projekte AGÁTY, Dúbravka, 4",
-    "url": "https://reality.bazos.sk/inzerat/193514774/bosen-skvely-1-izb-byt-v-novom-projekte-agaty-dubravka-4.php",
-    "price": 204900,
-    "price_text": "204 900 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/774/193514774.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Agátová\n\rObec: Bratislava-Dúbravka\n\r\n\rBosen Group ponúka na predaj praktický 1 izbový apartmán v úplne novom projekte AGÁTY v Dúbravke na ulici Agátova. Náchádza sa na 3. podlaží zo 4. s výťahom. Celková výmera je 42,06 m2, z čoho je loggia 6,33 m2. \n\nDISPOZÍCIA A ...",
-    "found_at": "2026-07-10T12:07:17.999751+00:00"
-  },
-  {
-    "id": "bazos:193514884",
-    "portal": "bazos",
-    "title": "TUreality | Ponúka na predaj svetlý 2-izbový byt na...",
-    "url": "https://reality.bazos.sk/inzerat/193514884/tureality-ponuka-na-predaj-svetly-2-izbovy-byt-na.php",
-    "price": 189999,
-    "price_text": "189 999 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/884/193514884.jpg",
-    "condition": "neznamy",
-    "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 51,8 m2, ktorý sa nachádza na Rajeckej ulici v mestskej časti Bratislava – Vrakuňa.\r\n\r\nByt je situovaný na 6. poschodí v zateplenom bytovom dome s výťahom. K bytu prislúcha kobka s výmerou 1,5 m2, ktorá poskytuje praktický úložný priestor.\r\n\r\nNehnute",
-    "found_at": "2026-07-10T12:07:17.999750+00:00"
-  },
-  {
-    "id": "bazos:193514966",
-    "portal": "bazos",
-    "title": "BOSEN | Skvelý 1 izb byt v novom projekte AGÁTY, Dúbravka, 4",
-    "url": "https://reality.bazos.sk/inzerat/193514966/bosen-skvely-1-izb-byt-v-novom-projekte-agaty-dubravka-4.php",
-    "price": 204900,
-    "price_text": "204 900 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/966/193514966.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Agátová\n\rObec: Bratislava-Dúbravka\n\r\n\rBosen Group ponúka na predaj praktický 1 izbový apartmán v úplne novom projekte AGÁTY v Dúbravke na ulici Agátova. Náchádza sa na 3. podlaží zo 4. s výťahom. Celková výmera je 42,06 m2, z čoho je loggia 6,33 m2. \n\nDISPOZÍCIA A ...",
-    "found_at": "2026-07-10T12:07:17.999748+00:00"
   },
   {
     "id": "bazos:193506541",
@@ -232,6 +219,32 @@
     "condition": "neznamy",
     "desc": "Ponúkam na predaj 1-izbový byt vo vyhľadávanej lokalite Slnečnice zóna Mesto, na ulici Zuzany Chalupovej.\r\n\r\nTento štýlový a svetlý byt je ideálnou voľbou ako štartovacie bývanie pre mladého človeka, pár alebo ako vynikajúca investičná príležitosť na okamžitý prenájom bez nutnosti ďalších investícií",
     "found_at": "2026-07-06T13:03:46.376903+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju4aMD5ncor",
+    "portal": "nehnutelnosti",
+    "title": "Predaj slnecna garsonka s lodziou v oblubenej casti petrzalky rovniankova ulica",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju4aMD5ncor/predaj-slnecna-garsonka-s-lodziou-v-oblubenej-casti-petrzalky-rovniankova-ulica",
+    "price": 164900,
+    "price_text": "164 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/YQ2hhvesW_fss?st=6Rd0YryckQS4Bvx7xVH9bTMwYs_wA_KnAQokD7hKzJg&ts=1782809592&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ- slnečná garsónka s lodžiou v obľúbenej časti Petržalky- Rovniankova ulica Rovniankova 4, Bratislava-Petržalka, okres Bratislava V Garsónka 28.63 m² 164 900 € 5 759,69 €/m² PREDAJ- slnečná garsónka s lodžiou v obľúbenej časti Petržalky- Rovniankova ulica Rovniankova 4, Bratislava-Petr",
+    "found_at": "2026-07-05T14:55:10.106626+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JunIKJxl3IB",
+    "portal": "nehnutelnosti",
+    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
+    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
+    "price": 161000,
+    "price_text": "161 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke n",
+    "found_at": "2026-07-04T16:40:23.741749+00:00"
   },
   {
     "id": "bazos:193040935",
