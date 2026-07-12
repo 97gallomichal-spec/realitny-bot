@@ -130,19 +130,6 @@
     "found_at": "2026-07-11T08:55:32.452089+00:00"
   },
   {
-    "id": "nehnutelnosti:JuvvgIJ4Ctq",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 2 izbovy byt v povodnom stave so samostatnou kuchynou v pokojnej lokalite",
-    "url": "https://www.nehnutelnosti.sk/detail/JuvvgIJ4Ctq/herrys-na-predaj-2-izbovy-byt-v-povodnom-stave-so-samostatnou-kuchynou-v-pokojnej-lokalite",
-    "price": 208000,
-    "price_text": "208 000",
-    "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Or3Kp3S-u_fss?st=Zln0V4CKSvMXIgkrgk4OXNTu9MXCn2MGlyri4XADrlQ&ts=1783351856&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova, Bratislava-Rača, okres Bratislava III 2 izbový byt 56.34 m² 208 000 € 3 691,87 €/m² HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova",
-    "found_at": "2026-07-10T14:49:22.382923+00:00"
-  },
-  {
     "id": "bazos:193506541",
     "portal": "bazos",
     "title": "Apartmán pri mori – Slnečné pobrežie, Bulharsko",
@@ -206,6 +193,32 @@
     "condition": "neznamy",
     "desc": "Ponúkam na predaj 1-izbový byt vo vyhľadávanej lokalite Slnečnice zóna Mesto, na ulici Zuzany Chalupovej.\r\n\r\nTento štýlový a svetlý byt je ideálnou voľbou ako štartovacie bývanie pre mladého človeka, pár alebo ako vynikajúca investičná príležitosť na okamžitý prenájom bez nutnosti ďalších investícií",
     "found_at": "2026-07-06T13:03:46.376903+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuxQAp2RJDW",
+    "portal": "nehnutelnosti",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   },
   {
     "id": "bazos:193040935",
