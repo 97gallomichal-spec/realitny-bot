@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193622505",
+    "portal": "bazos",
+    "title": "Byt na predaj - ul. Antolská, Bratislava V",
+    "url": "https://reality.bazos.sk/inzerat/193622505/byt-na-predaj-ul-antolska-bratislava-v.php",
+    "price": 190000,
+    "price_text": "190 000 €",
+    "location": "Bratislava 851 07",
+    "image": "https://www.bazos.sk/img/1t/505/193622505.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame Vám na predaj zariadenú garsónku s rozlohou 31 m2 nachádzajúcu sa v zateplenom tehlovom bytovom dome na 4. poschodí na Antolskej ulici v mestskej časti Petržalka. \n\nByt je bezbariérový, udržiavaný a plne zariadený. \n\nPozostáva z obytnej miestnosti s posteľou a kuchynkou, chodbou s úložným p",
+    "found_at": "2026-07-14T03:23:10.420324+00:00"
+  },
+  {
     "id": "nehnutelnosti:JugVqwoplmz",
     "portal": "nehnutelnosti",
     "title": "Kompletne zariadeny 1i byt s loggiou",
