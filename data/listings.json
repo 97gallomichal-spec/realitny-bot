@@ -1,16 +1,29 @@
 [
   {
-    "id": "nehnutelnosti:JuOHmN7rH57",
+    "id": "nehnutelnosti:JuffZzFbdsJ",
     "portal": "nehnutelnosti",
-    "title": "4 izbovy vynimocny dizajnovo zariadeny byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JuOHmN7rH57/4-izbovy-vynimocny-dizajnovo-zariadeny-byt-horsky-park",
-    "price": 221450,
-    "price_text": "221 450",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7e62zN0wS_fss?st=-DKTisAn132yR3Ker38cd8XSiZTdvHZouU_Zxx0IRXc&ts=1782144482&e=0",
+    "title": "Vyhlad a top adresa zariadeny 2i byt na zadunajskej ceste",
+    "url": "https://www.nehnutelnosti.sk/detail/JuffZzFbdsJ/vyhlad-a-top-adresa-zariadeny-2i-byt-na-zadunajskej-ceste",
+    "price": 245000,
+    "price_text": "245 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/h28R1yDHH_fss?st=JaCKxW50Z432XMArrUMbLDOCVgTDfrFER5x07vMWC24&ts=1783939657&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
-    "found_at": "2026-07-14T11:39:56.561055+00:00"
+    "desc": "PREMIUM ✨ VÝHĽAD A TOP ADRESA: Zariadený 2i byt na Zadunajskej ceste 🏙️ Zadunajská cesta, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 61 m² 245 000 € 4 016,39 €/m² ✨ VÝHĽAD A TOP ADRESA: Zariadený 2i byt na Zadunajskej ceste 🏙️ Zadunajská cesta, Bratislava-Petržalka, okres Bratislava V 2 i",
+    "found_at": "2026-07-14T14:06:25.016046+00:00"
+  },
+  {
+    "id": "bazos:193638437",
+    "portal": "bazos",
+    "title": "PRENÁJOM: Slnečný 1-izbový byt s loggiou, Slnečnice-Viladomy",
+    "url": "https://reality.bazos.sk/inzerat/193638437/prenajom-slnecny-1-izbovy-byt-s-loggiou-slnecnice-viladomy.php",
+    "price": null,
+    "price_text": "500 €",
+    "location": "Bratislava 851 07",
+    "image": "https://www.bazos.sk/img/1t/437/193638437.jpg?t=1784029237",
+    "condition": "neznamy",
+    "desc": "So súhlasom vlastníka ponúkam do prenájmu pekný, slnečný 1-izbový byt na Žltej ulici v Slnečniciach-Viladomoch. Byt sa nachádza na 3. poschodí zo 4 v dome s výťahom, má 35 m² (z toho 6 m² pripadá na priestrannú loggiu orientovanú na východ).\r\n\r\nDispozícia je jednoduchá a praktická: vstupná chodba so",
+    "found_at": "2026-07-14T14:06:25.016030+00:00"
   },
   {
     "id": "nehnutelnosti:JuCzPNunDyS",
@@ -22,8 +35,8 @@
     "location": "Bratislava-Petržalka",
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/eW9Fy8_N-_fss?st=ojIxgSXmdQwteVs65FqlSLN33AXSfWYftzy05JI91CM&ts=1784026463&e=0",
     "condition": "neznamy",
-    "desc": "Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petržalka, okres Bratislava V 2 izbový byt 56.59 m² 249 990 € 4 417,56 €/m² Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petržalka, o",
-    "found_at": "2026-07-14T11:39:56.561050+00:00"
+    "desc": "PREMIUM Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petržalka, okres Bratislava V 2 izbový byt 56.59 m² 249 990 € 4 417,56 €/m² Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petr",
+    "found_at": "2026-07-14T11:39:56.561073+00:00"
   },
   {
     "id": "bazos:193628171",
@@ -78,58 +91,6 @@
     "found_at": "2026-07-14T09:12:40.746232+00:00"
   },
   {
-    "id": "bazos:193624807",
-    "portal": "bazos",
-    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
-    "url": "https://reality.bazos.sk/inzerat/193624807/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
-    "price": 175980,
-    "price_text": "175 980 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/807/193624807.jpg?t=1784018712",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
-    "found_at": "2026-07-14T06:20:33.809958+00:00"
-  },
-  {
-    "id": "bazos:193624811",
-    "portal": "bazos",
-    "title": "Štýlový 2-izbový byt s potenciálom v príjemnej lokalite pri",
-    "url": "https://reality.bazos.sk/inzerat/193624811/stylovy-2-izbovy-byt-s-potencialom-v-prijemnej-lokalite-pri.php",
-    "price": 224900,
-    "price_text": "224 900 €",
-    "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/811/193624811.jpg?t=1784018701",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
-    "found_at": "2026-07-14T06:20:33.809956+00:00"
-  },
-  {
-    "id": "bazos:193622505",
-    "portal": "bazos",
-    "title": "Byt na predaj - ul. Antolská, Bratislava V",
-    "url": "https://reality.bazos.sk/inzerat/193622505/byt-na-predaj-ul-antolska-bratislava-v.php",
-    "price": 190000,
-    "price_text": "190 000 €",
-    "location": "Bratislava 851 07",
-    "image": "https://www.bazos.sk/img/1t/505/193622505.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj zariadenú garsónku s rozlohou 31 m2 nachádzajúcu sa v zateplenom tehlovom bytovom dome na 4. poschodí na Antolskej ulici v mestskej časti Petržalka. \n\nByt je bezbariérový, udržiavaný a plne zariadený. \n\nPozostáva z obytnej miestnosti s posteľou a kuchynkou, chodbou s úložným p",
-    "found_at": "2026-07-14T03:23:10.420378+00:00"
-  },
-  {
-    "id": "bazos:193617421",
-    "portal": "bazos",
-    "title": "2-izbový byt vo vyhľadávanej lokalite",
-    "url": "https://reality.bazos.sk/inzerat/193617421/2-izbovy-byt-vo-vyhladavanej-lokalite.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 811 09",
-    "image": "https://www.bazos.sk/img/1t/421/193617421.jpg",
-    "condition": "povodny",
-    "desc": "Ponúkame Vám na predaj 2-izbový byt vo vyhľadávanej lokalite Bratislava-Staré Mesto, Wilsonova ulica.\n\nDispozícia: 2-izbový byt • Poschodie: 3/5 • Plocha bytu: 49,1 m² • Bez balkónu • Pivnica: cca 10 m² • Mesačné náklady: cca 191 € • Konštrukcia: tehla • Bytový dom: výťah \n\nPôvodný stav s výnim ...",
-    "found_at": "2026-07-13T19:41:57.065072+00:00"
-  },
-  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -156,19 +117,6 @@
     "found_at": "2026-07-12T15:07:10.389215+00:00"
   },
   {
-    "id": "nehnutelnosti:JuvvgIJ4Ctq",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 2 izbovy byt v povodnom stave so samostatnou kuchynou v pokojnej lokalite",
-    "url": "https://www.nehnutelnosti.sk/detail/JuvvgIJ4Ctq/herrys-na-predaj-2-izbovy-byt-v-povodnom-stave-so-samostatnou-kuchynou-v-pokojnej-lokalite",
-    "price": 208000,
-    "price_text": "208 000",
-    "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Or3Kp3S-u_fss?st=Zln0V4CKSvMXIgkrgk4OXNTu9MXCn2MGlyri4XADrlQ&ts=1783351856&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova, Bratislava-Rača, okres Bratislava III 2 izbový byt 56.34 m² 208 000 € 3 691,87 €/m² HERRYS – Na predaj 2-izbový byt v pôvodnom stave so samostatnou kuchyňou v pokojnej lokalite Cyprichova",
-    "found_at": "2026-07-10T14:49:22.382923+00:00"
-  },
-  {
     "id": "bazos:193514884",
     "portal": "bazos",
     "title": "TUreality | Ponúka na predaj svetlý 2-izbový byt na...",
@@ -193,58 +141,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj kompletne zariadený apartmán v obľúbenej lokalite Slnečné pobrežie (Sunny Beach), Bulharsko.\n\nZákladné informácie:\n\n* Lokalita: Slnečné pobrežie, Bulharsko 🇧🇬\n* Dispozícia: 2-izbový apartmán (2+kk)\n* Poschodie: 4/5\n* Celková plocha: 52 m²\n* Vzdialenosť od pláže: približne 900 m\n* ",
     "found_at": "2026-07-10T08:31:16.931711+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 221450,
-    "price_text": "221 450",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7e62zN0wS_fss?st=-DKTisAn132yR3Ker38cd8XSiZTdvHZouU_Zxx0IRXc&ts=1782144482&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 221450,
-    "price_text": "221 450",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7e62zN0wS_fss?st=-DKTisAn132yR3Ker38cd8XSiZTdvHZouU_Zxx0IRXc&ts=1782144482&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuJuX99y73K",
-    "portal": "nehnutelnosti",
-    "title": "Moderny zariadeny byt s privatnym fitness horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JuJuX99y73K/moderny-zariadeny-byt-s-privatnym-fitness-horsky-park",
-    "price": 221450,
-    "price_text": "221 450",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7e62zN0wS_fss?st=-DKTisAn132yR3Ker38cd8XSiZTdvHZouU_Zxx0IRXc&ts=1782144482&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
-    "found_at": "2026-07-08T06:35:54.960540+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju6DZiYsYvQ",
-    "portal": "nehnutelnosti",
-    "title": "4 izbovy vynimocny dizajnovo zariadeny byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju6DZiYsYvQ/4-izbovy-vynimocny-dizajnovo-zariadeny-byt-horsky-park",
-    "price": 221450,
-    "price_text": "221 450",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7e62zN0wS_fss?st=-DKTisAn132yR3Ker38cd8XSiZTdvHZouU_Zxx0IRXc&ts=1782144482&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
-    "found_at": "2026-07-08T06:35:54.960539+00:00"
   },
   {
     "id": "bazos:193421986",
@@ -297,18 +193,5 @@
     "condition": "neznamy",
     "desc": "PREMIUM JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 52 m² 221 450 € 4 258,65 €/m² JELŠOVÁ ul. - 2-izbový byt s balkónom a výhľadom na koruny stromov Jelšová, Bratislava-Nové Mesto, okres Bratislava III 2 izbový",
     "found_at": "2026-07-06T13:03:46.376916+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju1joTNjQ3J",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wvKNqoT4D_fss?st=erZl5Hs765Ic-QIPWGnyavPTkR7B0HQV2csOR96aLsM&ts=1783061556&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
-    "found_at": "2026-06-30T21:34:59.048695+00:00"
   }
 ]
