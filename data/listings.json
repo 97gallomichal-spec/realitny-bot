@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:Juxi64qScli",
+    "portal": "nehnutelnosti",
+    "title": "Zariadeny svetly 2 izbovy byt s loggiou a parkingom devinsky dvor opletalova",
+    "url": "https://www.nehnutelnosti.sk/detail/Juxi64qScli/zariadeny-svetly-2-izbovy-byt-s-loggiou-a-parkingom-devinsky-dvor-opletalova",
+    "price": 220000,
+    "price_text": "220 000",
+    "location": "Bratislava-Devínska Nová Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vDPrZseNU_fss?st=K6K4_d_Vbs5Zkdtc5gaXkEEY8fgLXSq_QEvUN0w8fcw&ts=1784034567&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Byt pre život aj investíciu | Devínsky Dvor, Opletalova + 2x parking Opletalova, Bratislava-Devínska Nová Ves, okres Bratislava IV 2 izbový byt 65 m² 220 000 € 3 384,62 €/m² Byt pre život aj investíciu | Devínsky Dvor, Opletalova + 2x parking Opletalova, Bratislava-Devínska Nová Ves, okres B",
+    "found_at": "2026-07-15T09:18:00.870122+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju2EHss573I",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 2 izbovy byt s balkonom a1",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju2EHss573I/na-predaj-2-izbovy-byt-s-balkonom-a1",
+    "price": 240000,
+    "price_text": "240 000",
+    "location": "Bratislava-Rača",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FW6E7jV8YI_fss?st=qbs7ctAgjmQI48tNoOupSrYLb86Crfb4ueJL4G7McxY&ts=1773311106&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM GRAVITAS | Na predaj 2-izbový byt s balkónom - A1 Bratislava-Rača, okres Bratislava III 2 izbový byt 52.92 m² 240 000 € 4 535,15 €/m² GRAVITAS | Na predaj 2-izbový byt s balkónom - A1 Bratislava-Rača, okres Bratislava III 2 izbový byt 52.92 m² Gravitas ponúka exkluzívne na predaj úplne nový",
+    "found_at": "2026-07-15T09:18:00.870120+00:00"
+  },
+  {
+    "id": "bazos:193662917",
+    "portal": "bazos",
+    "title": "2 izb. byt prízemný bezbariérový 40m2",
+    "url": "https://reality.bazos.sk/inzerat/193662917/2-izb-byt-prizemny-bezbarierovy-40m2.php",
+    "price": 43500,
+    "price_text": "43 500 €",
+    "location": "Bratislava 811 09",
+    "image": "https://www.bazos.sk/img/1t/917/193662917.jpg",
+    "condition": "neznamy",
+    "desc": "Zvolen, Ponúkam spoluvlastnítvo investičného bytu vo Zvolene, cena 43500eur 50%podielu,, nájomné 600eur mesačne čiže 200eur mesačne zisk každému, alebo ponúkam predaj aj celého bytu 85 000eur, a nájomne a nájomcu vám zabezpečím bezstarostne ja ako darček",
+    "found_at": "2026-07-15T09:18:00.870106+00:00"
+  },
+  {
     "id": "bazos:193656070",
     "portal": "bazos",
     "title": "2-izb. byt, Wilsonova ul., Staré Mesto, tehlový dom",
@@ -10,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/070/193656070.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt na ul. Wilsonova, BA I – Staré Mesto.\r\n\r\nVýmera 49,1 m2, nachádza sa na 3.p./5 v tehlovom dome, byt je bez balkóna. K bytu patrí pivnica cca 10 m2.\r\n\r\nByt je orientovaný do ulice Wilsonova s výhľadom do ulice.\r\n\r\nMesačné náklady: cca 191 € • Konštrukcia: tehla • Bytov",
-    "found_at": "2026-07-15T06:24:19.987573+00:00"
+    "found_at": "2026-07-15T06:24:19.987598+00:00"
   },
   {
     "id": "bazos:193648921",
@@ -167,31 +206,5 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj príjemný 2-izbový byt s loggiou, situovaný na najvyššom poschodí bytového domu v pokojnej lokalite s množstvom zelene. Byt je orientovaný do tichého vnútrobloku, čo zaručuje pokojné bývanie bez ruchu frekventovaných ulíc.\r\n\r\nDISPOZÍCIA A ROZLOHA:\r\nCelková výmera bytu je 43",
     "found_at": "2026-07-06T19:22:55.653440+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuxQAp2RJDW",
-    "portal": "nehnutelnosti",
-    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
-    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
-    "found_at": "2026-07-02T17:15:03.693850+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuJQ0mDo-Nn",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
-    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
-    "found_at": "2026-07-02T17:15:03.693849+00:00"
   }
 ]
