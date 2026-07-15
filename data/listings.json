@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193683679",
+    "portal": "bazos",
+    "title": "Ku_pim 1-2 izbovy byt v Bratislave",
+    "url": "https://reality.bazos.sk/inzerat/193683679/kupim-1-2-izbovy-byt-v-bratislave.php",
+    "price": 150000,
+    "price_text": "150 000 €",
+    "location": "Bratislava 811 03",
+    "image": "https://www.bazos.sk/obrazky/empty.gif",
+    "condition": "neznamy",
+    "desc": "Ku_pim 1-2 izbovy byt v Bratislave do 150 000 eur.\r\n\r\nPonuky mi zasielajte emailom alebo zavolajte.",
+    "found_at": "2026-07-15T23:07:36.994574+00:00"
+  },
+  {
     "id": "bazos:193682671",
     "portal": "bazos",
     "title": "Dvojizbový byt pri OC Retro - Rezedová ulica",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/671/193682671.jpg",
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
-    "found_at": "2026-07-15T21:10:50.155232+00:00"
+    "found_at": "2026-07-15T21:10:50.155275+00:00"
   },
   {
     "id": "bazos:193679622",
@@ -115,45 +128,6 @@
     "condition": "neznamy",
     "desc": "Tento 1-izbový byt s výmerou 42,42 m² sa nachádza na 1. poschodí národnej kultúrnej pamiatky – obytného súboru UNITAS na rozhraní Starého a Nového Mesta (Šancová ulica, priamo pri Račianskom mýte).\r\n\r\nKomplex UNITAS bol navrhnutý v rokoch 1931 – 1932 poprednými architektmi a patrí k najvýznamnejším ",
     "found_at": "2026-07-15T15:42:17.553426+00:00"
-  },
-  {
-    "id": "bazos:193671529",
-    "portal": "bazos",
-    "title": "1 izbový byt na Nivách, Kvetná ulica",
-    "url": "https://reality.bazos.sk/inzerat/193671529/1-izbovy-byt-na-nivach-kvetna-ulica.php",
-    "price": 172500,
-    "price_text": "172 500 €",
-    "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/529/193671529.jpg?t=1784120922",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
-    "found_at": "2026-07-15T14:03:10.502053+00:00"
-  },
-  {
-    "id": "bazos:193671526",
-    "portal": "bazos",
-    "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193671526/2-izbovy-byt-na-rovnikovej-ulici.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/526/193671526.jpg?t=1784120920",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-07-15T14:03:10.502052+00:00"
-  },
-  {
-    "id": "bazos:193671532",
-    "portal": "bazos",
-    "title": "2-izbový byt, ulica Bodrocká, Podunajské Biskupice",
-    "url": "https://reality.bazos.sk/inzerat/193671532/2-izbovy-byt-ulica-bodrocka-podunajske-biskupice.php",
-    "price": 178000,
-    "price_text": "178 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/532/193671532.jpg?t=1784120924",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt, nachádzajúci sa v mestskej časti Bratislava – Podunajské Biskupice, časť Dolné hony. Byt má rozlohu 49,40 m2 a nachádza sa na 3. zo 4. poschodí bez výťahu. Dispozícia bytu pozostáva zo:\r\n- vstupnej chodby\r\n- kuchyne\r\n- samostatnej spálne\r\n- priestrannej  obývačky\r\n- ",
-    "found_at": "2026-07-15T14:03:10.502050+00:00"
   },
   {
     "id": "bazos:193671535",
