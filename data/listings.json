@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/559/193684559.jpg?t=1784167757",
     "condition": "neznamy",
     "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
-    "found_at": "2026-07-16T03:29:45.494242+00:00"
+    "found_at": "2026-07-16T03:29:45.494283+00:00"
   },
   {
     "id": "bazos:193683679",
@@ -195,19 +195,6 @@
     "found_at": "2026-07-15T14:03:10.502042+00:00"
   },
   {
-    "id": "nehnutelnosti:JugVqwoplmz",
-    "portal": "nehnutelnosti",
-    "title": "Kompletne zariadeny 1i byt s loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
-    "price": 174000,
-    "price_text": "174 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
-    "found_at": "2026-07-13T19:41:57.065074+00:00"
-  },
-  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -312,32 +299,6 @@
     "found_at": "2026-07-09T08:36:07.812632+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 165000,
-    "price_text": "165 000",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 165000,
-    "price_text": "165 000",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
-  },
-  {
     "id": "bazos:193421986",
     "portal": "bazos",
     "title": "1-IZBOVÝ BYT,PÔVODNÝ STAV,RUŽINOV-NIVY,32m2",
@@ -364,16 +325,29 @@
     "found_at": "2026-07-06T19:22:55.653440+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju1joTNjQ3J",
+    "id": "nehnutelnosti:JuxQAp2RJDW",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/J77PFFhns_fss?st=wkySnOtQGYc9iekkDdNBI9JbMZV_VfGDrnjRUCPdpvA&ts=1784112861&e=0",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
-    "found_at": "2026-06-30T21:34:59.048695+00:00"
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   }
 ]
