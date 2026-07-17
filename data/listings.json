@@ -1,5 +1,70 @@
 [
   {
+    "id": "bazos:193735557",
+    "portal": "bazos",
+    "title": "1 izbový byt na Nivách, Kvetná ulica",
+    "url": "https://reality.bazos.sk/inzerat/193735557/1-izbovy-byt-na-nivach-kvetna-ulica.php",
+    "price": 172500,
+    "price_text": "172 500 €",
+    "location": "Bratislava 821 08",
+    "image": "https://www.bazos.sk/img/1t/557/193735557.jpg?t=1784300080",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
+    "found_at": "2026-07-17T16:22:26.289466+00:00"
+  },
+  {
+    "id": "bazos:193735558",
+    "portal": "bazos",
+    "title": "1- izbový byt na  Nobelovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193735558/1-izbovy-byt-na-nobelovej-ulici.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 831 02",
+    "image": "https://www.bazos.sk/img/1t/558/193735558.jpg?t=1784300082",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj svetlý a prakticky riešený 1-izbový byt vo vyhľadávanej lokalite Bratislava III – Nové Mesto, na Nobelovej ulici.\r\nByt sa nachádza na 4. poschodí bytového domu a má celkovú výmeru 39,48 m². Dispozične pozostáva z priestrannej obytnej izby, samostatnej kuchyne, kúpeľne, samostatnéh",
+    "found_at": "2026-07-17T16:22:26.289465+00:00"
+  },
+  {
+    "id": "bazos:193735561",
+    "portal": "bazos",
+    "title": "2-izbový byt, ulica Bodrocká, Podunajské Biskupice",
+    "url": "https://reality.bazos.sk/inzerat/193735561/2-izbovy-byt-ulica-bodrocka-podunajske-biskupice.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/561/193735561.jpg?t=1784300085",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt, nachádzajúci sa v mestskej časti Bratislava – Podunajské Biskupice, časť Dolné hony. Byt má rozlohu 49,40 m2 a nachádza sa na 3. zo 4. poschodí bez výťahu. Dispozícia bytu pozostáva zo:\r\n- vstupnej chodby\r\n- kuchyne\r\n- samostatnej spálne\r\n- priestrannej  obývačky\r\n- ",
+    "found_at": "2026-07-17T16:22:26.289463+00:00"
+  },
+  {
+    "id": "bazos:193735563",
+    "portal": "bazos",
+    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
+    "url": "https://reality.bazos.sk/inzerat/193735563/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/563/193735563.jpg?t=1784300087",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
+    "found_at": "2026-07-17T16:22:26.289461+00:00"
+  },
+  {
+    "id": "bazos:193735719",
+    "portal": "bazos",
+    "title": "2- izbový byt na Rovníkovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193735719/2-izbovy-byt-na-rovnikovej-ulici.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 821 02",
+    "image": "https://www.bazos.sk/img/1t/719/193735719.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
+    "found_at": "2026-07-17T16:22:26.289460+00:00"
+  },
+  {
     "id": "reality:1372",
     "portal": "reality",
     "title": "Moderný 1-izbový byt 37m2 po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača",
@@ -10,72 +75,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhwdXMvOEU3QWNoclRxX2ZzcyxjZW50ZXIsY2VudGVyLDEwLDMwLDMwKS9qdWw=/ccfY2h1FO_fss?st=lYk8zVd0Mrv8Oscb7WAlNrj_LYmKrKRGY-Afts2Boo4&amp;ts=1784294185&amp;e=0",
     "condition": "povodny",
     "desc": "Moderný 1-izbový byt po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača\n\nNiektoré byty sú pripravené na okamžité nasťahovanie. Iné ponúkajú možnosť vytvoriť si bývanie presne podľa vlastných predstáv. A práve medzi ne patrí aj táto nehnuteľnosť.\n\nRT-REAL ESTATE Vám exkluzívne ponúk",
-    "found_at": "2026-07-17T14:50:27.858205+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuE4_FmVbsE",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izboveho velkometrazneho bytu mierova kolonia",
-    "url": "https://www.nehnutelnosti.sk/detail/JuE4_FmVbsE/predaj-2-izboveho-velkometrazneho-bytu-mierova-kolonia",
-    "price": 220000,
-    "price_text": "220 000",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/KO52YzQiy_fss?st=qwDJAbnfLOLzB139-TGIsW2F3Pv7WCPkA9F98MGE6d0&ts=1773816880&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 2 izbového veľkometrážneho bytu, Olbrachtova Olbrachtova, Bratislava-Nové Mesto, okres Bratislava III 3 izbový byt 80 m² 220 000 € 2 750 €/m² Predaj 2 izbového veľkometrážneho bytu, Olbrachtova Olbrachtova, Bratislava-Nové Mesto, okres Bratislava III 3 izbový byt 80 m² Ponúkam na pred",
-    "found_at": "2026-07-17T14:50:27.858203+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuD2qaYOtE3",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izboveho bytu na tranovskeho ulici dubravka",
-    "url": "https://www.nehnutelnosti.sk/detail/JuD2qaYOtE3/predaj-1-izboveho-bytu-na-tranovskeho-ulici-dubravka",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_4PEmb-2I_fss?st=ghhSKXPERy4tvkBUParnWXkglE4_52VSxWT35VzvaLw&ts=1781354495&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1 izbového bytu na Tranovského ulici, Dúbravka Tranovského, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.3 m² 159 900 € 4 661,81 €/m² Predaj 1 izbového bytu na Tranovského ulici, Dúbravka Tranovského, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.3 m² Ponúkam na",
-    "found_at": "2026-07-17T14:50:27.858202+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jue15uUc2gB",
-    "portal": "nehnutelnosti",
-    "title": "Priestranny svetly a kompletne zariadeny 1 izbovy byt s balkonom v novsej tehlovej stavbe",
-    "url": "https://www.nehnutelnosti.sk/detail/Jue15uUc2gB/priestranny-svetly-a-kompletne-zariadeny-1-izbovy-byt-s-balkonom-v-novsej-tehlovej-stavbe",
-    "price": 179900,
-    "price_text": "179 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/UrtemEPg7_fss?st=-0wBEeTQql1YcL-EoOsgK3IVuLRvGxJg848L91YzDPQ&ts=1783893845&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Priestranný, svetlý a kompletne zariadený 1 izbový byt s balkónom v novšej tehlovej stavbe Vyšehradská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 40 m² 179 900 € 4 497,5 €/m² Priestranný, svetlý a kompletne zariadený 1 izbový byt s balkónom v novšej tehlovej stavbe Vyšehradská, B",
-    "found_at": "2026-07-17T14:50:27.858196+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuJV8veOcpg",
-    "portal": "nehnutelnosti",
-    "title": "Zariadeny 1 izbovy byt na ulici nobelova",
-    "url": "https://www.nehnutelnosti.sk/detail/JuJV8veOcpg/zariadeny-1-izbovy-byt-na-ulici-nobelova",
-    "price": 178000,
-    "price_text": "178 000",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/cD_2zOhkE_fss?st=Kr-IY8dt1L1dvmCO3i5ToIw6oz1hynarc5533gC6eSs&ts=1784299215&e=0",
-    "condition": "neznamy",
-    "desc": "Zariadený 1 izbový byt na ulici Nobelova Nobelova, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 39.5 m² 178 000 € 4 506,33 €/m² Zariadený 1 izbový byt na ulici Nobelova Nobelova, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 39.5 m² MRK & RETEX, s.r.o. – realitná kancelária pô",
-    "found_at": "2026-07-17T14:50:27.858195+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuPOv-DBtA8",
-    "portal": "nehnutelnosti",
-    "title": "Velky 2 izbovy byt v pokojnej lokalite na zaciatku petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JuPOv-DBtA8/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky",
-    "price": 232000,
-    "price_text": "232 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6BPFmV8Db_fss?st=ICdBUeOroNj-zvObbxVuseerWbsfYH9rl1PFkcJvRzc&ts=1784299504&e=0",
-    "condition": "neznamy",
-    "desc": "Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² 232 000 € 3 741,94 €/m² Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² MRK & RETEX, s.r.o",
-    "found_at": "2026-07-17T14:50:27.858193+00:00"
+    "found_at": "2026-07-17T14:50:27.858225+00:00"
   },
   {
     "id": "bazos:193733314",
@@ -88,20 +88,7 @@
     "image": "https://www.bazos.sk/img/1t/314/193733314.jpg",
     "condition": "neznamy",
     "desc": "Bosen Group Vám exkluzívne ponúka na predaj 2-izbový byt s výmerou 64 m², ktorý predstavuje ideálnu voľbu pre tých, ktorí si chcú svoje nové bývanie zrekonštruovať podľa vlastných predstáv, alebo pre tých, ktorí hľadajú byt vhodný na investíciu.\n\nBYT: sa nachádza vo vyhľadávanej lokalite na uli ...",
-    "found_at": "2026-07-17T14:50:27.858181+00:00"
-  },
-  {
-    "id": "bazos:193726979",
-    "portal": "bazos",
-    "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
-    "url": "https://reality.bazos.sk/inzerat/193726979/svetly-15-izbovy-byt-s-2-loggiami-a-murovanou-pivnicou-ri.php",
-    "price": 214900,
-    "price_text": "214 900 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/979/193726979.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
-    "found_at": "2026-07-17T10:07:47.274954+00:00"
+    "found_at": "2026-07-17T14:50:27.858215+00:00"
   },
   {
     "id": "bazos:193727842",
@@ -208,19 +195,6 @@
     "found_at": "2026-07-12T15:07:10.389215+00:00"
   },
   {
-    "id": "nehnutelnosti:Jue_ytGKs0W",
-    "portal": "nehnutelnosti",
-    "title": "Atraktivny a vzdusny 2 izbovy byt v tehlovom dome s balkonom aj loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/Jue_ytGKs0W/atraktivny-a-vzdusny-2-izbovy-byt-v-tehlovom-dome-s-balkonom-aj-loggiou",
-    "price": 245900,
-    "price_text": "245 900",
-    "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/C7eFu5PO__fss?st=3k3l43-qSQxc0oFNcW3whD0-_Xm3MyPQuhRPN3Cu0r0&ts=1783613583&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Atraktívny a vzdušný 2-izbový byt v tehlovom dome s balkónom aj loggiou Kadnárová 41, Bratislava-Rača, okres Bratislava III 2 izbový byt 65.18 m² 245 900 € 3 772,63 €/m² Atraktívny a vzdušný 2-izbový byt v tehlovom dome s balkónom aj loggiou Kadnárová 41, Bratislava-Rača, okres Bratislava II",
-    "found_at": "2026-07-10T14:49:22.382919+00:00"
-  },
-  {
     "id": "bazos:193514884",
     "portal": "bazos",
     "title": "TUreality | Ponúka na predaj svetlý 2-izbový byt na...",
@@ -245,6 +219,19 @@
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj útuľný 1 izbový byt p projekte Vila domy- Slnečnice na Fialovej ulici v mestskej časti Bratislava- Petržalka. Byt sa nachádza na 3. poschodí zatepleného bytového domu s výťahom. \n\nVÝHODY \n+ výborné dispozičné riešenie s balkónom\n+ kompletne zariadený, stačí sa nasťah ...",
     "found_at": "2026-07-09T08:36:07.812632+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Juc5LTEvZB_",
+    "portal": "nehnutelnosti",
+    "title": "Arvin and benet svetly 2 izbovy byt s vlastnym parkovanim v sukromnom uzavretom areali na hradskej",
+    "url": "https://www.nehnutelnosti.sk/detail/Juc5LTEvZB_/arvin-and-benet-svetly-2-izbovy-byt-s-vlastnym-parkovanim-v-sukromnom-uzavretom-areali-na-hradskej",
+    "price": 219000,
+    "price_text": "219 000",
+    "location": "Bratislava-Vrakuňa",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/oI-jB-pgP_fss?st=Vvrierjg5neWwh88xiQCOkWccs4gzwf99mBvoKa5n5k&ts=1783520147&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Arvin & Benet | Veľkorysý 2i byt s vlastným parkovaním a terasou v súkromnom uzavretom areáli Hradská 5, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 64.55 m² 219 000 € 3 392,72 €/m² Arvin & Benet | Veľkorysý 2i byt s vlastným parkovaním a terasou v súkromnom uzavretom areáli Hradská",
+    "found_at": "2026-07-08T14:34:27.365588+00:00"
   },
   {
     "id": "bazos:193421986",
@@ -297,5 +284,18 @@
     "condition": "neznamy",
     "desc": "PREMIUM REZERVOVANE: Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² REZERVOVANE: Praktická garsónka s lodžiou a pivnic",
     "found_at": "2026-07-04T16:40:23.741749+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Junw1RrKaPB",
+    "portal": "nehnutelnosti",
+    "title": "Velkorysy 2i byt so slnecnou predzahradkou a s vynosnostou 5 percent",
+    "url": "https://www.nehnutelnosti.sk/detail/Junw1RrKaPB/velkorysy-2i-byt-so-slnecnou-predzahradkou-a-s-vynosnostou-5-percent",
+    "price": 229000,
+    "price_text": "229 000",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/PKxe2znZp_fss?st=HTrwmA_-dQcqE4xvsa5rrJ2p203yaUpGbqehV1wBgm0&ts=1782204362&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Veľkorysý 2i byt so slnečnou predzáhradkou a s výnosnosťou 5 % Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 144.9 m² 229 000 € 1 580,4 €/m² Veľkorysý 2i byt so slnečnou predzáhradkou a s výnosnosťou 5 % Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV",
+    "found_at": "2026-07-03T09:46:04.310630+00:00"
   }
 ]
