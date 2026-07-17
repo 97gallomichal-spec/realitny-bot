@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193715479",
+    "portal": "bazos",
+    "title": "NA PREDAJ UNIKÁTNY 4+1 izb.byt BA-Mlynská Dolina",
+    "url": "https://reality.bazos.sk/inzerat/193715479/na-predaj-unikatny-41-izbbyt-ba-mlynska-dolina.php",
+    "price": null,
+    "price_text": "1 €",
+    "location": "Bratislava 841 04",
+    "image": "https://www.bazos.sk/img/1t/479/193715479.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 4-izbový byt\n\rUlica: Staré Grunty\n\rObec: Bratislava-Karlova Ves\n\r\n\rAk ste fanúšikom moderných smart riešení, špičkových technológií a luxusných materiálov, tento veľkometrážny, kompletne zmodernizovaný byt je ako stvorený pre Vás. Pivnica a garážové státie v podzemnej garáži v cene. Prémio ...",
+    "found_at": "2026-07-17T04:16:34.030756+00:00"
+  },
+  {
     "id": "nehnutelnosti:JulMzLeFivA",
     "portal": "nehnutelnosti",
     "title": "Keypoint rovinka residence 2 byt kde inteligentny dizajn a nadstandardne materialy prekonavaju metre stvorcove",
@@ -10,7 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vXI9x0j7V_fss?st=Rlv2o8OD19lWDV1HKyuGONueOFme6QmiHPFRhpS5EbI&ts=1784239685&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadštandardné materiály prekonávajú metre štvorcové Ulica Svornosti, Bratislava-Podunajské Biskupice, okres Bratislava II Garsónka 17 m² 97 900 € 5 758,82 €/m² KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadš",
-    "found_at": "2026-07-17T00:08:03.115692+00:00"
+    "found_at": "2026-07-17T00:08:03.115730+00:00"
   },
   {
     "id": "bazos:193712654",
@@ -72,7 +85,7 @@
     "price": 231600,
     "price_text": "231 600 €",
     "location": "Bratislava 841 07",
-    "image": "https://www.bazos.sk/img/1t/941/193704941.jpg?t=1784218982",
+    "image": "https://www.bazos.sk/img/1t/941/193704941.jpg?t=1784247037",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Ing. Jana Nejedlíková, kontakt: 0948 490 041, nehnuteľnosť s ID: BA-73388:\nPonúkame na predaj veľkorysý jednoizbový byt s krytou terasou, predzáhradkou a vyhradeným parkovacím miestom v Bratislave, v obľúbenej lokalite v mestskej časti Devínska Nová Ves, Opletalova",
     "found_at": "2026-07-16T16:25:52.277949+00:00"
@@ -111,7 +124,7 @@
     "price": 214900,
     "price_text": "214 900 €",
     "location": "Bratislava 841 08",
-    "image": "https://www.bazos.sk/img/1t/951/193704951.jpg?t=1784219020",
+    "image": "https://www.bazos.sk/img/1t/951/193704951.jpg?t=1784247118",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Iveta Molnárová, kontakt: 0903 379 150, nehnuteľnosť s ID: BA-73194:\nPonúkame Vám na predaj 2 izbový byt vo veľkosti 3 izbového bytu o rozlohe 64,18 M2 plus 2 x lodžia. Nehnuteľnosť sa nachádza v Bratislave na ulici Jána Jonáša v blízkosti závodu Volkswagen, pokojn",
     "found_at": "2026-07-16T16:25:52.277944+00:00"
@@ -154,19 +167,6 @@
     "condition": "neznamy",
     "desc": "Babony TRE ponúka na predaj 2-izbový byt s balkónom – Ružinov, Rezedová ulica\r\n\r\nPonúkame na predaj 2-izbový byt s balkónom vo vyhľadávanej lokalite Bratislava – Ružinov, na Rezedovej ulici. Byt sa nachádza na 5. poschodí zatepleného bytového domu s výťahom a ponúka príjemnú juhozápadnú orientáciu, ",
     "found_at": "2026-07-16T14:14:53.585999+00:00"
-  },
-  {
-    "id": "bazos:193700636",
-    "portal": "bazos",
-    "title": "Na predaj priestranný klimatizovaný 2 izbový byt s krásnym v",
-    "url": "https://reality.bazos.sk/inzerat/193700636/na-predaj-priestranny-klimatizovany-2-izbovy-byt-s-krasnym-v.php",
-    "price": 248900,
-    "price_text": "248 900 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/636/193700636.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Ulica Planét\n\rObec: Bratislava-Ružinov\n\r\n\rBeplan reality ponúka na predaj svetlý 2-izbový byt na Ulici Planét v Bratislave, situovaný na 7. poschodí z 8 v kvalitnom tehlovom bytovom dome. Byt zaujme praktickou dispozíciou, vzdušnou obývacou izbou spojenou s kuchyňou a krásn",
-    "found_at": "2026-07-16T11:48:31.323509+00:00"
   },
   {
     "id": "bazos:192651234",
@@ -215,7 +215,7 @@
     "price": 219990,
     "price_text": "219 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/489/192110489.jpg?t=1784162423",
+    "image": "https://www.bazos.sk/img/1t/489/192110489.jpg?t=1784247113",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-07-15T14:03:10.502044+00:00"
@@ -336,32 +336,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj útuľný 1 izbový byt p projekte Vila domy- Slnečnice na Fialovej ulici v mestskej časti Bratislava- Petržalka. Byt sa nachádza na 3. poschodí zatepleného bytového domu s výťahom. \n\nVÝHODY \n+ výborné dispozičné riešenie s balkónom\n+ kompletne zariadený, stačí sa nasťah ...",
     "found_at": "2026-07-09T08:36:07.812632+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 97900,
-    "price_text": "97 900",
-    "location": "Bratislava-Podunajské Biskupice",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vXI9x0j7V_fss?st=Rlv2o8OD19lWDV1HKyuGONueOFme6QmiHPFRhpS5EbI&ts=1784239685&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadštandardné materiály prekonávajú metre štvorcové Ulica Svornosti, Bratislava-Podunajské Biskupice, okres Bratislava II Garsónka 17 m² 97 900 € 5 758,82 €/m² KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadš",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 97900,
-    "price_text": "97 900",
-    "location": "Bratislava-Podunajské Biskupice",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vXI9x0j7V_fss?st=Rlv2o8OD19lWDV1HKyuGONueOFme6QmiHPFRhpS5EbI&ts=1784239685&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadštandardné materiály prekonávajú metre štvorcové Ulica Svornosti, Bratislava-Podunajské Biskupice, okres Bratislava II Garsónka 17 m² 97 900 € 5 758,82 €/m² KeyPoint | ROVINKA RESIDENCE 2 - Byt, kde inteligentný dizajn a nadš",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "bazos:193421986",
