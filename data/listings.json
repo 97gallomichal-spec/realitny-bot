@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:193742249",
+    "portal": "bazos",
+    "title": "Zariadený 1 izbový byt na ulici Nobelova",
+    "url": "https://reality.bazos.sk/inzerat/193742249/zariadeny-1-izbovy-byt-na-ulici-nobelova.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 831 01",
+    "image": "https://www.bazos.sk/img/1t/249/193742249.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 1 izbový byt na ulici Nobelova v Bratislave – Nové Mesto.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 39,5 m2.\r\nByt sa nachádza na 4. poschodí zo 7, je bez balkóna.\r\nK bytu patrí pivnica ",
+    "found_at": "2026-07-17T22:01:37.471577+00:00"
+  },
+  {
+    "id": "bazos:193742293",
+    "portal": "bazos",
+    "title": "Veľký 2 iz. byt v pokojnej lokalite na začiatku Petržalky",
+    "url": "https://reality.bazos.sk/inzerat/193742293/velky-2-iz-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky.php",
+    "price": 232000,
+    "price_text": "232 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/293/193742293.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
+    "found_at": "2026-07-17T22:01:37.471572+00:00"
+  },
+  {
     "id": "bazos:193741094",
     "portal": "bazos",
     "title": "Hľadám 1 alebo 2 izbovy byt",
@@ -10,7 +36,7 @@
     "image": "https://www.bazos.sk/obrazky/empty.gif",
     "condition": "neznamy",
     "desc": "Hľadám pre seba na kúpu starší byt v pôvodnom stave v BA. V inzercii nič neviem najsť alebo reagujem neskoro. \r\n\r\nCena bytu podľa stavu, lokality a veľkosti do 180 000 \r\n\r\nAk uvažujete o predaji, predávate alebo viete o vhodnej nehnuteľnosti, prosím kontaktujte ma cez sms, whatsap, keďže sa často po",
-    "found_at": "2026-07-17T20:12:54.253184+00:00"
+    "found_at": "2026-07-17T20:12:54.253209+00:00"
   },
   {
     "id": "bazos:193735557",
@@ -169,19 +195,6 @@
     "found_at": "2026-07-15T14:03:10.502042+00:00"
   },
   {
-    "id": "nehnutelnosti:JugVqwoplmz",
-    "portal": "nehnutelnosti",
-    "title": "Kompletne zariadeny 1i byt s loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
-    "price": 174000,
-    "price_text": "174 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
-    "found_at": "2026-07-13T19:41:57.065074+00:00"
-  },
-  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -219,19 +232,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj útuľný 1 izbový byt p projekte Vila domy- Slnečnice na Fialovej ulici v mestskej časti Bratislava- Petržalka. Byt sa nachádza na 3. poschodí zatepleného bytového domu s výťahom. \n\nVÝHODY \n+ výborné dispozičné riešenie s balkónom\n+ kompletne zariadený, stačí sa nasťah ...",
     "found_at": "2026-07-09T08:36:07.812632+00:00"
-  },
-  {
-    "id": "bazos:193421986",
-    "portal": "bazos",
-    "title": "1-IZBOVÝ BYT,PÔVODNÝ STAV,RUŽINOV-NIVY,32m2",
-    "url": "https://reality.bazos.sk/inzerat/193421986/1-izbovy-bytpovodny-stavruzinov-nivy32m2.php",
-    "price": 172500,
-    "price_text": "172 500 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/986/193421986.jpg?t=1784299293",
-    "condition": "povodny",
-    "desc": "TUreality ponúka na predaj 1-izbový byt v zachovalom, obývateľnom pôvodnom stave. Byt o výmere 29m2 sa nachádza na druhom poschodí z piatich, k bytu prináleží aj pivnica o výmere 3m2. Byt dispozične pozostáva z chodby, samostatnej kuchyne, izby, kúpeľne so sprchovacím kútom spojenej s WC. Možnosť vy",
-    "found_at": "2026-07-07T19:17:50.323569+00:00"
   },
   {
     "id": "bazos:193394237",
