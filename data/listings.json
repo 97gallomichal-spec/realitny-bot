@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193758819",
+    "portal": "bazos",
+    "title": "2i byt Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/193758819/2i-byt-petrzalka.php",
+    "price": 199000,
+    "price_text": "199 000 €",
+    "location": "Bratislava 851 03",
+    "image": "https://www.bazos.sk/img/1t/819/193758819.jpg?t=1784376572",
+    "condition": "neznamy",
+    "desc": "Predám dvojgarsonku na začiatku Petržalky s dostupnosťou na električku - Námestie hraničiarov. Byt sa nachádza na 3.p. z 12. Plocha bytu 36m2 + 2x loggie 2*5m2. Byt je slnečný, orientovaný na juh do tichého vnútrobloku. K bytu prislúcha pivničná kobka na poschodí cca 2m2. \r\nPred 5 rokmi boli menené ",
+    "found_at": "2026-07-18T13:41:24.580740+00:00"
+  },
+  {
     "id": "bazos:193756287",
     "portal": "bazos",
     "title": "2- izbový byt na  ulici Studenohorská, Bratislava-Lamač",
@@ -7,10 +20,10 @@
     "price": 199000,
     "price_text": "199 000 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/287/193756287.jpg",
+    "image": "https://www.bazos.sk/img/1t/287/193756287.jpg?t=1784376781",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný a svetlý 2-izbový byt v jednej z najobľúbenejších a najvyhľadávanejších mestských častí Bratislavy – Lamač, na Studenohorskej ulici. Byt sa nachádza na 6. poschodí a ponúka krásne výhľady na zeleň a Malé Karpaty. Lokalita je obklopená prírodou a zároveň poskytuje výbornú ",
-    "found_at": "2026-07-18T12:00:24.693564+00:00"
+    "found_at": "2026-07-18T12:00:24.693600+00:00"
   },
   {
     "id": "bazos:193756299",
@@ -20,10 +33,10 @@
     "price": 195000,
     "price_text": "195 000 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/299/193756299.jpg",
+    "image": "https://www.bazos.sk/img/1t/299/193756299.jpg?t=1784376846",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
-    "found_at": "2026-07-18T12:00:24.693562+00:00"
+    "found_at": "2026-07-18T12:00:24.693598+00:00"
   },
   {
     "id": "bazos:193754097",
