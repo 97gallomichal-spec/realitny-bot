@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193793572",
+    "portal": "bazos",
+    "title": "Predaj - 2-izb. - …",
+    "url": "https://reality.bazos.sk/inzerat/193793572/predaj-2-izb.php",
+    "price": 249900,
+    "price_text": "249 900 €",
+    "location": "Bratislava 831 02",
+    "image": "https://www.bazos.sk/img/1t/572/193793572.jpg",
+    "condition": "neznamy",
+    "desc": "Priestranný 2 izb byt v super lokalite na ulici Skalická cesta v BA-Nové Mesto\n\nPopis: Pozrite si virtuálnu prehliadku: https://my.matterport.com/show/?m=jSDdjNUPzvM\r\n\r\nPonúkame na predaj dvojizbový byt v pôvodnom stave s rozlohou 71,05 m2 a balkónom (2,50 m2), ktorý sa nachádza na 1. poschodí 4-pos",
+    "found_at": "2026-07-19T17:12:29.833249+00:00"
+  },
+  {
     "id": "bazos:193790334",
     "portal": "bazos",
     "title": "Na predaj: Nebytový priestor (ako 2-izbový byt) Bratislava",
@@ -260,16 +273,29 @@
     "found_at": "2026-07-06T19:22:55.653442+00:00"
   },
   {
-    "id": "nehnutelnosti:JunIKJxl3IB",
+    "id": "nehnutelnosti:JuxQAp2RJDW",
     "portal": "nehnutelnosti",
-    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
-    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
-    "price": 161000,
-    "price_text": "161 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM REZERVOVANE: Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² REZERVOVANE: Praktická garsónka s lodžiou a pivnic",
-    "found_at": "2026-07-04T16:40:23.741749+00:00"
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   }
 ]
