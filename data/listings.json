@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:Ju8c3mvV5LF",
+    "portal": "nehnutelnosti",
+    "title": "Zariadeny 1i byt s lodziou a pivnicou vhodny na okamzity prenajom",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju8c3mvV5LF/zariadeny-1i-byt-s-lodziou-a-pivnicou-vhodny-na-okamzity-prenajom",
+    "price": 114900,
+    "price_text": "114 900",
+    "location": "Bratislava-Devínska Nová Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QlnCwmez6_fss?st=U0TJZcbAK68rLxq6mXHKqMnrRgPvIBVgrJB5t-_iD1k&ts=1784464742&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM ZARIADENÝ 1I BYT S LODŽIOU A PIVNICOU VHODNÝ NA OKAMŽITÝ PRENÁJOM Jána Jonáša, Bratislava-Devínska Nová Ves, okres Bratislava IV 1 izbový byt 34.88 m² 114 900 € 3 294,15 €/m² ZARIADENÝ 1I BYT S LODŽIOU A PIVNICOU VHODNÝ NA OKAMŽITÝ PRENÁJOM Jána Jonáša, Bratislava-Devínska Nová Ves, okres Br",
+    "found_at": "2026-07-20T07:21:06.656623+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JukTABU73GH",
+    "portal": "nehnutelnosti",
+    "title": "Super cena 2 izbovy byt v povodom stave fedakova ul",
+    "url": "https://www.nehnutelnosti.sk/detail/JukTABU73GH/super-cena-2-izbovy-byt-v-povodom-stave-fedakova-ul",
+    "price": 179500,
+    "price_text": "179 500",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/1EC1PlhT8_fss?st=J-ragqtN4J1Zqpo2NsOxLUyknZXk_iQ-byvmFLEQh88&ts=1776932153&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Super cena: 2 izbový byt v pôvodom stave - Fedákova ul. Fedákova, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 53 m² 179 500 € 3 386,79 €/m² Super cena: 2 izbový byt v pôvodom stave - Fedákova ul. Fedákova, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 53 m² Realitná kancelá",
+    "found_at": "2026-07-20T07:21:06.656621+00:00"
+  },
+  {
+    "id": "bazos:193806745",
+    "portal": "bazos",
+    "title": "RADO | 2 už prenajaté investičné garzónky v DNV | Výnos cca",
+    "url": "https://reality.bazos.sk/inzerat/193806745/rado-2-uz-prenajate-investicne-garzonky-v-dnv-vynos-cca.php",
+    "price": 221000,
+    "price_text": "221 000 €",
+    "location": "Bratislava 841 08",
+    "image": "https://www.bazos.sk/img/1t/745/193806745.jpg",
+    "condition": "neznamy",
+    "desc": "RADO Reality vám ponúka na predaj dve investičné garzónky na ulici Jána Jonáša 9 v Bratislave – Devínskej Novej Vsi.\r\n\r\nObe nehnuteľnosti sa nachádzajú v tom istom bytovom dome a predávajú sa spolu za cenu 221.000,-€.\r\n\r\nPrvá garzónka sa nachádza na 12/12 poschodí a disponuje výmerou 38 m² vrátane l",
+    "found_at": "2026-07-20T07:21:06.656592+00:00"
+  },
+  {
+    "id": "bazos:193806756",
+    "portal": "bazos",
+    "title": "RADO | veľký 2 izbový byt v pôvodnom stave",
+    "url": "https://reality.bazos.sk/inzerat/193806756/rado-velky-2-izbovy-byt-v-povodnom-stave.php",
+    "price": 226000,
+    "price_text": "226 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/756/193806756.jpg",
+    "condition": "neznamy",
+    "desc": "RADO Reality ponúka na predaj priestranný 2-izbový byt v pôvodnom stave na prízemí tehlového bytového domu v obľúbenej Mierovej kolónii na Olbrachtovej ulici v Novom Meste.\r\nByt má výmeru 79,25 m² a veľkým benefitom je aj nadrozmerná pivnica s rozlohou 14,01 m², ktorá sa nachádza priamo na rovnakej ",
+    "found_at": "2026-07-20T07:21:06.656590+00:00"
+  },
+  {
     "id": "bazos:193794225",
     "portal": "bazos",
     "title": "Zariadený 1 izbový byt na ulici Nobelova",
@@ -78,19 +130,6 @@
     "found_at": "2026-07-19T15:06:29.700372+00:00"
   },
   {
-    "id": "bazos:193782612",
-    "portal": "bazos",
-    "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193782612/2-izbovy-byt-na-rovnikovej-ulici.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/612/193782612.jpg?t=1784464501",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-07-19T11:17:51.047596+00:00"
-  },
-  {
     "id": "bazos:193782616",
     "portal": "bazos",
     "title": "1- izbový byt na  Nobelovej ulici",
@@ -143,19 +182,6 @@
     "found_at": "2026-07-19T11:17:51.047590+00:00"
   },
   {
-    "id": "nehnutelnosti:JuzBtUzI4BOZ",
-    "portal": "nehnutelnosti",
-    "title": "Velky 2 izbovy byt v pokojnej lokalite na zaciatku petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JuzBtUzI4BOZ/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky",
-    "price": 232000,
-    "price_text": "232 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FLl29Sn7N_fss?st=baxEWkbBP81kwjyx1VABTPDAapB2vEVtO0tqthfSlTY&ts=1784399243&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² 232 000 € 3 741,94 €/m² Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² MRK & RETE",
-    "found_at": "2026-07-18T19:17:53.890370+00:00"
-  },
-  {
     "id": "reality:238262",
     "portal": "reality",
     "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
@@ -189,7 +215,7 @@
     "price": 205000,
     "price_text": "205 000 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1784493721",
+    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1784530568",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
@@ -260,19 +286,6 @@
     "found_at": "2026-07-15T14:03:10.502042+00:00"
   },
   {
-    "id": "nehnutelnosti:JugVqwoplmz",
-    "portal": "nehnutelnosti",
-    "title": "Kompletne zariadeny 1i byt s loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
-    "price": 174000,
-    "price_text": "174 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
-    "found_at": "2026-07-13T19:41:57.065074+00:00"
-  },
-  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -284,6 +297,19 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici.\r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľnosť je v pôvodnom stave, čo ponúka ideálnu príležitos",
     "found_at": "2026-07-13T17:20:30.023839+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuN1ROZFzzI",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 1 izbovy byt luda zubka bratislava dubravka",
+    "url": "https://www.nehnutelnosti.sk/detail/JuN1ROZFzzI/predaj-1-izbovy-byt-luda-zubka-bratislava-dubravka",
+    "price": 185000,
+    "price_text": "185 000",
+    "location": "Bratislava-Dúbravka Ľuda Zúbka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/UqomAK_yY_fss?st=4CmmGtF72JTLKRTPQd0i8gO1y5xy8C8taKwUPRNzMxQ&ts=1782371874&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj: 1-izbový byt, Ľuda Zúbka, Bratislava-Dúbravka Ľuda Zúbka, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 38 m² 185 000 € 4 868,42 €/m² Predaj: 1-izbový byt, Ľuda Zúbka, Bratislava-Dúbravka Ľuda Zúbka, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 38 m² Ponúkame na pred",
+    "found_at": "2026-07-13T07:31:41.148503+00:00"
   },
   {
     "id": "bazos:193514884",
@@ -325,16 +351,29 @@
     "found_at": "2026-07-06T19:22:55.653442+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju1joTNjQ3J",
+    "id": "nehnutelnosti:JuxQAp2RJDW",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/J77PFFhns_fss?st=wkySnOtQGYc9iekkDdNBI9JbMZV_VfGDrnjRUCPdpvA&ts=1784112861&e=0",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
-    "found_at": "2026-06-30T21:34:59.048695+00:00"
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   }
 ]
