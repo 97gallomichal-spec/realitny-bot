@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193867074",
+    "portal": "bazos",
+    "title": "IBA U NÁS Príjemný byt 2+1, 55m2, balkón, Zálužická, Bratis",
+    "url": "https://reality.bazos.sk/inzerat/193867074/iba-u-nas-prijemny-byt-21-55m2-balkon-zaluzicka-bratis.php",
+    "price": 244000,
+    "price_text": "244 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/074/193867074.jpg",
+    "condition": "neznamy",
+    "desc": "AstonReal ponúka vo výhradnom zastúpení majiteľa príjemný 2-izbový byt s balkónom o celkovej výmere cca 56m2 v starej časti Ružinova v Bratislave.\r\nByt sa nachádza na prvom poschodí zo šiestich v zateplenom panelovom bytovom dome. Dom je situovaný v v tichej lokalite, je obklopený množstvom zelene a",
+    "found_at": "2026-07-21T22:09:28.983362+00:00"
+  },
+  {
     "id": "bazos:193862302",
     "portal": "bazos",
     "title": "Svetlý štartovací alebo investičný plne zariadený 1-izbák",
@@ -182,19 +195,6 @@
     "found_at": "2026-07-15T14:03:10.502042+00:00"
   },
   {
-    "id": "nehnutelnosti:JugVqwoplmz",
-    "portal": "nehnutelnosti",
-    "title": "Kompletne zariadeny 1i byt s loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
-    "price": 174000,
-    "price_text": "174 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
-    "found_at": "2026-07-13T19:41:57.065074+00:00"
-  },
-  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -219,6 +219,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 51,8 m2, ktorý sa nachádza na Rajeckej ulici v mestskej časti Bratislava – Vrakuňa.\r\n\r\nByt je situovaný na 6. poschodí v zateplenom bytovom dome s výťahom. K bytu prislúcha kobka s výmerou 1,5 m2, ktorá poskytuje praktický úložný priestor.\r\n\r\nNehnute",
     "found_at": "2026-07-10T12:07:17.999750+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuiiSWIRxRj",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 1 izboveho bytu s potencialom na 2 izbovy svidnicka bratislava ruzinov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuiiSWIRxRj/predaj-1-izboveho-bytu-s-potencialom-na-2-izbovy-svidnicka-bratislava-ruzinov",
+    "price": 210000,
+    "price_text": "210 000",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
+    "found_at": "2026-07-09T22:40:40.296178+00:00"
   },
   {
     "id": "bazos:193478961",
