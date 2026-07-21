@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193836220",
+    "portal": "bazos",
+    "title": "Štýlový 2-izbový byt s potenciálom v príjemnej lokalite pri",
+    "url": "https://reality.bazos.sk/inzerat/193836220/stylovy-2-izbovy-byt-s-potencialom-v-prijemnej-lokalite-pri.php",
+    "price": 224900,
+    "price_text": "224 900 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/220/193836220.jpg?t=1784600406",
+    "condition": "neznamy",
+    "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
+    "found_at": "2026-07-21T03:37:58.719109+00:00"
+  },
+  {
     "id": "bazos:193834257",
     "portal": "bazos",
     "title": "HALO reality - Predaj, jednoizbový byt Bratislava Petržalka,",
@@ -7,7 +20,7 @@
     "price": 185300,
     "price_text": "185 300 €",
     "location": "Bratislava 851 06",
-    "image": "https://www.bazos.sk/img/1t/257/193834257.jpg?t=1784586065",
+    "image": "https://www.bazos.sk/img/1t/257/193834257.jpg?t=1784592971",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Marián Matušek, kontakt: 0911 107 429, nehnuteľnosť s ID: BA-73488:\nPonúkame na predaj priestranný 1-izbový byt s výmerou 35 m2 a balkónom o výmere 5 m2, situovaný na Vyšehradskej ulici v obľúbenej mestskej časti Bratislava – Petržalka (Lúky). \n  \n Byt sa nachádza ",
     "found_at": "2026-07-20T22:09:02.076468+00:00"
@@ -50,19 +63,6 @@
     "condition": "neznamy",
     "desc": "Základné informácie:\r\nPonúkame na predaj 2-izbový byt  vo vyhľadávanej a tichej lokalite na ulici Bradáčova v mestskej časti Bratislava V - Petržalka o výmere 55m2. Byt sa nachádza na 5/12 poschodí v panelovom bytovom dome. Byt má vynikajúcu a vysoko praktickú dispozíciu. Všetky miestnosti majú samo",
     "found_at": "2026-07-20T14:28:02.205334+00:00"
-  },
-  {
-    "id": "bazos:193817924",
-    "portal": "bazos",
-    "title": "2-izb. byt, Wilsonova ul., Staré Mesto, tehlový dom",
-    "url": "https://reality.bazos.sk/inzerat/193817924/2-izb-byt-wilsonova-ul-stare-mesto-tehlovy-dom.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/924/193817924.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt na ul. Wilsonova, BA I – Staré Mesto.\r\n\r\nVýmera 49,1 m2, nachádza sa na 3.p./5 v tehlovom dome, byt je bez balkóna. K bytu patrí pivnica cca 10 m2.\r\n\r\nByt je orientovaný do ulice Wilsonova s výhľadom do ulice.\r\n\r\nMesačné náklady: cca 191 € • Konštrukcia: tehla • Bytov",
-    "found_at": "2026-07-20T11:09:47.058582+00:00"
   },
   {
     "id": "reality:238262",
@@ -163,7 +163,7 @@
     "price": 219990,
     "price_text": "219 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/489/192110489.jpg?t=1784557003",
+    "image": "https://www.bazos.sk/img/1t/489/192110489.jpg?t=1784592964",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-07-15T14:03:10.502044+00:00"
@@ -254,7 +254,7 @@
     "price": 199990,
     "price_text": "199 990 €",
     "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/256/192673256.jpg?t=1784544006",
+    "image": "https://www.bazos.sk/img/1t/256/192673256.jpg?t=1784592959",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73146:\nPonúkame na predaj slnečný 1-izbový byt na Trnavskej ulici v mestskej časti Bratislava - Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 1-izbový byt \n - úžitková plocha 30,9 m2 \n - 2. poschodie \n - me",
     "found_at": "2026-06-30T21:03:45.062569+00:00"
