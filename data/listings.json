@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:JuVUJeguKUX",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj stylovo zariadeny 1 izbovy byt v bratislave stare mesto",
+    "url": "https://www.nehnutelnosti.sk/detail/JuVUJeguKUX/na-predaj-stylovo-zariadeny-1-izbovy-byt-v-bratislave-stare-mesto",
+    "price": null,
+    "price_text": "Cena dohodou",
+    "location": "Bratislava-Staré Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/fI6ZS6Xzq_fss?st=gYt-IgfIzB8bD6T18KAGR151TQiaTuN-tWsArvciqxc&ts=1773231169&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj štýlovo zariadený 1 izbový byt v Bratislave-Staré Mesto Lermontovova, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 30 m² 1 € 0,03 €/m² Na predaj štýlovo zariadený 1 izbový byt v Bratislave-Staré Mesto Lermontovova, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt",
+    "found_at": "2026-07-21T06:37:34.102549+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju3B33sYdPF",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 2 izbovy byt v bratislave slnecnice",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju3B33sYdPF/na-predaj-2-izbovy-byt-v-bratislave-slnecnice",
+    "price": null,
+    "price_text": "Cena dohodou",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/tM15Dp_Gn_fss?st=hITqASsW3d2Crsbx14N33b4IlYDK8sGsE0BGqlY-28o&ts=1783707493&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj 2 izbový byt v Bratislave-Slnečnice Béžová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 56 m² 1 € 0,02 €/m² Na predaj 2 izbový byt v Bratislave-Slnečnice Béžová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 56 m² Wealth Group ponúka na predaj velký 2-izbový byt v",
+    "found_at": "2026-07-21T06:37:34.102547+00:00"
+  },
+  {
+    "id": "bazos:193837801",
+    "portal": "bazos",
+    "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
+    "url": "https://reality.bazos.sk/inzerat/193837801/svetly-15-izbovy-byt-s-2-loggiami-a-murovanou-pivnicou-ri.php",
+    "price": 214900,
+    "price_text": "214 900 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/801/193837801.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
+    "found_at": "2026-07-21T06:37:34.102532+00:00"
+  },
+  {
     "id": "bazos:193836220",
     "portal": "bazos",
     "title": "Štýlový 2-izbový byt s potenciálom v príjemnej lokalite pri",
@@ -7,10 +46,10 @@
     "price": 224900,
     "price_text": "224 900 €",
     "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/220/193836220.jpg?t=1784600406",
+    "image": "https://www.bazos.sk/img/1t/220/193836220.jpg?t=1784609524",
     "condition": "neznamy",
     "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
-    "found_at": "2026-07-21T03:37:58.719109+00:00"
+    "found_at": "2026-07-21T03:37:58.719133+00:00"
   },
   {
     "id": "bazos:193834257",
@@ -234,17 +273,30 @@
     "found_at": "2026-07-06T19:22:55.653442+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju1joTNjQ3J",
+    "id": "nehnutelnosti:JuxQAp2RJDW",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/J77PFFhns_fss?st=wkySnOtQGYc9iekkDdNBI9JbMZV_VfGDrnjRUCPdpvA&ts=1784112861&e=0",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
-    "found_at": "2026-06-30T21:34:59.048695+00:00"
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Jaskový rad, Bratislava-",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   },
   {
     "id": "bazos:192673256",
