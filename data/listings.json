@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:Jus4CasLMBD",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj priestranny 3 izbovy byt s balkonom pivnicou a dobrymi moznostami parkovania",
+    "url": "https://www.nehnutelnosti.sk/detail/Jus4CasLMBD/herrys-na-predaj-priestranny-3-izbovy-byt-s-balkonom-pivnicou-a-dobrymi-moznostami-parkovania",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
+    "found_at": "2026-07-22T03:35:26.432671+00:00"
+  },
+  {
+    "id": "bazos:193868393",
+    "portal": "bazos",
+    "title": "1- izbový byt na  ulici Kazanská",
+    "url": "https://reality.bazos.sk/inzerat/193868393/1-izbovy-byt-na-ulici-kazanska.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/393/193868393.jpg?t=1784687887",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt v mestskej časti Podunajské Biskupice na Kazanskej ulici. Byt sa nachádza na 6. poschodí bytového domu z roku 2005 a jeho celková výmera je 35 m².\r\nByt je vhodný na vlastné bývanie aj ako investičná nehnuteľnosť. Aktuálne je prenajatý, pričom existuje možnosť kúpy aj ",
+    "found_at": "2026-07-22T03:35:26.432652+00:00"
+  },
+  {
+    "id": "bazos:193868405",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Os",
+    "url": "https://reality.bazos.sk/inzerat/193868405/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-os.php",
+    "price": 205000,
+    "price_text": "205 000 €",
+    "location": "Bratislava 821 02",
+    "image": "https://www.bazos.sk/img/1t/405/193868405.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Iveta Molnárová, kontakt: 0903 379 150, nehnuteľnosť s ID: BA-73044:\nPonúkame Vám na predaj pekný 1,5 izbový byt o výmere 42,30 m2 s pivnicou na medziposchodí + zasklená loggia 4,5 m2. Nehnuteľnosť sa nachádza v príjemnej lokalite s kompletnou občianskou vybavenosť",
+    "found_at": "2026-07-22T03:35:26.432650+00:00"
+  },
+  {
     "id": "bazos:193867074",
     "portal": "bazos",
     "title": "IBA U NÁS Príjemný byt 2+1, 55m2, balkón, Zálužická, Bratis",
@@ -65,19 +104,6 @@
     "found_at": "2026-07-21T14:15:05.398004+00:00"
   },
   {
-    "id": "bazos:193852164",
-    "portal": "bazos",
-    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
-    "url": "https://reality.bazos.sk/inzerat/193852164/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
-    "price": 175980,
-    "price_text": "175 980 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/164/193852164.jpg?t=1784674514",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
-    "found_at": "2026-07-21T11:55:39.160302+00:00"
-  },
-  {
     "id": "bazos:193823233",
     "portal": "bazos",
     "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
@@ -98,7 +124,7 @@
     "price": 205000,
     "price_text": "205 000 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1784640209",
+    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1784689213",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
@@ -182,6 +208,19 @@
     "found_at": "2026-07-13T17:20:30.023839+00:00"
   },
   {
+    "id": "nehnutelnosti:JuBGw9qQSKS",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj dvojizbovy byt bratislava ruzinov vlcie hrdlo exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuBGw9qQSKS/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-vlcie-hrdlo-exkluzivne-halo-reality",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
+    "found_at": "2026-07-13T03:51:53.146013+00:00"
+  },
+  {
     "id": "bazos:193514884",
     "portal": "bazos",
     "title": "TUreality | Ponúka na predaj svetlý 2-izbový byt na...",
@@ -219,6 +258,32 @@
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj útuľný 1 izbový byt p projekte Vila domy- Slnečnice na Fialovej ulici v mestskej časti Bratislava- Petržalka. Byt sa nachádza na 3. poschodí zatepleného bytového domu s výťahom. \n\nVÝHODY \n+ výborné dispozičné riešenie s balkónom\n+ kompletne zariadený, stačí sa nasťah ...",
     "found_at": "2026-07-09T08:36:07.812632+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "bazos:193394237",
