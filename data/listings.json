@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/048/193882048.jpg",
     "condition": "neznamy",
     "desc": "Gravitas ponúka exkluzívne na predaj úplne nový 1-izbový byt v projekte Pekná cesta, ktorý sa nachádza v atraktívnej a vyhľadávanej bratislavskej mestskej časti Rača, Horská ulica. V projekte Pekná cesta si svoje vysnívané bývanie nájde naozaj každý – single ľudia aj mladé páry, ale aj rodiny s deťm",
-    "found_at": "2026-07-22T11:57:48.291050+00:00"
+    "found_at": "2026-07-22T11:57:48.291075+00:00"
   },
   {
     "id": "bazos:193883081",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/081/193883081.jpg",
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Adámiho\n\rMestská časť: Rovnice\n\rObec: Bratislava-Karlova Ves\n\r\n\rVytvorte si bývanie, ktoré bude odrážať váš štýl. Priestranný 2-izbový byt s balkónom v jednej z najžiadanejších lokalít Bratislavy ponúka ideálny základ pre váš nový domov.\n\nPonúkame na predaj 2-izbový byt s b",
-    "found_at": "2026-07-22T11:57:48.291048+00:00"
+    "found_at": "2026-07-22T11:57:48.291073+00:00"
   },
   {
     "id": "bazos:193883796",
@@ -36,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/796/193883796.jpg",
     "condition": "neznamy",
     "desc": "Hľadáte skvelú investičnú príležitosť s okamžitým výnosom a minimálnymi starosťami? Tento zariadený jednoizbový byt s priestrannou lodžiou situovaný v bezprostrednej blízkosti závodu Volkswagen disponuje permanentným dopytom po bývaní. Kúpte, prenajmite a inkasujte profit od prvého dňa.\r\n\r\nRealitná ",
-    "found_at": "2026-07-22T11:57:48.291046+00:00"
+    "found_at": "2026-07-22T11:57:48.291071+00:00"
   },
   {
     "id": "bazos:193876130",
@@ -50,19 +50,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt na ul. Wilsonova, BA I – Staré Mesto.\r\n\r\nVýmera 49,1 m2, nachádza sa na 3.p./5 v tehlovom dome, byt je bez balkóna. K bytu patrí pivnica cca 10 m2.\r\n\r\nByt je orientovaný do ulice Wilsonova s výhľadom do ulice.\r\n\r\nMesačné náklady: cca 191 € • Konštrukcia: tehla • Bytov",
     "found_at": "2026-07-22T09:33:35.599193+00:00"
-  },
-  {
-    "id": "bazos:193873238",
-    "portal": "bazos",
-    "title": "RADO | GARZÓNKA | 38 m² | PRENAJATÁ ZA 660 € | J. Jonáša - D",
-    "url": "https://reality.bazos.sk/inzerat/193873238/rado-garzonka-38-m-prenajata-za-660-e-j-jonasa-d.php",
-    "price": 121900,
-    "price_text": "121 900 €",
-    "location": "Bratislava 841 08",
-    "image": "https://www.bazos.sk/img/1t/238/193873238.jpg",
-    "condition": "neznamy",
-    "desc": "RADO Reality vám ponúka na predaj investičnú garzónku na ulici Jána Jonáša 9 v Bratislave – Devínskej Novej Vsi.\r\n\r\nByt sa nachádza na 12/12 poschodí bytového domu a disponuje výmerou 38 m² vrátane loggie a pivnice. Garzónka sa predáva zariadená podľa fotografií a je pripravená na okamžité bývanie a",
-    "found_at": "2026-07-22T06:39:15.023500+00:00"
   },
   {
     "id": "bazos:193874616",
@@ -169,6 +156,19 @@
     "found_at": "2026-07-15T14:03:10.502042+00:00"
   },
   {
+    "id": "nehnutelnosti:JuCzPNunDyS",
+    "portal": "nehnutelnosti",
+    "title": "Moderne byvanie v projekte solar alebo vyborna investicna prilezitost tento byt ponuka oboje",
+    "url": "https://www.nehnutelnosti.sk/detail/JuCzPNunDyS/moderne-byvanie-v-projekte-solar-alebo-vyborna-investicna-prilezitost-tento-byt-ponuka-oboje",
+    "price": 249990,
+    "price_text": "249 990",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/eW9Fy8_N-_fss?st=ojIxgSXmdQwteVs65FqlSLN33AXSfWYftzy05JI91CM&ts=1784026463&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petržalka, okres Bratislava V 2 izbový byt 57 m² 249 990 € 4 385,79 €/m² Moderné bývanie v projekte SOLAR alebo výborná investičná príležitosť? Tento byt ponúka oboje. Bratislava-Petržal",
+    "found_at": "2026-07-14T11:39:56.561073+00:00"
+  },
+  {
     "id": "bazos:192164912",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -180,19 +180,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici.\r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľnosť je v pôvodnom stave, čo ponúka ideálnu príležitos",
     "found_at": "2026-07-13T17:20:30.023839+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JulRLYIZChT",
-    "portal": "nehnutelnosti",
-    "title": "Arvin and benet velkorysy vzdusny byt s vyhladom do parku v ziadanej casti lamaca",
-    "url": "https://www.nehnutelnosti.sk/detail/JulRLYIZChT/arvin-and-benet-velkorysy-vzdusny-byt-s-vyhladom-do-parku-v-ziadanej-casti-lamaca",
-    "price": 235000,
-    "price_text": "235 000",
-    "location": "Bratislava-Lamač",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_Bg3a40NT_fss?st=SVmnyG1uq_PPtetqTo7v-iPuNtYopJsmg5_tOibr14Y&ts=1783970075&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Arvin & Benet | Veľkorysý, vzdušný byt s výhľadom do parku v žiadanej časti Lamača Studenohorská 2079, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 60.38 m² 235 000 € 3 892,02 €/m² Arvin & Benet | Veľkorysý, vzdušný byt s výhľadom do parku v žiadanej časti Lamača Studenohorská 2079, Br",
-    "found_at": "2026-07-12T11:19:55.692169+00:00"
   },
   {
     "id": "bazos:193514884",
@@ -234,6 +221,19 @@
     "found_at": "2026-07-07T19:17:50.323569+00:00"
   },
   {
+    "id": "bazos:193415794",
+    "portal": "bazos",
+    "title": "1 izbový byt BA Nové Mesto",
+    "url": "https://reality.bazos.sk/inzerat/193415794/1-izbovy-byt-ba-nove-mesto.php",
+    "price": 233000,
+    "price_text": "233 000 €",
+    "location": "Bratislava 821 03",
+    "image": "https://www.bazos.sk/img/1t/794/193415794.jpg?t=1784728843",
+    "condition": "neznamy",
+    "desc": "Moderný 1-izbový byt (nie apartmán) na Bajkalskej ulici je ideálnou voľbou pre tých, ktorí chcú bývať v centre diania alebo hľadajú nehnuteľnosť s overeným investičným potenciálom.\r\nNachádza sa na 3. poschodí bytového domu z roku 2020 a ponúka celkovú výmeru 42 m², z čoho 10m² tvorí priestranný balk",
+    "found_at": "2026-07-07T11:24:35.175609+00:00"
+  },
+  {
     "id": "bazos:193394237",
     "portal": "bazos",
     "title": "1-IZBOVÝ BYT,ČIASTOČNÁ REKONŠTRUKCIA,RUŽINOV,31m2",
@@ -245,19 +245,6 @@
     "condition": "povodny",
     "desc": "TUreality ponúka na predaj 1-izbový byt po staršej rekonštrukcii o výmere 31m2 a k bytu prináleží aj pivnica o výmere 2m2. Byt sa nachádza na treťom poschodí zo štyroch, bez výťahu. Byt dispozične pozostáva z chodby, kuchyne, izby, kúpeľne spojenou s WC. Obytný dom je tehlový, udržiavaný a nachádza ",
     "found_at": "2026-07-06T19:22:55.653442+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju1joTNjQ3J",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/J77PFFhns_fss?st=wkySnOtQGYc9iekkDdNBI9JbMZV_VfGDrnjRUCPdpvA&ts=1784112861&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
-    "found_at": "2026-06-30T21:34:59.048695+00:00"
   },
   {
     "id": "bazos:192673256",
