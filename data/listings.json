@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/074/193867074.jpg",
     "condition": "neznamy",
     "desc": "AstonReal ponúka vo výhradnom zastúpení majiteľa príjemný 2-izbový byt s balkónom o celkovej výmere cca 56m2 v starej časti Ružinova v Bratislave.\r\nByt sa nachádza na prvom poschodí zo šiestich v zateplenom panelovom bytovom dome. Dom je situovaný v v tichej lokalite, je obklopený množstvom zelene a",
-    "found_at": "2026-07-21T22:09:28.983362+00:00"
+    "found_at": "2026-07-21T22:09:28.983389+00:00"
   },
   {
     "id": "bazos:193862302",
@@ -65,32 +65,6 @@
     "found_at": "2026-07-21T14:15:05.398004+00:00"
   },
   {
-    "id": "bazos:193851438",
-    "portal": "bazos",
-    "title": "Predaj 2 izb. byt na Záhradníckej ul. Bratislava Staré Mesto",
-    "url": "https://reality.bazos.sk/inzerat/193851438/predaj-2-izb-byt-na-zahradnickej-ul-bratislava-stare-mesto.php",
-    "price": 224499,
-    "price_text": "224 499 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/438/193851438.jpg?t=1784630943",
-    "condition": "neznamy",
-    "desc": "Predstavujeme Vám na predaj 2 izbový byt na Zahradníckej ulici č. 8 v Bratislave – M.č. Staré Mesto. \n\n Byt sa nachádza na 2. poschodí, pozostáva z 2 obytných miestností s príslušenstvom: predsieň, kuchyňa, 2 x samostatná izba, kúpeľňa s WC a pivnica v suteréne. \n- celková podlahová plocha 38,00 m²\n",
-    "found_at": "2026-07-21T11:55:39.160305+00:00"
-  },
-  {
-    "id": "bazos:193851769",
-    "portal": "bazos",
-    "title": "Zariadený apartmán využívaný na bývanie",
-    "url": "https://reality.bazos.sk/inzerat/193851769/zariadeny-apartman-vyuzivany-na-byvanie.php",
-    "price": 75000,
-    "price_text": "75 000 €",
-    "location": "Bratislava 831 07",
-    "image": "https://www.bazos.sk/img/1t/769/193851769.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: Garsónka\n\rUlica: Rybničná\n\rObec: Bratislava-Vajnory\n\r\n\rPonúkame na predaj prakticky riešený nebytový priestor na Rybničnej ulici v Bratislave, ktorý je aktuálne využívaný na dlhodobý prenájom a zariadený na komfortné bývanie.\n\nPriestor má výmeru 34 m² a disponuje aj malou terasou. Nachádza sa n",
-    "found_at": "2026-07-21T11:55:39.160304+00:00"
-  },
-  {
     "id": "bazos:193852164",
     "portal": "bazos",
     "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
@@ -98,7 +72,7 @@
     "price": 175980,
     "price_text": "175 980 €",
     "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/164/193852164.jpg?t=1784646312",
+    "image": "https://www.bazos.sk/img/1t/164/193852164.jpg?t=1784674514",
     "condition": "neznamy",
     "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
     "found_at": "2026-07-21T11:55:39.160302+00:00"
