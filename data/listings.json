@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193929804",
+    "portal": "bazos",
+    "title": "Predám apartmán Tehelne pole Bratislava",
+    "url": "https://reality.bazos.sk/inzerat/193929804/predam-apartman-tehelne-pole-bratislava.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/804/193929804.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj moderný a kompletne zariadený 1-izbový apartmán v prestížnom projekte Tehelné pole postavené v roku 2020 na Bajkalská ulica. Ide o jednu z najvyhľadávanejších mestských lokalít v Bratislava s kompletnou občianskou vybavenosťou, športovým zázemím a výbornou dostupnosťou do centra a",
+    "found_at": "2026-07-23T21:17:20.271075+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuDdiMpysv-",
     "portal": "nehnutelnosti",
     "title": "Na predaj slnecny byt 30 m2 s balkonom a nadhernym vyhladom",
@@ -10,7 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/4ENAklKnu_fss?st=BP3_G0Py3O_QXZ6dzeWX0hvqQFdWq4j8ULa3ZZmCYmU&ts=1784831764&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Na predaj: Slnečný byt 30 m² s balkónom a nádherným výhľadom Ľuda Zúbka 1, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 37 m² 163 900 € 4 429,73 €/m² Na predaj: Slnečný byt 30 m² s balkónom a nádherným výhľadom Ľuda Zúbka 1, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 37 m",
-    "found_at": "2026-07-23T19:39:18.616884+00:00"
+    "found_at": "2026-07-23T19:39:18.616898+00:00"
   },
   {
     "id": "bazos:193929004",
@@ -23,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/004/193929004.jpg?t=1784835508",
     "condition": "neznamy",
     "desc": "Na predaj útulná 2-garzónka v pokojnej časti Petržalky – Vranovská ulica\r\nHľadáte bývanie vo výbornej lokalite s množstvom zelene a rýchlou dostupnosťou do centra? Ponúkame na predaj príjemnú 2-garzónku s výmerou 36 m², situovanú na 2. poschodí zo 7 bytového domu na obľúbenej Vranovskej ulici v Petr",
-    "found_at": "2026-07-23T19:39:18.616863+00:00"
+    "found_at": "2026-07-23T19:39:18.616895+00:00"
   },
   {
     "id": "bazos:193923969",
@@ -128,19 +141,6 @@
     "condition": "neznamy",
     "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
     "found_at": "2026-07-23T10:32:43.939769+00:00"
-  },
-  {
-    "id": "bazos:193908164",
-    "portal": "bazos",
-    "title": "Štýlový 2-izbový byt s potenciálom v príjemnej lokalite pri",
-    "url": "https://reality.bazos.sk/inzerat/193908164/stylovy-2-izbovy-byt-s-potencialom-v-prijemnej-lokalite-pri.php",
-    "price": 224900,
-    "price_text": "224 900 €",
-    "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/164/193908164.jpg?t=1784819640",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
-    "found_at": "2026-07-23T07:41:16.358816+00:00"
   },
   {
     "id": "bazos:193823233",
