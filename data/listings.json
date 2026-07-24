@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193932177",
+    "portal": "bazos",
+    "title": "2-izb. byt - Ovručská ul.",
+    "url": "https://reality.bazos.sk/inzerat/193932177/2-izb-byt-ovrucska-ul.php",
+    "price": 250000,
+    "price_text": "250 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/177/193932177.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Ovručská\n\rObec: Bratislava-Nové Mesto\n\r\n\rPonúkame na predaj 2-izb. byt neďaleko Račianskeho mýta, na Ovručskej ul..\nLokalita: veľmi dobrá lokalite v širšom centre s kompletnou občianskou vybavenosťou a dobrým prístupom do centra Bratislavy.\nDispozícia: Byt pozostáva z  ...",
+    "found_at": "2026-07-24T04:23:41.214284+00:00"
+  },
+  {
     "id": "bazos:193931374",
     "portal": "bazos",
     "title": "Investičný 1 izbový byt blízko tehelného pola Bratislava...",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/374/193931374.jpg",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 1-izbový byt v modernom bytovom komplexe na Bajkalskej ulici v Bratislave – Nové Mesto. Byt sa nachádza na 2. z 6 poschodí, má výmeru 35 m2 a je vhodný na vlastné bývanie aj ako investičný byt na prenájom.\r\n?\r\n\r\nLOKALITA\r\nByt je situovaný v novšom polyfunkčnom projekte v b",
-    "found_at": "2026-07-24T00:08:05.723124+00:00"
+    "found_at": "2026-07-24T00:08:05.723157+00:00"
   },
   {
     "id": "bazos:193929804",
@@ -115,19 +128,6 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária Graft ponúka zaujímavý byt na Studenohorskej ulici v Lamači – vyhľadávanej a obľúbenej štvrti Bratislavy. Pôvodne 1-izbový, dnes šikovne upravený na 2-izbový – ideálny pre jednotlivca, pár či menšiu rodinu.\r\n\r\nČo byt ponúka\r\n\r\npôvodná 1-izbová dispozícia, dnes upravená na 2 izby\r",
     "found_at": "2026-07-23T12:45:29.905866+00:00"
-  },
-  {
-    "id": "bazos:193910797",
-    "portal": "bazos",
-    "title": "Kompletne zariadený 2-izbový byt s balkónom | Juhozápadná or",
-    "url": "https://reality.bazos.sk/inzerat/193910797/kompletne-zariadeny-2-izbovy-byt-s-balkonom-juhozapadna-or.php",
-    "price": 216900,
-    "price_text": "216 900 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/797/193910797.jpg?t=1784808528",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rObec: Bratislava-Dúbravka\n\r\n\rSú byty, do ktorých sa musíte najskôr investične pustiť. A potom sú byty, do ktorých si stačí priniesť osobné veci a okamžite bývať.\n\nPonúkame na predaj štýlový a kompletne zariadený 2-izbový byt s podlahovou plochou 40,11 m² a zaskleným ...",
-    "found_at": "2026-07-23T10:32:43.939773+00:00"
   },
   {
     "id": "bazos:193911315",
@@ -247,19 +247,6 @@
     "found_at": "2026-07-07T11:24:35.175609+00:00"
   },
   {
-    "id": "bazos:193394237",
-    "portal": "bazos",
-    "title": "1-IZBOVÝ BYT,ČIASTOČNÁ REKONŠTRUKCIA,RUŽINOV,31m2",
-    "url": "https://reality.bazos.sk/inzerat/193394237/1-izbovy-bytciastocna-rekonstrukciaruzinov31m2.php",
-    "price": 168999,
-    "price_text": "168 999 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/237/193394237.jpg?t=1784273461",
-    "condition": "povodny",
-    "desc": "TUreality ponúka na predaj 1-izbový byt po staršej rekonštrukcii o výmere 31m2 a k bytu prináleží aj pivnica o výmere 2m2. Byt sa nachádza na treťom poschodí zo štyroch, bez výťahu. Byt dispozične pozostáva z chodby, kuchyne, izby, kúpeľne spojenou s WC. Obytný dom je tehlový, udržiavaný a nachádza ",
-    "found_at": "2026-07-06T19:22:55.653442+00:00"
-  },
-  {
     "id": "nehnutelnosti:Ju1joTNjQ3J",
     "portal": "nehnutelnosti",
     "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
@@ -280,7 +267,7 @@
     "price": 199990,
     "price_text": "199 990 €",
     "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/256/192673256.jpg?t=1784765281",
+    "image": "https://www.bazos.sk/img/1t/256/192673256.jpg?t=1784852032",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73146:\nPonúkame na predaj slnečný 1-izbový byt na Trnavskej ulici v mestskej časti Bratislava - Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 1-izbový byt \n - úžitková plocha 30,9 m2 \n - 2. poschodie \n - me",
     "found_at": "2026-06-30T21:03:45.062569+00:00"
