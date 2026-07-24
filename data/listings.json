@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193958031",
+    "portal": "bazos",
+    "title": "1 izbový byt na ulici Nobelova",
+    "url": "https://reality.bazos.sk/inzerat/193958031/1-izbovy-byt-na-ulici-nobelova.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 831 01",
+    "image": "https://www.bazos.sk/img/1t/031/193958031.jpg?t=1784924730",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 1 izbový byt na ulici Nobelova v Bratislave – Nové Mesto.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 39,5 m2.\r\nByt sa nachádza na 4. poschodí zo 7, je bez balkóna.\r\nK bytu patrí pivnica ",
+    "found_at": "2026-07-24T20:36:38.292213+00:00"
+  },
+  {
     "id": "bazos:193952321",
     "portal": "bazos",
     "title": "Veľký 2 iz. byt v pokojnej lokalite na začiatku Petržalky",
@@ -63,32 +76,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame kompletne zariadenú garsónku v obľúbenej časti Petržalka - lúky na Znievskej ulici č. 9.  Byt sa nachádza na 4. poschodí bytového domu s výťahom. Výmera bytu je 24 m² + loggia o výmere 4 m².\r\n\r\nGarsónka prešla rekonštrukciou približne pred 10 rokmi a predáva sa kompletne zariadená, takže je",
     "found_at": "2026-07-24T12:24:46.469693+00:00"
-  },
-  {
-    "id": "bazos:193945429",
-    "portal": "bazos",
-    "title": "1- izbový byt na  Nobelovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193945429/1-izbovy-byt-na-nobelovej-ulici.php",
-    "price": 178000,
-    "price_text": "178 000 €",
-    "location": "Bratislava 831 02",
-    "image": "https://www.bazos.sk/img/1t/429/193945429.jpg?t=1784896082",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj svetlý a prakticky riešený 1-izbový byt vo vyhľadávanej lokalite Bratislava III – Nové Mesto, na Nobelovej ulici.\r\nByt sa nachádza na 4. poschodí bytového domu a má celkovú výmeru 39,48 m². Dispozične pozostáva z priestrannej obytnej izby, samostatnej kuchyne, kúpeľne, samostatnéh",
-    "found_at": "2026-07-24T10:26:53.460096+00:00"
-  },
-  {
-    "id": "bazos:193945432",
-    "portal": "bazos",
-    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
-    "url": "https://reality.bazos.sk/inzerat/193945432/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/432/193945432.jpg?t=1784896088",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
-    "found_at": "2026-07-24T10:26:53.460094+00:00"
   },
   {
     "id": "bazos:193823233",
