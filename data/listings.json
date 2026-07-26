@@ -1,5 +1,57 @@
 [
   {
+    "id": "bazos:193998922",
+    "portal": "bazos",
+    "title": "2- izbový byt na Rovníkovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193998922/2-izbovy-byt-na-rovnikovej-ulici.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 821 02",
+    "image": "https://www.bazos.sk/img/1t/922/193998922.jpg?t=1785064226",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
+    "found_at": "2026-07-26T12:11:09.946373+00:00"
+  },
+  {
+    "id": "bazos:193998925",
+    "portal": "bazos",
+    "title": "1- izbový byt na  Nobelovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/193998925/1-izbovy-byt-na-nobelovej-ulici.php",
+    "price": 178000,
+    "price_text": "178 000 €",
+    "location": "Bratislava 831 02",
+    "image": "https://www.bazos.sk/img/1t/925/193998925.jpg?t=1785064226",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj svetlý a prakticky riešený 1-izbový byt vo vyhľadávanej lokalite Bratislava III – Nové Mesto, na Nobelovej ulici.\r\nByt sa nachádza na 4. poschodí bytového domu a má celkovú výmeru 39,48 m². Dispozične pozostáva z priestrannej obytnej izby, samostatnej kuchyne, kúpeľne, samostatnéh",
+    "found_at": "2026-07-26T12:11:09.946371+00:00"
+  },
+  {
+    "id": "bazos:193998923",
+    "portal": "bazos",
+    "title": "1 izbový byt na Nivách, Kvetná ulica",
+    "url": "https://reality.bazos.sk/inzerat/193998923/1-izbovy-byt-na-nivach-kvetna-ulica.php",
+    "price": 172500,
+    "price_text": "172 500 €",
+    "location": "Bratislava 821 08",
+    "image": "https://www.bazos.sk/img/1t/923/193998923.jpg?t=1785064228",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
+    "found_at": "2026-07-26T12:11:09.946370+00:00"
+  },
+  {
+    "id": "bazos:193998930",
+    "portal": "bazos",
+    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
+    "url": "https://reality.bazos.sk/inzerat/193998930/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/930/193998930.jpg?t=1785064232",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
+    "found_at": "2026-07-26T12:11:09.946368+00:00"
+  },
+  {
     "id": "bazos:193994468",
     "portal": "bazos",
     "title": "1 izbový byt v Bratislave - Karlovej Vsi",
@@ -10,59 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/468/193994468.jpg?t=1785055595",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestranný 1 izbový byt na Donnerovej  ulici v Bratislave – Karlovej Vsi, v zateplenom bytovom dome. Tento byt spája zachovalý stav po staršej čiastočnej rekonštrukcii a bývanie v pokojnej, veľmi príjemnej lokalite Karlovej Vsi. \r\n\r\nInformácie o byte:\r\n - zateplený bytový dom s v",
-    "found_at": "2026-07-26T10:08:34.496507+00:00"
-  },
-  {
-    "id": "bazos:193997680",
-    "portal": "bazos",
-    "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193997680/2-izbovy-byt-na-rovnikovej-ulici.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/680/193997680.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-07-26T10:08:34.496505+00:00"
-  },
-  {
-    "id": "bazos:193997684",
-    "portal": "bazos",
-    "title": "1- izbový byt na  Nobelovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/193997684/1-izbovy-byt-na-nobelovej-ulici.php",
-    "price": 178000,
-    "price_text": "178 000 €",
-    "location": "Bratislava 831 02",
-    "image": "https://www.bazos.sk/img/1t/684/193997684.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj svetlý a prakticky riešený 1-izbový byt vo vyhľadávanej lokalite Bratislava III – Nové Mesto, na Nobelovej ulici.\r\nByt sa nachádza na 4. poschodí bytového domu a má celkovú výmeru 39,48 m². Dispozične pozostáva z priestrannej obytnej izby, samostatnej kuchyne, kúpeľne, samostatnéh",
-    "found_at": "2026-07-26T10:08:34.496503+00:00"
-  },
-  {
-    "id": "bazos:193997683",
-    "portal": "bazos",
-    "title": "1 izbový byt na Nivách, Kvetná ulica",
-    "url": "https://reality.bazos.sk/inzerat/193997683/1-izbovy-byt-na-nivach-kvetna-ulica.php",
-    "price": 172500,
-    "price_text": "172 500 €",
-    "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/683/193997683.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
-    "found_at": "2026-07-26T10:08:34.496501+00:00"
-  },
-  {
-    "id": "bazos:193997685",
-    "portal": "bazos",
-    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
-    "url": "https://reality.bazos.sk/inzerat/193997685/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/685/193997685.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
-    "found_at": "2026-07-26T10:08:34.496499+00:00"
+    "found_at": "2026-07-26T10:08:34.496533+00:00"
   },
   {
     "id": "bazos:193987476",
@@ -78,19 +78,6 @@
     "found_at": "2026-07-26T04:34:04.241514+00:00"
   },
   {
-    "id": "nehnutelnosti:JucQx0aOM0O",
-    "portal": "nehnutelnosti",
-    "title": "Exkluzivny 1 izbovy byt s predzahradkou na ulici m schneidera trnavskeho",
-    "url": "https://www.nehnutelnosti.sk/detail/JucQx0aOM0O/exkluzivny-1-izbovy-byt-s-predzahradkou-na-ulici-m-schneidera-trnavskeho",
-    "price": 219900,
-    "price_text": "219 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/U8uD6Yjs__fss?st=2G7qHAIwEuYFnIikN3z9i7tsMW1tFzpqnB66saiTl3s&ts=1778489685&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 1-izbový byt s predzáhradkou, kompletne zariadený, M. Schneidra Trnavského, Dúbravka. M. Schneidra - Trnavského, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 37 m² 219 900 € 5 943,24 €/m² 1-izbový byt s predzáhradkou, kompletne zariadený, M. Schneidra Trnavského, Dúbravka. M. Schnei",
-    "found_at": "2026-07-25T09:57:39.740987+00:00"
-  },
-  {
     "id": "bazos:193929804",
     "portal": "bazos",
     "title": "Predám 1-izbový byt Tehelne pole Bratislava",
@@ -104,19 +91,6 @@
     "found_at": "2026-07-23T21:17:20.271107+00:00"
   },
   {
-    "id": "nehnutelnosti:JubJ9l2x8ZO",
-    "portal": "nehnutelnosti",
-    "title": "1 izb byt ba raca",
-    "url": "https://www.nehnutelnosti.sk/detail/JubJ9l2x8ZO/1-izb-byt-ba-raca",
-    "price": 145000,
-    "price_text": "145 000",
-    "location": "Bratislava-Rača",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/zwYiiz_Gj_fss?st=NMZ4DJa_zoMrlRqgkIyKmet87dmu7nLLZ1R4xUlcwbI&ts=1784015495&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 1-IZB. BYT - BA, RAČA Na pasekách 23, Bratislava-Rača, okres Bratislava III 1 izbový byt 28 m² 145 000 € 5 178,57 €/m² 1-IZB. BYT - BA, RAČA Na pasekách 23, Bratislava-Rača, okres Bratislava III 1 izbový byt 28 m² Hľadáte investíciu, ktorá okamžite zarába a nevyžaduje si žiadny počiatočný st",
-    "found_at": "2026-07-21T09:33:16.507177+00:00"
-  },
-  {
     "id": "bazos:193823233",
     "portal": "bazos",
     "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
@@ -128,19 +102,6 @@
     "condition": "neznamy",
     "desc": "Základné informácie:\r\nPonúkame na predaj 2-izbový byt  vo vyhľadávanej a tichej lokalite na ulici Bradáčova v mestskej časti Bratislava V - Petržalka o výmere 55m2. Byt sa nachádza na 5/12 poschodí v panelovom bytovom dome. Byt má vynikajúcu a vysoko praktickú dispozíciu. Všetky miestnosti majú samo",
     "found_at": "2026-07-20T14:28:02.205334+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JunSpKGKGOv",
-    "portal": "nehnutelnosti",
-    "title": "Idealna 2 izbova startovacia nehnutelnost alebo investicny byt v bratislave 2",
-    "url": "https://www.nehnutelnosti.sk/detail/JunSpKGKGOv/idealna-2-izbova-startovacia-nehnutelnost-alebo-investicny-byt-v-bratislave-2",
-    "price": 145000,
-    "price_text": "145 000",
-    "location": "Bratislava-Podunajské Biskupice",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/UvHwnqwPe_fss?st=XA86cD4dOKETufJ0DeRds9-uZrkRJB3v2fAa0PP18eQ&ts=1781174475&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Ideálny 2 izb. byt - vrátane vlastného parkovania - ideálny na štart alebo ako investičný byt v BA 2 Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 36.7 m² 145 000 € 3 950,95 €/m² Ideálny 2 izb. byt - vrátane vlastného parkovania - ideálny na štart alebo ako investičný byt",
-    "found_at": "2026-07-18T21:02:07.876543+00:00"
   },
   {
     "id": "bazos:193754097",
@@ -221,17 +182,17 @@
     "found_at": "2026-07-07T11:24:35.175609+00:00"
   },
   {
-    "id": "nehnutelnosti:JuleTCLLIRD",
+    "id": "nehnutelnosti:Ju1joTNjQ3J",
     "portal": "nehnutelnosti",
-    "title": "Halo reality predaj jednoizbovy byt bratislava stare mesto lazaretska exkluzivne halo reality",
-    "url": "https://www.nehnutelnosti.sk/detail/JuleTCLLIRD/halo-reality-predaj-jednoizbovy-byt-bratislava-stare-mesto-lazaretska-exkluzivne-halo-reality",
-    "price": 219000,
-    "price_text": "219 000",
-    "location": "Bratislava Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/q1-74wUL5_fss?st=4V4izlzE8GlhBfdNbl7zSBCaZ9HqSq71aYX7GvNkfB0&ts=1779408449&e=0",
+    "title": "Herrys na predaj investicny 15 izbovy byt pri racianskom myte a blumentali",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju1joTNjQ3J/herrys-na-predaj-investicny-15-izbovy-byt-pri-racianskom-myte-a-blumentali",
+    "price": 239000,
+    "price_text": "239 000",
+    "location": "Bratislava-Staré Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/J77PFFhns_fss?st=wkySnOtQGYc9iekkDdNBI9JbMZV_VfGDrnjRUCPdpvA&ts=1784112861&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 35 m² 219 000 € 6 257,14 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO RE",
-    "found_at": "2026-07-02T10:20:29.077180+00:00"
+    "desc": "PREMIUM HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 53.28 m² 239 000 € 4 485,74 €/m² HERRYS - Na predaj investičný 1,5-izbový byt pri Račianskom mýte a Blumentáli Šancová, Bratislava-Staré Mesto, okres",
+    "found_at": "2026-06-30T21:34:59.048695+00:00"
   },
   {
     "id": "bazos:192967272",
