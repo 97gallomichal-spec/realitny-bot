@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:193987476",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Dúbravka, H",
+    "url": "https://reality.bazos.sk/inzerat/193987476/halo-reality-predaj-dvojizbovy-byt-bratislava-dubravka-h.php",
+    "price": 214990,
+    "price_text": "214 990 €",
+    "location": "Bratislava 841 02",
+    "image": "https://www.bazos.sk/img/1t/476/193987476.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
+    "found_at": "2026-07-26T04:34:04.241486+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuGOR47mV4W",
     "portal": "nehnutelnosti",
     "title": "Rk4 predaj 2 i byt ihned k nastahovaniu",
@@ -76,32 +89,6 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Agátová\n\rObec: Bratislava-Dúbravka\n\r\n\rAké je to bývať v Dúbravke pod lesom, v projekte, ktorý má málo bytov, apartmán smerom do ticha prírody, na súkromnej ulici, s privátnym dvorom, komunitným bazénom a spoločenskou miestnosťou len pre bývajúcich? Odpoveď na túto otázku ná",
     "found_at": "2026-07-25T09:57:39.740985+00:00"
-  },
-  {
-    "id": "bazos:193962210",
-    "portal": "bazos",
-    "title": "Štýlový 2-izbový byt s potenciálom v príjemnej lokalite pri",
-    "url": "https://reality.bazos.sk/inzerat/193962210/stylovy-2-izbovy-byt-s-potencialom-v-prijemnej-lokalite-pri.php",
-    "price": 224900,
-    "price_text": "224 900 €",
-    "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/210/193962210.jpg?t=1784971020",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám ponúka na predaj príjemný 2 izbový byt pripravený na okamžité nasťahovanie. Bývanie v pokojnej lokalite plnej zelene, no zároveň s výbornou dostupnosťou do centra mesta? Tu ste na správnom mieste.\nTento byt na Olbrachtovej ulici vás osloví svojou atmosférou, praktickou dispozíciou ",
-    "found_at": "2026-07-25T07:24:58.000444+00:00"
-  },
-  {
-    "id": "bazos:193962217",
-    "portal": "bazos",
-    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
-    "url": "https://reality.bazos.sk/inzerat/193962217/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
-    "price": 175980,
-    "price_text": "175 980 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/217/193962217.jpg?t=1784970961",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
-    "found_at": "2026-07-25T07:24:58.000443+00:00"
   },
   {
     "id": "bazos:193963913",
