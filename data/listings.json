@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194080748",
+    "portal": "bazos",
+    "title": "Test 2-izbový byt NSK-52856 lazy can-publish",
+    "url": "https://reality.bazos.sk/inzerat/194080748/test-2-izbovy-byt-nsk-52856-lazy-can-publish.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/obrazky/empty.gif",
+    "condition": "neznamy",
+    "desc": "Testovaci inzerat vytvoreny pri overovani odlozenia check-can-publish na novom formulari. Sluzi vyhradne na kontrolu sietovych volani a publikacneho flow na lokalnom dev prostredi.",
+    "found_at": "2026-07-28T21:16:48.082468+00:00"
+  },
+  {
     "id": "bazos:194074691",
     "portal": "bazos",
     "title": "2-izbový byt v Ružinove | Priestor pre vaše predstavy aj inv",
