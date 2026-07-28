@@ -1,5 +1,44 @@
 [
   {
+    "id": "bazos:194050819",
+    "portal": "bazos",
+    "title": "✅ Veľkometrážny 2-izbový byt (91 m²) s potenciálom na 3-izbo",
+    "url": "https://reality.bazos.sk/inzerat/194050819/velkometrazny-2-izbovy-byt-91-m-s-potencialom-na-3-izbo.php",
+    "price": 199890,
+    "price_text": "199 890 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/819/194050819.jpg",
+    "condition": "neznamy",
+    "desc": "! Táto nehnuteľnosť je momentálne rezervovaná. Rezervácia neznamená realizovaný predaj, preto ak máte záujem, zavolajte nám a budeme vás kontakovať v prípade, ak by sa nehnuteľnosť vrátila späť do ponuky. \n\nRealitná kancelária RE/MAX ponúka na predaj nadštandardne priestranný 2-izbový byt s možnosťo",
+    "found_at": "2026-07-28T04:18:50.548442+00:00"
+  },
+  {
+    "id": "bazos:194050821",
+    "portal": "bazos",
+    "title": "✅ Veľkometrážny 2-izbový byt (91 m²) s potenciálom na 3-izbo",
+    "url": "https://reality.bazos.sk/inzerat/194050821/velkometrazny-2-izbovy-byt-91-m-s-potencialom-na-3-izbo.php",
+    "price": 199890,
+    "price_text": "199 890 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/821/194050821.jpg",
+    "condition": "neznamy",
+    "desc": "! Táto nehnuteľnosť je momentálne rezervovaná. Rezervácia neznamená realizovaný predaj, preto ak máte záujem, zavolajte nám a budeme vás kontakovať v prípade, ak by sa nehnuteľnosť vrátila späť do ponuky. \n\nRealitná kancelária RE/MAX ponúka na predaj nadštandardne priestranný 2-izbový byt s možnosťo",
+    "found_at": "2026-07-28T04:18:50.548440+00:00"
+  },
+  {
+    "id": "bazos:194051031",
+    "portal": "bazos",
+    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
+    "url": "https://reality.bazos.sk/inzerat/194051031/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
+    "price": 175980,
+    "price_text": "175 980 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/031/194051031.jpg?t=1785205321",
+    "condition": "neznamy",
+    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
+    "found_at": "2026-07-28T04:18:50.548439+00:00"
+  },
+  {
     "id": "bazos:194047218",
     "portal": "bazos",
     "title": "NA PREDAJ Garsónka 28m² Bratislava Petrzalka Holicska ulica",
@@ -104,32 +143,6 @@
     "found_at": "2026-07-27T17:05:41.841777+00:00"
   },
   {
-    "id": "bazos:194036760",
-    "portal": "bazos",
-    "title": "2-izbový byt v srdci obľúbeného Ružinova – Exnárova ul.",
-    "url": "https://reality.bazos.sk/inzerat/194036760/2-izbovy-byt-v-srdci-oblubeneho-ruzinova-exnarova-ul.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 821 03",
-    "image": "https://www.bazos.sk/img/1t/760/194036760.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v srdci obľúbeného Ružinova na Exnárovej ulici. Byt je ideálny pre nového majiteľa, ktorý hľadá nehnuteľnosť na pretvorenie podľa vlastných predstáv, alebo ako výbornú investičnú príležitosť.\r\n\r\nZákladné informácie:\r\nLokalita: Exnárová ul., Ružinov (vyhľadávaná, tichá",
-    "found_at": "2026-07-27T15:07:01.585021+00:00"
-  },
-  {
-    "id": "bazos:194037830",
-    "portal": "bazos",
-    "title": "Na predaj 2-izbový byt vo vyhľadávanej a pokojnej časti brat",
-    "url": "https://reality.bazos.sk/inzerat/194037830/na-predaj-2-izbovy-byt-vo-vyhladavanej-a-pokojnej-casti-brat.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 821 03",
-    "image": "https://www.bazos.sk/img/1t/830/194037830.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj 2-izbový byt vo vyhľadávanej a pokojnej časti bratislavského Ružinova na Exnárovej ulici. Byt predstavuje ideálnu príležitosť pre záujemcov, ktorí si chcú vytvoriť bývanie podľa vlastných predstáv, ale aj pre investorov hľadajúcich nehnuteľnosť s vysokým potenciálom zhodnoteni",
-    "found_at": "2026-07-27T15:07:01.585019+00:00"
-  },
-  {
     "id": "bazos:194040045",
     "portal": "bazos",
     "title": "útulná garzónka v tichej časti",
@@ -163,7 +176,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/476/193987476.jpg?t=1785131753",
+    "image": "https://www.bazos.sk/img/1t/476/193987476.jpg?t=1785199132",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-07-26T04:34:04.241514+00:00"
@@ -180,19 +193,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj moderný a kompletne zariadený 1-izbový apartmán s možnosťou zriadenia trvalého pobytu v prestížnom projekte Tehelné pole postavené v roku 2020 na Bajkalská ulica. Ide o jednu z najvyhľadávanejších mestských lokalít v Bratislava s kompletnou občianskou vybavenosťou, športovým zázem",
     "found_at": "2026-07-23T21:17:20.271107+00:00"
-  },
-  {
-    "id": "bazos:193823233",
-    "portal": "bazos",
-    "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
-    "url": "https://reality.bazos.sk/inzerat/193823233/2-izbovy-byt-bratislava-v-petrzalka-ulica-bradacova.php",
-    "price": 230000,
-    "price_text": "230 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/233/193823233.jpg?t=1784553409",
-    "condition": "neznamy",
-    "desc": "Základné informácie:\r\nPonúkame na predaj 2-izbový byt  vo vyhľadávanej a tichej lokalite na ulici Bradáčova v mestskej časti Bratislava V - Petržalka o výmere 55m2. Byt sa nachádza na 5/12 poschodí v panelovom bytovom dome. Byt má vynikajúcu a vysoko praktickú dispozíciu. Všetky miestnosti majú samo",
-    "found_at": "2026-07-20T14:28:02.205334+00:00"
   },
   {
     "id": "bazos:193754097",
@@ -219,6 +219,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúkajú 1 izbový byt svetlý byt s výmerou 36 m2 v novšej tehlovej bytovke v bratislavskej Karlovej Vsi, vo vyhľadávanej lokalite Hlaváčikova ul. Byt pozostáva zo vstupnej chodby , ktorá prechádza  do priestranného obývacieho priestoru s oddeliteľným kuchynským kútom. Kuchyňa je vybavená s",
     "found_at": "2026-07-15T14:03:10.502046+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuBGw9qQSKS",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj dvojizbovy byt bratislava ruzinov vlcie hrdlo exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuBGw9qQSKS/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-vlcie-hrdlo-exkluzivne-halo-reality",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/G3TNIvrJy_fss?st=vTsEZt6kvobH503v2nx3UG0BDGw0ivp6WLoUiuyfRxQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 165 000 € 4 230,77 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlči",
+    "found_at": "2026-07-13T03:51:53.146013+00:00"
   },
   {
     "id": "bazos:193421986",
@@ -267,7 +280,7 @@
     "price": 154900,
     "price_text": "154 900 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/777/192337777.jpg?t=1785172575",
+    "image": "https://www.bazos.sk/img/1t/777/192337777.jpg?t=1785207417",
     "condition": "neznamy",
     "desc": "Útulná, kompletne zariadená garsónka na Vilovej: Bývanie bez starostí a skvelá investícia\nRealitná kancelária ARCHEUS, pobočka Bratislava Euroveatower, Vám exkluzívne ponúka na predaj príjemnú, kompletne zariadenú garsónku vo vyhľadávanej a skvele dostupnej lokalite Petržalky – na Vilovej ulici.\nHľa",
     "found_at": "2026-06-30T21:03:45.062619+00:00"
