@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194083084",
+    "portal": "bazos",
+    "title": "2 izbový byt na predaj.",
+    "url": "https://reality.bazos.sk/inzerat/194083084/2-izbovy-byt-na-predaj.php",
+    "price": 184900,
+    "price_text": "184 900 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/084/194083084.jpg",
+    "condition": "neznamy",
+    "desc": "Na predaj 2-izbový byt – Podunajské Biskupice\n\nPonúkame na predaj prakticky riešený 2-izbový byt nachádzajúci sa v mestskej časti Podunajské Biskupice. Byt je situovaný na 1. poschodí bytového domu a má celkovú výmeru 43,6 m².\n\n3D obhliadku si môžete pozrieť tu: https://my.matterport.com/show/?m=Xmv",
+    "found_at": "2026-07-29T03:29:55.612909+00:00"
+  },
+  {
+    "id": "bazos:194083125",
+    "portal": "bazos",
+    "title": "REZERVOVANÉ 2-izbový byt 56,06 m², Kazanská, Podunajské Bisk",
+    "url": "https://reality.bazos.sk/inzerat/194083125/rezervovane-2-izbovy-byt-5606-m-kazanska-podunajske-bisk.php",
+    "price": 199900,
+    "price_text": "199 900 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/125/194083125.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária Maxim Real vám exkluzívne ponúka na predaj 2-izbový byt v projekte Ecohouse na Kazanskej ulici v Bratislave – Podunajské Biskupice.\r\nByt sa nachádza v modernom bytovom dome kolaudovanom v roku 2016 a je ideálny pre jednotlivca, pár aj ako investícia na prenájom.\r\n\r\nByt má výmeru ",
+    "found_at": "2026-07-29T03:29:55.612907+00:00"
+  },
+  {
     "id": "bazos:194080748",
     "portal": "bazos",
     "title": "Test 2-izbový byt NSK-52856 lazy can-publish",
@@ -76,19 +102,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt na ul. Holíčska, Petržalka. \r\n\r\nÚžitková plocha 34,91 m² (byt + pivnica), byt sa nachádza na 1. poschodí z 12, panelový dom s dvoma výťahmi. \r\n\r\nDispozícia:\r\nJedna samostatná izba, samostatná kuchyňa s jedálenským kútom, kúpeľňa s WC, predsieň. K bytu prislúcha vlastn",
     "found_at": "2026-07-28T10:43:20.839702+00:00"
-  },
-  {
-    "id": "bazos:194060226",
-    "portal": "bazos",
-    "title": "Reality KOMPLEX s.r.o., Vám ponúka na predaj 1-izbový byt v",
-    "url": "https://reality.bazos.sk/inzerat/194060226/reality-komplex-sro-vam-ponuka-na-predaj-1-izbovy-byt-v.php",
-    "price": 185000,
-    "price_text": "185 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/226/194060226.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame Vám na predaj 1-izbový byt v bratislavskej časti Podunajské Biskupice, s výbornou dostupnosťou a kompletnou občianskou vybavenosťou v okolí.\n\nByt má rozlohu 35 m², a nachádza sa na 6. poschodí z 8 v bytovom ...",
-    "found_at": "2026-07-28T07:44:25.225719+00:00"
   },
   {
     "id": "bazos:193664285",
