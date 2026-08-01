@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:JusjeHdiHb9",
+    "portal": "nehnutelnosti",
+    "title": "Agentsk predaj 1 izboveho bytu s balkonom petrzalka slnecnice",
+    "url": "https://www.nehnutelnosti.sk/detail/JusjeHdiHb9/agentsk-predaj-1-izboveho-bytu-s-balkonom-petrzalka-slnecnice",
+    "price": null,
+    "price_text": "Cena dohodou",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/yBMEOPNgW_fss?st=w4jWpA4HUTqXgY2K1N_wtsvVjWl34EkHCK1q-qG6cUc&ts=1785581063&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM AGENT.SK | Predaj 1-izbového bytu s balkónom, Petržalka - Slnečnice Zobraziť ulicu , Bratislava-Petržalka, okres Bratislava V 1 izbový byt 43 m² Info v RK AGENT.SK | Predaj 1-izbového bytu s balkónom, Petržalka - Slnečnice Zobraziť ulicu , Bratislava-Petržalka, okres Bratislava V 1 izbový by",
+    "found_at": "2026-08-01T13:46:37.655294+00:00"
+  },
+  {
+    "id": "bazos:194191541",
+    "portal": "bazos",
+    "title": "2- izbový byt na Rovníkovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/194191541/2-izbovy-byt-na-rovnikovej-ulici.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/541/194191541.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
+    "found_at": "2026-08-01T13:46:37.655274+00:00"
+  },
+  {
+    "id": "bazos:194191568",
+    "portal": "bazos",
+    "title": "1 izbový byt na Nivách, Kvetná ulica",
+    "url": "https://reality.bazos.sk/inzerat/194191568/1-izbovy-byt-na-nivach-kvetna-ulica.php",
+    "price": 172500,
+    "price_text": "172 500 €",
+    "location": "Bratislava 820 01",
+    "image": "https://www.bazos.sk/img/1t/568/194191568.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1 izbový a slnečný byt orientovaný na juh, vo vyhľadávanej lokalite Nivy, na ulici Kvetná. Byt disponuje výmerou 31 m2, nachádza sa na 2. poschodí (prvé je označené ako prízemie) v bytovom dome, ktorý prešiel čiastočne obnovou. Dispozícia bytu: \r\n\r\n- vstupná chodba\r\n- samostatná k",
+    "found_at": "2026-08-01T13:46:37.655272+00:00"
+  },
+  {
+    "id": "bazos:194191579",
+    "portal": "bazos",
+    "title": "ZNÍŽENÁ CENA 2- izbový byt v pôvodnom stave na Olbrachtovej",
+    "url": "https://reality.bazos.sk/inzerat/194191579/znizena-cena-2-izbovy-byt-v-povodnom-stave-na-olbrachtovej.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/579/194191579.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
+    "found_at": "2026-08-01T13:46:37.655270+00:00"
+  },
+  {
     "id": "bazos:194184683",
     "portal": "bazos",
     "title": "2-izbový byt s balkónom v Ružinove – Exnárova ulica",
@@ -59,7 +111,7 @@
     "price": 155000,
     "price_text": "155 000 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/034/194174034.jpg?t=1785576217",
+    "image": "https://www.bazos.sk/img/1t/034/194174034.jpg?t=1785589203",
     "condition": "neznamy",
     "desc": "Útulná, kompletne zariadená garsónka na Vilovej: Bývanie bez starostí a skvelá investícia\nRealitná kancelária ARCHEUS, pobočka Bratislava Euroveatower, Vám exkluzívne ponúka na predaj príjemnú, kompletne zariadenú garsónku vo vyhľadávanej a skvele dostupnej lokalite Petržalky – na Vilovej ulici.\nHľa",
     "found_at": "2026-08-01T03:43:38.139024+00:00"
@@ -130,19 +182,6 @@
     "found_at": "2026-07-31T17:48:04.662308+00:00"
   },
   {
-    "id": "bazos:194162891",
-    "portal": "bazos",
-    "title": "1- izbový byt na Veternicovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/194162891/1-izbovy-byt-na-veternicovej-ulici.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/891/194162891.jpg?t=1785504858",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
-    "found_at": "2026-07-31T13:03:18.332961+00:00"
-  },
-  {
     "id": "bazos:194120172",
     "portal": "bazos",
     "title": "Na predaj veľký 1-izbový byt na Trenčianskej ulici – 45 m²",
@@ -154,6 +193,19 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestranný 1-izbový byt s výmerou 45 m², ktorý sa nachádza na 4. poschodí bytového domu na Trenčianskej ulici.\r\n\r\nByt je v slušnom pôvodnom stave, vďaka čomu ponúka novému majiteľovi možnosť rekonštrukcie podľa vlastných predstáv. Je vhodný na vlastné bývanie aj ako investícia na",
     "found_at": "2026-07-30T06:36:43.651422+00:00"
+  },
+  {
+    "id": "bazos:194111191",
+    "portal": "bazos",
+    "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
+    "url": "https://reality.bazos.sk/inzerat/194111191/predaj-1-izbovy-byt-v-centre-bratislavy-sancova-ulica-ti.php",
+    "price": 210000,
+    "price_text": "210 000 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/191/194111191.jpg?t=1785582996",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici.\r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľnosť je v pôvodnom stave, čo ponúka ideálnu príležitos",
+    "found_at": "2026-07-29T19:37:40.847688+00:00"
   },
   {
     "id": "bazos:194096927",
@@ -234,19 +286,6 @@
     "found_at": "2026-07-26T04:34:04.241514+00:00"
   },
   {
-    "id": "reality:1",
-    "portal": "reality",
-    "title": "Babony TRE I Predaj Štýlový 1-izb byt kompletne zariadený Karlova Ves",
-    "url": "https://www.reality.sk/byty/babony-tre-i-predaj-stylovy-1-izb-byt-kompletne-zariadeny-karlova-ves/JuiOgJjHksX/",
-    "price": null,
-    "price_text": "Cena dohodou",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/ZgTLt9_4n_fss?st=AFxbCB5Y5KP1T-yMlxViH2oqlHmVrlmRf0K7aax6SO4&amp;ts=1784299213&amp;e=0",
-    "condition": "neznamy",
-    "desc": "Štýlový 1-izbový byt | Kompletné zariadenie | Klimatizácia | Nízke náklady | Karlova Ves – Dlhé Diely\r\n\r\nBabony TRE I Ponúkame na predaj nadštandardne zariadený 1-izbový byt na Veternicovej ulici v obľúbenej lokalite Karlova Ves – Dlhé Diely. Byt má celkovú výmeru 36,09 m² a nachádza sa na 2. poscho",
-    "found_at": "2026-07-25T09:57:39.740989+00:00"
-  },
-  {
     "id": "bazos:193929804",
     "portal": "bazos",
     "title": "Predám 1-izbový byt Tehelne pole Bratislava",
@@ -310,19 +349,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 51,8 m2, ktorý sa nachádza na Rajeckej ulici v mestskej časti Bratislava – Vrakuňa.\r\n\r\nByt je situovaný na 6. poschodí v zateplenom bytovom dome s výťahom. K bytu prislúcha kobka s výmerou 1,5 m2, ktorá poskytuje praktický úložný priestor.\r\n\r\nNehnute",
     "found_at": "2026-07-10T12:07:17.999750+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuaLUO0q-TJ",
-    "portal": "nehnutelnosti",
-    "title": "Predaj klimatizovana garsonka so zasklenou lodziou bratislava v petrzalka blagoevova ulica",
-    "url": "https://www.nehnutelnosti.sk/detail/JuaLUO0q-TJ/predaj-klimatizovana-garsonka-so-zasklenou-lodziou-bratislava-v-petrzalka-blagoevova-ulica",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava V - Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Wg2q675pP_fss?st=NlHUSuK0LF1fVAkEcdvvOan9FCfTbkgEHBg7t9zArNs&ts=1781784520&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj klimatizovaná garsónka so zasklenou lodžiou, Bratislava V - Petržalka, Blagoevova ulica Zobraziť ulicu , Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² Predaj klimatizovaná garsónka so zasklenou lodžiou, Bratislava V - Petržalka, Blagoevova ulica Zobra",
-    "found_at": "2026-07-08T14:34:27.365592+00:00"
   },
   {
     "id": "bazos:192673256",
