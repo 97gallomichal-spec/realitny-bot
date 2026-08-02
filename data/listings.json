@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194201617",
+    "portal": "bazos",
+    "title": "1-IZBOVÝ BYT,ČIASTOČNÁ REKONŠTRUKCIA,RUŽINOV,37m2",
+    "url": "https://reality.bazos.sk/inzerat/194201617/1-izbovy-bytciastocna-rekonstrukciaruzinov37m2.php",
+    "price": 169999,
+    "price_text": "169 999 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/617/194201617.jpg",
+    "condition": "povodny",
+    "desc": "TUreality ponúka na predaj 1-izbový byt po staršej rekonštrukcii o výmere 35m2 k bytu taktiež prináleží pivnica o výmere 2m2. Byt sa nachádza na prvom poschodí z troch. Byt dispozične pozostáva z chodby, kuchyne, izby a kúpeľne s vaňou spojenou s WC. Obytný dom je tehlový nachádza sa na ulici Mileti",
+    "found_at": "2026-08-02T03:44:03.236166+00:00"
+  },
+  {
+    "id": "bazos:194201913",
+    "portal": "bazos",
+    "title": "ŠTARTOVACÍ 2i  Byt _ Krasňany",
+    "url": "https://reality.bazos.sk/inzerat/194201913/startovaci-2i-byt-krasnany.php",
+    "price": 235000,
+    "price_text": "235 000 €",
+    "location": "Bratislava 831 51",
+    "image": "https://www.bazos.sk/img/1t/913/194201913.jpg",
+    "condition": "neznamy",
+    "desc": "Predaj 2 izbový byt _ Hečkova ul.č.6, Bratislava - Rača\n\nHľadáte prakticky riešený 2 izbový byt nachádzajúci sa na 2. N.P./ 7.N.P., ktorý je možno využiť ako ŠTARTOVACÍ bytík alebo investičné zhodnotenie?\n\nByt disponuje s rozlohou 50,6 m2 a je situovaný na SV a JZ strany.\nVstupom do bytu je otvorené",
+    "found_at": "2026-08-02T03:44:03.236164+00:00"
+  },
+  {
     "id": "bazos:194193718",
     "portal": "bazos",
     "title": "2- izbový byt na Rovníkovej ulici",
@@ -98,7 +124,7 @@
     "price": 155000,
     "price_text": "155 000 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/034/194174034.jpg?t=1785589203",
+    "image": "https://www.bazos.sk/img/1t/034/194174034.jpg?t=1785632357",
     "condition": "neznamy",
     "desc": "Útulná, kompletne zariadená garsónka na Vilovej: Bývanie bez starostí a skvelá investícia\nRealitná kancelária ARCHEUS, pobočka Bratislava Euroveatower, Vám exkluzívne ponúka na predaj príjemnú, kompletne zariadenú garsónku vo vyhľadávanej a skvele dostupnej lokalite Petržalky – na Vilovej ulici.\nHľa",
     "found_at": "2026-08-01T03:43:38.139024+00:00"
@@ -117,43 +143,17 @@
     "found_at": "2026-08-01T03:43:38.139022+00:00"
   },
   {
-    "id": "bazos:194172381",
-    "portal": "bazos",
-    "title": "1-izbový byt s krásnym výhľadom na Malé Karpaty vo vyhľadáva",
-    "url": "https://reality.bazos.sk/inzerat/194172381/1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty-vo-vyhladava.php",
-    "price": 169000,
-    "price_text": "169 000 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/381/194172381.jpg",
+    "id": "nehnutelnosti:JudENQ3Vw6H",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s balkonom v ruzinove exnarova ulica",
+    "url": "https://www.nehnutelnosti.sk/detail/JudENQ3Vw6H/2-izbovy-byt-s-balkonom-v-ruzinove-exnarova-ulica",
+    "price": 220000,
+    "price_text": "220 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/OinDXxcNq_fss?st=AQvjv3R_S0K_hYF3xRtpvKSz7LWY1qU9fcd89k9gnLk&ts=1785520762&e=0",
     "condition": "neznamy",
-    "desc": "Realitná kancelária Y A M I • D O M I ponúka na predaj príjemný 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušen",
-    "found_at": "2026-07-31T21:16:42.500058+00:00"
-  },
-  {
-    "id": "bazos:194172419",
-    "portal": "bazos",
-    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
-    "url": "https://reality.bazos.sk/inzerat/194172419/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
-    "price": 175980,
-    "price_text": "175 980 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/419/194172419.jpg?t=1785612329",
-    "condition": "neznamy",
-    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
-    "found_at": "2026-07-31T21:16:42.500056+00:00"
-  },
-  {
-    "id": "bazos:194169913",
-    "portal": "bazos",
-    "title": "IBA U NÁS Príjemný byt 2+1, 55m2, balkón, Zálužická, Bratis",
-    "url": "https://reality.bazos.sk/inzerat/194169913/iba-u-nas-prijemny-byt-21-55m2-balkon-zaluzicka-bratis.php",
-    "price": 244000,
-    "price_text": "244 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/913/194169913.jpg",
-    "condition": "neznamy",
-    "desc": "AstonReal ponúka vo výhradnom zastúpení majiteľa príjemný 2-izbový byt s balkónom o celkovej výmere cca 56m2 v starej časti Ružinova v Bratislave.\r\nByt sa nachádza na prvom poschodí zo šiestich v zateplenom panelovom bytovom dome. Dom je situovaný v v tichej lokalite, je obklopený množstvom zelene a",
-    "found_at": "2026-07-31T19:46:44.017486+00:00"
+    "desc": "PREMIUM 2-izbový byt s balkónom v Ružinove – Exnárova ulica Zobraziť ulicu , Bratislava-Ružinov, okres Bratislava II 2 izbový byt 56 m² 220 000 € 3 928,57 €/m² 2-izbový byt s balkónom v Ružinove – Exnárova ulica Zobraziť ulicu , Bratislava-Ružinov, okres Bratislava II 2 izbový byt 56 m² MRK & RETEX,",
+    "found_at": "2026-07-31T19:46:44.017488+00:00"
   },
   {
     "id": "bazos:194120172",
