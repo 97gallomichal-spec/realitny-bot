@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/617/194201617.jpg",
     "condition": "povodny",
     "desc": "TUreality ponúka na predaj 1-izbový byt po staršej rekonštrukcii o výmere 35m2 k bytu taktiež prináleží pivnica o výmere 2m2. Byt sa nachádza na prvom poschodí z troch. Byt dispozične pozostáva z chodby, kuchyne, izby a kúpeľne s vaňou spojenou s WC. Obytný dom je tehlový nachádza sa na ulici Mileti",
-    "found_at": "2026-08-02T03:44:03.236166+00:00"
+    "found_at": "2026-08-02T03:44:03.236194+00:00"
   },
   {
     "id": "bazos:194201913",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/913/194201913.jpg",
     "condition": "neznamy",
     "desc": "Predaj 2 izbový byt _ Hečkova ul.č.6, Bratislava - Rača\n\nHľadáte prakticky riešený 2 izbový byt nachádzajúci sa na 2. N.P./ 7.N.P., ktorý je možno využiť ako ŠTARTOVACÍ bytík alebo investičné zhodnotenie?\n\nByt disponuje s rozlohou 50,6 m2 a je situovaný na SV a JZ strany.\nVstupom do bytu je otvorené",
-    "found_at": "2026-08-02T03:44:03.236164+00:00"
+    "found_at": "2026-08-02T03:44:03.236193+00:00"
   },
   {
     "id": "bazos:194193718",
@@ -310,6 +310,32 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 51,8 m2, ktorý sa nachádza na Rajeckej ulici v mestskej časti Bratislava – Vrakuňa.\r\n\r\nByt je situovaný na 6. poschodí v zateplenom bytovom dome s výťahom. K bytu prislúcha kobka s výmerou 1,5 m2, ktorá poskytuje praktický úložný priestor.\r\n\r\nNehnute",
     "found_at": "2026-07-10T12:07:17.999750+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuxQAp2RJDW",
+    "portal": "nehnutelnosti",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bra",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bra",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   },
   {
     "id": "bazos:192673256",
