@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194325134",
+    "portal": "bazos",
+    "title": "2 izbový byt v Ružinove",
+    "url": "https://reality.bazos.sk/inzerat/194325134/2-izbovy-byt-v-ruzinove.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 03",
+    "image": "https://www.bazos.sk/img/1t/134/194325134.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária BOND Reality ponúka na predaj 2-izbový byt na Exnárovej ulici v Ružinove. Výmera bytu je 56m2 + balkón + pivnica. Byt sa nachádza na 6/7 poschodí. V byte súnové plastové okná s izolačným 3-sklom, dve klimatizačné jednotky, kuchyňa po staršek rekonštrukcii a ostatné je v pôvodnom ",
+    "found_at": "2026-08-05T20:36:54.983441+00:00"
+  },
+  {
     "id": "bazos:194322812",
     "portal": "bazos",
     "title": "Na predaj 2 izbový byt, 47 m2, Bratislava, Nové Mesto, Piešť",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/812/194322812.jpg?t=1785953204",
     "condition": "povodny",
     "desc": "Na predaj 2 izbový byt, 47 m2 s menším balkónom, Bratislava, Nové Mesto, Piešťanská ulica\r\n\r\nByt je po staršej čiastočnej rekonštrukcii, vhodný prípadne na rekonštrukciu podľa vlastných predstáv, alebo úprav aktuálneho stavu.\r\n\r\nPodlahová plocha je 46 m2 + 1 m2 balkón, celková plocha bytu je 47 m2. ",
-    "found_at": "2026-08-05T18:42:10.020910+00:00"
+    "found_at": "2026-08-05T18:42:10.020941+00:00"
   },
   {
     "id": "bazos:194318481",
