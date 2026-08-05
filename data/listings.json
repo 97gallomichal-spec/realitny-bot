@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/574/194296574.jpg",
     "condition": "povodny",
     "desc": "TUreality ponúka na predaj 2-izbový byt po staršej rekonštrukcii. Byt o rozlohe 57m2 sa nachádza na treťom poschodí z piatich. K bytu prináleží aj pivnica o rozlohe 2m2. Obytný dom je tehlový a nachádza sa na ulici Karadžičova čo poskytuje výbornú občiansku vybavenosť, MHD, školy, obchody, OC Centrá",
-    "found_at": "2026-08-05T03:25:10.724124+00:00"
+    "found_at": "2026-08-05T03:25:10.724145+00:00"
   },
   {
     "id": "bazos:194297019",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/019/194297019.jpg",
     "condition": "povodny",
     "desc": "Ponúkame na predaj priestranný 2-izbový byt na Olbrachtovej ulici v mestskej časti Bratislava – Nové Mesto. Ponúka výnimočný potenciál na rekonštrukciu podľa vašich predstáv vrátane možnosti dispozičnej úpravy na plnohodnotný 3-izbový byt. Je vhodný na vlastné bývanie aj ako investičná príležitosť.\n",
-    "found_at": "2026-08-05T03:25:10.724122+00:00"
+    "found_at": "2026-08-05T03:25:10.724143+00:00"
   },
   {
     "id": "bazos:194288712",
@@ -284,5 +284,31 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuxQAp2RJDW",
+    "portal": "nehnutelnosti",
+    "title": "1 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuxQAp2RJDW/1-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramarov",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/EKA2TsSZw_fss?st=qLNBBVJnSGCSf2XBZGbDTH535CNOwfXRxd0BommHzKw&ts=1765313768&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bratislava-Nové Mesto, okres Bratislava III 1 izbový byt 37.2 m² 199 900 € 5 373,66 €/m² 1-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bra",
+    "found_at": "2026-07-02T17:15:03.693850+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJQ0mDo-Nn",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt kramare living komfortne mestske byvanie v ziadanej casti kramare",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJQ0mDo-Nn/2-izbovy-byt-kramare-living-komfortne-mestske-byvanie-v-ziadanej-casti-kramare",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z8dWcVgVp_fss?st=NoD52Vzh7SrDPkx8sQcX1TkPQFNM8n2XpDLj6r2Gtdw&ts=1765317130&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 50.8 m² 244 900 € 4 820,87 €/m² 2-izbový byt | Kramáre Living – komfortné mestské bývanie v žiadanej časti Kramáre Zobraziť ulicu , Bra",
+    "found_at": "2026-07-02T17:15:03.693849+00:00"
   }
 ]
