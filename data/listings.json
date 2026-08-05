@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194296574",
+    "portal": "bazos",
+    "title": "2-IZBOVÝ BYT,ČIASTOČNÁ REKONŠTRUKCIA,RUŽINOV,57m2",
+    "url": "https://reality.bazos.sk/inzerat/194296574/2-izbovy-bytciastocna-rekonstrukciaruzinov57m2.php",
+    "price": 249999,
+    "price_text": "249 999 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/574/194296574.jpg",
+    "condition": "povodny",
+    "desc": "TUreality ponúka na predaj 2-izbový byt po staršej rekonštrukcii. Byt o rozlohe 57m2 sa nachádza na treťom poschodí z piatich. K bytu prináleží aj pivnica o rozlohe 2m2. Obytný dom je tehlový a nachádza sa na ulici Karadžičova čo poskytuje výbornú občiansku vybavenosť, MHD, školy, obchody, OC Centrá",
+    "found_at": "2026-08-05T03:25:10.724124+00:00"
+  },
+  {
+    "id": "bazos:194297019",
+    "portal": "bazos",
+    "title": "Priestranný 2-izbový byt s potenciálom prestavby na 3-izbový",
+    "url": "https://reality.bazos.sk/inzerat/194297019/priestranny-2-izbovy-byt-s-potencialom-prestavby-na-3-izbovy.php",
+    "price": 219990,
+    "price_text": "219 990 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/019/194297019.jpg",
+    "condition": "povodny",
+    "desc": "Ponúkame na predaj priestranný 2-izbový byt na Olbrachtovej ulici v mestskej časti Bratislava – Nové Mesto. Ponúka výnimočný potenciál na rekonštrukciu podľa vašich predstáv vrátane možnosti dispozičnej úpravy na plnohodnotný 3-izbový byt. Je vhodný na vlastné bývanie aj ako investičná príležitosť.\n",
+    "found_at": "2026-08-05T03:25:10.724122+00:00"
+  },
+  {
     "id": "bazos:194288712",
     "portal": "bazos",
     "title": "2-izbový byt s balkónom a klímou v Ružinove – Exnárova ulica",
@@ -50,19 +76,6 @@
     "condition": "neznamy",
     "desc": "Krásny, slnečný a zariadený 2-izbový byt na Vietnamskej ulici v mimoriadne žiadanej a tichej lokalite bratislavského Ružinova (časť Trnávka). Tento byt je ideálnou voľbou pre ľudí, ktorí hľadajú pokojné bývanie s kompletnou občianskou vybavenosťou a rýchlym prístupom do centra.\r\n\r\nPriestranná dispoz",
     "found_at": "2026-08-04T17:59:25.407946+00:00"
-  },
-  {
-    "id": "bazos:194283198",
-    "portal": "bazos",
-    "title": "Bývanie s potenciálom – 2-izbový byt s loggiou, Súmračná, Br",
-    "url": "https://reality.bazos.sk/inzerat/194283198/byvanie-s-potencialom-2-izbovy-byt-s-loggiou-sumracna-br.php",
-    "price": 216900,
-    "price_text": "216 900 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/198/194283198.jpg",
-    "condition": "neznamy",
-    "desc": "BYVO realitná kancelária ponúka na predaj 2-izbový byt s loggiou, ktorý predstavuje skvelú príležitosť pre bývanie podľa vlastných predstáv alebo ako investíciu. Byt disponuje praktickou dispozíciou a nachádza sa v obľúbenej lokalite s výbornou občianskou vybavenosťou a dostatkom zelene v okolí.\r\n\r\n",
-    "found_at": "2026-08-04T15:31:44.231129+00:00"
   },
   {
     "id": "bazos:194286420",
