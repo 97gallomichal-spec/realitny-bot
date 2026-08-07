@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:Jua1dvdcRi-",
+    "portal": "nehnutelnosti",
+    "title": "Velky 2 izbovy byt v pokojnej lokalite na zaciatku petrzalky",
+    "url": "https://www.nehnutelnosti.sk/detail/Jua1dvdcRi-/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky",
+    "price": 232000,
+    "price_text": "232 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/eag27345U_fss?st=q0kPaHtBbIjPG2CLtRhVAXp7UofTfniJX68lW6hm86k&ts=1786123392&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² 232 000 € 3 741,94 €/m² Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² MRK & RETE",
+    "found_at": "2026-08-07T17:56:14.325092+00:00"
+  },
+  {
+    "id": "bazos:194381430",
+    "portal": "bazos",
+    "title": "2-izbový byt s balkónom a klímou v Ružinove – Exnárova ulica",
+    "url": "https://reality.bazos.sk/inzerat/194381430/2-izbovy-byt-s-balkonom-a-klimou-v-ruzinove-exnarova-ulica.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/430/194381430.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj priestranný 2-izbový byt vo vyhľadávanej časti bratislavského Ružinova na Exnárovej ulici.\r\n\r\nNachádza sa v príjemnom prostredí s množstvom zelene, kompletnou občianskou vybavenosťou a výbornou d",
+    "found_at": "2026-08-07T17:56:14.325087+00:00"
+  },
+  {
+    "id": "bazos:194381482",
+    "portal": "bazos",
+    "title": "Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky",
+    "url": "https://reality.bazos.sk/inzerat/194381482/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky.php",
+    "price": 232000,
+    "price_text": "232 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/482/194381482.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
+    "found_at": "2026-08-07T17:56:14.325086+00:00"
+  },
+  {
     "id": "bazos:194372547",
     "portal": "bazos",
     "title": "2- izbový byt na Rovníkovej ulici",
@@ -24,19 +63,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestranný 2-izbový byt v pôvodnom stave v obľúbenej lokalite Bratislava – Ružinov, na Olbrachtovej ulici.\r\nByt sa nachádza na zvýšenom prízemí tehlového dvojposchodového bytového domu a disponuje veľkorysou výmerou 79,3 m² (vrátane skladovej miestnosti a pivnice). Vďaka svojej d",
     "found_at": "2026-08-07T11:52:19.426044+00:00"
-  },
-  {
-    "id": "bazos:194371812",
-    "portal": "bazos",
-    "title": "Na predaj 2-izbový byt (D105)s predzáhradkou v STOCKERKE v D",
-    "url": "https://reality.bazos.sk/inzerat/194371812/na-predaj-2-izbovy-byt-d105s-predzahradkou-v-stockerke-v-d.php",
-    "price": 215000,
-    "price_text": "215 000 €",
-    "location": "Bratislava 841 08",
-    "image": "https://www.bazos.sk/img/1t/812/194371812.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rObec: Bratislava-Devínska Nová Ves\n\r\n\rModerný maklér ponúka na predaj 2-izbový byt vo vyhľadávanom projekte STOCKERKA v Devínskej Novej Vsi. Tento rožný byt sa pyšní unikátnou polohou priamo pri lese a vlastnou predzáhradkou – ide o celkovo výnimočnú nehnuteľnosť v rámci celého pr",
-    "found_at": "2026-08-07T11:02:12.457510+00:00"
   },
   {
     "id": "nehnutelnosti:Jud4l7Va8vI",
@@ -169,19 +195,6 @@
     "found_at": "2026-08-02T11:24:08.685075+00:00"
   },
   {
-    "id": "nehnutelnosti:Jul3pETFWzR",
-    "portal": "nehnutelnosti",
-    "title": "3 izbovy byt kramare loggia vyhlad top lokalita",
-    "url": "https://www.nehnutelnosti.sk/detail/Jul3pETFWzR/3-izbovy-byt-kramare-loggia-vyhlad-top-lokalita",
-    "price": 250000,
-    "price_text": "250 000",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/PtNBjrO9J_fss?st=osCOQSThRgSzWxPtXALr0KgGz7yj7r9FUco_sTWFNic&ts=1778012338&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 3-izbový byt za cenu 2-izbového | loggia, výhľad, Koliba za rohom/Video v texte Na Revíne 19, Bratislava-Nové Mesto, okres Bratislava III 3 izbový byt 60.03 m² 250 000 € 4 164,58 €/m² 3-izbový byt za cenu 2-izbového | loggia, výhľad, Koliba za rohom/Video v texte Na Revíne 19, Bratislava-Nov",
-    "found_at": "2026-07-30T16:43:01.543394+00:00"
-  },
-  {
     "id": "bazos:194111191",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -219,19 +232,6 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotýšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový byt v pôvodnom stave (plastové okná) na Lotyšskej ulici v Bratislave – Podunajských Biskupiciach. Byt sa nachádza na 2. poschodí (3. NP) 8 podlažného, zatepleného byt",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
-  },
-  {
-    "id": "bazos:193929804",
-    "portal": "bazos",
-    "title": "Predám 1-izbový byt Tehelne pole Bratislava",
-    "url": "https://reality.bazos.sk/inzerat/193929804/predam-apartman-tehelne-pole-bratislava.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/804/193929804.jpg?t=1784985314",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj moderný a kompletne zariadený 1-izbový apartmán s možnosťou zriadenia trvalého pobytu v prestížnom projekte Tehelné pole postavené v roku 2020 na Bajkalská ulica. Ide o jednu z najvyhľadávanejších mestských lokalít v Bratislava s kompletnou občianskou vybavenosťou, športovým zázem",
-    "found_at": "2026-07-23T21:17:20.271107+00:00"
   },
   {
     "id": "bazos:193823233",
@@ -284,6 +284,19 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
   },
   {
     "id": "nehnutelnosti:Juc5LTEvZB_",
