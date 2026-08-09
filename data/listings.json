@@ -39,19 +39,6 @@
     "found_at": "2026-08-07T11:02:12.457515+00:00"
   },
   {
-    "id": "nehnutelnosti:JuK_KL6d0Hm",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt s balkonom a klimou v ruzinove exnarova ulica",
-    "url": "https://www.nehnutelnosti.sk/detail/JuK_KL6d0Hm/2-izbovy-byt-s-balkonom-a-klimou-v-ruzinove-exnarova-ulica",
-    "price": 220000,
-    "price_text": "220 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/0Ef1Q1567_fss?st=KmtdnIdfaSjYfgonuSA9_PgGklMooIWHUeWBNEqMYwM&ts=1786027275&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 2-izbový byt s balkónom a klímou v Ružinove – Exnárova ulica Exnárova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 56 m² 220 000 € 3 928,57 €/m² 2-izbový byt s balkónom a klímou v Ružinove – Exnárova ulica Exnárova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 56 m² MRK & RE",
-    "found_at": "2026-08-06T15:23:30.352612+00:00"
-  },
-  {
     "id": "bazos:192591104",
     "portal": "bazos",
     "title": "Výmena 2-izbový byt v TT, za podobný byt( 1-izbový ) v BA.",
@@ -102,6 +89,19 @@
     "condition": "neznamy",
     "desc": "Typ: Garsónka\n\rUlica: Ružová dolina\n\rObec: Bratislava-Ružinov\n\r\n\rHľadáte nehnuteľnosť, ktorá nenechá Vaše peniaze požierať infláciou? Byty v tejto lokalite sú dlhodobo najžiadanejším artiklom v Bratislave. Či už hľadáte bezpečný prístav pre investíciu, štartovacie bývanie alebo priestor na podnikani",
     "found_at": "2026-08-05T09:43:23.859275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuKGSJc5QM9",
+    "portal": "nehnutelnosti",
+    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
+    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
+    "price": 249900,
+    "price_text": "249 900",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rZTIGrA_R_fss?st=v_za-WKnUxz6cl2z46rcKtwBlKtqJ6-E5eZxfX9f_I0&ts=1785774882&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
+    "found_at": "2026-08-04T15:31:44.231130+00:00"
   },
   {
     "id": "bazos:194264597",
@@ -241,7 +241,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1786251518",
+    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1786258261",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
@@ -319,7 +319,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/310/193069310.jpg?t=1786251550",
+    "image": "https://www.bazos.sk/img/1t/310/193069310.jpg?t=1786258264",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
     "found_at": "2026-06-30T21:18:27.541473+00:00"
