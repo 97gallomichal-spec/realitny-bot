@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/552/194411552.jpg",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj príjemný 2-izbový byt s loggiou, situovaný na najvyššom poschodí bytového domu v pokojnej lokalite s množstvom zelene. Byt je orientovaný do tichého vnútrobloku, čo zaručuje pokojné bývanie bez ruchu frekventovaných ulíc.\r\n\r\nDISPOZÍCIA A ROZLOHA:\r\nCelková výmera bytu je 43",
-    "found_at": "2026-08-08T23:37:36.305433+00:00"
+    "found_at": "2026-08-08T23:37:36.305455+00:00"
   },
   {
     "id": "bazos:194391795",
@@ -195,6 +195,19 @@
     "found_at": "2026-07-24T10:26:53.460100+00:00"
   },
   {
+    "id": "nehnutelnosti:Jus4CasLMBD",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj priestranny 3 izbovy byt s balkonom pivnicou a dobrymi moznostami parkovania",
+    "url": "https://www.nehnutelnosti.sk/detail/Jus4CasLMBD/herrys-na-predaj-priestranny-3-izbovy-byt-s-balkonom-pivnicou-a-dobrymi-moznostami-parkovania",
+    "price": 159900,
+    "price_text": "159 900",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
+    "found_at": "2026-07-22T03:35:26.432685+00:00"
+  },
+  {
     "id": "bazos:193823233",
     "portal": "bazos",
     "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
@@ -241,7 +254,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1786188841",
+    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1786236890",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
@@ -271,6 +284,45 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuBGw9qQSKS",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj dvojizbovy byt bratislava ruzinov vlcie hrdlo exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuBGw9qQSKS/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-vlcie-hrdlo-exkluzivne-halo-reality",
+    "price": 159900,
+    "price_text": "159 900",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
+    "found_at": "2026-07-13T03:51:53.146013+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": 159900,
+    "price_text": "159 900",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 159900,
+    "price_text": "159 900",
+    "location": "Bratislava Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "reality:13821",
@@ -306,7 +358,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/310/193069310.jpg?t=1786188841",
+    "image": "https://www.bazos.sk/img/1t/310/193069310.jpg?t=1786236887",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
     "found_at": "2026-06-30T21:18:27.541473+00:00"
