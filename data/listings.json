@@ -39,6 +39,19 @@
     "found_at": "2026-08-09T15:39:55.672411+00:00"
   },
   {
+    "id": "bazos:194422553",
+    "portal": "bazos",
+    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
+    "url": "https://reality.bazos.sk/inzerat/194422553/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
+    "price": 140000,
+    "price_text": "140 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/553/194422553.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
+    "found_at": "2026-08-09T09:50:48.220398+00:00"
+  },
+  {
     "id": "bazos:194423175",
     "portal": "bazos",
     "title": "2izb, Lotyšská, 52m2, p.8/8, 3D prehliadka, okamžite k dispo",
@@ -78,19 +91,6 @@
     "found_at": "2026-08-06T15:23:30.352612+00:00"
   },
   {
-    "id": "bazos:192591104",
-    "portal": "bazos",
-    "title": "Výmena 2-izbový byt v TT, za podobný byt( 1-izbový ) v BA.",
-    "url": "https://reality.bazos.sk/inzerat/192591104/vymena-2-izbovy-byt-v-tt-za-podobny-byt-lokalita-v-ba.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/104/192591104.jpg?t=1786097430",
-    "condition": "povodny",
-    "desc": "Vymením 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a komunikujem len z ",
-    "found_at": "2026-08-05T22:17:02.201021+00:00"
-  },
-  {
     "id": "bazos:194322812",
     "portal": "bazos",
     "title": "Na predaj 2 izbový byt, 47 m2, Bratislava, Nové Mesto, Piešť",
@@ -128,6 +128,19 @@
     "condition": "neznamy",
     "desc": "Typ: Garsónka\n\rUlica: Ružová dolina\n\rObec: Bratislava-Ružinov\n\r\n\rHľadáte nehnuteľnosť, ktorá nenechá Vaše peniaze požierať infláciou? Byty v tejto lokalite sú dlhodobo najžiadanejším artiklom v Bratislave. Či už hľadáte bezpečný prístav pre investíciu, štartovacie bývanie alebo priestor na podnikani",
     "found_at": "2026-08-05T09:43:23.859275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju3V836W0go",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava vrakuna bucinova exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju3V836W0go/halo-reality-predaj-jednoizbovy-byt-bratislava-vrakuna-bucinova-exkluzivne-halo-reality",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Vrakuňa",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V5FIlnR1T_fss?st=ogpQPvcAVqHQMs3Q-9PbW66QP3pTmzFW-WGwaT8YAEc&ts=1785091464&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 41 m² 165 000 € 4 024,39 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, B",
+    "found_at": "2026-08-04T03:29:56.194732+00:00"
   },
   {
     "id": "bazos:194264597",
@@ -208,6 +221,19 @@
     "found_at": "2026-07-24T10:26:53.460100+00:00"
   },
   {
+    "id": "nehnutelnosti:Jus4CasLMBD",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj priestranny 3 izbovy byt s balkonom pivnicou a dobrymi moznostami parkovania",
+    "url": "https://www.nehnutelnosti.sk/detail/Jus4CasLMBD/herrys-na-predaj-priestranny-3-izbovy-byt-s-balkonom-pivnicou-a-dobrymi-moznostami-parkovania",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Vrakuňa",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V5FIlnR1T_fss?st=ogpQPvcAVqHQMs3Q-9PbW66QP3pTmzFW-WGwaT8YAEc&ts=1785091464&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 41 m² 165 000 € 4 024,39 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, B",
+    "found_at": "2026-07-22T03:35:26.432685+00:00"
+  },
+  {
     "id": "bazos:193823233",
     "portal": "bazos",
     "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
@@ -271,6 +297,32 @@
     "condition": "neznamy",
     "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
     "found_at": "2026-07-09T22:40:40.296178+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Vrakuňa",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V5FIlnR1T_fss?st=ogpQPvcAVqHQMs3Q-9PbW66QP3pTmzFW-WGwaT8YAEc&ts=1785091464&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 41 m² 165 000 € 4 024,39 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, B",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 165000,
+    "price_text": "165 000",
+    "location": "Bratislava Vrakuňa",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V5FIlnR1T_fss?st=ogpQPvcAVqHQMs3Q-9PbW66QP3pTmzFW-WGwaT8YAEc&ts=1785091464&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 41 m² 165 000 € 4 024,39 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Vrakuňa, Bučinová - EXKLUZÍVNE HALO REALITY Bučinová, B",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "bazos:193069310",
