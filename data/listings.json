@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194476517",
+    "portal": "bazos",
+    "title": "Praktický 2 izbový byt v dobrej lokalite",
+    "url": "https://reality.bazos.sk/inzerat/194476517/prakticky-2-izbovy-byt-v-dobrej-lokalite.php",
+    "price": 235000,
+    "price_text": "235 000 €",
+    "location": "Bratislava 831 51",
+    "image": "https://www.bazos.sk/img/1t/517/194476517.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária BOND Reality ponúka na predaj praktický 2 izbový byt na Hečkovej ulici v Rači. Výmera bytu je 50m2. Byt sa nachádza na 2/8 poschodí. Bytový dom je zateplený a v najbližšej dobe sa chystá výmena výťahu a rekonštrukcia spoločných priestorov. Byt je veľmi dobre dispozične riešený. P",
+    "found_at": "2026-08-11T02:21:02.593775+00:00"
+  },
+  {
+    "id": "bazos:194476646",
+    "portal": "bazos",
+    "title": "Investičný byt s nájomníkom | 1-izbový 38 m² s loggiou | Jaš",
+    "url": "https://reality.bazos.sk/inzerat/194476646/investicny-byt-s-najomnikom-1-izbovy-38-m-s-loggiou-jas.php",
+    "price": 175980,
+    "price_text": "175 980 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/646/194476646.jpg",
+    "condition": "neznamy",
+    "desc": "REWIN reality Vám REWIN reality Vám VÝHRADNE ponúka na predaj 1-izbový byt v žiadanej lokalite Bratislava – Ružinov, na ulici Jašíkova. Byt je aktuálne obsadený stabilným nájomníkom, ktorý má záujem v byte zostať — ideálna príležitosť pre investora hľadajúceho okamžitý výnos bez starostí s hľadaním ",
+    "found_at": "2026-08-11T02:21:02.593774+00:00"
+  },
+  {
     "id": "bazos:194476048",
     "portal": "bazos",
     "title": "Slnečný, zariadený 2-izbový byt s nízkymi nákladmi na...",
@@ -10,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/048/194476048.jpg",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj príjemný a kompletne zariadený 2-izbový byt po čiastočnej rekonštrukcii v pokojnej časti Podunajských Biskupíc. Tento svetlý byt s juhozápadnou orientáciou sa nachádza na 3. poschodí zo 4 v zateplenom bytovom dome, ktorý prešiel kompletnou obnovou.\r\n_______________________",
-    "found_at": "2026-08-10T23:45:16.876472+00:00"
+    "found_at": "2026-08-10T23:45:16.876494+00:00"
   },
   {
     "id": "nehnutelnosti:Ju7zXQN9E2M",
@@ -37,19 +63,6 @@
     "condition": "povodny",
     "desc": "Holicska 9,\r\n9 poschodie\r\nCiastocna rekonstrukcia\r\nPlastove okna\r\nZasklenie logie\r\nNova sanita\r\nMoznos investicie,byt je dlhodobo prenajaty.",
     "found_at": "2026-08-10T19:09:14.942072+00:00"
-  },
-  {
-    "id": "bazos:194466126",
-    "portal": "bazos",
-    "title": "1- izbový byt na Veternicovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/194466126/1-izbovy-byt-na-veternicovej-ulici.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/126/194466126.jpg?t=1786380367",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
-    "found_at": "2026-08-10T15:09:48.828489+00:00"
   },
   {
     "id": "bazos:194466357",
@@ -228,7 +241,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/476/193987476.jpg?t=1786350014",
+    "image": "https://www.bazos.sk/img/1t/476/193987476.jpg?t=1786407632",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-07-26T04:34:04.241514+00:00"
