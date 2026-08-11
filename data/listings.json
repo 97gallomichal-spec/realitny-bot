@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/647/194495647.jpg",
     "condition": "neznamy",
     "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
-    "found_at": "2026-08-11T13:25:21.623990+00:00"
+    "found_at": "2026-08-11T13:25:21.624010+00:00"
   },
   {
     "id": "bazos:194489282",
@@ -91,45 +91,6 @@
     "found_at": "2026-08-10T08:46:41.514096+00:00"
   },
   {
-    "id": "nehnutelnosti:JuLBz7o5xsm",
-    "portal": "nehnutelnosti",
-    "title": "Porubsky realitna kancelaria okamzite obyvatelna garsonka pri drazdiaku s priestorom na vlastne upravy",
-    "url": "https://www.nehnutelnosti.sk/detail/JuLBz7o5xsm/porubsky-realitna-kancelaria-okamzite-obyvatelna-garsonka-pri-drazdiaku-s-priestorom-na-vlastne-upravy",
-    "price": 152900,
-    "price_text": "152 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/crP5Ihmp0_fss?st=QgQ3-1IqP12S2KhludsR5Zp3CkWBU2AgPiExkrgfBQA&ts=1786087404&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM PORUBSKY | Okamžite obývateľná garsónka pri Draždiaku s priestorom na vlastné úpravy Holíčska 13, Bratislava-Petržalka, okres Bratislava V Garsónka 24.12 m² 152 900 € 6 339,14 €/m² PORUBSKY | Okamžite obývateľná garsónka pri Draždiaku s priestorom na vlastné úpravy Holíčska 13, Bratislava-Pe",
-    "found_at": "2026-08-08T13:06:01.403357+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuwaOSMhhte",
-    "portal": "nehnutelnosti",
-    "title": "Zrekonstrovana 2 garsonka s panoramatickym vyhladom a elektrickou priamo pred domom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuwaOSMhhte/zrekonstrovana-2-garsonka-s-panoramatickym-vyhladom-a-elektrickou-priamo-pred-domom",
-    "price": 204990,
-    "price_text": "204 990",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V3akhByeY_fss?st=G690GxgijYHRBfagNbm-22bYhKTN2yG66xMBd4rf71M&ts=1786114922&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM ZREKONŠTROVANÁ 2-garsónka s PANORAMATICKÝM VÝHĽADOM a ELEKTRIČKOU priamo pred domom. Beňadická, Bratislava-Petržalka, okres Bratislava V Dvojgarsónka 41 m² 204 990 € 4 999,76 €/m² ZREKONŠTROVANÁ 2-garsónka s PANORAMATICKÝM VÝHĽADOM a ELEKTRIČKOU priamo pred domom. Beňadická, Bratislava-Petrž",
-    "found_at": "2026-08-07T20:52:10.574764+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
     "id": "bazos:194369335",
     "portal": "bazos",
     "title": "Príjemný 2izb.byt s výťahom v obľúbenej časti Dúbravky, 46m2",
@@ -182,19 +143,6 @@
     "found_at": "2026-08-05T09:43:23.859275+00:00"
   },
   {
-    "id": "bazos:194264597",
-    "portal": "bazos",
-    "title": "Predaj štýlová garsónka Bratislava Ružinov (N317-115-OTKAE)",
-    "url": "https://reality.bazos.sk/inzerat/194264597/predaj-stylova-garsonka-bratislava-ruzinov-n317-115-otkae.php",
-    "price": 165000,
-    "price_text": "165 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/597/194264597.jpg?t=1785826639",
-    "condition": "neznamy",
-    "desc": "Typ: Garsónka\n\rUlica: Herlianska\n\rObec: Bratislava-Ružinov\n\r\n\rPonúkam Vám na predaj štýlovú garsónku v nízkopodlažnom obytnom dome v tichej lokalite Bratislava Ružinov.\n\nGarsónka je kompletne zariadená novým na mieru vstavaným nábytkom, kvalitnými novými elektospotrebičmi, nová kúpeľňa so sprch ...",
-    "found_at": "2026-08-04T03:29:56.194730+00:00"
-  },
-  {
     "id": "bazos:194256493",
     "portal": "bazos",
     "title": "1-izbový byt s balkónom na Trnavskej ceste v BA - Ružinov",
@@ -221,6 +169,19 @@
     "found_at": "2026-08-02T11:24:08.685075+00:00"
   },
   {
+    "id": "bazos:194172381",
+    "portal": "bazos",
+    "title": "1-izbový byt s krásnym výhľadom na Malé Karpaty vo vyhľadáva",
+    "url": "https://reality.bazos.sk/inzerat/194172381/1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty-vo-vyhladava.php",
+    "price": 169000,
+    "price_text": "169 000 €",
+    "location": "Bratislava 841 02",
+    "image": "https://www.bazos.sk/img/1t/381/194172381.jpg?t=1786455143",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária Y A M I • D O M I ponúka na predaj príjemný 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušen",
+    "found_at": "2026-07-31T21:16:42.500058+00:00"
+  },
+  {
     "id": "bazos:194111191",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -232,6 +193,32 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici.\r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľnosť je v pôvodnom stave, čo ponúka ideálnu príležitos",
     "found_at": "2026-07-29T19:37:40.847688+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQcSb3Fb07",
+    "portal": "nehnutelnosti",
+    "title": "Svetla garsonka v modernej bytovke na sintavskej ulici",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQcSb3Fb07/svetla-garsonka-v-modernej-bytovke-na-sintavskej-ulici",
+    "price": 154000,
+    "price_text": "154 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V0bBJrR9o_fss?st=6R9A49FuH_nSFBJsFTe_AD71LiS96cQE5BY202ALAyA&ts=1784730551&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Svetlá garsónka v modernej bytovke na Šintavskej ulici Šintavská, Bratislava-Petržalka, okres Bratislava V Garsónka 23 m² 154 000 € 6 695,65 €/m² Svetlá garsónka v modernej bytovke na Šintavskej ulici Šintavská, Bratislava-Petržalka, okres Bratislava V Garsónka 23 m² Ponúkame na predaj útuln",
+    "found_at": "2026-07-29T15:16:37.727717+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju6LTJ4_uAZ",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 2 izbovy byt 5270 m2 s loggiou pecnianska ul",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju6LTJ4_uAZ/na-predaj-2-izbovy-byt-5270-m2-s-loggiou-pecnianska-ul",
+    "price": 204900,
+    "price_text": "204 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_MZnwQaXl_fss?st=CuYHpRdcV5EklkZfM62p8Ecu_2YQVCTiKS1GKQ3yil0&ts=1785149511&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
+    "found_at": "2026-07-28T10:43:20.839709+00:00"
   },
   {
     "id": "bazos:193987476",
@@ -258,6 +245,19 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JunIKJxl3IB",
+    "portal": "nehnutelnosti",
+    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
+    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
+    "price": 161000,
+    "price_text": "161 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM REZERVOVANÉ: Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² REZERVOVANÉ: Praktická garsónka s lodžiou a pivnic",
+    "found_at": "2026-07-04T16:40:23.741749+00:00"
   },
   {
     "id": "bazos:193069310",
