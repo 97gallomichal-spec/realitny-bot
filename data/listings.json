@@ -7,7 +7,7 @@
     "price": 199990,
     "price_text": "199 990 €",
     "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/552/194508552.jpg",
+    "image": "https://www.bazos.sk/img/1t/552/194508552.jpg?t=1786517416",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73146:\nPonúkame na predaj slnečný 1-izbový byt na Trnavskej ulici v mestskej časti Bratislava - Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 1-izbový byt \n - úžitková plocha 30,9 m2 \n - 2. poschodie \n - me",
     "found_at": "2026-08-12T02:36:28.141628+00:00"
@@ -20,23 +20,10 @@
     "price": 145000,
     "price_text": "145 000 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/683/194505683.jpg?t=1786477894",
+    "image": "https://www.bazos.sk/img/1t/683/194505683.jpg?t=1786519635",
     "condition": "neznamy",
-    "desc": "Ponukam na predaj garzonku v Bratislave-Petrzalke. Vyborna poloha. Blizko centra,Incheby,dialnice (Rakusko, ČR). Kusok od bytu je zastavka autobusov veducich na letisko Swechat. Na peso sa dá prejst aj zo zeleznicnej stanice Petrzalka, kde jazdia vlaky Bratislava-Vieden. Z lodzie je vyhlad na hrad. ",
+    "desc": "Ponukam na predaj garzonku v Bratislave-Petrzalke. Vyborna poloha. Blizko centra,Incheby,dialnice (Rakusko, ČR). Kusok od bytu je zastavka autobusov veducich na letisko Swechat. Na peso sa dá prejst aj zo zeleznicnej stanice Petrzalka, kde jazdia vlaky Bratislava-Vieden. Z loggie je vyhlad na hrad. ",
     "found_at": "2026-08-11T20:57:15.117793+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuMbznjUguN",
-    "portal": "nehnutelnosti",
-    "title": "Exkluzivne na predaj utulny 2 izbovy byt s pivnicou v atraktivnej lokalite stareho mesta ulica soltesovej",
-    "url": "https://www.nehnutelnosti.sk/detail/JuMbznjUguN/exkluzivne-na-predaj-utulny-2-izbovy-byt-s-pivnicou-v-atraktivnej-lokalite-stareho-mesta-ulica-soltesovej",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
-    "found_at": "2026-08-11T19:15:03.521233+00:00"
   },
   {
     "id": "bazos:194500758",
@@ -143,6 +130,19 @@
     "found_at": "2026-08-05T14:29:25.316963+00:00"
   },
   {
+    "id": "nehnutelnosti:JuwA9hpI1kG",
+    "portal": "nehnutelnosti",
+    "title": "Nava investicny 2 izbovy byt v ruzinove s vyhladom na cele mesto",
+    "url": "https://www.nehnutelnosti.sk/detail/JuwA9hpI1kG/nava-investicny-2-izbovy-byt-v-ruzinove-s-vyhladom-na-cele-mesto",
+    "price": 159990,
+    "price_text": "159 990",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/0qiGib2VN_fss?st=WSIvlnSV3LCSJCPZO1QTfGiu_yXfE2ERh7Q45s-UfZ8&ts=1785277395&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NAVA | INVESTIČNÝ 2 IZBOVÝ BYT V RUŽINOVE S VÝHĽADOM NA CELÉ MESTO Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 42 m² 159 990 € 3 809,29 €/m² NAVA | INVESTIČNÝ 2 IZBOVÝ BYT V RUŽINOVE S VÝHĽADOM NA CELÉ MESTO Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový",
+    "found_at": "2026-08-05T09:43:23.859277+00:00"
+  },
+  {
     "id": "bazos:194304070",
     "portal": "bazos",
     "title": "🔥 PREDAJ INVESTIČNEJ GARSÓNKY V OBĽÚBENEJ LOKALITE RUŽINOVA",
@@ -195,6 +195,19 @@
     "found_at": "2026-07-31T21:16:42.500058+00:00"
   },
   {
+    "id": "nehnutelnosti:JuuaV-Z4_jN",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s balkonom v povodnom stave vo vyhladavanej casti ruzinova",
+    "url": "https://www.nehnutelnosti.sk/detail/JuuaV-Z4_jN/2-izbovy-byt-s-balkonom-v-povodnom-stave-vo-vyhladavanej-casti-ruzinova",
+    "price": 218000,
+    "price_text": "218 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/jw-LCr8wL_fss?st=M_jvdy9zA8h7KfnTTWbw8ywfuCwSx48rVlTa0LxQmRI&ts=1785402054&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt s balkónom v pôvodnom stave vo vyhľadávanej časti Ružinova Ostredková, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 50 m² 218 000 € 4 360 €/m² 2-izbový byt s balkónom v pôvodnom stave vo vyhľadávanej časti Ružinova Ostredková, Bratislava-Ružinov, okres Bratislava II 2 iz",
+    "found_at": "2026-07-30T11:59:07.996591+00:00"
+  },
+  {
     "id": "bazos:194111191",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -221,19 +234,6 @@
     "found_at": "2026-07-26T04:34:04.241514+00:00"
   },
   {
-    "id": "nehnutelnosti:Juk62kqVnFU",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/Juk62kqVnFU/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 199 900 € 5 260,53 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-07-18T15:06:01.240366+00:00"
-  },
-  {
     "id": "bazos:193682671",
     "portal": "bazos",
     "title": "Dvojizbový byt pri OC Retro - Rezedová ulica",
@@ -245,32 +245,6 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuBGw9qQSKS",
-    "portal": "nehnutelnosti",
-    "title": "Halo reality predaj dvojizbovy byt bratislava ruzinov vlcie hrdlo exkluzivne halo reality",
-    "url": "https://www.nehnutelnosti.sk/detail/JuBGw9qQSKS/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-vlcie-hrdlo-exkluzivne-halo-reality",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
-    "found_at": "2026-07-13T03:51:53.146013+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTsWhh1aHN",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTsWhh1aHN/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 38 m² 199 900 € 5 260,53 €/m² Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-06-30T21:24:22.153040+00:00"
   },
   {
     "id": "bazos:193069310",
