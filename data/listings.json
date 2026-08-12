@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194537199",
+    "portal": "bazos",
+    "title": "Veľkorysý 2-izbový byt v Starom Meste | Povraznícka ulica |",
+    "url": "https://reality.bazos.sk/inzerat/194537199/velkorysy-2-izbovy-byt-v-starom-meste-povraznicka-ulica.php",
+    "price": 249900,
+    "price_text": "249 900 €",
+    "location": "Bratislava 811 09",
+    "image": "https://www.bazos.sk/img/1t/199/194537199.jpg?t=1786564609",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Povraznícka\n\rObec: Bratislava-Staré Mesto\n\r\n\rRealitná kancelária ponúka na predaj veľkorysý 2-izbový byt s výmerou 60 m² v atraktívnej lokalite bratislavského Starého Mesta, na Povrazníckej ulici.\n\nAk hľadáte byt, ktorý ponúka veľké izby, praktickú dispozíciu, množstvo ...",
+    "found_at": "2026-08-12T20:56:47.969736+00:00"
+  },
+  {
+    "id": "bazos:194537407",
+    "portal": "bazos",
+    "title": "Garsónka v Starom meste.",
+    "url": "https://reality.bazos.sk/inzerat/194537407/garsonka-v-starom-meste.php",
+    "price": 174800,
+    "price_text": "174 800 €",
+    "location": "Bratislava 811 09",
+    "image": "https://www.bazos.sk/img/1t/407/194537407.jpg",
+    "condition": "neznamy",
+    "desc": "Popis nehnuteľnosti\r\nExkluzívna investičná príležitosť v srdci Bratislavy – zariadená garsonka na Záhradníckej ulici.\r\n\r\nPonúkame na predaj štýlovú garsonku s výmerou 23 m², situovanú na 4. poschodí bytového domu vo vyhľadávanej lokalite Bratislava – Staré Mesto, Záhradnícka ulica.\r\n\r\nTáto nehnuteľn",
+    "found_at": "2026-08-12T20:56:47.969734+00:00"
+  },
+  {
     "id": "bazos:194533336",
     "portal": "bazos",
     "title": "Útulný 1-izbový byt v Novom Meste – Kalinčiakova ulica",
@@ -7,7 +33,7 @@
     "price": 185000,
     "price_text": "185 000 €",
     "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/336/194533336.jpg",
+    "image": "https://www.bazos.sk/img/1t/336/194533336.jpg?t=1786563071",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj svetlý a priestranný 1-izbový byt vo vysoko vyhľadávanej lokalite Bratislava – Nové Mesto na Kalinčiakovej ulici. V osobnom vlastníctve.\r\nByt má výmeru 36 m² a nachádza sa na 2. poschodí bytového domu. \r\nDispozíciu tvorí veľká obytná izba, samostatná kuchyňa, kúpeľňa s WC a vstupná",
     "found_at": "2026-08-12T17:06:19.920696+00:00"
@@ -63,19 +89,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj výnimočne priestranný, svetlý a tichý 1 izbový byt s celkovou úžitkovou plochou 51 m² vrátane loggie a pivnice, situovaný na príjemnom 2. podlaží z 3 v nízkopodlažnom bytovom dome na Dopravnej ulici 31–35, v lokalite RAČA/Rendez / Východné, Bratislava III.\r\nSamotný byt má obytnú v",
     "found_at": "2026-08-12T11:54:50.378177+00:00"
-  },
-  {
-    "id": "bazos:194522998",
-    "portal": "bazos",
-    "title": "Predaj útulná garsónka v Bratislava Staré Mesto",
-    "url": "https://reality.bazos.sk/inzerat/194522998/predaj-utulna-garsonka-v-bratislava-stare-mesto.php",
-    "price": 169000,
-    "price_text": "169 000 €",
-    "location": "Bratislava 811 08",
-    "image": "https://www.bazos.sk/img/1t/998/194522998.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj peknú útulnú garsónku s výmerou 22m2 v bratislavskom Starom Meste na ulici Ferienčíkova. Byt je ideálny ako štartovací byt alebo ako investícia vzhľadom na jeho skvelú polohu. \nByt sa nachádza vo vyhľadávanej lokalite s výbornou dostupnosťou do centra mesta. \nVýhodou bytu je jeho ",
-    "found_at": "2026-08-12T10:16:23.437129+00:00"
   },
   {
     "id": "bazos:194453575",
