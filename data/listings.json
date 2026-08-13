@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194539367",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Petržalka,",
+    "url": "https://reality.bazos.sk/inzerat/194539367/halo-reality-predaj-dvojizbovy-byt-bratislava-petrzalka.php",
+    "price": 237000,
+    "price_text": "237 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/367/194539367.jpg?t=1786579953",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Jana Nejedlíková, kontakt: 0948 490 041, nehnuteľnosť s ID: BA-73171:\nPonúkame na predaj nadštandardne veľký 2-izbový byt so samostatnou kuchyňou v Bratislave, v obľúbenej a vyhľadávanej lokalite na začiatku Petržalky. Byt má podlahovú plochu 61,87 m2 vrátane ",
+    "found_at": "2026-08-13T02:38:49.873046+00:00"
+  },
+  {
     "id": "bazos:194537199",
     "portal": "bazos",
     "title": "Veľkorysý 2-izbový byt v Starom Meste | Povraznícka ulica |",
@@ -63,19 +76,6 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Sklabinská\n\rMestská časť: Východné\n\rObec: Bratislava-Rača\n\r\n\rVo výhradnom zastúpení klienta ponúkame na predaj priestranný 2-izbový byt s veľkorysou výmerou, dvomi balkónmi a pivnicou. Byt sa nachádza v tehlovom bytovom dome v pokojnej časti Rače, ktorá ponúka príjemné býva",
     "found_at": "2026-08-12T15:07:38.352908+00:00"
-  },
-  {
-    "id": "bazos:194523253",
-    "portal": "bazos",
-    "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/194523253/2-izbovy-byt-na-rovnikovej-ulici.php",
-    "price": 210000,
-    "price_text": "210 000 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/253/194523253.jpg?t=1786533543",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-08-12T11:54:50.378179+00:00"
   },
   {
     "id": "bazos:194523866",
