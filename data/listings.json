@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194562157",
+    "portal": "bazos",
+    "title": "Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky",
+    "url": "https://reality.bazos.sk/inzerat/194562157/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky.php",
+    "price": 232000,
+    "price_text": "232 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/157/194562157.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
+    "found_at": "2026-08-13T17:06:23.670645+00:00"
+  },
+  {
     "id": "bazos:194557673",
     "portal": "bazos",
     "title": "Lukratívna garzónka na predaj v srdci Bratislavy",
@@ -63,19 +76,6 @@
     "condition": "neznamy",
     "desc": "Popis nehnuteľnosti\r\nExkluzívna investičná príležitosť v srdci Bratislavy – zariadená garsonka na Záhradníckej ulici.\r\n\r\nPonúkame na predaj štýlovú garsonku s výmerou 23 m², situovanú na 4. poschodí bytového domu vo vyhľadávanej lokalite Bratislava – Staré Mesto, Záhradnícka ulica.\r\n\r\nTáto nehnuteľn",
     "found_at": "2026-08-12T20:56:47.969756+00:00"
-  },
-  {
-    "id": "bazos:194533336",
-    "portal": "bazos",
-    "title": "Útulný 1-izbový byt v Novom Meste – Kalinčiakova ulica",
-    "url": "https://reality.bazos.sk/inzerat/194533336/utulny-1-izbovy-byt-v-novom-meste-kalinciakova-ulica.php",
-    "price": 185000,
-    "price_text": "185 000 €",
-    "location": "Bratislava 831 04",
-    "image": "https://www.bazos.sk/img/1t/336/194533336.jpg?t=1786624495",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj svetlý a priestranný 1-izbový byt vo vysoko vyhľadávanej lokalite Bratislava – Nové Mesto na Kalinčiakovej ulici. V osobnom vlastníctve.\r\nByt má výmeru 36 m² a nachádza sa na 2. poschodí bytového domu. \r\nDispozíciu tvorí veľká obytná izba, samostatná kuchyňa, kúpeľňa s WC a vstupná",
-    "found_at": "2026-08-12T17:06:19.920696+00:00"
   },
   {
     "id": "bazos:194453575",
@@ -169,19 +169,6 @@
     "found_at": "2026-08-05T09:43:23.859275+00:00"
   },
   {
-    "id": "nehnutelnosti:JuKGSJc5QM9",
-    "portal": "nehnutelnosti",
-    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
-    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rZTIGrA_R_fss?st=v_za-WKnUxz6cl2z46rcKtwBlKtqJ6-E5eZxfX9f_I0&ts=1785774882&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
-    "found_at": "2026-08-04T15:31:44.231130+00:00"
-  },
-  {
     "id": "bazos:194256493",
     "portal": "bazos",
     "title": "1-izbový byt s balkónom na Trnavskej ceste v BA - Ružinov",
@@ -221,17 +208,17 @@
     "found_at": "2026-07-31T21:16:42.500058+00:00"
   },
   {
-    "id": "nehnutelnosti:JuznXE55wI4",
+    "id": "nehnutelnosti:Jul3pETFWzR",
     "portal": "nehnutelnosti",
-    "title": "Ruzinov 2i priestranny slnecny byt",
-    "url": "https://www.nehnutelnosti.sk/detail/JuznXE55wI4/ruzinov-2i-priestranny-slnecny-byt",
-    "price": 245000,
-    "price_text": "245 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/0tKhLv8ht_fss?st=uBAbO9TsFDQ4IUlsp1xVKvdJBDVYQpmi9SjohYFrbHs&ts=1785409964&e=0",
+    "title": "3 izbovy byt kramare loggia vyhlad top lokalita",
+    "url": "https://www.nehnutelnosti.sk/detail/Jul3pETFWzR/3-izbovy-byt-kramare-loggia-vyhlad-top-lokalita",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/PtNBjrO9J_fss?st=osCOQSThRgSzWxPtXALr0KgGz7yj7r9FUco_sTWFNic&ts=1778012338&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Ružinov 2i priestranný Slnečný byt Vietnamská 49, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 48 m² 245 000 € 5 104,17 €/m² Ružinov 2i priestranný Slnečný byt Vietnamská 49, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 48 m² ENVIRE Vám ponúka krásny, slnečný a zariadený 2-iz",
-    "found_at": "2026-07-30T14:25:53.823886+00:00"
+    "desc": "PREMIUM 3-izbový byt za cenu 2-izbového | loggia, výhľad, Koliba za rohom/Video v texte Na Revíne 19, Bratislava-Nové Mesto, okres Bratislava III 3 izbový byt 60.03 m² 250 000 € 4 164,58 €/m² 3-izbový byt za cenu 2-izbového | loggia, výhľad, Koliba za rohom/Video v texte Na Revíne 19, Bratislava-Nov",
+    "found_at": "2026-07-30T16:43:01.543394+00:00"
   },
   {
     "id": "bazos:194111191",
@@ -245,19 +232,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici.\r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľnosť je v pôvodnom stave, čo ponúka ideálnu príležitos",
     "found_at": "2026-07-29T19:37:40.847688+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju3Ky6Qu0Jb",
-    "portal": "nehnutelnosti",
-    "title": "Blvck betonova dzungla",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju3Ky6Qu0Jb/blvck-betonova-dzungla",
-    "price": 219900,
-    "price_text": "219 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/ljO7frCkF_fss?st=AFoS9bo0CfxgSp6xi6Esi1kXWGaKQ6WOj3RtP39trDY&ts=1779496508&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM BLVCK - Betónová džungľa Gessayova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.73 m² 219 900 € 4 170,3 €/m² BLVCK - Betónová džungľa Gessayova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.73 m² Vonku betón, vnútri džungľa. Niekto to tu vzal doslova - a vyšlo to. By",
-    "found_at": "2026-07-27T11:35:07.378594+00:00"
   },
   {
     "id": "bazos:193987476",
@@ -297,19 +271,6 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuN1ROZFzzI",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt luda zubka bratislava dubravka",
-    "url": "https://www.nehnutelnosti.sk/detail/JuN1ROZFzzI/predaj-1-izbovy-byt-luda-zubka-bratislava-dubravka",
-    "price": 185000,
-    "price_text": "185 000",
-    "location": "Bratislava-Dúbravka Ľuda Zúbka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/g5uybf7WZ_fss?st=3Fq0t1EFRiqWdx-GX2dFS7cyyq07-jiQBNaEuv7up4M&ts=1782371885&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj: 1-izbový byt, Ľuda Zúbka, Bratislava-Dúbravka Ľuda Zúbka, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 38 m² 185 000 € 4 868,42 €/m² Predaj: 1-izbový byt, Ľuda Zúbka, Bratislava-Dúbravka Ľuda Zúbka, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 38 m² Ponúkame na pred",
-    "found_at": "2026-07-13T07:31:41.148503+00:00"
   },
   {
     "id": "nehnutelnosti:JunIKJxl3IB",
