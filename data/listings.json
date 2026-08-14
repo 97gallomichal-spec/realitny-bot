@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/588/194591588.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-08-14T17:02:36.368332+00:00"
+    "found_at": "2026-08-14T17:02:36.368363+00:00"
   },
   {
     "id": "bazos:194591597",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/597/194591597.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 23 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
-    "found_at": "2026-08-14T17:02:36.368330+00:00"
+    "found_at": "2026-08-14T17:02:36.368361+00:00"
   },
   {
     "id": "bazos:194590958",
@@ -76,6 +76,32 @@
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Bebravská\n\rObec: Bratislava-Vrakuňa\n\r\n\rNa predaj, útulný a krásne slnečný 1i byt vo vyhľadávanom pôvodnom stave na Bebravskej ulici, Vrakuňa, BA II.\n\nPriestranný, presvetlený byt v tichej jednosmernej uličke, v blízkosti s Ružinovom, má rozlohu 34,4 m2 s pivnicou, ...",
     "found_at": "2026-08-14T08:23:30.494303+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JurwENesX6J",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 4 izbovy byt so stresnou terasou projekt pri studnicke or mesto aj les na jednom mieste",
+    "url": "https://www.nehnutelnosti.sk/detail/JurwENesX6J/predaj-4-izbovy-byt-so-stresnou-terasou-projekt-pri-studnicke-or-mesto-aj-les-na-jednom-mieste",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-08-13T18:04:11.257403+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuqFdxOH7e1",
+    "portal": "nehnutelnosti",
+    "title": "Kolaudujeme exkluzivne 4 izbove byty s predzahradkou pri studnicke",
+    "url": "https://www.nehnutelnosti.sk/detail/JuqFdxOH7e1/kolaudujeme-exkluzivne-4-izbove-byty-s-predzahradkou-pri-studnicke",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-08-13T18:04:11.257401+00:00"
   },
   {
     "id": "nehnutelnosti:JuefqSbbxOB",
@@ -134,12 +160,12 @@
     "portal": "nehnutelnosti",
     "title": "Arvin and benet pripravujeme idealne startovacie byvanie ci investicia pri trnavskom myte",
     "url": "https://www.nehnutelnosti.sk/detail/Jud4l7Va8vI/arvin-and-benet-pripravujeme-idealne-startovacie-byvanie-ci-investicia-pri-trnavskom-myte",
-    "price": 249900,
-    "price_text": "249 900",
+    "price": 174000,
+    "price_text": "174 000",
     "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/mGJzdpySU_fss?st=iJMhopWQt0OkLW6HJIkYWQkoMh-XQqZ6SaHLbDnW7m8&ts=1783328126&e=0",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Prakticky riešený 2-izbový byt s loggiou so šatníkom a parkovaním – Jegého alej Jégého 8, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 50 m² 249 900 € 4 998 €/m² Prakticky riešený 2-izbový byt s loggiou so šatníkom a parkovaním – Jegého alej Jégého 8, Bratislava-Ružinov, okres Bratis",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
     "found_at": "2026-08-07T09:11:56.948224+00:00"
   },
   {
@@ -310,6 +336,19 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
   },
   {
     "id": "nehnutelnosti:Juc5LTEvZB_",
