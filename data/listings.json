@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/571/194617571.jpg",
     "condition": "neznamy",
     "desc": "Na prenájom ponúkame pekný 1 izbový byt na 1p. s balkónom v blízkosti nákupného centra CENTRÁL na Šumavskej ulici !\r\n\r\nVÝHODY\r\n\r\nKOMPLETNE ZARIADENÝ BYT S DOSTATKOM ÚLOŽNÉHO PRIESTORU\r\n\r\nveľmi pekne zariadený byt s dostatkom úložného priestoru, veľká rolldoor skriňa, šatníkové skrine pri vstupe do b",
-    "found_at": "2026-08-15T16:35:22.266079+00:00"
+    "found_at": "2026-08-15T16:35:22.266104+00:00"
   },
   {
     "id": "nehnutelnosti:JuS13bTLtTS",
@@ -89,19 +89,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 23 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
     "found_at": "2026-08-14T17:02:36.368361+00:00"
-  },
-  {
-    "id": "bazos:194590958",
-    "portal": "bazos",
-    "title": "Predám garsonku v Rovinke",
-    "url": "https://reality.bazos.sk/inzerat/194590958/predam-garsonku-v-rovinke.php",
-    "price": 99999,
-    "price_text": "99 999 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/obrazky/empty.gif",
-    "condition": "neznamy",
-    "desc": "Predám garsonku v Rovinke.19m2,2poschodie.Po celkovej rekonštrukcii cela budova aj garsonka.150m je nákupné centrum a 50m je autobusová zastávka do Bratislavy.Je možnost kupy parkovacieho miesta pred budovou.Cena garsonky je 99999 eur.Je to super cena oproti garsonke v Bratislave o 30000 eur menej a",
-    "found_at": "2026-08-14T15:59:56.227188+00:00"
   },
   {
     "id": "bazos:194586746",
@@ -284,18 +271,5 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 54 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-07-15T21:10:50.155275+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JunIKJxl3IB",
-    "portal": "nehnutelnosti",
-    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
-    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
-    "price": 161000,
-    "price_text": "161 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM REZERVOVANÉ: Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² REZERVOVANÉ: Praktická garsónka s lodžiou a pivnic",
-    "found_at": "2026-07-04T16:40:23.741749+00:00"
   }
 ]
