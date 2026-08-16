@@ -91,6 +91,19 @@
     "found_at": "2026-08-16T10:33:06.026135+00:00"
   },
   {
+    "id": "bazos:194624510",
+    "portal": "bazos",
+    "title": "PREDAJ – Garsónka 35 m², Bratislava – Devínska Nová Ves",
+    "url": "https://reality.bazos.sk/inzerat/194624510/predaj-garsonka-35-m-bratislava-devinska-nova-ves.php",
+    "price": 139900,
+    "price_text": "139 900 €",
+    "location": "Bratislava 841 08",
+    "image": "https://www.bazos.sk/img/1t/510/194624510.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: Garsónka\n\rUlica: Jána Jonáša\n\rObec: Bratislava-Devínska Nová Ves\n\r\n\rPonúkame na predaj garsónku s rozlohou 35 m² na 5. poschodí v obľúbenej lokalite Devínska Nová Ves, v bezprostrednej blízkosti závodu Volkswagen Slovakia. Byt sa skladá z hlavnej obytnej izby, kuchynského kútu, kúpeľne s vaňou ",
+    "found_at": "2026-08-16T04:44:20.060746+00:00"
+  },
+  {
     "id": "bazos:194604648",
     "portal": "bazos",
     "title": "NA PREDAJ: 2-izbový byt, 45 m² – Šancova ulica, Bratislava",
@@ -180,19 +193,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 46 m2, situovaný na 4. poschodí z 5 v bytovom dome s výťahom na Cabanovej ulici v bratislavskej Dúbravke.\r\n\r\nByt prešiel v roku 2014 čiastočnou rekonštrukciou, v rámci ktorej boli vymenené aj elektrické rozvody. V bytovom dome boli v roku 2020 zrekon",
     "found_at": "2026-08-07T11:02:12.457515+00:00"
-  },
-  {
-    "id": "bazos:194322812",
-    "portal": "bazos",
-    "title": "Na predaj 2 izbový byt, 47 m2, Bratislava, Nové Mesto, Piešť",
-    "url": "https://reality.bazos.sk/inzerat/194322812/na-predaj-2-izbovy-byt-47-m2-bratislava-nove-mesto-piest.php",
-    "price": 202000,
-    "price_text": "202 000 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/812/194322812.jpg?t=1786292747",
-    "condition": "povodny",
-    "desc": "Na predaj 2 izbový byt, 47 m2 s menším balkónom, Bratislava, Nové Mesto, Piešťanská ulica\r\n\r\nByt je po staršej čiastočnej rekonštrukcii, vhodný prípadne na rekonštrukciu podľa vlastných predstáv, alebo úprav aktuálneho stavu.\r\n\r\nPodlahová plocha je 46 m2 + 1 m2 balkón, celková plocha bytu je 47 m2. ",
-    "found_at": "2026-08-05T18:42:10.020941+00:00"
   },
   {
     "id": "bazos:194318481",
