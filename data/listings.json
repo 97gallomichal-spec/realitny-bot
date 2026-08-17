@@ -1,5 +1,31 @@
 [
   {
+    "id": "nehnutelnosti:Jun1VGDIiqh",
+    "portal": "nehnutelnosti",
+    "title": "3 izbovy povodne 2 izbovy byt s balkonom bratislava iv dubravka",
+    "url": "https://www.nehnutelnosti.sk/detail/Jun1VGDIiqh/3-izbovy-povodne-2-izbovy-byt-s-balkonom-bratislava-iv-dubravka",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rBn7pd2Z5_fss?st=iWCoTgIC3TNNuIUmmGA1nSY9xSlZ329HC6xqwJJSmL8&ts=1786962065&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 3 izbový byt v obľúbenej a pokojnej lokalite na ulici Markova Markova, Bratislava-Petržalka, okres Bratislava V 3 izbový byt 68 m² 250 000 € 3 676,47 €/m² 3 izbový byt v obľúbenej a pokojnej lokalite na ulici Markova Markova, Bratislava-Petržalka, okres Bratislava V 3 izbový byt 68 m² MRK &",
+    "found_at": "2026-08-17T10:41:31.602455+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuUjseMlHSJ",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy aktualne 3 izbovy byt s balkonom bratislava iv dubravka",
+    "url": "https://www.nehnutelnosti.sk/detail/JuUjseMlHSJ/2-izbovy-aktualne-3-izbovy-byt-s-balkonom-bratislava-iv-dubravka",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rBn7pd2Z5_fss?st=iWCoTgIC3TNNuIUmmGA1nSY9xSlZ329HC6xqwJJSmL8&ts=1786962065&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 3 izbový byt v obľúbenej a pokojnej lokalite na ulici Markova Markova, Bratislava-Petržalka, okres Bratislava V 3 izbový byt 68 m² 250 000 € 3 676,47 €/m² 3 izbový byt v obľúbenej a pokojnej lokalite na ulici Markova Markova, Bratislava-Petržalka, okres Bratislava V 3 izbový byt 68 m² MRK &",
+    "found_at": "2026-08-17T10:41:31.602454+00:00"
+  },
+  {
     "id": "nehnutelnosti:Jugbr5VL7NB",
     "portal": "nehnutelnosti",
     "title": "Na predaj priestranny 2 izbovy byt s balkonom a vstupom na zahradu bratislava rusovce kovacsova ul",
@@ -10,7 +36,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Y33bW48o0_fss?st=v-dep57_DJj-TAgUQjhSF2VJcfDpintfscgwnPmdR5I&ts=1784193707&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Na predaj priestranný 2-izbový byt s balkónom – Bratislava-Rusovce, Kovácsova ul. Kovácsova, Bratislava-Rusovce, okres Bratislava V 2 izbový byt 74 m² 220 000 € 2 972,97 €/m² Na predaj priestranný 2-izbový byt s balkónom – Bratislava-Rusovce, Kovácsova ul. Kovácsova, Bratislava-Rusovce, okre",
-    "found_at": "2026-08-17T09:52:21.404807+00:00"
+    "found_at": "2026-08-17T09:52:21.404825+00:00"
   },
   {
     "id": "bazos:194668444",
@@ -23,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/444/194668444.jpg",
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Trenčianska\n\rMestská časť: Nivy\n\rObec: Bratislava-Ružinov\n\r\n\rPonúkame na predaj 1i byt na Trenčianskej ulici v Ružinove. Byt má výmeru 36m2 a nachádza sa na 1.poschodí v 5.podlažnom bytovom dome s výťahom. Orientovaný je na SZ a prislúchajú k nemu dve pi ...",
-    "found_at": "2026-08-17T09:52:21.404793+00:00"
+    "found_at": "2026-08-17T09:52:21.404823+00:00"
   },
   {
     "id": "nehnutelnosti:JuNVGAXRTC_",
@@ -104,19 +130,6 @@
     "found_at": "2026-08-16T13:38:24.349030+00:00"
   },
   {
-    "id": "bazos:194639294",
-    "portal": "bazos",
-    "title": "TEHLOVÝ 1-IZBOVÝ BYT PRI POLUSE",
-    "url": "https://reality.bazos.sk/inzerat/194639294/tehlovy-1-izbovy-byt-pri-poluse.php",
-    "price": 169900,
-    "price_text": "169 900 €",
-    "location": "Bratislava 831 03",
-    "image": "https://www.bazos.sk/img/1t/294/194639294.jpg?t=1786949288",
-    "condition": "neznamy",
-    "desc": "BOND reality Vám ponúka na predaj 1-izb. byt vo výbornej lokalite Nového Mesta, Pluhová 12.\nVýmera bytu je 31,38 m², z toho pivnica 3,19 m², nachádza na 2/6 p. v tehlovom bytovom dome s výťahom.\nByt má vymenené vstupné bezpečnostné dvere a plastové okná, inak je v pôvodnom stave. Dispozične pozostáv",
-    "found_at": "2026-08-16T12:55:27.917977+00:00"
-  },
-  {
     "id": "bazos:194604648",
     "portal": "bazos",
     "title": "NA PREDAJ: 2-izbový byt, 45 m² – Šancova ulica, Bratislava",
@@ -167,19 +180,6 @@
     "condition": "neznamy",
     "desc": "Krásny, slnečný a zariadený 2-izbový byt na Vietnamskej ulici v mimoriadne žiadanej a tichej lokalite bratislavského Ružinova (časť Trnávka). Tento byt je ideálnou voľbou pre ľudí, ktorí hľadajú pokojné bývanie s kompletnou občianskou vybavenosťou a rýchlym prístupom do centra.\r\n\r\nPriestranná dispoz",
     "found_at": "2026-08-10T08:46:41.514096+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuwaOSMhhte",
-    "portal": "nehnutelnosti",
-    "title": "Zrekonstrovana 2 garsonka s panoramatickym vyhladom a elektrickou priamo pred domom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuwaOSMhhte/zrekonstrovana-2-garsonka-s-panoramatickym-vyhladom-a-elektrickou-priamo-pred-domom",
-    "price": 204990,
-    "price_text": "204 990",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/V3akhByeY_fss?st=G690GxgijYHRBfagNbm-22bYhKTN2yG66xMBd4rf71M&ts=1786114922&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM ZREKONŠTROVANÁ 2-garsónka s PANORAMATICKÝM VÝHĽADOM a ELEKTRIČKOU priamo pred domom. Beňadická, Bratislava-Petržalka, okres Bratislava V Dvojgarsónka 41 m² 204 990 € 4 999,76 €/m² ZREKONŠTROVANÁ 2-garsónka s PANORAMATICKÝM VÝHĽADOM a ELEKTRIČKOU priamo pred domom. Beňadická, Bratislava-Petrž",
-    "found_at": "2026-08-07T20:52:10.574764+00:00"
   },
   {
     "id": "bazos:194369335",
@@ -271,6 +271,19 @@
     "condition": "neznamy",
     "desc": "PREMIUM 1 ZBOVÝ BYT NA PREDAJ-BORY Hany Ponickej, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 33.5 m² 204 000 € 6 089,55 €/m² 1 ZBOVÝ BYT NA PREDAJ-BORY Hany Ponickej, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 33.5 m² Realitná kancelária XCLUSIVE Real Estate ponúka na predaj praktick",
     "found_at": "2026-07-21T09:33:16.507178+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju-2fz0T0uW",
+    "portal": "nehnutelnosti",
+    "title": "2izb lotysska 52m2 p88 3d prehliadka okamzite k dispozicii",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju-2fz0T0uW/2izb-lotysska-52m2-p88-3d-prehliadka-okamzite-k-dispozicii",
+    "price": 181000,
+    "price_text": "181 000",
+    "location": "Bratislava-Podunajské Biskupice",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/q3DieNOy9_fss?st=UEdUw6-xOpprQgkjjw8tA32Nq6i60a3sUgREsLLjAbQ&ts=1786727653&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2izb, Lotyšská, 52m2, p.8/8, 3D prehliadka, okamžite k dispozícii Lotyšská, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 52 m² 181 000 € 3 480,77 €/m² 2izb, Lotyšská, 52m2, p.8/8, 3D prehliadka, okamžite k dispozícii Lotyšská, Bratislava-Podunajské Biskupice, okres Brati",
+    "found_at": "2026-07-21T09:33:16.507175+00:00"
   },
   {
     "id": "bazos:193823233",
