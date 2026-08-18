@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194699549",
+    "portal": "bazos",
+    "title": "Dražba 1-izbového bytu v Starom Meste, Bratislava",
+    "url": "https://reality.bazos.sk/inzerat/194699549/drazba-1-izboveho-bytu-v-starom-meste-bratislava.php",
+    "price": 191000,
+    "price_text": "191 000 €",
+    "location": "Bratislava 811 04",
+    "image": "https://www.bazos.sk/img/1t/549/194699549.jpg",
+    "condition": "neznamy",
+    "desc": "Predmetom dražby je jednoizbový byt na Sokolskej ulici v Bratislavave, mestská časť Staré Mesto. Byt preľiel rekonštrukciou. Momentálne je neobýaný a časť nových velkoplošných parkiet je v obývacej izbe vybratá z pôvodného miesta. Dvere v byte sú vstupné bezpečnostné, potom už interiérové rámové s v",
+    "found_at": "2026-08-18T09:42:40.319025+00:00"
+  },
+  {
+    "id": "bazos:194700838",
+    "portal": "bazos",
+    "title": "REB.SK - 1i byt s výhľadom na Slavín v tichej časti Starého",
+    "url": "https://reality.bazos.sk/inzerat/194700838/rebsk-1i-byt-s-vyhladom-na-slavin-v-tichej-casti-stareho.php",
+    "price": 233000,
+    "price_text": "233 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/838/194700838.jpg?t=1787045126",
+    "condition": "neznamy",
+    "desc": "1-izbový byt na predaj v Starom Meste, Bratislava\r\nREB.SK – Unikátny mestský byt (41 m²) s potenciálom rozšírenia. \r\n\r\nHľadáte výnimečné bývanie s nezameniteľnou atmosférou Starého Mesta, kde si vychutnáte dokonalé súkromie a panoramatický výhľad na Slavín a Staré Mesto? REB.SK Vám ponúka na predaj ",
+    "found_at": "2026-08-18T09:42:40.319024+00:00"
+  },
+  {
     "id": "bazos:194698355",
     "portal": "bazos",
     "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
@@ -10,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/355/194698355.jpg",
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
-    "found_at": "2026-08-18T08:48:43.321524+00:00"
+    "found_at": "2026-08-18T08:48:43.321544+00:00"
   },
   {
     "id": "reality:13",
@@ -37,32 +63,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
     "found_at": "2026-08-17T20:36:40.716685+00:00"
-  },
-  {
-    "id": "bazos:194679786",
-    "portal": "bazos",
-    "title": "predaj 1-izbového bytu po čiastočnej rekonštrukcii",
-    "url": "https://reality.bazos.sk/inzerat/194679786/predaj-1-izboveho-bytu-po-ciastocnej-rekonstrukcii.php",
-    "price": 144900,
-    "price_text": "144 900 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/786/194679786.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj 1. izbový kompletne zariadený klimatizovaný byt.\n\nByt 30m2 sa nachádza na 6/8 poschodí zatepleného bytového domu. Byt je situovaný v pokojnej časti Rače -  Na Pasekách s dobrou občianskou vybavenosťou.\n\nK bytu prislúcha pivnica. Parkovanie je možné pred bytovým domom ...",
-    "found_at": "2026-08-17T16:38:13.595334+00:00"
-  },
-  {
-    "id": "bazos:194680377",
-    "portal": "bazos",
-    "title": "Na predaj 1-izbový byt s lodžiou, 38  m², Hraničná ul. Ružin",
-    "url": "https://reality.bazos.sk/inzerat/194680377/na-predaj-1-izbovy-byt-s-lodziou-38-m-hranicna-ul-ruzin.php",
-    "price": 176000,
-    "price_text": "176 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/377/194680377.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Hraničná\n\rMestská časť: Prievoz\n\rObec: Bratislava-Ružinov\n\r\n\rČíslo ponuky : 2835, Kontakt: Eduard Číž, Telefón : 0910 706 802, E-mail : ciz(at)vasereality.sk\n\nRealitná kancelária Vaše Reality Vám ponúka na predaj elegantný 1-izbový byt s lodžiou vo vyhľadávanej bratisl ...",
-    "found_at": "2026-08-17T16:38:13.595333+00:00"
   },
   {
     "id": "bazos:194639861",
@@ -221,29 +221,29 @@
     "found_at": "2026-07-20T14:28:02.205334+00:00"
   },
   {
-    "id": "reality:238262",
-    "portal": "reality",
-    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
-    "url": "https://www.reality.sk/byty/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/Juk62kqVnFU/",
-    "price": 199900,
-    "price_text": "199900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
+    "id": "nehnutelnosti:Ju8VjqDhwWz",
+    "portal": "nehnutelnosti",
+    "title": "Bosen investicny 1 izbovy byt petrzalka",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju8VjqDhwWz/bosen-investicny-1-izbovy-byt-petrzalka",
+    "price": 170000,
+    "price_text": "170 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/oWwAYrN_5_fss?st=7DGAZHKVHW8Mj7oqoD0q9SjC84LqDlrr0HEBam4ns5c&ts=1774959139&e=0",
     "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
-    "found_at": "2026-07-18T15:06:01.240368+00:00"
+    "desc": "PREMIUM BOSEN | Investičný 1 izbový byt , Petržalka Rovniakova, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 26.53 m² 170 000 € 6 407,84 €/m² BOSEN | Investičný 1 izbový byt , Petržalka Rovniakova, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 26.53 m² Realitná kancelária Bosen Grou",
+    "found_at": "2026-07-19T09:11:06.393659+00:00"
   },
   {
-    "id": "reality:13821",
-    "portal": "reality",
-    "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
-    "url": "https://www.reality.sk/byty/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/JuTsWhh1aHN/",
-    "price": 199900,
-    "price_text": "199900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
+    "id": "nehnutelnosti:JuPTDuuy9h3",
+    "portal": "nehnutelnosti",
+    "title": "Utulny 1 izbovy byt v projekte baya so standard om v cene idealny na investiciu",
+    "url": "https://www.nehnutelnosti.sk/detail/JuPTDuuy9h3/utulny-1-izbovy-byt-v-projekte-baya-so-standard-om-v-cene-idealny-na-investiciu",
+    "price": 220800,
+    "price_text": "220 800",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/IACcQuCBi_fss?st=XJjavHLhqO_Y46a4aQa7bsqtFIZ3OmFLe5p6iqdpqZ4&ts=1765367634&e=0",
     "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
-    "found_at": "2026-06-30T21:24:22.153055+00:00"
+    "desc": "PREMIUM Útulné 1-izbové byty v projekte BAYA – ktoré si vedia na seba zarobiť Bajkalská, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42.92 m² 220 800 € 5 144,45 €/m² Útulné 1-izbové byty v projekte BAYA – ktoré si vedia na seba zarobiť Bajkalská, Bratislava-Ružinov, okres Bratislava II 1 iz",
+    "found_at": "2026-07-04T07:32:24.420411+00:00"
   }
 ]
