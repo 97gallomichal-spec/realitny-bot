@@ -1,5 +1,57 @@
 [
   {
+    "id": "bazos:194707402",
+    "portal": "bazos",
+    "title": "PRIPRAVUJEME DO PONUKY: 1-izbový byt na Baltskej | 36 m² + p",
+    "url": "https://reality.bazos.sk/inzerat/194707402/pripravujeme-do-ponuky-1-izbovy-byt-na-baltskej-36-m-p.php",
+    "price": 159000,
+    "price_text": "159 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/402/194707402.jpg?t=1787058062",
+    "condition": "neznamy",
+    "desc": "Byt s výmerou 36,1 m² + pivnica 1,4 m² sa nachádza na 4. poschodí z 12. Je orientovaný na východ a ponúka príjemný výhľad do zelene.\n\nByt je pripravený na bývanie a disponuje plastovými oknami, laminátovou podlahou, čerstvými maľovkami, bezpečnostnými dverami, kuchynskou linkou so sporákom, chladnič",
+    "found_at": "2026-08-18T13:50:28.632977+00:00"
+  },
+  {
+    "id": "bazos:194708252",
+    "portal": "bazos",
+    "title": "2-izb. byt, Wilsonova ul., Staré Mesto, tehlový dom",
+    "url": "https://reality.bazos.sk/inzerat/194708252/2-izb-byt-wilsonova-ul-stare-mesto-tehlovy-dom.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/252/194708252.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt na ul. Wilsonova, BA I – Staré Mesto.\r\n\r\nVýmera 49,1 m2, nachádza sa na 3.p./5 v tehlovom dome, byt je bez balkóna. K bytu patrí pivnica cca 10 m2.\r\n\r\nByt je orientovaný do ulice Wilsonova s výhľadom do ulice.\r\n\r\nMesačné náklady: cca 191 € • Konštrukcia: tehla • Bytov",
+    "found_at": "2026-08-18T13:50:28.632975+00:00"
+  },
+  {
+    "id": "bazos:194708290",
+    "portal": "bazos",
+    "title": "Veľký 2-izb. byt na ul. Vilova, Petržalka, 7.p./7",
+    "url": "https://reality.bazos.sk/inzerat/194708290/velky-2-izb-byt-na-ul-vilova-petrzalka-7p7.php",
+    "price": 232000,
+    "price_text": "232 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/290/194708290.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj veľký 2-izb. byt na ul. Vilova, Petržalka. \r\n\r\nVýmera 61,87 m2, nachádza sa na 7.p./7 v zateplenom panelovom dome s výťahom a novou strechou. \r\n\r\nByt je po čiastočnej rekonštrukcii: plastové okná, zánovná kuchynská linka, kúpeľňa. \r\n\r\nMesačné náklady sú 195,- €/2 osoby + elektrina",
+    "found_at": "2026-08-18T13:50:28.632974+00:00"
+  },
+  {
+    "id": "bazos:194708361",
+    "portal": "bazos",
+    "title": "2-izb. byt, Exnárova ul., Ružinov, 6.p./7",
+    "url": "https://reality.bazos.sk/inzerat/194708361/2-izb-byt-exnarova-ul-ruzinov-6p7.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/361/194708361.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2 izb. byt na ul. Exnárova, Ružinov. \r\n\r\nVýmera bytu je 56 m2 + balkón. Byt sa nachádza na 6 p/7 v zateplenom panelovom dome s výťahom. K bytu patrí murovaná pivnica. \r\n\r\nV byte sú menené plastové okná s izolačným trojskom, klimatizácia. Inak je v slušnom udržiavanom stave. \r\n\r\nLo",
+    "found_at": "2026-08-18T13:50:28.632972+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuSLWwn9zvk",
     "portal": "nehnutelnosti",
     "title": "Predaj utulna garsonka v bratislava stare mesto",
@@ -10,7 +62,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/jSLVtNHp1_fss?st=UrhvuZ0YezK_DmjPWl62vSqg127bFqPGcUxbXtQQQY8&ts=1786528033&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Predaj útulná garsónka v Bratislava Staré Mesto Ferienčíkova, Bratislava-Staré Mesto, okres Bratislava I Garsónka 22 m² 169 000 € 7 681,82 €/m² Predaj útulná garsónka v Bratislava Staré Mesto Ferienčíkova, Bratislava-Staré Mesto, okres Bratislava I Garsónka 22 m² Ponúkame na predaj peknú útu",
-    "found_at": "2026-08-18T13:01:58.136318+00:00"
+    "found_at": "2026-08-18T13:01:58.136335+00:00"
   },
   {
     "id": "bazos:194705656",
@@ -23,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/656/194705656.jpg",
     "condition": "neznamy",
     "desc": "Hľadáte útulné a prakticky riešené bývanie v príjemnej lokalite s množstvom zelene? Tento 2-izbový byt na Ďurgalovej ulici ponúka zaujímavú kombináciu svetlej orientácie, šikovnej dispozície a nadštandardne veľkej loggie.\r\nByt s výmerou 30,83 m² + loggia 5,5 m² sa nachádza na 3. poschodí z 3 v tehlo",
-    "found_at": "2026-08-18T13:01:58.136307+00:00"
+    "found_at": "2026-08-18T13:01:58.136333+00:00"
   },
   {
     "id": "bazos:194699549",
@@ -104,6 +156,19 @@
     "found_at": "2026-08-14T13:25:09.816798+00:00"
   },
   {
+    "id": "nehnutelnosti:JurtPDouGlu",
+    "portal": "nehnutelnosti",
+    "title": "Moderny 1 izbovy byt 37m2 po rozsiahlej rekonstrukcii s velkym potencialom bratislava raca",
+    "url": "https://www.nehnutelnosti.sk/detail/JurtPDouGlu/moderny-1-izbovy-byt-37m2-po-rozsiahlej-rekonstrukcii-s-velkym-potencialom-bratislava-raca",
+    "price": 139900,
+    "price_text": "139 900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/ccfY2h1FO_fss?st=ArW69zeXoFjN4DsD0AK4Wjob1dZsuNdFw_y1vpWgjSs&ts=1784294185&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Moderný 1-izbový byt 37m2 po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača Dopravná, Bratislava-Rača, okres Bratislava III 1 izbový byt 36.74 m² 139 900 € 3 807,84 €/m² Moderný 1-izbový byt 37m2 po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača Dopravná",
+    "found_at": "2026-08-14T13:25:09.816797+00:00"
+  },
+  {
     "id": "bazos:194586746",
     "portal": "bazos",
     "title": "PREDAJ: ŠTÝLOVÁ GARZÓNKA - PRI OC CENTRAL",
@@ -139,7 +204,7 @@
     "location": "Bratislava-Staré Mesto",
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6SbIxkqdG_fss?st=NdAbNjDPiotgZR1vxAUohg0pSpHTvHjAVdMt57F7E9U&ts=1785826662&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM 1,5 izbový byt so samostatnou spalnou a parkingom Továrenská 1, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 38 m² 199 000 € 5 236,84 €/m² 1,5 izbový byt so samostatnou spalnou a parkingom Továrenská 1, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 38 m² Tento byt má vše",
+    "desc": "PREMIUM Rezervovane-1,5 izbový byt so samostatnou spalnou a parkingom Továrenská 1, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 38 m² 199 000 € 5 236,84 €/m² Rezervovane-1,5 izbový byt so samostatnou spalnou a parkingom Továrenská 1, Bratislava-Staré Mesto, okres Bratislava I 1 izbový by",
     "found_at": "2026-08-14T08:23:30.494306+00:00"
   },
   {
@@ -271,5 +336,18 @@
     "condition": "neznamy",
     "desc": "Základné informácie:\r\nPonúkame na predaj 2-izbový byt  vo vyhľadávanej a tichej lokalite na ulici Bradáčova v mestskej časti Bratislava V - Petržalka o výmere 55m2. Byt sa nachádza na 5/12 poschodí v panelovom bytovom dome. Byt má vynikajúcu a vysoko praktickú dispozíciu. Všetky miestnosti majú samo",
     "found_at": "2026-07-20T14:28:02.205334+00:00"
+  },
+  {
+    "id": "reality:1372",
+    "portal": "reality",
+    "title": "Moderný 1-izbový byt 37m2 po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača",
+    "url": "https://www.reality.sk/byty/moderny-1-izbovy-byt-37m2-po-rozsiahlej-rekonstrukcii-s-velkym-potencialom-bratislava-raca/JurtPDouGlu/",
+    "price": 139900,
+    "price_text": "139900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhwdXMvOEU3QWNoclRxX2ZzcyxjZW50ZXIsY2VudGVyLDEwLDMwLDMwKS9qdWw=/ccfY2h1FO_fss?st=lYk8zVd0Mrv8Oscb7WAlNrj_LYmKrKRGY-Afts2Boo4&amp;ts=1784294185&amp;e=0",
+    "condition": "povodny",
+    "desc": "Moderný 1-izbový byt po rozsiahlej rekonštrukcii s veľkým potenciálom | Bratislava – Rača\n\nNiektoré byty sú pripravené na okamžité nasťahovanie. Iné ponúkajú možnosť vytvoriť si bývanie presne podľa vlastných predstáv. A práve medzi ne patrí aj táto nehnuteľnosť.\n\nRT-REAL ESTATE Vám exkluzívne ponúk",
+    "found_at": "2026-07-17T14:50:27.858225+00:00"
   }
 ]
