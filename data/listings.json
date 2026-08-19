@@ -1,5 +1,31 @@
 [
   {
+    "id": "nehnutelnosti:Juw-f6tyn9y",
+    "portal": "nehnutelnosti",
+    "title": "Ulkptjana rasu1 izbovy byt s krasnym vyhladom na male karpaty",
+    "url": "https://www.nehnutelnosti.sk/detail/Juw-f6tyn9y/ulkptjana-rasu1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty",
+    "price": 164900,
+    "price_text": "164 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Y0QEtqxF9_fss?st=mrZ775AXT90LxLKc-QlNcYlVOww7oG074mKxN1yL7j4&ts=1786972829&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Ul.Kpt.Jána Rašu|1-izbový byt s krásnym výhľadom na Malé Karpaty ul. kpt. Jána Rašu, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 36 m² 164 900 € 4 580,56 €/m² Ul.Kpt.Jána Rašu|1-izbový byt s krásnym výhľadom na Malé Karpaty ul. kpt. Jána Rašu, Bratislava-Dúbravka, okres Bratislava",
+    "found_at": "2026-08-19T09:42:53.186187+00:00"
+  },
+  {
+    "id": "bazos:194731066",
+    "portal": "bazos",
+    "title": "PREDAJ -1-izbový byt BA II.- NIvy",
+    "url": "https://reality.bazos.sk/inzerat/194731066/predaj-1-izbovy-byt-ba-ii-nivy.php",
+    "price": 213000,
+    "price_text": "213 000 €",
+    "location": "Bratislava 821 08",
+    "image": "https://www.bazos.sk/img/1t/066/194731066.jpg",
+    "condition": "neznamy",
+    "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný   1-izbový byt o výmere 46 m2 na prízemí  tehlového bytového domu.  Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa  s jedálenským kútom, chodba, kúpeľň",
+    "found_at": "2026-08-19T09:42:53.186172+00:00"
+  },
+  {
     "id": "nehnutelnosti:Jum9VciEnTD",
     "portal": "nehnutelnosti",
     "title": "Gravitas i moderny 2 izbovy byt vo vienna gate",
@@ -9,8 +35,8 @@
     "location": "Bratislava-Petržalka",
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/sr_ilp9gs_fss?st=ecEs162BgMtw4ZXiQ-GxS0bMgyN4XE3LXRzUv4LIE0M&ts=1782124208&e=0",
     "condition": "neznamy",
-    "desc": "GRAVITAS I Moderný 2- izbový byt vo Vienna Gate Kopčianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 53.33 m² 229 900 € 4 310,89 €/m² GRAVITAS I Moderný 2- izbový byt vo Vienna Gate Kopčianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 53.33 m² Ponúkame na predaj 2- izbový b",
-    "found_at": "2026-08-19T08:49:05.963902+00:00"
+    "desc": "PREMIUM GRAVITAS I Moderný 2- izbový byt vo Vienna Gate Kopčianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 53.33 m² 229 900 € 4 310,89 €/m² GRAVITAS I Moderný 2- izbový byt vo Vienna Gate Kopčianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 53.33 m² Ponúkame na predaj 2-",
+    "found_at": "2026-08-19T08:49:05.963923+00:00"
   },
   {
     "id": "bazos:194729508",
@@ -23,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/508/194729508.jpg",
     "condition": "neznamy",
     "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
-    "found_at": "2026-08-19T08:49:05.963892+00:00"
+    "found_at": "2026-08-19T08:49:05.963921+00:00"
   },
   {
     "id": "bazos:194723623",
@@ -208,19 +234,6 @@
     "found_at": "2026-08-05T09:43:23.859277+00:00"
   },
   {
-    "id": "nehnutelnosti:JuKGSJc5QM9",
-    "portal": "nehnutelnosti",
-    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
-    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rZTIGrA_R_fss?st=v_za-WKnUxz6cl2z46rcKtwBlKtqJ6-E5eZxfX9f_I0&ts=1785774882&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
-    "found_at": "2026-08-04T15:31:44.231130+00:00"
-  },
-  {
     "id": "bazos:194256493",
     "portal": "bazos",
     "title": "1-izbový byt s balkónom na Trnavskej ceste v BA - Ružinov",
@@ -297,6 +310,32 @@
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-18T15:06:01.240368+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "reality:13821",
