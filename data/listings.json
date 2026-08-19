@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194735579",
+    "portal": "bazos",
+    "title": "GARSONKA s PARKOVANÍM V STAROM MESTE",
+    "url": "https://reality.bazos.sk/inzerat/194735579/garsonka-s-parkovanim-v-starom-meste.php",
+    "price": 178500,
+    "price_text": "178 500 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/579/194735579.jpg",
+    "condition": "neznamy",
+    "desc": "BYVO ponúka na predaj zariadenú garsónku s parkovaním v atraktívnej lokalite Bratislava – Staré Mesto.\r\n\r\nByt s výmerou 23 m² sa nachádza na 3. poschodí bytového domu. Prešiel rekonštrukciou a predáva sa kompletne zariadený, vďaka čomu je pripravený na okamžité bývanie alebo prenájom.\r\n\r\nPREČO TÁTO ",
+    "found_at": "2026-08-19T13:03:16.095829+00:00"
+  },
+  {
     "id": "bazos:194733141",
     "portal": "bazos",
     "title": "1-izb byt v Dúbravke pre bývanie aj ako investícia",
@@ -20,7 +33,7 @@
     "price": 195000,
     "price_text": "195 000 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/143/194733143.jpg",
+    "image": "https://www.bazos.sk/img/1t/143/194733143.jpg?t=1787142441",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
     "found_at": "2026-08-19T10:38:27.649019+00:00"
@@ -102,6 +115,19 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s obytnou plochou 45 m², ktorý sa nachádza na treťom poschodí pavlačového bytového domu na Šancovej ulici v Bratislave.\r\nByt prešiel čiastočnou rekonštrukciou a ponúka možnosť ďalších úprav podľa predstáv nového vlastníka. Vďaka svojej výmere a polohe je vhodný na vla",
     "found_at": "2026-08-15T08:39:22.950287+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuGlE6PVE4GO",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj slnecna garsonka kompletne zariadena s balkonom a klimatizaciou gessayova ulica petrzalka",
+    "url": "https://www.nehnutelnosti.sk/detail/JuGlE6PVE4GO/na-predaj-slnecna-garsonka-kompletne-zariadena-s-balkonom-a-klimatizaciou-gessayova-ulica-petrzalka",
+    "price": 155000,
+    "price_text": "155 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalk",
+    "found_at": "2026-08-14T13:25:09.816798+00:00"
   },
   {
     "id": "bazos:194586746",
@@ -245,18 +271,5 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový byt v pôvodnom stave (plastové okná) na Lotyšskej ulici v Bratislave – Podunajských Biskupiciach. Byt sa nachádza na 2. poschodí (3. NP) 8-podlažného, zatepleného byt",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuaLUO0q-TJ",
-    "portal": "nehnutelnosti",
-    "title": "Predaj klimatizovana garsonka so zasklenou lodziou bratislava v petrzalka blagoevova ulica",
-    "url": "https://www.nehnutelnosti.sk/detail/JuaLUO0q-TJ/predaj-klimatizovana-garsonka-so-zasklenou-lodziou-bratislava-v-petrzalka-blagoevova-ulica",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava V - Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Wg2q675pP_fss?st=NlHUSuK0LF1fVAkEcdvvOan9FCfTbkgEHBg7t9zArNs&ts=1781784520&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj klimatizovaná garsónka so zasklenou lodžiou, Bratislava V - Petržalka, Blagoevova ulica Blagoevova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² Predaj klimatizovaná garsónka so zasklenou lodžiou, Bratislava V - Petržalka, Blagoevova ulica Blagoevova",
-    "found_at": "2026-07-08T14:34:27.365592+00:00"
   }
 ]
