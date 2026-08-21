@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194784289",
+    "portal": "bazos",
+    "title": "1- izbový byt na Veternicovej ulici",
+    "url": "https://reality.bazos.sk/inzerat/194784289/1-izbovy-byt-na-veternicovej-ulici.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 841 05",
+    "image": "https://www.bazos.sk/img/1t/289/194784289.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
+    "found_at": "2026-08-21T07:01:18.752033+00:00"
+  },
+  {
+    "id": "bazos:194786247",
+    "portal": "bazos",
+    "title": "EXKLUZÍVNE 2-izb. apartmán vo vyhľadávanej lokalite Mlyn",
+    "url": "https://reality.bazos.sk/inzerat/194786247/exkluzivne-2-izb-apartman-vo-vyhladavanej-lokalite-mlyn.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 821 09",
+    "image": "https://www.bazos.sk/img/1t/247/194786247.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
+    "found_at": "2026-08-21T07:01:18.752031+00:00"
+  },
+  {
     "id": "bazos:194776689",
     "portal": "bazos",
     "title": "HALO reality - Predaj, dvojizbový byt Bratislava Dúbravka, H",
@@ -91,45 +117,6 @@
     "found_at": "2026-08-19T23:31:23.314015+00:00"
   },
   {
-    "id": "bazos:194748863",
-    "portal": "bazos",
-    "title": "Predam garsonku v bratislave na rybnicnej 61/A",
-    "url": "https://reality.bazos.sk/inzerat/194748863/predam-garsonku-v-bratislave-na-rybnicnej-61a.php",
-    "price": 120000,
-    "price_text": "120 000 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/863/194748863.jpg",
-    "condition": "neznamy",
-    "desc": "ponúkam na predaj útulnú garsónku s priestrannou loggiou v bytovom dome na Rybničnej ulici, v dynamicky sa rozvíjajúcej lokalite medzi Račou a Vajnorami.\r\nByt predstavuje výbornú voľbu ako štartovacie bývanie pre jednotlivca alebo pár, ale aj ako investíciu na dlhodobý prenájom.  Ďalšou možnosťou je",
-    "found_at": "2026-08-19T23:31:23.314012+00:00"
-  },
-  {
-    "id": "bazos:194748105",
-    "portal": "bazos",
-    "title": "Slnečný zariadený byt s loggiou a parkovaním",
-    "url": "https://reality.bazos.sk/inzerat/194748105/slnecny-zariadeny-byt-s-loggiou-a-parkovanim.php",
-    "price": 189900,
-    "price_text": "189 900 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/105/194748105.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Rubínova\n\rObec: Bratislava-Rača\n\r\n\rPonúkame na predaj útulný, zariadený byt v tichej časti Rače na ulici Rubínova (časť Slanec). Nachádza sa na 1.poschodí/4  v zateplenom bytovom dome z roku 2008.\n\nByt o rozlohe 44,71 m2 tvorí vstupná chodba, kúpeľň ...",
-    "found_at": "2026-08-19T22:34:27.083488+00:00"
-  },
-  {
-    "id": "bazos:194744976",
-    "portal": "bazos",
-    "title": "Vlastné bývanie pri centre - svetlý 1-izbový byt s loggiou",
-    "url": "https://reality.bazos.sk/inzerat/194744976/vlastne-byvanie-pri-centre-svetly-1-izbovy-byt-s-loggiou.php",
-    "price": 169000,
-    "price_text": "169 000 €",
-    "location": "Bratislava 831 02",
-    "image": "https://www.bazos.sk/img/1t/976/194744976.jpg",
-    "condition": "neznamy",
-    "desc": "Na predaj ponúkame svetlý a prakticky riešený 1-izbový byt na Ovručskej ulici v Bratislave – Novom Meste. Nachádza sa na 5. poschodí zo 6 v zateplenom tehlovom bytovom dome s výťahom. Interiér má výmeru 24,66 m² a dopĺňa ho loggia s výmerou 2,91 m².\r\n\r\nByt sa nachádza v nadstavbe vybudovanej v roku ",
-    "found_at": "2026-08-19T18:48:21.340998+00:00"
-  },
-  {
     "id": "bazos:194668444",
     "portal": "bazos",
     "title": "Perspektívny 1-izbový byt v TOP lokalite starého Ružinova na",
@@ -163,7 +150,7 @@
     "price": 215000,
     "price_text": "215 000 €",
     "location": "Bratislava 811 02",
-    "image": "https://www.bazos.sk/img/1t/648/194604648.jpg?t=1786779184",
+    "image": "https://www.bazos.sk/img/1t/648/194604648.jpg?t=1787292434",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s obytnou plochou 45 m², ktorý sa nachádza na treťom poschodí pavlačového bytového domu na Šancovej ulici v Bratislave.\r\nByt prešiel čiastočnou rekonštrukciou a ponúka možnosť ďalších úprav podľa predstáv nového vlastníka. Vďaka svojej výmere a polohe je vhodný na vla",
     "found_at": "2026-08-15T08:39:22.950287+00:00"
