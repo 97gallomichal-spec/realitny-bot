@@ -1,18 +1,5 @@
 [
   {
-    "id": "nehnutelnosti:JuIGOYfwAZ-",
-    "portal": "nehnutelnosti",
-    "title": "Bosen startovaci 1 izbovy byt v blizkosti vienna gate vilova petrzalka",
-    "url": "https://www.nehnutelnosti.sk/detail/JuIGOYfwAZ-/bosen-startovaci-1-izbovy-byt-v-blizkosti-vienna-gate-vilova-petrzalka",
-    "price": 149990,
-    "price_text": "149 990",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/DcyetM3cE_fss?st=rMBr8b-cX9NQDlB7EgFaJnsnWMk5v_KBVY7T_rLFKBQ&ts=1778091681&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM BOSEN | Štartovací 1 izbový byt v blízkosti Vienna Gate, Vilová- Petržalka Vilová, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 24.8 m² 149 990 € 6 047,98 €/m² BOSEN | Štartovací 1 izbový byt v blízkosti Vienna Gate, Vilová- Petržalka Vilová, Bratislava-Petržalka, okres Bratislava V",
-    "found_at": "2026-08-22T07:38:37.845965+00:00"
-  },
-  {
     "id": "bazos:194808395",
     "portal": "bazos",
     "title": "HALO reality - Predaj, jednoizbový byt Bratislava Nové Mesto",
@@ -221,6 +208,19 @@
     "found_at": "2026-08-10T08:46:41.514096+00:00"
   },
   {
+    "id": "nehnutelnosti:JuAoSORxvls",
+    "portal": "nehnutelnosti",
+    "title": "Karas svetly 1 izbovy byt s balkonom 11m2 petrzalka antolska",
+    "url": "https://www.nehnutelnosti.sk/detail/JuAoSORxvls/karas-svetly-1-izbovy-byt-s-balkonom-11m2-petrzalka-antolska",
+    "price": 189900,
+    "price_text": "189 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RAJ9ChYJx_fss?st=PtTYuGACbmoaKsRBr7mKVx5SX3Exa80yV2FxaDv4Hw0&ts=1786135580&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KARAS | SVETLÝ 1-IZBOVÝ BYT S BALKÓNOM 11m² | PETRŽALKA – ANTOLSKÁ Antolská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 41 m² 189 900 € 4 631,71 €/m² KARAS | SVETLÝ 1-IZBOVÝ BYT S BALKÓNOM 11m² | PETRŽALKA – ANTOLSKÁ Antolská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt",
+    "found_at": "2026-08-08T08:53:30.579902+00:00"
+  },
+  {
     "id": "bazos:194369335",
     "portal": "bazos",
     "title": "Príjemný 2izb.byt s výťahom v obľúbenej časti Dúbravky, 46m2",
@@ -310,18 +310,5 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový byt v pôvodnom stave (plastové okná) na Lotyšskej ulici v Bratislave – Podunajských Biskupiciach. Byt sa nachádza na 2. poschodí (3. NP) 8-podlažného, zatepleného byt",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju8c3mvV5LF",
-    "portal": "nehnutelnosti",
-    "title": "Zariadeny 1i byt s lodziou a pivnicou vhodny na okamzity prenajom",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju8c3mvV5LF/zariadeny-1i-byt-s-lodziou-a-pivnicou-vhodny-na-okamzity-prenajom",
-    "price": 114900,
-    "price_text": "114 900",
-    "location": "Bratislava-Devínska Nová Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QlnCwmez6_fss?st=U0TJZcbAK68rLxq6mXHKqMnrRgPvIBVgrJB5t-_iD1k&ts=1784464742&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM ZARIADENÝ 1I BYT S LODŽIOU A PIVNICOU VHODNÝ NA OKAMŽITÝ PRENÁJOM Jána Jonáša, Bratislava-Devínska Nová Ves, okres Bratislava IV 1 izbový byt 34.88 m² 114 900 € 3 294,15 €/m² ZARIADENÝ 1I BYT S LODŽIOU A PIVNICOU VHODNÝ NA OKAMŽITÝ PRENÁJOM Jána Jonáša, Bratislava-Devínska Nová Ves, okres Br",
-    "found_at": "2026-07-20T07:21:06.656641+00:00"
   }
 ]
