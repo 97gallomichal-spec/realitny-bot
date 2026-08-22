@@ -1,5 +1,18 @@
 [
   {
+    "id": "reality:169",
+    "portal": "reality",
+    "title": "Ul.Kpt.Jána Rašu|1-izbový byt s krásnym výhľadom na Malé Karpaty",
+    "url": "https://www.reality.sk/byty/ul-kpt-jana-rasu-1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty/Juw-f6tyn9y/",
+    "price": 164900,
+    "price_text": "164900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/0l8HgQ5qp_fss?st=8aW5AUOP6cGgYNrriQMSZ-U966SqSVBODzkkOGaOs9U&amp;ts=1785536235&amp;e=0",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária YAMI • DOMI ponúka na predaj príjemný 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\n\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad",
+    "found_at": "2026-08-22T17:29:32.732339+00:00"
+  },
+  {
     "id": "bazos:194828119",
     "portal": "bazos",
     "title": "NOMA | KADNÁROVA | 2-izbový byt v pôvodnom stave s loggiou",
@@ -104,6 +117,19 @@
     "found_at": "2026-08-21T07:01:18.752060+00:00"
   },
   {
+    "id": "nehnutelnosti:Juw-f6tyn9y",
+    "portal": "nehnutelnosti",
+    "title": "Ulkptjana rasu1 izbovy byt s krasnym vyhladom na male karpaty",
+    "url": "https://www.nehnutelnosti.sk/detail/Juw-f6tyn9y/ulkptjana-rasu1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty",
+    "price": 164900,
+    "price_text": "164 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/0l8HgQ5qp_fss?st=3p1ReJVd0MKJPhqTL0D3X5Kmati5VAaQld6iRBVSfh0&ts=1785536235&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Ul.Kpt.Jána Rašu|1-izbový byt s krásnym výhľadom na Malé Karpaty ul. kpt. Jána Rašu, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 36 m² 164 900 € 4 580,56 €/m² Ul.Kpt.Jána Rašu|1-izbový byt s krásnym výhľadom na Malé Karpaty ul. kpt. Jána Rašu, Bratislava-Dúbravka, okres Bratislava",
+    "found_at": "2026-08-19T09:42:53.186210+00:00"
+  },
+  {
     "id": "bazos:194731066",
     "portal": "bazos",
     "title": "PREDAJ -1-izbový byt BA II.- NIvy",
@@ -193,19 +219,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 46 m2, situovaný na 4. poschodí z 5 v bytovom dome s výťahom na Cabanovej ulici v bratislavskej Dúbravke.\r\n\r\nByt prešiel v roku 2014 čiastočnou rekonštrukciou, v rámci ktorej boli vymenené aj elektrické rozvody. V bytovom dome boli v roku 2020 zrekon",
     "found_at": "2026-08-07T11:02:12.457515+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuX9lPhO9Lv",
-    "portal": "nehnutelnosti",
-    "title": "Dvojgarsonka s loggiou v oblubenej lokalite petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JuX9lPhO9Lv/dvojgarsonka-s-loggiou-v-oblubenej-lokalite-petrzalky",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/sYFlkJbdr_fss?st=qgKEcgbNQZVTuuilZ6aI6G7ZKVMZdFngK8NwmUZykms&ts=1785163612&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Dvojgarsónka s loggiou v obľúbenej lokalite Petržalky Fedinova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52 m² 199 900 € 3 844,23 €/m² Dvojgarsónka s loggiou v obľúbenej lokalite Petržalky Fedinova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52 m² TopHome Realitná kan",
-    "found_at": "2026-08-05T14:29:25.316966+00:00"
   },
   {
     "id": "bazos:194256493",
