@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194808395",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Nové Mesto",
+    "url": "https://reality.bazos.sk/inzerat/194808395/halo-reality-predaj-jednoizbovy-byt-bratislava-nove-mesto.php",
+    "price": 191400,
+    "price_text": "191 400 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/395/194808395.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnuteľnosť s ID: BA-73696:\nHľadáte štartovacie bývanie v širšom centre mesta alebo bezpečnú investíciu na prenájom? Ponúkame na predaj presvetlený 1-izbový byt s jedinečnou atmosférou na vyhľadávanej Kalinčiakovej uli",
+    "found_at": "2026-08-22T01:44:36.568317+00:00"
+  },
+  {
     "id": "bazos:194805745",
     "portal": "bazos",
     "title": "KLIMATIZOVANÝ  MODERNÝ  APARTMÁN 34,5m2 / BRATISLAVA II",
@@ -102,32 +115,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
     "found_at": "2026-08-21T07:01:18.752060+00:00"
-  },
-  {
-    "id": "bazos:194776689",
-    "portal": "bazos",
-    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Dúbravka, H",
-    "url": "https://reality.bazos.sk/inzerat/194776689/halo-reality-predaj-dvojizbovy-byt-bratislava-dubravka-h.php",
-    "price": 214990,
-    "price_text": "214 990 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1787272482",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
-    "found_at": "2026-08-20T21:36:51.382371+00:00"
-  },
-  {
-    "id": "bazos:194772779",
-    "portal": "bazos",
-    "title": "Predam 2 izbovy byt Na Krizovatkach v BA Trnavka Ruzinov",
-    "url": "https://reality.bazos.sk/inzerat/194772779/predam-2-izbovy-byt-na-krizovatkach-v-ba.php",
-    "price": 250000,
-    "price_text": "250 000 €",
-    "location": "Bratislava 821 04",
-    "image": "https://www.bazos.sk/img/1t/779/194772779.jpg?t=1787247472",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj útulný a zariadený 2-izbový s balkónom v príjemnej lokalite na ulici Na Križovatkách 37/C v Bratislave.\r\n\r\nZákladné informácie:\r\n\r\nRozloha: 64,2 m²\r\n\r\nPoschodie: 2. poschodie, orientovaný do vnútrodvora\r\n\r\nDispozícia: Priestranná chodba, samostatná spálňa, obývačka a samostatná kuc",
-    "found_at": "2026-08-20T17:38:21.708737+00:00"
   },
   {
     "id": "bazos:194731066",
