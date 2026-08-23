@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194847574",
+    "portal": "bazos",
+    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
+    "url": "https://reality.bazos.sk/inzerat/194847574/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
+    "price": 140000,
+    "price_text": "140 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/574/194847574.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
+    "found_at": "2026-08-23T10:33:35.018923+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuWeeyx-M0p",
     "portal": "nehnutelnosti",
     "title": "Priestranny 2 izbovy byt na predaj v ruzinove s moznostou uprav podla vasich predstav",
@@ -10,7 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/2T02aBi73_fss?st=5Kckah-6azLuRndObExYu5R4c6SBxytoRiyLVVLy7rY&ts=1787323217&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Priestranný 2-izbový byt na predaj v Ružinove s možnosťou úprav podľa vašich predstáv Čmelíkova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 61 m² 239 000 € 3 918,03 €/m² Priestranný 2-izbový byt na predaj v Ružinove s možnosťou úprav podľa vašich predstáv Čmelíkova, Bratislava-Ruži",
-    "found_at": "2026-08-23T09:36:35.722954+00:00"
+    "found_at": "2026-08-23T09:36:35.722969+00:00"
   },
   {
     "id": "bazos:194835082",
@@ -284,6 +297,19 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový byt v pôvodnom stave (plastové okná) na Lotyšskej ulici v Bratislave – Podunajských Biskupiciach. Byt sa nachádza na 2. poschodí (3. NP) 8-podlažného, zatepleného byt",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
   },
   {
     "id": "nehnutelnosti:JuElSxF5XTJ",
