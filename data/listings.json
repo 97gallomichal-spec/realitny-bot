@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194835082",
+    "portal": "bazos",
+    "title": "2 izb. byt Heyrovského ulica / Lamac - Bratislav",
+    "url": "https://reality.bazos.sk/inzerat/194835082/2-izb-byt-heyrovskeho-ulica-lamac-bratislav.php",
+    "price": 230000,
+    "price_text": "230 000 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/082/194835082.jpg",
+    "condition": "povodny",
+    "desc": "Ponúkame na predaj priestranný 2 izbový byt v Lamači na Heyrovského ulici.\n\nByt sa nachádza na 4/6 poschodí o výmere 52,67 m2. Balkón 4,53 m2\n\n2 priestranné izby, ktoré sú neprechodné. samostatne Wc a kúpeľňa\n\nSlušný pôvodný stav.\n\nObývačka a kuchyňa orientované na východnú svetovú stranu. Spálňa or",
+    "found_at": "2026-08-23T01:54:40.143315+00:00"
+  },
+  {
     "id": "bazos:194828119",
     "portal": "bazos",
     "title": "NOMA | KADNÁROVA | 2-izbový byt v pôvodnom stave s loggiou",
@@ -76,32 +89,6 @@
     "condition": "neznamy",
     "desc": "BOND Reality ponúka exkluzívne na predaj 1-izbový byt s loggiou na Jašíkovej ulici v Bratislave – Ružinove. Byt je vhodný na vlastné bývanie aj ako investičná nehnuteľnosť – od roku 2021 ho užíva stabilný nájomník, ktorý má záujem pokračovať v nájme aj po zmene vlastníka.\n\nBYT: interiérová plocha by",
     "found_at": "2026-08-21T13:04:10.493496+00:00"
-  },
-  {
-    "id": "bazos:194793567",
-    "portal": "bazos",
-    "title": "1i byt Koliba, slepá ulička, záhrada a parkovanie",
-    "url": "https://reality.bazos.sk/inzerat/194793567/1i-byt-koliba-slepa-ulicka-zahrada-a-parkovanie.php",
-    "price": 198000,
-    "price_text": "198 000 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/567/194793567.jpg",
-    "condition": "neznamy",
-    "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
-    "found_at": "2026-08-21T10:39:18.044267+00:00"
-  },
-  {
-    "id": "bazos:194786247",
-    "portal": "bazos",
-    "title": "EXKLUZÍVNE 2-izb. apartmán vo vyhľadávanej lokalite Mlyn",
-    "url": "https://reality.bazos.sk/inzerat/194786247/exkluzivne-2-izb-apartman-vo-vyhladavanej-lokalite-mlyn.php",
-    "price": 185000,
-    "price_text": "185 000 €",
-    "location": "Bratislava 821 09",
-    "image": "https://www.bazos.sk/img/1t/247/194786247.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
-    "found_at": "2026-08-21T07:01:18.752060+00:00"
   },
   {
     "id": "bazos:194731066",
