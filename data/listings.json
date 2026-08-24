@@ -78,6 +78,19 @@
     "found_at": "2026-08-24T08:58:42.860532+00:00"
   },
   {
+    "id": "bazos:194870424",
+    "portal": "bazos",
+    "title": "Unikátny 2-izbový byt v historickom srdci Bratislavy | Talle",
+    "url": "https://reality.bazos.sk/inzerat/194870424/unikatny-2-izbovy-byt-v-historickom-srdci-bratislavy-talle.php",
+    "price": 155000,
+    "price_text": "155 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/424/194870424.jpg",
+    "condition": "neznamy",
+    "desc": "Predstavte si bývanie, kde sa história stretáva s jedinečnou atmosférou bratislavského Starého Mesta. Už pri vstupe do nádhernej historickej budovy na prestížnej Tallerovej ulici pocítite výnimočný charakter miesta, ktorý sa dnes hľadá len zriedka.\r\n\r\nRanná káva v obľúbenej kaviarni, prechádzky male",
+    "found_at": "2026-08-24T07:14:20.287485+00:00"
+  },
+  {
     "id": "bazos:194871585",
     "portal": "bazos",
     "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
@@ -141,19 +154,6 @@
     "condition": "neznamy",
     "desc": "Niektoré byty si vyžadujú ďalšie investície. Do tohto sa môžete jednoducho nasťahovať a bývať.\n\nPonúkame na predaj slnečný 2-izbový byt s výmerou 40,11 m² a zaskleným balkónom 5 m² vo vyhľadávanej časti Bratislavy – Dúbravka. Nachádza sa na 11. poschodí z 12 a vďaka juhozápadnej orientácii je počas ",
     "found_at": "2026-08-16T13:38:24.349030+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuS13bTLtTS",
-    "portal": "nehnutelnosti",
-    "title": "2 izb na vlcom hrdle",
-    "url": "https://www.nehnutelnosti.sk/detail/JuS13bTLtTS/2-izb-na-vlcom-hrdle",
-    "price": 153000,
-    "price_text": "153 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JWT84NI6U_fss?st=mzoV9vMyypOmBdYRnUqRXF0YHubDSqmQ5WHBWrBh3sY&ts=1786081061&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Rekonštruovaný 2-izb. byt, vlastné parkovanie Vlčie hrdlo 62, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 36 m² 153 000 € 4 250 €/m² Rekonštruovaný 2-izb. byt, vlastné parkovanie Vlčie hrdlo 62, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 36 m² Virtuálna prehliadka: https:/",
-    "found_at": "2026-08-15T15:30:27.271937+00:00"
   },
   {
     "id": "bazos:194604648",
@@ -271,31 +271,5 @@
     "condition": "neznamy",
     "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
     "found_at": "2026-07-09T22:40:40.296178+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 210000,
-    "price_text": "210 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 210000,
-    "price_text": "210 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
