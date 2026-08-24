@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:JuhsUEgMNye",
+    "portal": "nehnutelnosti",
+    "title": "Bratislava petrzalka budatinska 3 izbovy byt",
+    "url": "https://www.nehnutelnosti.sk/detail/JuhsUEgMNye/bratislava-petrzalka-budatinska-3-izbovy-byt",
+    "price": 160501,
+    "price_text": "160 501",
+    "location": "Bratislava - Lamač Studenohorská",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JCU6enTFP_fss?st=r8Dx1Sk6s6eh94NYfUNJtfclNRdDjlzQxkqGyGELEYg&ts=1786857972&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM AGENT.SK | Predaj 1-izbového bytu, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² Info v RK AGENT.SK | Predaj 1-izbového bytu, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² Ponúkame exkluzívne na predaj",
+    "found_at": "2026-08-24T07:14:20.287468+00:00"
+  },
+  {
+    "id": "bazos:194870424",
+    "portal": "bazos",
+    "title": "Unikátny 2-izbový byt v historickom srdci Bratislavy | Talle",
+    "url": "https://reality.bazos.sk/inzerat/194870424/unikatny-2-izbovy-byt-v-historickom-srdci-bratislavy-talle.php",
+    "price": 155000,
+    "price_text": "155 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/424/194870424.jpg",
+    "condition": "neznamy",
+    "desc": "Predstavte si bývanie, kde sa história stretáva s jedinečnou atmosférou bratislavského Starého Mesta. Už pri vstupe do nádhernej historickej budovy na prestížnej Tallerovej ulici pocítite výnimočný charakter miesta, ktorý sa dnes hľadá len zriedka.\r\n\r\nRanná káva v obľúbenej kaviarni, prechádzky male",
+    "found_at": "2026-08-24T07:14:20.287451+00:00"
+  },
+  {
+    "id": "bazos:194871585",
+    "portal": "bazos",
+    "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/194871585/1-izbovy-byt-slnecnice-zona-mesto-petrzalka.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/585/194871585.jpg?t=1787553744",
+    "condition": "neznamy",
+    "desc": "Hľadáte dokonalé štartovacie bývanie alebo bezstarostnú investíciu na prenájom?\r\n \r\nTento svetlý a štýlový 1-izbový byt na ulici Zuzany Chalupovej je presne to, čo hľadáte. Byt nevyžaduje žiadne ďalšie investície – stačí sa nasťahovať alebo okamžite prenajať.\r\nNajväčšie benefity bytu:\r\nTichá orientá",
+    "found_at": "2026-08-24T07:14:20.287434+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuarSRq1-l4",
     "portal": "nehnutelnosti",
     "title": "Neibrs 1 izbovy byt pri jazere drazdiak jasovska ulica",
@@ -91,43 +130,17 @@
     "found_at": "2026-08-22T01:44:36.568350+00:00"
   },
   {
-    "id": "bazos:194805745",
-    "portal": "bazos",
-    "title": "KLIMATIZOVANÝ  MODERNÝ  APARTMÁN 34,5m2 / BRATISLAVA II",
-    "url": "https://reality.bazos.sk/inzerat/194805745/klimatizovany-moderny-apartman-345m2-bratislava-ii.php",
-    "price": 174000,
-    "price_text": "174 000 €",
-    "location": "Bratislava 821 03",
-    "image": "https://www.bazos.sk/img/1t/745/194805745.jpg",
+    "id": "nehnutelnosti:Ju_iES3MsmG",
+    "portal": "nehnutelnosti",
+    "title": "Agentsk pripravujeme na pedaj",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju_iES3MsmG/agentsk-pripravujeme-na-pedaj",
+    "price": 160501,
+    "price_text": "160 501",
+    "location": "Bratislava - Lamač Studenohorská",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JCU6enTFP_fss?st=r8Dx1Sk6s6eh94NYfUNJtfclNRdDjlzQxkqGyGELEYg&ts=1786857972&e=0",
     "condition": "neznamy",
-    "desc": "Ponúkame na predaj tento pekný, KOMPLETNE ZARIADENÝ 1-izbový byt S LOGGIOU, ktorý sa nachádza v polyfunkčnej budove situovanej vo vyhľadávanej lokalite Bratislavy PRI KLIENTSKOM CENTRE, neďaleko jazera Kuchajda, m.č. RUŽINOV.\r\n\r\nByt je situovaný na 2/8 nadzemnom podlaží v budove s dvomi výťahmi. Ori",
-    "found_at": "2026-08-21T20:34:50.405790+00:00"
-  },
-  {
-    "id": "bazos:194806228",
-    "portal": "bazos",
-    "title": "AVENUE | moderný a útulný 2i apartmán s odpočtom DPH, v proj",
-    "url": "https://reality.bazos.sk/inzerat/194806228/avenue-moderny-a-utulny-2i-apartman-s-odpoctom-dph-v-proj.php",
-    "price": 200000,
-    "price_text": "200 000 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/228/194806228.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Agátová\n\rObec: Bratislava-Dúbravka\n\r\n\rAké je to bývať v Dúbravke pod lesom, v projekte, ktorý má málo bytov, apartmán smerom do ticha prírody, na súkromnej ulici, s privátnym dvorom, komunitným bazénom a spoločenskou miestnosťou len pre bývajúcich? Odpoveď na túto otázku ná",
-    "found_at": "2026-08-21T20:34:50.405789+00:00"
-  },
-  {
-    "id": "bazos:194806354",
-    "portal": "bazos",
-    "title": "Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky",
-    "url": "https://reality.bazos.sk/inzerat/194806354/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky.php",
-    "price": 232000,
-    "price_text": "232 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/354/194806354.jpg",
-    "condition": "neznamy",
-    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
-    "found_at": "2026-08-21T20:34:50.405787+00:00"
+    "desc": "PREMIUM AGENT.SK | Predaj 1-izbového bytu, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² Info v RK AGENT.SK | Predaj 1-izbového bytu, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² Ponúkame exkluzívne na predaj",
+    "found_at": "2026-08-21T07:50:54.056427+00:00"
   },
   {
     "id": "bazos:194731066",
@@ -141,6 +154,19 @@
     "condition": "neznamy",
     "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný   1-izbový byt o výmere 46 m2 na prízemí  tehlového bytového domu.  Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa  s jedálenským kútom, chodba, kúpeľň",
     "found_at": "2026-08-19T09:42:53.186208+00:00"
+  },
+  {
+    "id": "reality:13",
+    "portal": "reality",
+    "title": "AGENT.SK | Predaj 1-izbového bytu, Bratislava - Lamač",
+    "url": "https://www.reality.sk/byty/agent-sk-predaj-1-izboveho-bytu-bratislava-lamac/Ju_iES3MsmG/",
+    "price": null,
+    "price_text": "Cena dohodou",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhwdXMvU0dldTNsRDBrX2ZzcyxjZW50ZXIsLTUsMCwzMCwzMCkvanVs/JCU6enTFP_fss?st=fU-bzd9MZuQwbSieqNt4izz6OPXLEGPz3doKV3LyTk4&amp;ts=1786857972&amp;e=0",
+    "condition": "neznamy",
+    "desc": "Ponúkame exkluzívne na predaj svetlý a priestranný 1-izbový byt, nachádzajúci sa na Studenohorskej ulici v Lamači. Byt je bez tiarch a kúpou je ihneď voľný.\n\nObľúbená lokalita ponúka komunitný pokoj, veľa zelene, kompletnú občiansku vybavenosť a prírodu Malých Karpát priamo za domom.\n\nPozrite si 3D ",
+    "found_at": "2026-08-18T07:47:39.432638+00:00"
   },
   {
     "id": "bazos:194668444",
@@ -208,19 +234,6 @@
     "found_at": "2026-08-09T20:46:10.310720+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
     "id": "bazos:194369335",
     "portal": "bazos",
     "title": "Príjemný 2izb.byt s výťahom v obľúbenej časti Dúbravky, 46m2",
@@ -234,17 +247,17 @@
     "found_at": "2026-08-07T11:02:12.457515+00:00"
   },
   {
-    "id": "bazos:194256493",
-    "portal": "bazos",
-    "title": "1-izbový byt s balkónom na Trnavskej ceste v BA - Ružinov",
-    "url": "https://reality.bazos.sk/inzerat/194256493/1-izbovy-byt-s-balkonom-na-trnavskej-ceste-v-ba-ruzinov.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/493/194256493.jpg?t=1785825465",
+    "id": "nehnutelnosti:JuKGSJc5QM9",
+    "portal": "nehnutelnosti",
+    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
+    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
+    "price": 249900,
+    "price_text": "249 900",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rZTIGrA_R_fss?st=v_za-WKnUxz6cl2z46rcKtwBlKtqJ6-E5eZxfX9f_I0&ts=1785774882&e=0",
     "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1-izbový byt v pôvodnom stave na Trnavskej ceste v Bratislave. Byt sa nachádza na najvyššom, t. j. 5. poschodí bytového domu s výťahom, pričom okná bytu sú orientované smerom na spoločný dvor, vďaka čomu nie je počuť premávku z Trnavskej cesty. \r\nByt pozostáva z jednej izby, kuchy",
-    "found_at": "2026-08-03T18:00:16.092098+00:00"
+    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
+    "found_at": "2026-08-04T15:31:44.231130+00:00"
   },
   {
     "id": "bazos:194211621",
@@ -297,44 +310,5 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový byt v pôvodnom stave (plastové okná) na Lotyšskej ulici v Bratislave – Podunajských Biskupiciach. Byt sa nachádza na 2. poschodí (3. NP) 8-podlažného, zatepleného byt",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju-0_Ky0-0p",
-    "portal": "nehnutelnosti",
-    "title": "Priestranny 2 izbovy byt s balkonom tehla ba nove mesto skalicka cesta 44 posch 72m2 povodny stav",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju-0_Ky0-0p/priestranny-2-izbovy-byt-s-balkonom-tehla-ba-nove-mesto-skalicka-cesta-44-posch-72m2-povodny-stav",
-    "price": 224900,
-    "price_text": "224 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/93u_sL4CP_fss?st=Ujd3XHfLLpqVOe8fhD4ATf2kV4ZtfYCbi3c7gkznpsE&ts=1784362995&e=0",
-    "condition": "povodny",
-    "desc": "PREMIUM veľký tehlový 2 izbový byt s balkónom, klimatizácia, 72m2, BA- Nové Mesto, Skalická cesta, 4/4 posch.,pekné prostredie Skalická cesta, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 71.86 m² 224 900 € 3 129,7 €/m² veľký tehlový 2 izbový byt s balkónom, klimatizácia, 72m2, BA- Nové",
-    "found_at": "2026-07-18T08:55:18.729634+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuBGw9qQSKS",
-    "portal": "nehnutelnosti",
-    "title": "Halo reality predaj dvojizbovy byt bratislava ruzinov vlcie hrdlo exkluzivne halo reality",
-    "url": "https://www.nehnutelnosti.sk/detail/JuBGw9qQSKS/halo-reality-predaj-dvojizbovy-byt-bratislava-ruzinov-vlcie-hrdlo-exkluzivne-halo-reality",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
-    "found_at": "2026-07-13T03:51:53.146013+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuiiSWIRxRj",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izboveho bytu s potencialom na 2 izbovy svidnicka bratislava ruzinov",
-    "url": "https://www.nehnutelnosti.sk/detail/JuiiSWIRxRj/predaj-1-izboveho-bytu-s-potencialom-na-2-izbovy-svidnicka-bratislava-ruzinov",
-    "price": 210000,
-    "price_text": "210 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
-    "found_at": "2026-07-09T22:40:40.296178+00:00"
   }
 ]
