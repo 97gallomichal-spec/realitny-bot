@@ -78,19 +78,6 @@
     "found_at": "2026-08-24T08:58:42.860532+00:00"
   },
   {
-    "id": "bazos:194870424",
-    "portal": "bazos",
-    "title": "Unikátny 2-izbový byt v historickom srdci Bratislavy | Talle",
-    "url": "https://reality.bazos.sk/inzerat/194870424/unikatny-2-izbovy-byt-v-historickom-srdci-bratislavy-talle.php",
-    "price": 155000,
-    "price_text": "155 000 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/424/194870424.jpg",
-    "condition": "neznamy",
-    "desc": "Predstavte si bývanie, kde sa história stretáva s jedinečnou atmosférou bratislavského Starého Mesta. Už pri vstupe do nádhernej historickej budovy na prestížnej Tallerovej ulici pocítite výnimočný charakter miesta, ktorý sa dnes hľadá len zriedka.\r\n\r\nRanná káva v obľúbenej kaviarni, prechádzky male",
-    "found_at": "2026-08-24T07:14:20.287485+00:00"
-  },
-  {
     "id": "bazos:194871585",
     "portal": "bazos",
     "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
@@ -104,17 +91,17 @@
     "found_at": "2026-08-24T07:14:20.287483+00:00"
   },
   {
-    "id": "nehnutelnosti:JueBQfuqNq5",
-    "portal": "nehnutelnosti",
-    "title": "Arvin and benet prakticky 2i na zaciatku petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JueBQfuqNq5/arvin-and-benet-prakticky-2i-na-zaciatku-petrzalky",
-    "price": 208900,
-    "price_text": "208 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/d11QsMTJk_fss?st=ZeHHCdU3dSbqjzrUtuxjNxm2k4wwdg8bYX53LTKK6rg&ts=1787309227&e=0",
+    "id": "bazos:194776689",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Dúbravka, H",
+    "url": "https://reality.bazos.sk/inzerat/194776689/halo-reality-predaj-dvojizbovy-byt-bratislava-dubravka-h.php",
+    "price": 214990,
+    "price_text": "214 990 €",
+    "location": "Bratislava 841 02",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1787594836",
     "condition": "neznamy",
-    "desc": "PREMIUM Arvin & Benet | Praktický 2i na začiatku Petržalky Jungmannova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.6 m² 208 900 € 3 826,01 €/m² Arvin & Benet | Praktický 2i na začiatku Petržalky Jungmannova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.6 m² Arvin & Benet po",
-    "found_at": "2026-08-21T16:45:19.312013+00:00"
+    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
+    "found_at": "2026-08-20T21:36:51.382371+00:00"
   },
   {
     "id": "bazos:194731066",
@@ -169,6 +156,19 @@
     "found_at": "2026-08-16T13:38:24.349030+00:00"
   },
   {
+    "id": "nehnutelnosti:JuS13bTLtTS",
+    "portal": "nehnutelnosti",
+    "title": "2 izb na vlcom hrdle",
+    "url": "https://www.nehnutelnosti.sk/detail/JuS13bTLtTS/2-izb-na-vlcom-hrdle",
+    "price": 153000,
+    "price_text": "153 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JWT84NI6U_fss?st=mzoV9vMyypOmBdYRnUqRXF0YHubDSqmQ5WHBWrBh3sY&ts=1786081061&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Rekonštruovaný 2-izb. byt, vlastné parkovanie Vlčie hrdlo 62, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 36 m² 153 000 € 4 250 €/m² Rekonštruovaný 2-izb. byt, vlastné parkovanie Vlčie hrdlo 62, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 36 m² Virtuálna prehliadka: https:/",
+    "found_at": "2026-08-15T15:30:27.271937+00:00"
+  },
+  {
     "id": "bazos:194604648",
     "portal": "bazos",
     "title": "NA PREDAJ: 2-izbový byt, 45 m² – Šancova ulica, Bratislava",
@@ -182,19 +182,6 @@
     "found_at": "2026-08-15T08:39:22.950287+00:00"
   },
   {
-    "id": "nehnutelnosti:JuefqSbbxOB",
-    "portal": "nehnutelnosti",
-    "title": "Arvin and benet velkorysy svetly byt pri strkovci",
-    "url": "https://www.nehnutelnosti.sk/detail/JuefqSbbxOB/arvin-and-benet-velkorysy-svetly-byt-pri-strkovci",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/iyo9JGisV_fss?st=M3lbbfnwrkUgvYn836j9e_XsGxpCuDZtIx7RmLbtTrM&ts=1786618569&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Arvin & Benet | Veľkorysý svetlý byt pri Štrkovci Solivarská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² 239 000 € 4 192,98 €/m² Arvin & Benet | Veľkorysý svetlý byt pri Štrkovci Solivarská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Arvin & Benet ponúka na pr",
-    "found_at": "2026-08-13T11:54:58.063889+00:00"
-  },
-  {
     "id": "bazos:194450543",
     "portal": "bazos",
     "title": "Ružinov 2i priestranný Slnečný byt",
@@ -206,6 +193,19 @@
     "condition": "neznamy",
     "desc": "Krásny, slnečný a zariadený 2-izbový byt na Vietnamskej ulici v mimoriadne žiadanej a tichej lokalite bratislavského Ružinova (časť Trnávka). Tento byt je ideálnou voľbou pre ľudí, ktorí hľadajú pokojné bývanie s kompletnou občianskou vybavenosťou a rýchlym prístupom do centra.\r\n\r\nPriestranná dispoz",
     "found_at": "2026-08-10T08:46:41.514096+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Jui6mWU-wL5",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
+    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
+    "price": 207900,
+    "price_text": "207 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
+    "found_at": "2026-08-07T11:52:19.426047+00:00"
   },
   {
     "id": "bazos:194369335",
@@ -245,19 +245,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný štartovací 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad na zeleň a Malé ",
     "found_at": "2026-07-31T21:16:42.500058+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Juyhq8v4wVy",
-    "portal": "nehnutelnosti",
-    "title": "Arvin and benet prakticky investicny byt v oblubenom ruzinove",
-    "url": "https://www.nehnutelnosti.sk/detail/Juyhq8v4wVy/arvin-and-benet-prakticky-investicny-byt-v-oblubenom-ruzinove",
-    "price": 149000,
-    "price_text": "149 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/hFdwIDCH7_fss?st=KXpbidof9S-OVJm1dRTD9uV7K1W5mGC-x35ccTsv2Gs&ts=1785179256&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM REZERVOVANÉ | Arvin & Benet | Praktický, investičný byt v obľúbenom Ružinove Bajkalská 720, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 42.33 m² 149 000 € 3 519,96 €/m² REZERVOVANÉ | Arvin & Benet | Praktický, investičný byt v obľúbenom Ružinove Bajkalská 720, Bratislava-Ružinov, ok",
-    "found_at": "2026-07-31T19:46:44.017490+00:00"
   },
   {
     "id": "bazos:194027754",
