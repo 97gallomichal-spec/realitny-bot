@@ -1,5 +1,18 @@
 [
   {
+    "id": "nehnutelnosti:JuarSRq1-l4",
+    "portal": "nehnutelnosti",
+    "title": "Neibrs 1 izbovy byt pri jazere drazdiak jasovska ulica",
+    "url": "https://www.nehnutelnosti.sk/detail/JuarSRq1-l4/neibrs-1-izbovy-byt-pri-jazere-drazdiak-jasovska-ulica",
+    "price": 169000,
+    "price_text": "169 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/1xiK4GmgX_fss?st=q6QP1j1SQ7GxbZjTs3U4Op9unje-g96tbZOEz9W1huE&ts=1787511655&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Neibrs | 1-izbový byt pri jazere Draždiak – Jasovská ulica Jasovská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 36 m² 169 000 € 4 694,44 €/m² Neibrs | 1-izbový byt pri jazere Draždiak – Jasovská ulica Jasovská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 36 m² Realitná k",
+    "found_at": "2026-08-24T04:55:44.609905+00:00"
+  },
+  {
     "id": "bazos:194857265",
     "portal": "bazos",
     "title": "HALO reality - Predaj, jednoizbový byt Bratislava Staré Mest",
@@ -208,6 +221,19 @@
     "found_at": "2026-08-07T11:02:12.457515+00:00"
   },
   {
+    "id": "bazos:194256493",
+    "portal": "bazos",
+    "title": "1-izbový byt s balkónom na Trnavskej ceste v BA - Ružinov",
+    "url": "https://reality.bazos.sk/inzerat/194256493/1-izbovy-byt-s-balkonom-na-trnavskej-ceste-v-ba-ruzinov.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/493/194256493.jpg?t=1785825465",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt v pôvodnom stave na Trnavskej ceste v Bratislave. Byt sa nachádza na najvyššom, t. j. 5. poschodí bytového domu s výťahom, pričom okná bytu sú orientované smerom na spoločný dvor, vďaka čomu nie je počuť premávku z Trnavskej cesty. \r\nByt pozostáva z jednej izby, kuchy",
+    "found_at": "2026-08-03T18:00:16.092098+00:00"
+  },
+  {
     "id": "bazos:194211621",
     "portal": "bazos",
     "title": "🏡 VYMENÍM BYT V BRATISLAVE ZA BYT V TRNAVE 🔄",
@@ -260,19 +286,6 @@
     "found_at": "2026-07-24T10:26:53.460100+00:00"
   },
   {
-    "id": "nehnutelnosti:Jus4CasLMBD",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj priestranny 3 izbovy byt s balkonom pivnicou a dobrymi moznostami parkovania",
-    "url": "https://www.nehnutelnosti.sk/detail/Jus4CasLMBD/herrys-na-predaj-priestranny-3-izbovy-byt-s-balkonom-pivnicou-a-dobrymi-moznostami-parkovania",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
-    "found_at": "2026-07-22T03:35:26.432685+00:00"
-  },
-  {
     "id": "nehnutelnosti:Ju-0_Ky0-0p",
     "portal": "nehnutelnosti",
     "title": "Priestranny 2 izbovy byt s balkonom tehla ba nove mesto skalicka cesta 44 posch 72m2 povodny stav",
@@ -312,29 +325,16 @@
     "found_at": "2026-07-09T22:40:40.296178+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
     "id": "nehnutelnosti:JuQTTIsvn_d",
     "portal": "nehnutelnosti",
     "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
     "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/v35m26Cpk_fss?st=GRanxttaWXX78meUgYlaKudeAXBXOAXdgNNhZA_xDWQ&ts=1781893653&e=0",
+    "price": 169000,
+    "price_text": "169 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/1xiK4GmgX_fss?st=q6QP1j1SQ7GxbZjTs3U4Op9unje-g96tbZOEz9W1huE&ts=1787511655&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 39 m² 159 900 € 4 100 €/m² HALO reality - Predaj, dvojizbový byt Bratislava Ružinov, Vlčie hrdlo - EXKLUZÍVNE HALO REALITY Vlčie h",
+    "desc": "PREMIUM Neibrs | 1-izbový byt pri jazere Draždiak – Jasovská ulica Jasovská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 36 m² 169 000 € 4 694,44 €/m² Neibrs | 1-izbový byt pri jazere Draždiak – Jasovská ulica Jasovská, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 36 m² Realitná k",
     "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
