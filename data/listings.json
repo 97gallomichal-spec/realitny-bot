@@ -1,29 +1,42 @@
 [
   {
-    "id": "bazos:194923183",
+    "id": "bazos:194924453",
     "portal": "bazos",
     "title": "2- izbový byt na Rovníkovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/194923183/2-izbovy-byt-na-rovnikovej-ulici.php",
+    "url": "https://reality.bazos.sk/inzerat/194924453/2-izbovy-byt-na-rovnikovej-ulici.php",
     "price": 210000,
     "price_text": "210 000 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/183/194923183.jpg",
+    "image": "https://www.bazos.sk/img/1t/453/194924453.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-08-25T16:49:03.821452+00:00"
+    "found_at": "2026-08-25T17:39:13.004038+00:00"
   },
   {
-    "id": "bazos:194923200",
+    "id": "bazos:194924465",
     "portal": "bazos",
     "title": "Garsónka na ulici Záhradnícka",
-    "url": "https://reality.bazos.sk/inzerat/194923200/garsonka-na-ulici-zahradnicka.php",
+    "url": "https://reality.bazos.sk/inzerat/194924465/garsonka-na-ulici-zahradnicka.php",
     "price": 174800,
     "price_text": "174 800 €",
     "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/200/194923200.jpg",
+    "image": "https://www.bazos.sk/img/1t/465/194924465.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 23 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
-    "found_at": "2026-08-25T16:49:03.821450+00:00"
+    "found_at": "2026-08-25T17:39:13.004037+00:00"
+  },
+  {
+    "id": "bazos:194924795",
+    "portal": "bazos",
+    "title": "Garsónka na Rybničnej ul. vo Vajnoroch",
+    "url": "https://reality.bazos.sk/inzerat/194924795/garsonka-na-rybnicnej-ul-vo-vajnoroch.php",
+    "price": 120000,
+    "price_text": "120 000 €",
+    "location": "Bratislava 831 07",
+    "image": "https://www.bazos.sk/img/1t/795/194924795.jpg",
+    "condition": "neznamy",
+    "desc": "Garsónka na Rybničnej ul. vo Vajnoroch. Byt v osobnom vlastníctve, o celkovej rozlohe 27,5m2 (23,5m2 + loggia o výmere 4m2), umiestnený na 5. poschodí v 9-poschodovom bytovom dome s dvomi výťahmi, v pokojnej lokalite na rozhraní mestských častí Rača a Vajnory.. \n \nByt má výmeru 23,5m2 a pozostáva zo",
+    "found_at": "2026-08-25T17:39:13.004035+00:00"
   },
   {
     "id": "bazos:194923569",
@@ -36,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/569/194923569.jpg",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr.art. Mária Markus, kontakt: 0905 731 533, nehnuteľnosť s ID: BA-73720:\nPonúkame na predaj príjemnú priestrannú garsónku s balkónom v Bratislave, mestská časť Vajnory na ulici Rybničná, ktorá je na pomedzí mestských častí Rača a Vajnory. \n Byt sa nachádza na 5. ",
-    "found_at": "2026-08-25T16:49:03.821449+00:00"
+    "found_at": "2026-08-25T16:49:03.821468+00:00"
   },
   {
     "id": "bazos:194919751",
