@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194909014",
+    "portal": "bazos",
+    "title": "Na predaj 1-izbový byt s lodžiou, 38  m², Hraničná ul. Ružin",
+    "url": "https://reality.bazos.sk/inzerat/194909014/na-predaj-1-izbovy-byt-s-lodziou-38-m-hranicna-ul-ruzin.php",
+    "price": 176000,
+    "price_text": "176 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/014/194909014.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 1-izbový byt\n\rUlica: Hraničná\n\rMestská časť: Prievoz\n\rObec: Bratislava-Ružinov\n\r\n\rČíslo ponuky : 2835, Kontakt: Eduard Číž, Telefón : 0910 706 802, E-mail : ciz(at)vasereality.sk\n\nRealitná kancelária Vaše Reality Vám ponúka na predaj elegantný 1-izbový byt s lodžiou vo vyhľadávanej bratisl ...",
+    "found_at": "2026-08-25T08:53:47.712419+00:00"
+  },
+  {
+    "id": "bazos:194763254",
+    "portal": "bazos",
+    "title": "Realitný kancelária REALADR s.r.o.",
+    "url": "https://reality.bazos.sk/inzerat/194763254/realitny-kancelaria-realadr-sro.php",
+    "price": 217000,
+    "price_text": "217 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/254/194763254.jpg?t=1787645251",
+    "condition": "neznamy",
+    "desc": "2-GARZÓNKA S LOGGIOU V PETRŽALKE – VÝBORNÁ INVESTÍCIA AJ BÝVANIE | 42 m² | 217 000 €\r\nHľadáte byt, ktorý môžete ihneď využívať na bývanie alebo ako stabilnú investíciu? Táto ponuka v Petržalke vás môže zaujať.\r\n\r\nPonúkame na predaj 2-izbovú garsónku s loggiou na Krasnohorskej ulici v Bratislave – Pe",
+    "found_at": "2026-08-25T08:53:47.712372+00:00"
+  },
+  {
     "id": "bazos:194903954",
     "portal": "bazos",
     "title": "Novo zrekonštr. 2 izb. byt, MÁNESOVO NÁM.",
@@ -117,19 +143,6 @@
     "found_at": "2026-08-24T14:53:12.880980+00:00"
   },
   {
-    "id": "bazos:194883012",
-    "portal": "bazos",
-    "title": "1- izbový byt na Veternicovej ulici",
-    "url": "https://reality.bazos.sk/inzerat/194883012/1-izbovy-byt-na-veternicovej-ulici.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/012/194883012.jpg?t=1787576682",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
-    "found_at": "2026-08-24T11:37:36.763826+00:00"
-  },
-  {
     "id": "bazos:194871585",
     "portal": "bazos",
     "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
@@ -141,19 +154,6 @@
     "condition": "neznamy",
     "desc": "Hľadáte dokonalé štartovacie bývanie alebo bezstarostnú investíciu na prenájom?\r\n \r\nTento svetlý a štýlový 1-izbový byt na ulici Zuzany Chalupovej je presne to, čo hľadáte. Byt nevyžaduje žiadne ďalšie investície – stačí sa nasťahovať alebo okamžite prenajať.\r\nNajväčšie benefity bytu:\r\nTichá orientá",
     "found_at": "2026-08-24T07:14:20.287483+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju_iES3MsmG",
-    "portal": "nehnutelnosti",
-    "title": "Agentsk pripravujeme na pedaj",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju_iES3MsmG/agentsk-pripravujeme-na-pedaj",
-    "price": 179900,
-    "price_text": "179 900",
-    "location": "Bratislava - Lamač Studenohorská",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JCU6enTFP_fss?st=r8Dx1Sk6s6eh94NYfUNJtfclNRdDjlzQxkqGyGELEYg&ts=1786857972&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM AGENT.SK | Predaj 1-izbový byt, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² 179 900 € 4 183,72 €/m² AGENT.SK | Predaj 1-izbový byt, Bratislava - Lamač Studenohorská, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 43 m² Ponúkame exkluzívne na",
-    "found_at": "2026-08-21T07:50:54.056427+00:00"
   },
   {
     "id": "bazos:194776689",
@@ -247,6 +247,19 @@
     "found_at": "2026-08-10T08:46:41.514096+00:00"
   },
   {
+    "id": "nehnutelnosti:JuuPfvr3I_b",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 1 izb bytu s velkou loggiou na karloveskej ul s vyhladom na zelen",
+    "url": "https://www.nehnutelnosti.sk/detail/JuuPfvr3I_b/predaj-1-izb-bytu-s-velkou-loggiou-na-karloveskej-ul-s-vyhladom-na-zelen",
+    "price": 173400,
+    "price_text": "173 400",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/8-B4U9Hni_fss?st=kBsaJV4LDipmlH6SfabcrrxUkoKqad-Gf8MXFag8d6Y&ts=1786306761&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ 1. izb. bytu s veľkou loggiou na Karloveskej ul. s výhľadom na zeleň Karloveská, Bratislava-Karlova Ves, okres Bratislava IV 1 izbový byt 35 m² 173 400 € 4 954,29 €/m² PREDAJ 1. izb. bytu s veľkou loggiou na Karloveskej ul. s výhľadom na zeleň Karloveská, Bratislava-Karlova Ves, okres",
+    "found_at": "2026-08-09T20:46:10.310720+00:00"
+  },
+  {
     "id": "bazos:194369335",
     "portal": "bazos",
     "title": "Príjemný 2izb.byt s výťahom v obľúbenej časti Dúbravky, 46m2",
@@ -258,19 +271,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 46 m2, situovaný na 4. poschodí z 5 v bytovom dome s výťahom na Cabanovej ulici v bratislavskej Dúbravke.\r\n\r\nByt prešiel v roku 2014 čiastočnou rekonštrukciou, v rámci ktorej boli vymenené aj elektrické rozvody. V bytovom dome boli v roku 2020 zrekon",
     "found_at": "2026-08-07T11:02:12.457515+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuKGSJc5QM9",
-    "portal": "nehnutelnosti",
-    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
-    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rZTIGrA_R_fss?st=v_za-WKnUxz6cl2z46rcKtwBlKtqJ6-E5eZxfX9f_I0&ts=1785774882&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
-    "found_at": "2026-08-04T15:31:44.231130+00:00"
   },
   {
     "id": "bazos:194211621",
@@ -290,10 +290,10 @@
     "portal": "bazos",
     "title": "Ul.kpt.J.Rašu|1-izbový byt s krásnym výhľadom,BA- Dúbravka",
     "url": "https://reality.bazos.sk/inzerat/194172381/1-izbovy-byt-s-krasnym-vyhladom-na-male-karpaty-vo-vyhladava.php",
-    "price": 162000,
-    "price_text": "162 000 €",
+    "price": 160000,
+    "price_text": "160 000 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/381/194172381.jpg?t=1787641652",
+    "image": "https://www.bazos.sk/img/1t/381/194172381.jpg?t=1787644774",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný štartovací 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad na zeleň a Malé ",
     "found_at": "2026-07-31T21:16:42.500058+00:00"
