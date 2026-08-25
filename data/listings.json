@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194928746",
+    "portal": "bazos",
+    "title": "Na predaj 2 izbový byt, 47 m2, Bratislava, Nové Mesto, Piešť",
+    "url": "https://reality.bazos.sk/inzerat/194928746/na-predaj-2-izbovy-byt-47-m2-bratislava-nove-mesto-piest.php",
+    "price": 202000,
+    "price_text": "202 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/746/194928746.jpg?t=1787686755",
+    "condition": "povodny",
+    "desc": "Na predaj 2 izbový byt, 47 m2 s menším balkónom, Bratislava, Nové Mesto, Piešťanská ulica\r\n\r\nByt je po staršej čiastočnej rekonštrukcii, vhodný prípadne na rekonštrukciu podľa vlastných predstáv, alebo úprav aktuálneho stavu.\r\n\r\nPodlahová plocha je 46 m2 + 1 m2 balkón, celková plocha bytu je 47 m2. ",
+    "found_at": "2026-08-25T20:39:00.021605+00:00"
+  },
+  {
     "id": "bazos:194925770",
     "portal": "bazos",
     "title": "Zariadená garsónka s parkovaním na Záhradníckej ul. v Starom",
@@ -141,19 +154,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj svetlý a vzdušný 2-izbový byt v pokojnej lokalite Dúbravky na Cabanovej ulici. Byt je v osobnom vlastníctve, je k dispozícii okamžite, predaj od majiteľa.\r\n\r\nZákladné parametre:\r\n- Úžitková plocha: 61 m² (byt + murovaná pivnica 4 m²)\r\n- Poschodie: 1. poschodie zo 6. s výťahom (pod",
     "found_at": "2026-08-25T09:45:50.292585+00:00"
-  },
-  {
-    "id": "bazos:194909014",
-    "portal": "bazos",
-    "title": "Na predaj 1-izbový byt s lodžiou, 38  m², Hraničná ul. Ružin",
-    "url": "https://reality.bazos.sk/inzerat/194909014/na-predaj-1-izbovy-byt-s-lodziou-38-m-hranicna-ul-ruzin.php",
-    "price": 176000,
-    "price_text": "176 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/014/194909014.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Hraničná\n\rMestská časť: Prievoz\n\rObec: Bratislava-Ružinov\n\r\n\rČíslo ponuky : 2835, Kontakt: Eduard Číž, Telefón : 0910 706 802, E-mail : ciz(at)vasereality.sk\n\nRealitná kancelária Vaše Reality Vám ponúka na predaj elegantný 1-izbový byt s lodžiou vo vyhľadávanej bratisl ...",
-    "found_at": "2026-08-25T08:53:47.712452+00:00"
   },
   {
     "id": "bazos:194763254",
