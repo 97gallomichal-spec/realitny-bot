@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194919751",
+    "portal": "bazos",
+    "title": "Predám dvojgarsónku deluxe",
+    "url": "https://reality.bazos.sk/inzerat/194919751/predam-dvojgarsonku-deluxe.php",
+    "price": 207000,
+    "price_text": "207 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/751/194919751.jpg",
+    "condition": "neznamy",
+    "desc": "Predám 2.garsónku deluxe na Mánesovom námestí v Bratislave - Petržalke po čiastočnej rekonštrukcii. Byt má výmeru 48 m2 + 5 m2 lodžia a nachádza sa na 7.poschodí v 12.podlažnom zateplenom bytovom dome s výťahom. K bytu prislúcha pivničná kobka na poschodí.\r\nBytový dom je zateplený a nachádza sa vo v",
+    "found_at": "2026-08-25T14:55:56.451035+00:00"
+  },
+  {
+    "id": "bazos:194920137",
+    "portal": "bazos",
+    "title": "Garsónka na ulici Záhradnícka",
+    "url": "https://reality.bazos.sk/inzerat/194920137/garsonka-na-ulici-zahradnicka.php",
+    "price": 174800,
+    "price_text": "174 800 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/137/194920137.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 23 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
+    "found_at": "2026-08-25T14:55:56.451033+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuYNDG3PaVp",
     "portal": "nehnutelnosti",
     "title": "Dvojgarsonka v povodnom stave s moznostou zmeny dispozicie",
@@ -10,7 +36,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/F0aLUsUVs_fss?st=95wH0YFDo_k6flezld-kPutLQLhJhUcr5p_WvvAplDA&ts=1787570547&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Dvojgarsónka v pôvodnom stave s možnosťou zmeny dispozície Stavbárska, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 40 m² 95 000 € 2 375 €/m² Dvojgarsónka v pôvodnom stave s možnosťou zmeny dispozície Stavbárska, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 40 m² Ponúkame na",
-    "found_at": "2026-08-25T13:58:57.376885+00:00"
+    "found_at": "2026-08-25T13:58:57.376927+00:00"
   },
   {
     "id": "nehnutelnosti:Ju-55JMa9jF",
@@ -23,20 +49,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/F-ufNEJ3O_fss?st=Yg8zz4sLXa4PZUQCcmp1NTLRFWwgq5WOtmNDqWFXN1c&ts=1787662650&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM PLUS REALITY | Tichý dvojizbový byt s loggiou v obľúbenej časti Ružinova v meste Bratislava na predaj! Bratislava-Ružinov, okres Bratislava II 2 izbový byt 47 m² 209 000 € 4 446,81 €/m² PLUS REALITY | Tichý dvojizbový byt s loggiou v obľúbenej časti Ružinova v meste Bratislava na predaj! Bra",
-    "found_at": "2026-08-25T13:58:57.376883+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuhenSQht0V",
-    "portal": "nehnutelnosti",
-    "title": "Ponukam 1 izbovy byt v dubravke",
-    "url": "https://www.nehnutelnosti.sk/detail/JuhenSQht0V/ponukam-1-izbovy-byt-v-dubravke",
-    "price": 159000,
-    "price_text": "159 000",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z77kl9wTH_fss?st=aWwVQX-Ay61tpeaNjkCjCny5GWuvxeH_aMEWfHCIH1k&ts=1787659273&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Ponúkam 1-izbový byt v Dúbravke Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 37 m² 159 000 € 4 297,3 €/m² Ponúkam 1-izbový byt v Dúbravke Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 37 m² Ponúkam do predaja vlastný 1-izbový byt na Landauovej ulici v obľúbenej časti Dúbravk",
-    "found_at": "2026-08-25T13:04:36.948519+00:00"
+    "found_at": "2026-08-25T13:58:57.376925+00:00"
   },
   {
     "id": "bazos:194917849",
@@ -117,58 +130,6 @@
     "found_at": "2026-08-25T08:53:47.712450+00:00"
   },
   {
-    "id": "bazos:194903954",
-    "portal": "bazos",
-    "title": "Novo zrekonštr. 2 izb. byt, MÁNESOVO NÁM.",
-    "url": "https://reality.bazos.sk/inzerat/194903954/novo-zrekonstr-2-izb-byt-manesovo-nam.php",
-    "price": 239900,
-    "price_text": "239 900 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/954/194903954.jpg",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NIKO-REAL, s.r.o. ponúka na predaj 2 izbový byt na začiatku Petržalky, ul. MÁNESOVO NÁM.\r\n\r\nByt má výmeru 48,13 m2 + LOGGIA.\r\nPrislúcha k nemu pivnica.\r\nNachádza sa na 2. poschodí 12 poschodového, zatepleného bytového domu.\r\nPozemok pod domom je v spoluvlastníctve vlastníkov byto",
-    "found_at": "2026-08-25T07:02:04.165208+00:00"
-  },
-  {
-    "id": "bazos:194904315",
-    "portal": "bazos",
-    "title": "2 izb. byt, PANKÚCHOVA ul. po novej rekonštrukcii",
-    "url": "https://reality.bazos.sk/inzerat/194904315/2-izb-byt-pankuchova-ul-po-novej-rekonstrukcii.php",
-    "price": 249900,
-    "price_text": "249 900 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/315/194904315.jpg",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NIKO-REAL, s.r.o. ponúka na predaj 2 izbový byt na začiatku Petržalky, PANKÚCHOVA ul.\r\n\r\nByt má výmeru 59,72 m2, vrátane výmery LOGGIE a pivnice.\r\nNachádza sa na 2. poschodí 11 poschodového, zatepleného bytového domu.\r\nPozemok pod domom je v spoluvlastníctve vlastníkov bytov v do",
-    "found_at": "2026-08-25T07:02:04.165206+00:00"
-  },
-  {
-    "id": "bazos:194904414",
-    "portal": "bazos",
-    "title": "2 izb. byt, PAVLOVSKÁ ul.",
-    "url": "https://reality.bazos.sk/inzerat/194904414/2-izb-byt-pavlovska-ul.php",
-    "price": 243900,
-    "price_text": "243 900 €",
-    "location": "Bratislava 831 03",
-    "image": "https://www.bazos.sk/img/1t/414/194904414.jpg",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NIKO-REAL, s.r.o. ponúka na predaj 2 izbový byt v Novom Meste, PAVLOVSKÁ ul.\r\n\r\nByt má výmeru 49,37 m2 + BALKÓN o výmere 2,50 m2.\r\nK bytu prislúcha aj pivnica o výmere 2,16 m2.\r\nNachádza sa na 1. poschodí 4 poschodového, TEHLOVÉHO bytového domu.\r\nBytový dom bol daný do užívania v",
-    "found_at": "2026-08-25T07:02:04.165205+00:00"
-  },
-  {
-    "id": "bazos:194904476",
-    "portal": "bazos",
-    "title": "1 izb. byt s LOGGIOU, Nobelova ul.",
-    "url": "https://reality.bazos.sk/inzerat/194904476/1-izb-byt-s-loggiou-nobelova-ul.php",
-    "price": 179900,
-    "price_text": "179 900 €",
-    "location": "Bratislava 831 03",
-    "image": "https://www.bazos.sk/img/1t/476/194904476.jpg",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NIKO-REAL, s.r.o. ponúka na predaj 1 izbový byt v Novom Meste, NOBELOVA ul..\r\n\r\nByt má výmeru 34,22 m2 + LOGGIA pozdĺž celého bytu. K bytu prislúcha aj pivnica o výmere 1,98 m2\r\nNachádza sa na 2. poschodí 7 poschodového zatepleného bytového domu.\r\nPozemok pod domom je v spoluvlas",
-    "found_at": "2026-08-25T07:02:04.165203+00:00"
-  },
-  {
     "id": "bazos:194905043",
     "portal": "bazos",
     "title": "2 izb. byt, HANÁCKA ul. po novej rekonštrukcii",
@@ -234,19 +195,6 @@
     "found_at": "2026-08-19T09:42:53.186208+00:00"
   },
   {
-    "id": "nehnutelnosti:Juxd4H2Fg8E",
-    "portal": "nehnutelnosti",
-    "title": "Neibrs zariadeny 1 izbovy byt s balkonom a moznostou upravy na 15 izbovy byt stare grunty karlova ves",
-    "url": "https://www.nehnutelnosti.sk/detail/Juxd4H2Fg8E/neibrs-zariadeny-1-izbovy-byt-s-balkonom-a-moznostou-upravy-na-15-izbovy-byt-stare-grunty-karlova-ves",
-    "price": 229000,
-    "price_text": "229 000",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RQ11LOxug_fss?st=jgvaaf7NLbve8c8SQVWwOTm7SLQYJApCMiUHPA6PQyU&ts=1786995970&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Neibrs | Zariadený 1-izbový byt s balkónom a možnosťou úpravy na 1,5-izbový byt – Staré Grunty, Karlova Ves Staré Grunty, Bratislava-Karlova Ves, okres Bratislava IV 1 izbový byt 41 m² 229 000 € 5 585,37 €/m² Neibrs | Zariadený 1-izbový byt s balkónom a možnosťou úpravy na 1,5-izbový byt – S",
-    "found_at": "2026-08-17T20:36:40.716687+00:00"
-  },
-  {
     "id": "bazos:194668444",
     "portal": "bazos",
     "title": "Perspektívny 1-izbový byt v TOP lokalite starého Ružinova na",
@@ -293,23 +241,10 @@
     "price": 244900,
     "price_text": "244 900",
     "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/PoM-nPGKc_fss?st=Xe7ihqaf3YMFrJ_pkaBcmW8_EA7h_WESgtUQulAbvJI&ts=1784711453&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
     "found_at": "2026-08-11T19:15:03.521233+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuvmHXiHTzG",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt v downtown yards bratislava ruzinov",
-    "url": "https://www.nehnutelnosti.sk/detail/JuvmHXiHTzG/predaj-1-izbovy-byt-v-downtown-yards-bratislava-ruzinov",
-    "price": 243000,
-    "price_text": "243 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/0sY0Lfh5I_fss?st=VQOH_3yXYVxGnNnjHXdFFSqA7WU0sseZoa36t3AqVag&ts=1787162650&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1 izbový byt v Downtown Yards, Košická ulica, Bratislava-Ružinov. Prístavná, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 31 m² 243 000 € 7 838,71 €/m² Predaj 1 izbový byt v Downtown Yards, Košická ulica, Bratislava-Ružinov. Prístavná, Bratislava-Ružinov, okres Bratislava II 1",
-    "found_at": "2026-08-11T09:10:07.577146+00:00"
   },
   {
     "id": "bazos:194450543",
@@ -351,32 +286,6 @@
     "found_at": "2026-08-04T15:31:44.231130+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju8nzJLQnSG",
-    "portal": "nehnutelnosti",
-    "title": "Moderne zariadeny a klimatizovany 4 izbovy byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju8nzJLQnSG/moderne-zariadeny-a-klimatizovany-4-izbovy-byt-horsky-park",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
-    "found_at": "2026-08-03T21:15:00.535604+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JumdA3pkRkL",
-    "portal": "nehnutelnosti",
-    "title": "Moderne zariadeny 3 izb byt s privatnym fitness horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JumdA3pkRkL/moderne-zariadeny-3-izb-byt-s-privatnym-fitness-horsky-park",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
-    "found_at": "2026-08-03T21:15:00.535602+00:00"
-  },
-  {
     "id": "bazos:194211621",
     "portal": "bazos",
     "title": "🏡 VYMENÍM BYT V BRATISLAVE ZA BYT V TRNAVE 🔄",
@@ -403,32 +312,6 @@
     "found_at": "2026-07-31T21:16:42.500058+00:00"
   },
   {
-    "id": "nehnutelnosti:JujEZk3lAZv",
-    "portal": "nehnutelnosti",
-    "title": "Exkluzivny dizajnovo zariadeny 4 izbovy byt horsky park v uniq",
-    "url": "https://www.nehnutelnosti.sk/detail/JujEZk3lAZv/exkluzivny-dizajnovo-zariadeny-4-izbovy-byt-horsky-park-v-uniq",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
-    "found_at": "2026-07-31T08:05:56.302126+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuHxHDPwEQ2",
-    "portal": "nehnutelnosti",
-    "title": "4 izbovy vynimocny dizajnovo zariadeny byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JuHxHDPwEQ2/4-izbovy-vynimocny-dizajnovo-zariadeny-byt-horsky-park",
-    "price": 244900,
-    "price_text": "244 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/siqY9Ptzg_fss?st=_ENJQ32SRwEM-8SjfyTSLPngKTiKpOJrtCnlEGGVsYg&ts=1784711397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mesta – ulica Šoltésovej Šoltésovej, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 40 m² 244 900 € 6 122,5 €/m² Exkluzívne na predaj útulný 2-izbový byt s pivnicou v atraktívnej lokalite Starého Mest",
-    "found_at": "2026-07-31T08:05:56.302125+00:00"
-  },
-  {
     "id": "bazos:194027754",
     "portal": "bazos",
     "title": "Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul.",
@@ -440,5 +323,31 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
     "found_at": "2026-07-27T11:35:07.378583+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuisRuxmAQQ",
+    "portal": "nehnutelnosti",
+    "title": "Prakticky rieseny 2 izbovy byt s loggiou so satnikom a parkovanim jegeho alej",
+    "url": "https://www.nehnutelnosti.sk/detail/JuisRuxmAQQ/prakticky-rieseny-2-izbovy-byt-s-loggiou-so-satnikom-a-parkovanim-jegeho-alej",
+    "price": 249900,
+    "price_text": "249 900",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/mGJzdpySU_fss?st=iJMhopWQt0OkLW6HJIkYWQkoMh-XQqZ6SaHLbDnW7m8&ts=1783328126&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Prakticky riešený 2-izbový byt s loggiou so šatníkom a parkovaním – Jegého alej Jégého 8, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 50 m² 249 900 € 4 998 €/m² Prakticky riešený 2-izbový byt s loggiou so šatníkom a parkovaním – Jegého alej Jégého 8, Bratislava-Ružinov, okres Bratis",
+    "found_at": "2026-07-20T14:28:02.205342+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JunIKJxl3IB",
+    "portal": "nehnutelnosti",
+    "title": "Prakticka garsonka s lodziou a pivnicou na predaj v petrzalke na jungmannovej ulici idealna ako startovacie byvanie alebo investicia",
+    "url": "https://www.nehnutelnosti.sk/detail/JunIKJxl3IB/prakticka-garsonka-s-lodziou-a-pivnicou-na-predaj-v-petrzalke-na-jungmannovej-ulici-idealna-ako-startovacie-byvanie-alebo-investicia",
+    "price": 161000,
+    "price_text": "161 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XhdVPkIorD_fss?st=gI48Qi1xkMj6HlZigReEreGz3oyCV8DTH5n3ywFQq-s&ts=1779979557&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM REZERVOVANÉ: Praktická garsónka s lodžiou a pivnicou na predaj v Petržalke na Jungmannovej ulici, ideálna ako štartovacie bývanie alebo investícia Jungmannova, Bratislava-Petržalka, okres Bratislava V Garsónka 35.9 m² 161 000 € 4 484,68 €/m² REZERVOVANÉ: Praktická garsónka s lodžiou a pivnic",
+    "found_at": "2026-07-04T16:40:23.741749+00:00"
   }
 ]
