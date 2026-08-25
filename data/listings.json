@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/770/194925770.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemnú garsónku s výmerou 23 m², situovanú na 4. poschodí 6-poschodového bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť zaujme predovšetkým atraktívnou polohou, praktickou výmerou a možnosťou okamžitého bývania alebo prenájmu.\n\nByt prešiel rekonštr",
-    "found_at": "2026-08-25T18:51:26.010892+00:00"
+    "found_at": "2026-08-25T18:51:26.010928+00:00"
   },
   {
     "id": "bazos:194926393",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/393/194926393.jpg",
     "condition": "neznamy",
     "desc": "EXKLUZÍVNE ponúkame na predaj dvojgarsónku s pekným dispozičným riešením v pôvodnom stave o výmere  48,51 m2 na ul. Gessayova 45 v Bratislave – Petržalka, na 10 posch./ 12p.. Byt pozostáva z 2 obytných miestností a príslušenstva: kuchyňa, predsieň,  kúpeľňa s wc, pivnica a 2 veľké loggie.\r\n\r\nByt sa ",
-    "found_at": "2026-08-25T18:51:26.010891+00:00"
+    "found_at": "2026-08-25T18:51:26.010926+00:00"
   },
   {
     "id": "bazos:194924453",
@@ -33,7 +33,7 @@
     "price": 210000,
     "price_text": "210 000 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/453/194924453.jpg",
+    "image": "https://www.bazos.sk/img/1t/453/194924453.jpg?t=1787684047",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
     "found_at": "2026-08-25T17:39:13.004062+00:00"
@@ -46,7 +46,7 @@
     "price": 174800,
     "price_text": "174 800 €",
     "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/465/194924465.jpg",
+    "image": "https://www.bazos.sk/img/1t/465/194924465.jpg?t=1787684058",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 23 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
     "found_at": "2026-08-25T17:39:13.004060+00:00"
@@ -323,5 +323,44 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
     "found_at": "2026-07-27T11:35:07.378583+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
