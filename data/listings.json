@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194899049",
+    "portal": "bazos",
+    "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lam",
+    "url": "https://reality.bazos.sk/inzerat/194899049/predaj-1-izbovy-byt-38-m-bakosova-ulica-bratislava-lam.php",
+    "price": 199900,
+    "price_text": "199 900 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg",
+    "condition": "neznamy",
+    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
+    "found_at": "2026-08-25T01:46:07.542409+00:00"
+  },
+  {
+    "id": "bazos:194899176",
+    "portal": "bazos",
+    "title": "ZARIADENÝ 1-IZBOVÝ BYT, BRATISLAVA-PETRŽALKA, VILOVÁ",
+    "url": "https://reality.bazos.sk/inzerat/194899176/zariadeny-1-izbovy-byt-bratislava-petrzalka-vilova.php",
+    "price": 155000,
+    "price_text": "155 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/176/194899176.jpg",
+    "condition": "neznamy",
+    "desc": "Útulný, kompletne zariadený 1-izbový byt na Vilovej: Bývanie bez starostí a skvelá investícia\nRealitná kancelária ARCHEUS, pobočka Bratislava Euroveatower, Vám exkluzívne ponúka na predaj príjemný, kompletne zariadený 1-izbový byt/garsónku vo vyhľadávanej a skvele dostupnej lokalite Petržalky – na V",
+    "found_at": "2026-08-25T01:46:07.542407+00:00"
+  },
+  {
     "id": "bazos:194887565",
     "portal": "bazos",
     "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
@@ -65,19 +91,6 @@
     "found_at": "2026-08-24T10:47:27.986586+00:00"
   },
   {
-    "id": "bazos:194874803",
-    "portal": "bazos",
-    "title": "NUERA︱PREDAJ 52m 2i slnečného bytu pri Chorvátskom ramene, B",
-    "url": "https://reality.bazos.sk/inzerat/194874803/nuerapredaj-52m-2i-slnecneho-bytu-pri-chorvatskom-ramene-b.php",
-    "price": 206000,
-    "price_text": "206 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/803/194874803.jpg",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NUERA ponúka na predaj slnečný byt vhodný ako investičná príležitosť, či ako vaše vlastné bývanie v obklopení zeleňou a na skok do mesta. \r\n\r\nSlnečný, juhovýchodne orientovaný 2 izbový byt vo vyhľadávanej lokalite pri Chorvátskom ramene sa nachádza na 11. poschodí bytového domu n",
-    "found_at": "2026-08-24T08:58:42.860532+00:00"
-  },
-  {
     "id": "bazos:194871585",
     "portal": "bazos",
     "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
@@ -98,7 +111,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1787594836",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1787617661",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
