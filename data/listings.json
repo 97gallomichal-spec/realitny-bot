@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:JueOzBdxQpb",
+    "portal": "nehnutelnosti",
+    "title": "Priestranny a svetly 1 izbovy byt so spacim kutom 43 m2 balkon 5 m2",
+    "url": "https://www.nehnutelnosti.sk/detail/JueOzBdxQpb/priestranny-a-svetly-1-izbovy-byt-so-spacim-kutom-43-m2-balkon-5-m2",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RpzZZF1bv_fss?st=y7AsuV61X4hmRPu36aKxu3BaR1BIf7gTUY7iwCfIHmo&ts=1787646432&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranný a svetlý 1-izbový byt so spacím kútom, 43 m², balkón 5 m² Kristy Bendovej, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 43 m² 205 000 € 4 767,44 €/m² Priestranný a svetlý 1-izbový byt so spacím kútom, 43 m², balkón 5 m² Kristy Bendovej, Bratislava-Dúbravka, okres Bratisl",
+    "found_at": "2026-08-25T11:36:42.566835+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQBxXagxql",
+    "portal": "nehnutelnosti",
+    "title": "Nueradowntown yards 15i apartman s vyhladom na sever blok e",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQBxXagxql/nueradowntown-yards-15i-apartman-s-vyhladom-na-sever-blok-e",
+    "price": 239000,
+    "price_text": "239 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/yhg1n3EiM_fss?st=zqoPQdgK918IjRd8YVVEkadd2tGlNmt68De8JxdnusU&ts=1781677371&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NUERA︱DOWNTOWN YARDS - 1,5i apartmán s výhľadom na sever, Blok E Súkennícka, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 34.03 m² 239 000 € 7 023,21 €/m² NUERA︱DOWNTOWN YARDS - 1,5i apartmán s výhľadom na sever, Blok E Súkennícka, Bratislava-Ružinov, okres Bratislava II 2 izbový byt",
+    "found_at": "2026-08-25T11:36:42.566833+00:00"
+  },
+  {
+    "id": "bazos:194913773",
+    "portal": "bazos",
+    "title": "2-izb. byt, Exnárova ul., Ružinov, 6.p./7",
+    "url": "https://reality.bazos.sk/inzerat/194913773/2-izb-byt-exnarova-ul-ruzinov-6p7.php",
+    "price": 220000,
+    "price_text": "220 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/773/194913773.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2 izb. byt na ul. Exnárova, Ružinov. \r\n\r\nVýmera bytu je 56 m2 + balkón. Byt sa nachádza na 6 p/7 v zateplenom panelovom dome s výťahom. K bytu patrí murovaná pivnica. \r\n\r\nV byte sú menené plastové okná s izolačným trojskom, klimatizácia. Inak je v slušnom udržiavanom stave. \r\n\r\nLo",
+    "found_at": "2026-08-25T11:36:42.566809+00:00"
+  },
+  {
     "id": "bazos:194912404",
     "portal": "bazos",
     "title": "1-IZBOVÝ BYT s lodžiou a možnosťou krytého parkovania | Nová",
@@ -10,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/404/194912404.jpg?t=1787651799",
     "condition": "neznamy",
     "desc": "Exkluzívne ponúkame NA PREDAJ svetlý 1-izbový byt s výmerou 35,07 m² a lodžiou 5 m², situovaný na 6. poschodí z 8 v bytovom dome Major.\r\n\r\nDISPOZÍCIA\r\nPo vstupe cez bezpečnostné dvere vás privíta praktická vstupná časť s kuchynským kútom a dostatkom priestoru na veľké šatníkové skrine. Plynulo na ňu",
-    "found_at": "2026-08-25T10:42:44.274359+00:00"
+    "found_at": "2026-08-25T10:42:44.274394+00:00"
   },
   {
     "id": "bazos:194911643",
@@ -150,7 +189,7 @@
     "price": 155000,
     "price_text": "155 000 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/176/194899176.jpg",
+    "image": "https://www.bazos.sk/img/1t/176/194899176.jpg?t=1787655750",
     "condition": "neznamy",
     "desc": "Útulný, kompletne zariadený 1-izbový byt na Vilovej: Bývanie bez starostí a skvelá investícia\nRealitná kancelária ARCHEUS, pobočka Bratislava Euroveatower, Vám exkluzívne ponúka na predaj príjemný, kompletne zariadený 1-izbový byt/garsónku vo vyhľadávanej a skvele dostupnej lokalite Petržalky – na V",
     "found_at": "2026-08-25T01:46:07.542446+00:00"
@@ -193,19 +232,6 @@
     "condition": "neznamy",
     "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný   1-izbový byt o výmere 46 m2 na prízemí  tehlového bytového domu.  Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa  s jedálenským kútom, chodba, kúpeľň",
     "found_at": "2026-08-19T09:42:53.186208+00:00"
-  },
-  {
-    "id": "reality:13",
-    "portal": "reality",
-    "title": "AGENT.SK | Predaj 1-izbový byt, Bratislava - Lamač",
-    "url": "https://www.reality.sk/byty/agent-sk-predaj-1-izbovy-byt-bratislava-lamac/Ju_iES3MsmG/",
-    "price": 179900,
-    "price_text": "179900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhwdXMvU0dldTNsRDBrX2ZzcyxjZW50ZXIsLTUsMCwzMCwzMCkvanVs/JCU6enTFP_fss?st=fU-bzd9MZuQwbSieqNt4izz6OPXLEGPz3doKV3LyTk4&amp;ts=1786857972&amp;e=0",
-    "condition": "neznamy",
-    "desc": "Ponúkame exkluzívne na predaj svetlý a priestranný 1-izbový byt o veľkosti 2-izbového, nachádzajúci sa na Studenohorskej ulici v Lamači. Byt je bez tiarch a kúpou je ihneď voľný.\n\nObľúbená lokalita ponúka komunitný pokoj, veľa zelene, kompletnú občiansku vybavenosť a prírodu Malých Karpát priamo za ",
-    "found_at": "2026-08-18T07:47:39.432638+00:00"
   },
   {
     "id": "bazos:194668444",
@@ -260,17 +286,17 @@
     "found_at": "2026-08-10T08:46:41.514096+00:00"
   },
   {
-    "id": "nehnutelnosti:JuuPfvr3I_b",
+    "id": "nehnutelnosti:Jui6mWU-wL5",
     "portal": "nehnutelnosti",
-    "title": "Predaj 1 izb bytu s velkou loggiou na karloveskej ul s vyhladom na zelen",
-    "url": "https://www.nehnutelnosti.sk/detail/JuuPfvr3I_b/predaj-1-izb-bytu-s-velkou-loggiou-na-karloveskej-ul-s-vyhladom-na-zelen",
-    "price": 173400,
-    "price_text": "173 400",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/8-B4U9Hni_fss?st=kBsaJV4LDipmlH6SfabcrrxUkoKqad-Gf8MXFag8d6Y&ts=1786306761&e=0",
+    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
+    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
+    "price": 207900,
+    "price_text": "207 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM PREDAJ 1. izb. bytu s veľkou loggiou na Karloveskej ul. s výhľadom na zeleň Karloveská, Bratislava-Karlova Ves, okres Bratislava IV 1 izbový byt 35 m² 173 400 € 4 954,29 €/m² PREDAJ 1. izb. bytu s veľkou loggiou na Karloveskej ul. s výhľadom na zeleň Karloveská, Bratislava-Karlova Ves, okres",
-    "found_at": "2026-08-09T20:46:10.310720+00:00"
+    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
+    "found_at": "2026-08-07T11:52:19.426047+00:00"
   },
   {
     "id": "bazos:194369335",
@@ -323,18 +349,5 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
     "found_at": "2026-07-27T11:35:07.378583+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JugVqwoplmz",
-    "portal": "nehnutelnosti",
-    "title": "Kompletne zariadeny 1i byt s loggiou",
-    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
-    "price": 174000,
-    "price_text": "174 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA / RUŽINOV. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. BYT S PEKNOU LOGGIOU, 34,48 m2,",
-    "found_at": "2026-07-13T19:41:57.065074+00:00"
   }
 ]
