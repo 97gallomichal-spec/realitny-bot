@@ -1,16 +1,16 @@
 [
   {
-    "id": "nehnutelnosti:JuL6qdUiB_M",
-    "portal": "nehnutelnosti",
-    "title": "Velkorysy 3 izbovy byt v raci svetlo priestor a pokoj prirody na dosah",
-    "url": "https://www.nehnutelnosti.sk/detail/JuL6qdUiB_M/velkorysy-3-izbovy-byt-v-raci-svetlo-priestor-a-pokoj-prirody-na-dosah",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
+    "id": "bazos:194953335",
+    "portal": "bazos",
+    "title": "PREDAJ: 2 izbový byt, 55m2, Bratislava – Perla Ružinova.",
+    "url": "https://reality.bazos.sk/inzerat/194953335/predaj-2-izbovy-byt-55m2-bratislava-perla-ruzinova.php",
+    "price": 249900,
+    "price_text": "249 900 €",
+    "location": "Bratislava 821 05",
+    "image": "https://www.bazos.sk/img/1t/335/194953335.jpg?t=1787757490",
     "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-08-26T14:54:28.842993+00:00"
+    "desc": "EXKLUZÍVNE vám ponúkame na predaj 2 izbový byt v komplexe Perla Ružinova na Kaštielskej ulici č. 2 v Bratislave – Ružinov.\n \nByt:\n• 3. poschodie zo 16\n• výmera bytu 55 m2 \n• spálňa + obývačka prepojená s kuchyňou\n• kúpeľňa so sprchovým kútom a toaletou + samostatná toaleta \n• plastové okná, plavajúc",
+    "found_at": "2026-08-26T16:24:55.976960+00:00"
   },
   {
     "id": "bazos:194950155",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/155/194950155.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj veľký 2-izb. byt na ul. Vilova, Petržalka. \r\n\r\nVýmera 61,87 m2, nachádza sa na 7.p./7 v zateplenom panelovom dome s výťahom a novou strechou. \r\n\r\nByt je po čiastočnej rekonštrukcii: plastové okná, zánovná kuchynská linka, kúpeľňa. \r\n\r\nMesačné náklady sú 195,- €/2 osoby + elektrina",
-    "found_at": "2026-08-26T14:54:28.842969+00:00"
+    "found_at": "2026-08-26T14:54:28.843005+00:00"
   },
   {
     "id": "bazos:194950937",
@@ -36,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/937/194950937.jpg",
     "condition": "povodny",
     "desc": "Realitná kancelária BOND Reality ponúka na predaj 1-izbový byt v mestskej časti Nové Mesto na Kalinčiakovej ulici. \n\nBYT:\n- 1-izbový\n- 2/4 poschodie bez výťahu\n- plocha bytu 34,23m2\n- pôvodný stav \n- plastové okná - trojsklo\n- pivnica v suteréne 4,86m2\n- mesačné náklady: správca 160€ + elektrina 15€",
-    "found_at": "2026-08-26T14:54:28.842968+00:00"
+    "found_at": "2026-08-26T14:54:28.843003+00:00"
   },
   {
     "id": "bazos:194948294",
@@ -156,19 +156,6 @@
     "found_at": "2026-08-26T07:53:48.223130+00:00"
   },
   {
-    "id": "bazos:194934610",
-    "portal": "bazos",
-    "title": "2-izb. byt - Ovručská ul.",
-    "url": "https://reality.bazos.sk/inzerat/194934610/2-izb-byt-ovrucska-ul.php",
-    "price": 250000,
-    "price_text": "250 000 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/610/194934610.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Ovručská\n\rObec: Bratislava-Nové Mesto\n\r\n\rPonúkame na predaj 2-izb. byt neďaleko Račianskeho mýta, na Ovručskej ul..\nLokalita: veľmi dobrá lokalite v širšom centre s kompletnou občianskou vybavenosťou a dobrým prístupom do centra Bratislavy.\nDispozícia: Byt pozostáva z  ...",
-    "found_at": "2026-08-26T05:42:48.994849+00:00"
-  },
-  {
     "id": "bazos:194928746",
     "portal": "bazos",
     "title": "Na predaj 2 izbový byt, 47 m2, Bratislava, Nové Mesto, Piešť",
@@ -273,17 +260,17 @@
     "found_at": "2026-08-15T08:39:22.950287+00:00"
   },
   {
-    "id": "nehnutelnosti:JuGlE6PVE4GO",
+    "id": "nehnutelnosti:JuefqSbbxOB",
     "portal": "nehnutelnosti",
-    "title": "Na predaj slnecna garsonka kompletne zariadena s balkonom a klimatizaciou gessayova ulica petrzalka",
-    "url": "https://www.nehnutelnosti.sk/detail/JuGlE6PVE4GO/na-predaj-slnecna-garsonka-kompletne-zariadena-s-balkonom-a-klimatizaciou-gessayova-ulica-petrzalka",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
+    "title": "Arvin and benet velkorysy svetly byt pri strkovci",
+    "url": "https://www.nehnutelnosti.sk/detail/JuefqSbbxOB/arvin-and-benet-velkorysy-svetly-byt-pri-strkovci",
+    "price": 239000,
+    "price_text": "239 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/iyo9JGisV_fss?st=M3lbbfnwrkUgvYn836j9e_XsGxpCuDZtIx7RmLbtTrM&ts=1786618569&e=0",
     "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-08-14T13:25:09.816798+00:00"
+    "desc": "PREMIUM Arvin & Benet | Veľkorysý svetlý byt pri Štrkovci Solivarská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² 239 000 € 4 192,98 €/m² Arvin & Benet | Veľkorysý svetlý byt pri Štrkovci Solivarská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Arvin & Benet ponúka na pr",
+    "found_at": "2026-08-13T11:54:58.063889+00:00"
   },
   {
     "id": "bazos:194450543",
@@ -312,32 +299,6 @@
     "found_at": "2026-08-07T11:02:12.457515+00:00"
   },
   {
-    "id": "nehnutelnosti:Ju8nzJLQnSG",
-    "portal": "nehnutelnosti",
-    "title": "Moderne zariadeny a klimatizovany 4 izbovy byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju8nzJLQnSG/moderne-zariadeny-a-klimatizovany-4-izbovy-byt-horsky-park",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-08-03T21:15:00.535604+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JumdA3pkRkL",
-    "portal": "nehnutelnosti",
-    "title": "Moderne zariadeny 3 izb byt s privatnym fitness horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JumdA3pkRkL/moderne-zariadeny-3-izb-byt-s-privatnym-fitness-horsky-park",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-08-03T21:15:00.535602+00:00"
-  },
-  {
     "id": "bazos:194211621",
     "portal": "bazos",
     "title": "🏡 VYMENÍM BYT V BRATISLAVE ZA BYT V TRNAVE 🔄",
@@ -362,45 +323,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný štartovací 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad na zeleň a Malé ",
     "found_at": "2026-07-31T21:16:42.500058+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JujEZk3lAZv",
-    "portal": "nehnutelnosti",
-    "title": "Exkluzivny dizajnovo zariadeny 4 izbovy byt horsky park v uniq",
-    "url": "https://www.nehnutelnosti.sk/detail/JujEZk3lAZv/exkluzivny-dizajnovo-zariadeny-4-izbovy-byt-horsky-park-v-uniq",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-07-31T08:05:56.302126+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuHxHDPwEQ2",
-    "portal": "nehnutelnosti",
-    "title": "4 izbovy vynimocny dizajnovo zariadeny byt horsky park",
-    "url": "https://www.nehnutelnosti.sk/detail/JuHxHDPwEQ2/4-izbovy-vynimocny-dizajnovo-zariadeny-byt-horsky-park",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-07-31T08:05:56.302125+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JusWrlqTqw9",
-    "portal": "nehnutelnosti",
-    "title": "Rbq re ked chcete viac nez byt ale nechcete riesit dom",
-    "url": "https://www.nehnutelnosti.sk/detail/JusWrlqTqw9/rbq-re-ked-chcete-viac-nez-byt-ale-nechcete-riesit-dom",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CHZDBGRoF_fss?st=0z9OHboaOl6JVTLJJRGE8fkAbUArN5N1_gxMlO9VT00&ts=1786622013&e=0",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessayova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² 155 000 € 5 535,71 €/m² NA PREDAJ - Garsónka, kompletne zariadená s loggiou ( 4m2), klimatizácia– Gessayova ulica, Petržalka. Gessa",
-    "found_at": "2026-07-28T15:28:12.535028+00:00"
   },
   {
     "id": "nehnutelnosti:JunIKJxl3IB",
