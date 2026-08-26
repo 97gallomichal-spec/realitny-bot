@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:194934610",
+    "portal": "bazos",
+    "title": "2-izb. byt - Ovručská ul.",
+    "url": "https://reality.bazos.sk/inzerat/194934610/2-izb-byt-ovrucska-ul.php",
+    "price": 250000,
+    "price_text": "250 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/610/194934610.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Ovručská\n\rObec: Bratislava-Nové Mesto\n\r\n\rPonúkame na predaj 2-izb. byt neďaleko Račianskeho mýta, na Ovručskej ul..\nLokalita: veľmi dobrá lokalite v širšom centre s kompletnou občianskou vybavenosťou a dobrým prístupom do centra Bratislavy.\nDispozícia: Byt pozostáva z  ...",
+    "found_at": "2026-08-26T05:42:48.994814+00:00"
+  },
+  {
     "id": "bazos:194930525",
     "portal": "bazos",
     "title": "PREDAJ | ÚTUĽNÁ GARSÓNKA S LOGGIOU V BRATISLAVA-RAČA",
@@ -154,19 +167,6 @@
     "condition": "neznamy",
     "desc": "Exkluzívne ponúkame NA PREDAJ svetlý 1-izbový byt s výmerou 35,07 m² a lodžiou 5 m², situovaný na 6. poschodí z 8 v bytovom dome Major.\r\n\r\nDISPOZÍCIA\r\nPo vstupe cez bezpečnostné dvere vás privíta praktická vstupná časť s kuchynským kútom a dostatkom priestoru na veľké šatníkové skrine. Plynulo na ňu",
     "found_at": "2026-08-25T10:42:44.274394+00:00"
-  },
-  {
-    "id": "bazos:194911643",
-    "portal": "bazos",
-    "title": "Priestranný 2-izbový byt (61 m²) – Dúbravka (bez provízie)",
-    "url": "https://reality.bazos.sk/inzerat/194911643/priestranny-2-izbovy-byt-61-m-dubravka-bez-provizie.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/643/194911643.jpg?t=1787652515",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj svetlý a vzdušný 2-izbový byt v pokojnej lokalite Dúbravky na Cabanovej ulici. Byt je v osobnom vlastníctve, je k dispozícii okamžite, predaj od majiteľa.\r\n\r\nZákladné parametre:\r\n- Úžitková plocha: 61 m² (byt + murovaná pivnica 4 m²)\r\n- Poschodie: 1. poschodie zo 6. s výťahom (pod",
-    "found_at": "2026-08-25T09:45:50.292585+00:00"
   },
   {
     "id": "bazos:194763254",
