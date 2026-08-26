@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194960977",
+    "portal": "bazos",
+    "title": "Slnečný 2-izbový byt s loggiou a výhľadom na zeleň – Ružinov",
+    "url": "https://reality.bazos.sk/inzerat/194960977/slnecny-2-izbovy-byt-s-loggiou-a-vyhladom-na-zelen-ruzinov.php",
+    "price": 239000,
+    "price_text": "239 000 €",
+    "location": "Bratislava 821 02",
+    "image": "https://www.bazos.sk/img/1t/977/194960977.jpg?t=1787778149",
+    "condition": "neznamy",
+    "desc": "Cena: 239 000 € (Predaj od súkromnej osoby – neplatíte províziu RK)\r\nLokalita: Rovníková ulica, Bratislava II - Ružinov (Ostredky)\r\nÚžitková plocha: 47,88 m² (byt 42,18 m² + pivnica 1,20 m² + loggia 4,50 m²)\r\nPoschodie: 1. poschodie / 7 (z pohľadu zvislého prístupu 2. nadzemné podlažie – pod bytom j",
+    "found_at": "2026-08-26T23:21:18.230627+00:00"
+  },
+  {
+    "id": "bazos:194961584",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Petržalka,",
+    "url": "https://reality.bazos.sk/inzerat/194961584/halo-reality-predaj-dvojizbovy-byt-bratislava-petrzalka.php",
+    "price": 204000,
+    "price_text": "204 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/584/194961584.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Jana Nejedlíková, kontakt: 0948 490 041, nehnuteľnosť s ID: BA-73678:\nPonúkame na predaj priestrannú, klimatizovanú dvojgarsónku s dvoma lodžiami v Bratislave - Petržalka, Námestie Hraničiarov. Ide o výbornú, obľúbenú lokalitu na začiatku Petržalky. \n Byt sa n",
+    "found_at": "2026-08-26T23:21:18.230626+00:00"
+  },
+  {
     "id": "bazos:194953335",
     "portal": "bazos",
     "title": "PREDAJ: 2 izbový byt, 55m2, Bratislava – Perla Ružinova.",
@@ -128,32 +154,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
     "found_at": "2026-08-26T08:55:20.893873+00:00"
-  },
-  {
-    "id": "bazos:194939581",
-    "portal": "bazos",
-    "title": "Priestranný 2-izbový byt na predaj v Ružinove, Pôvodný stav",
-    "url": "https://reality.bazos.sk/inzerat/194939581/priestranny-2-izbovy-byt-na-predaj-v-ruzinove-povodny-stav.php",
-    "price": 239000,
-    "price_text": "239 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/581/194939581.jpg",
-    "condition": "povodny",
-    "desc": "Ponúkame na predaj priestranný dvojizbový byt, ktorý sa nachádza v obľúbenej bratislavskej časti Ružinov, konkrétne na Čmelíkovej ulici. Tento byt je ideálnou voľbou pre tých, ktorí hľadajú pokojné bývanie s výbornou dostupnosťou do centra mesta a zároveň chcú mať možnosť prispôsobiť si svoj nový do",
-    "found_at": "2026-08-26T07:53:48.223132+00:00"
-  },
-  {
-    "id": "bazos:194939855",
-    "portal": "bazos",
-    "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
-    "url": "https://reality.bazos.sk/inzerat/194939855/svetly-15-izbovy-byt-s-2-loggiami-a-murovanou-pivnicou-ri.php",
-    "price": 214900,
-    "price_text": "214 900 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/855/194939855.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
-    "found_at": "2026-08-26T07:53:48.223130+00:00"
   },
   {
     "id": "bazos:194928746",
@@ -297,6 +297,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt s výmerou 46 m2, situovaný na 4. poschodí z 5 v bytovom dome s výťahom na Cabanovej ulici v bratislavskej Dúbravke.\r\n\r\nByt prešiel v roku 2014 čiastočnou rekonštrukciou, v rámci ktorej boli vymenené aj elektrické rozvody. V bytovom dome boli v roku 2020 zrekon",
     "found_at": "2026-08-07T11:02:12.457515+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuwA9hpI1kG",
+    "portal": "nehnutelnosti",
+    "title": "Nava investicny 2 izbovy byt v ruzinove s vyhladom na cele mesto",
+    "url": "https://www.nehnutelnosti.sk/detail/JuwA9hpI1kG/nava-investicny-2-izbovy-byt-v-ruzinove-s-vyhladom-na-cele-mesto",
+    "price": 159990,
+    "price_text": "159 990",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XkvwrbK_G_fss?st=NvJvdpHOzmGheL20uV2nzBL3onUQFeUrvSMcupUFhf8&ts=1785277391&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NAVA | INVESTIČNÝ 2 IZBOVÝ BYT V RUŽINOVE S VÝHĽADOM NA CELÉ MESTO Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 42 m² 159 990 € 3 809,29 €/m² NAVA | INVESTIČNÝ 2 IZBOVÝ BYT V RUŽINOVE S VÝHĽADOM NA CELÉ MESTO Vlčie hrdlo, Bratislava-Ružinov, okres Bratislava II 2 izbový",
+    "found_at": "2026-08-05T09:43:23.859277+00:00"
   },
   {
     "id": "bazos:194211621",
