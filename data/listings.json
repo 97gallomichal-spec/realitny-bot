@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:194948294",
+    "portal": "bazos",
+    "title": "Zariadený 1-izbový byt s balkónom a možnosťou úpravy na 1,5-",
+    "url": "https://reality.bazos.sk/inzerat/194948294/zariadeny-1-izbovy-byt-s-balkonom-a-moznostou-upravy-na-15.php",
+    "price": 229000,
+    "price_text": "229 000 €",
+    "location": "Bratislava 841 01",
+    "image": "https://www.bazos.sk/img/1t/294/194948294.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária Neibrs ponúka na predaj zariadený 1-izbový byt s balkónom, situovaný na adrese Staré Grunty v lokalite Bratislava – Karlova Ves. Byt svojou dispozíciou ponúka aj možnosť optického alebo stavebného oddelenia spacej časti, čím môže vzniknúť komfortnejšie riešenie 1,5-izbového býv .",
+    "found_at": "2026-08-26T13:09:43.287864+00:00"
+  },
+  {
+    "id": "bazos:194948967",
+    "portal": "bazos",
+    "title": "1i byt Koliba, slepá ulička, záhrada a parkovanie",
+    "url": "https://reality.bazos.sk/inzerat/194948967/1i-byt-koliba-slepa-ulicka-zahrada-a-parkovanie.php",
+    "price": 198000,
+    "price_text": "198 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/967/194948967.jpg",
+    "condition": "neznamy",
+    "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
+    "found_at": "2026-08-26T13:09:43.287863+00:00"
+  },
+  {
     "id": "bazos:194946189",
     "portal": "bazos",
     "title": "Na predaj 2-izb. byt – Studenohorská ul. – Lamač",
@@ -10,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/189/194946189.jpg",
     "condition": "neznamy",
     "desc": "Realitná kancelária Graft ponúka zaujímavý byt na Studenohorskej ulici v Lamači – vyhľadávanej a obľúbenej štvrti Bratislavy. Pôvodne 1-izbový, dnes šikovne upravený na 2-izbový – ideálny pre jednotlivca, pár či menšiu rodinu.\r\n\r\nČo byt ponúka\r\n\r\npôvodná 1-izbová dispozícia, dnes upravená na 2 izby\r",
-    "found_at": "2026-08-26T11:38:13.770663+00:00"
+    "found_at": "2026-08-26T11:38:13.770695+00:00"
   },
   {
     "id": "bazos:194946540",
@@ -23,7 +49,7 @@
     "image": "https://www.bazos.sk/obrazky/empty.gif",
     "condition": "neznamy",
     "desc": "Hľadám 1 izbový apartmán na Donovaloch cca 100tis Eur",
-    "found_at": "2026-08-26T11:38:13.770661+00:00"
+    "found_at": "2026-08-26T11:38:13.770693+00:00"
   },
   {
     "id": "bazos:194947699",
@@ -36,20 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/699/194947699.jpg",
     "condition": "neznamy",
     "desc": "Realitná kancelária Neibrs ponúka na predaj praktický 1-izbový byt s výmerou 35 m² + pivničná kobka 1,2 m², situovaný na Jasovskej ulici v Petržalke, v blízkosti jazera Draždiak.\r\nDISPOZÍCIA A STAV BYTU\r\nByt má veľmi praktickú dispozíciu:\r\n•\tpriestranná samostatná kuchyňa\r\n•\tsamostatná izba\r\n•\tkúp .",
-    "found_at": "2026-08-26T11:38:13.770658+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju4ZoRjAp0H",
-    "portal": "nehnutelnosti",
-    "title": "Priestranny 1 izbovy byt 36 m2 pivnica baltska vyhlad do zelene pokojna lokalita",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju4ZoRjAp0H/priestranny-1-izbovy-byt-36-m2-pivnica-baltska-vyhlad-do-zelene-pokojna-lokalita",
-    "price": 159000,
-    "price_text": "159 000",
-    "location": "Bratislava-Podunajské Biskupice",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9fSShWxak_fss?st=PkUNp1wKeyq5FJfzsLcqTXLUTjDvhdt8ypqVcEpMHnw&ts=1787231401&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Priestranný 1-izbový byt 37,5 m² vrátane pivnice, Baltská – výhľad do zelene, pokojná lokalita Baltská, Bratislava-Podunajské Biskupice, okres Bratislava II 1 izbový byt 37.5 m² 159 000 € 4 240 €/m² Priestranný 1-izbový byt 37,5 m² vrátane pivnice, Baltská – výhľad do zelene, pokojná lokalit",
-    "found_at": "2026-08-26T10:45:19.868437+00:00"
+    "found_at": "2026-08-26T11:38:13.770692+00:00"
   },
   {
     "id": "bazos:194944174",
@@ -104,6 +117,19 @@
     "found_at": "2026-08-26T07:53:48.223130+00:00"
   },
   {
+    "id": "nehnutelnosti:Jup2MrRf03D",
+    "portal": "nehnutelnosti",
+    "title": "Svetly 15 izbovy byt s moznostou upravy na 2 izbovy lamac heyrovskeho ulica",
+    "url": "https://www.nehnutelnosti.sk/detail/Jup2MrRf03D/svetly-15-izbovy-byt-s-moznostou-upravy-na-2-izbovy-lamac-heyrovskeho-ulica",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QFdbaEJgr_fss?st=ZdhbLKs9ifBBjgibpdhS2BX9TdCvUsJ1upkkoXt3NiI&ts=1783589956&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 49.39 m² 199 900 € 4 047,38 €/m² 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Brat",
+    "found_at": "2026-08-26T07:02:35.721410+00:00"
+  },
+  {
     "id": "bazos:194934610",
     "portal": "bazos",
     "title": "2-izb. byt - Ovručská ul.",
@@ -143,19 +169,6 @@
     "found_at": "2026-08-25T20:39:00.021658+00:00"
   },
   {
-    "id": "bazos:194925770",
-    "portal": "bazos",
-    "title": "Zariadená garsónka s parkovaním na Záhradníckej ul. v Starom",
-    "url": "https://reality.bazos.sk/inzerat/194925770/zariadena-garsonka-s-parkovanim-na-zahradnickej-ul-v-starom.php",
-    "price": 174800,
-    "price_text": "174 800 €",
-    "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/770/194925770.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj príjemnú garsónku s výmerou 23 m², situovanú na 4. poschodí 6-poschodového bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť zaujme predovšetkým atraktívnou polohou, praktickou výmerou a možnosťou okamžitého bývania alebo prenájmu.\n\nByt prešiel rekonštr",
-    "found_at": "2026-08-25T18:51:26.010928+00:00"
-  },
-  {
     "id": "bazos:194926393",
     "portal": "bazos",
     "title": "dvojgarsónka Gessayova 45 v Petržalke",
@@ -167,19 +180,6 @@
     "condition": "neznamy",
     "desc": "EXKLUZÍVNE ponúkame na predaj dvojgarsónku s pekným dispozičným riešením v pôvodnom stave o výmere  48,51 m2 na ul. Gessayova 45 v Bratislave – Petržalka, na 10 posch./ 12p.. Byt pozostáva z 2 obytných miestností a príslušenstva: kuchyňa, predsieň,  kúpeľňa s wc, pivnica a 2 veľké loggie.\r\n\r\nByt sa ",
     "found_at": "2026-08-25T18:51:26.010926+00:00"
-  },
-  {
-    "id": "bazos:194924795",
-    "portal": "bazos",
-    "title": "Garsónka na Rybničnej ul. vo Vajnoroch",
-    "url": "https://reality.bazos.sk/inzerat/194924795/garsonka-na-rybnicnej-ul-vo-vajnoroch.php",
-    "price": 120000,
-    "price_text": "120 000 €",
-    "location": "Bratislava 831 07",
-    "image": "https://www.bazos.sk/img/1t/795/194924795.jpg",
-    "condition": "neznamy",
-    "desc": "Garsónka na Rybničnej ul. vo Vajnoroch. Byt v osobnom vlastníctve, o celkovej rozlohe 27,5m2 (23,5m2 + loggia o výmere 4m2), umiestnený na 5. poschodí v 9-poschodovom bytovom dome s dvomi výťahmi, v pokojnej lokalite na rozhraní mestských častí Rača a Vajnory.. \n \nByt má výmeru 23,5m2 a pozostáva zo",
-    "found_at": "2026-08-25T17:39:13.004059+00:00"
   },
   {
     "id": "bazos:194763254",
@@ -273,6 +273,19 @@
     "found_at": "2026-08-15T08:39:22.950287+00:00"
   },
   {
+    "id": "nehnutelnosti:JuXDweuKPi9",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 2i byt v tichej lokalite ruzinova",
+    "url": "https://www.nehnutelnosti.sk/detail/JuXDweuKPi9/na-predaj-2i-byt-v-tichej-lokalite-ruzinova",
+    "price": 215990,
+    "price_text": "215 990",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/tg1VG-en4_fss?st=yko8Ur42tq8yHE7vXYJWI1aLZDItTseeawYivOxq_tw&ts=1785767872&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NA PREDAJ 2i byt v tichej lokalite Ružinova! Ostredkova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 42 m² 215 990 € 5 142,62 €/m² NA PREDAJ 2i byt v tichej lokalite Ružinova! Ostredkova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 42 m² JKV REAL ponúka na predaj 2i byt, kt",
+    "found_at": "2026-08-12T13:36:35.309930+00:00"
+  },
+  {
     "id": "bazos:194450543",
     "portal": "bazos",
     "title": "Ružinov 2i priestranný Slnečný byt",
@@ -284,6 +297,19 @@
     "condition": "neznamy",
     "desc": "Krásny, slnečný a zariadený 2-izbový byt na Vietnamskej ulici v mimoriadne žiadanej a tichej lokalite bratislavského Ružinova (časť Trnávka). Tento byt je ideálnou voľbou pre ľudí, ktorí hľadajú pokojné bývanie s kompletnou občianskou vybavenosťou a rýchlym prístupom do centra.\r\n\r\nPriestranná dispoz",
     "found_at": "2026-08-10T08:46:41.514096+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuLBz7o5xsm",
+    "portal": "nehnutelnosti",
+    "title": "Porubsky realitna kancelaria okamzite obyvatelna garsonka pri drazdiaku s priestorom na vlastne upravy",
+    "url": "https://www.nehnutelnosti.sk/detail/JuLBz7o5xsm/porubsky-realitna-kancelaria-okamzite-obyvatelna-garsonka-pri-drazdiaku-s-priestorom-na-vlastne-upravy",
+    "price": 149000,
+    "price_text": "149 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/crP5Ihmp0_fss?st=QgQ3-1IqP12S2KhludsR5Zp3CkWBU2AgPiExkrgfBQA&ts=1786087404&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PORUBSKY | Okamžite obývateľná garsónka pri Draždiaku s priestorom na vlastné úpravy Holíčska 13, Bratislava-Petržalka, okres Bratislava V Garsónka 24.12 m² 149 000 € 6 177,45 €/m² PORUBSKY | Okamžite obývateľná garsónka pri Draždiaku s priestorom na vlastné úpravy Holíčska 13, Bratislava-Pe",
+    "found_at": "2026-08-08T13:06:01.403357+00:00"
   },
   {
     "id": "nehnutelnosti:Jui6mWU-wL5",
@@ -336,5 +362,31 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný štartovací 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad na zeleň a Malé ",
     "found_at": "2026-07-31T21:16:42.500058+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QFdbaEJgr_fss?st=ZdhbLKs9ifBBjgibpdhS2BX9TdCvUsJ1upkkoXt3NiI&ts=1783589956&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 49.39 m² 199 900 € 4 047,38 €/m² 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Brat",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuQTTIsvn_d",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
+    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QFdbaEJgr_fss?st=ZdhbLKs9ifBBjgibpdhS2BX9TdCvUsJ1upkkoXt3NiI&ts=1783589956&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 49.39 m² 199 900 € 4 047,38 €/m² 1.BCR | SVETLÝ 1,5-IZBOVÝ BYT S MOŽNOSŤOU ÚPRAVY NA 2-IZBOVÝ | LAMAČ – HEYROVSKÉHO ULICA Heyrovského, Brat",
+    "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
