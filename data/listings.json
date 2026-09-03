@@ -85,7 +85,7 @@
     "price": 241900,
     "price_text": "241 900 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/295/195191295.jpg?t=1788457175",
+    "image": "https://www.bazos.sk/img/1t/295/195191295.jpg?t=1788476782",
     "condition": "neznamy",
     "desc": "Park, kompletná občianska vybavenosť, detské ihriská, športoviská a workout no pritom pokoj na konci slepej ulice. Presne toto je kombinácia, vďaka ktorej je Mesačná ulica príjemným miestom nielen na kúpu bytu, ale najmä na každodenný život.\n\nPonúkame Vám na predaj priestranný 2-izbový byt s celkovo",
     "found_at": "2026-09-03T14:24:51.224897+00:00"
@@ -310,32 +310,6 @@
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 249000,
-    "price_text": "249 000",
-    "location": "Bratislava-Lamač",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FwKa_L5JS_fss?st=wqbIji5rxWRQc6boKN812yN8xY44Tsya4spuqMeM9tk&ts=1788210154&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Investičná príležitosť| Kompletne zariadený 2izbový byt v obľúbenom projekte Bory Home Hany Ponickej 20, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 55.48 m² 249 000 € 4 488,1 €/m² Investičná príležitosť| Kompletne zariadený 2izbový byt v obľúbenom projekte Bory Home Hany Ponickej 20,",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 249000,
-    "price_text": "249 000",
-    "location": "Bratislava-Lamač",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FwKa_L5JS_fss?st=wqbIji5rxWRQc6boKN812yN8xY44Tsya4spuqMeM9tk&ts=1788210154&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Investičná príležitosť| Kompletne zariadený 2izbový byt v obľúbenom projekte Bory Home Hany Ponickej 20, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 55.48 m² 249 000 € 4 488,1 €/m² Investičná príležitosť| Kompletne zariadený 2izbový byt v obľúbenom projekte Bory Home Hany Ponickej 20,",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "reality:13821",
