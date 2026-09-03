@@ -1,16 +1,68 @@
 [
   {
-    "id": "nehnutelnosti:JuS3syJwrXv",
-    "portal": "nehnutelnosti",
-    "title": "Medvedovej 1 i byt 34 m2 ovsiste zrekonstr bytovy dom ticha lokalita dostupnost mhd",
-    "url": "https://www.nehnutelnosti.sk/detail/JuS3syJwrXv/medvedovej-1-i-byt-34-m2-ovsiste-zrekonstr-bytovy-dom-ticha-lokalita-dostupnost-mhd",
-    "price": 159900,
-    "price_text": "159 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RI_zxP7E3_fss?st=myocPPQTRSBKn8J_UceCQA7ps0X_rToeiIrFc6SaiCY&ts=1788026759&e=0",
+    "id": "bazos:195193864",
+    "portal": "bazos",
+    "title": "1i byt Koliba, slepá ulička, záhrada a parkovanie",
+    "url": "https://reality.bazos.sk/inzerat/195193864/1i-byt-koliba-slepa-ulicka-zahrada-a-parkovanie.php",
+    "price": 198000,
+    "price_text": "198 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/864/195193864.jpg",
     "condition": "neznamy",
-    "desc": "PREMIUM MEDVEĎOVEJ, 1-i byt, 34 m2– Ovsište, zrekonštr. bytový dom, tichá lokalita, dostupnosť MHD Medveďovej, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 34.3 m² 159 900 € 4 661,81 €/m² MEDVEĎOVEJ, 1-i byt, 34 m2– Ovsište, zrekonštr. bytový dom, tichá lokalita, dostupnosť MHD Medveďovej,",
-    "found_at": "2026-09-03T14:24:51.224890+00:00"
+    "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
+    "found_at": "2026-09-03T18:32:32.192838+00:00"
+  },
+  {
+    "id": "bazos:195195876",
+    "portal": "bazos",
+    "title": "Svetlý 1,5-izbový byt s 2 loggiami a murovanou pivnicou | Ri",
+    "url": "https://reality.bazos.sk/inzerat/195195876/svetly-15-izbovy-byt-s-2-loggiami-a-murovanou-pivnicou-ri.php",
+    "price": 214900,
+    "price_text": "214 900 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/876/195195876.jpg?t=1788451357",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
+    "found_at": "2026-09-03T18:32:32.192837+00:00"
+  },
+  {
+    "id": "bazos:195196596",
+    "portal": "bazos",
+    "title": "Ponúkame Vám na predaj výborne dispozične riešený 2 izbový b",
+    "url": "https://reality.bazos.sk/inzerat/195196596/ponukame-vam-na-predaj-vyborne-dispozicne-rieseny-2-izbovy-b.php",
+    "price": 229000,
+    "price_text": "229 000 €",
+    "location": "Bratislava 831 02",
+    "image": "https://www.bazos.sk/img/1t/596/195196596.jpg?t=1788453296",
+    "condition": "neznamy",
+    "desc": "Ponúkame Vám na predaj výborne dispozične riešený 2 izbový byt s loggiou v zateplenom tehlovom bytovom dome vo vyhľadávanej lokalite na Vajnorskej ul. v Bratislave oproti Polusu\n\nBYT:\n\nByt sa nachádza na  6 poschodí 12 poschodového bytového domu bez výťahu a jeho výmera je 51 m2.\n\nDISPOZÍCIA:\n\nDispo",
+    "found_at": "2026-09-03T18:32:32.192835+00:00"
+  },
+  {
+    "id": "bazos:195197198",
+    "portal": "bazos",
+    "title": "2- izbovy v  Bratislave",
+    "url": "https://reality.bazos.sk/inzerat/195197198/2-izbovy-v-bratislave.php",
+    "price": 160000,
+    "price_text": "160 000 €",
+    "location": "Bratislava 841 05",
+    "image": "https://www.bazos.sk/img/1t/198/195197198.jpg?t=1788459461",
+    "condition": "neznamy",
+    "desc": "Predam 2-izbovy byt  Veternicova ul.zariadeny 160000 eu 0944622175",
+    "found_at": "2026-09-03T18:32:32.192833+00:00"
+  },
+  {
+    "id": "bazos:195196726",
+    "portal": "bazos",
+    "title": "2 garsónka DE LUXE - začiatok Petržalky - Mánesovo námestie",
+    "url": "https://reality.bazos.sk/inzerat/195196726/2-garsonka-de-luxe-zaciatok-petrzalky-manesovo-namestie.php",
+    "price": 205000,
+    "price_text": "205 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/726/195196726.jpg?t=1788455759",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 garsónku de luxe na Mánesovom námestí v Petržalke.\r\n\r\nZnalecký posudok je v cene\r\n\r\nROZLOHA BYTU A POSCHODIE\r\nObytná plocha bytu je 48 m2 + loggia 5 m2 + pivnica (na rovnakom poschodí, ako je b",
+    "found_at": "2026-09-03T18:32:32.192807+00:00"
   },
   {
     "id": "bazos:195187634",
@@ -23,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/634/195187634.jpg",
     "condition": "neznamy",
     "desc": "003-1-JAOS\n\nPonúkame Vám na predaj veľký 2 izbový byt v historickom centre Bratislavy, priamo pod Bratislavským hradom na Mikulášskej ulici.\nByt je vedený ako nebytový priestor - momentálne využívaný na bývanie + kancelária\n\nByt sa nachádza na 1.p/z3, pod bytom sa ešte nachádzajú kancelárie. Byt je ",
-    "found_at": "2026-09-03T14:24:51.224886+00:00"
+    "found_at": "2026-09-03T14:24:51.224899+00:00"
   },
   {
     "id": "bazos:195190032",
@@ -36,7 +88,7 @@
     "image": "https://www.bazos.sk/img/1t/032/195190032.jpg",
     "condition": "neznamy",
     "desc": "Hľadáte bývanie, ktoré ponúka pokojné prostredie, výbornú dostupnosť a zároveň potenciál do budúcnosti? Tento priestranný 1,5-izbový byt v obľúbenej bratislavskej mestskej časti Lamač môže byť ideálnou voľbou pre jednotlivcov, mladé páry aj ako investícia na prenájom.\r\n\r\nByt sa nachádza na 5. nadzem",
-    "found_at": "2026-09-03T14:24:51.224885+00:00"
+    "found_at": "2026-09-03T14:24:51.224898+00:00"
   },
   {
     "id": "bazos:195191295",
@@ -46,49 +98,10 @@
     "price": 241900,
     "price_text": "241 900 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/295/195191295.jpg?t=1788444148",
+    "image": "https://www.bazos.sk/img/1t/295/195191295.jpg?t=1788457175",
     "condition": "neznamy",
-    "desc": "Park, kompletná občianska vybavenosť, detské ihriská, športoviská a workout no pritom pokoj na konci slepej ulice. Presne toto je kombinácia, vďaka ktorej je Mesačná ulica príjemným miestom nielen na kúpu bytu, ale najmä na každodenný život.Ponúkame Vám na predaj priest ...",
-    "found_at": "2026-09-03T14:24:51.224884+00:00"
-  },
-  {
-    "id": "bazos:195179879",
-    "portal": "bazos",
-    "title": "NA PREDAJ: 2 izb. tehlový byt 60,61 m2 Nám. Biely Kríž",
-    "url": "https://reality.bazos.sk/inzerat/195179879/na-predaj-2-izb-tehlovy-byt-6061-m2-nam-biely-kriz.php",
-    "price": 248000,
-    "price_text": "248 000 €",
-    "location": "Bratislava 831 02",
-    "image": "https://www.bazos.sk/img/1t/879/195179879.jpg",
-    "condition": "neznamy",
-    "desc": "PRIESTRANNÝ 2-IZBOVÝ BYT NA NÁMESTÍ BIELY KRÍŽ\r\n\r\nHľadáte príjemné a priestranné bývanie v Bratislave s výbornou dostupnosťou a kompletnou občianskou vybavenosťou? Tento 2-izbový byt na Námestí Biely kríž môže byť presne to, čo hľadáte.\r\n\r\nByt ponúka veľkorysý priestor, praktickú dispozíciu a príjem",
-    "found_at": "2026-09-03T09:38:24.789874+00:00"
-  },
-  {
-    "id": "bazos:195183249",
-    "portal": "bazos",
-    "title": "Veľký 2-izbový byt, loggia, murovaná pivnica.",
-    "url": "https://reality.bazos.sk/inzerat/195183249/velky-2-izbovy-byt-loggia-murovana-pivnica.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/249/195183249.jpg",
-    "condition": "neznamy",
-    "desc": "Predáme 2-izbový byt na Čiližskej ulici v BA - Vrakuňa.\r\nVýmera 64 m2 + loggia 4 m2, murovaná pivnica 3 m2  \r\nsa nachádza v suteréne domu, podlažie 2/5,\r\nIzby a kuchyňa sú nepriechodné, orientácia je na dve svetové strany JV - SZ. \r\nByt je čiastočne rekonštruovaný, vo veľmi slušnom stave, kúpou voľn",
-    "found_at": "2026-09-03T09:38:24.789873+00:00"
-  },
-  {
-    "id": "bazos:195185388",
-    "portal": "bazos",
-    "title": "EXKLUZÍVNE 2-izb. apartmán vo vyhľadávanej lokalite Mlyn",
-    "url": "https://reality.bazos.sk/inzerat/195185388/exkluzivne-2-izb-apartman-vo-vyhladavanej-lokalite-mlyn.php",
-    "price": 179900,
-    "price_text": "179 900 €",
-    "location": "Bratislava 821 09",
-    "image": "https://www.bazos.sk/img/1t/388/195185388.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
-    "found_at": "2026-09-03T09:38:24.789869+00:00"
+    "desc": "Park, kompletná občianska vybavenosť, detské ihriská, športoviská a workout no pritom pokoj na konci slepej ulice. Presne toto je kombinácia, vďaka ktorej je Mesačná ulica príjemným miestom nielen na kúpu bytu, ale najmä na každodenný život.\n\nPonúkame Vám na predaj priestranný 2-izbový byt s celkovo",
+    "found_at": "2026-09-03T14:24:51.224897+00:00"
   },
   {
     "id": "bazos:195173091",
@@ -219,6 +232,19 @@
     "condition": "neznamy",
     "desc": "Krásny, slnečný a zariadený 2-izbový byt na Vietnamskej ulici v mimoriadne žiadanej a tichej lokalite bratislavského Ružinova (časť Trnávka). Tento byt je ideálnou voľbou pre ľudí, ktorí hľadajú pokojné bývanie s kompletnou občianskou vybavenosťou a rýchlym prístupom do centra.\r\n\r\nPriestranná dispoz",
     "found_at": "2026-08-10T08:46:41.514096+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Jui6mWU-wL5",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
+    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
+    "price": 207900,
+    "price_text": "207 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
+    "found_at": "2026-08-07T11:52:19.426047+00:00"
   },
   {
     "id": "bazos:194172381",
