@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195362997",
+    "portal": "bazos",
+    "title": "Na predaj – veľkometrážny 1 izbový byt s impozantnými výhľad",
+    "url": "https://reality.bazos.sk/inzerat/195362997/na-predaj-velkometrazny-1-izbovy-byt-s-impozantnymi-vyhlad.php",
+    "price": 249900,
+    "price_text": "249 900 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/997/195362997.jpg",
+    "condition": "neznamy",
+    "desc": "Tento sympatický a veľkoryso riešený 1 izbový byt s výmerou 52,80 m² sa nachádza vo výraznej mestskej vile Ing. Bartošku, postavenej na príkrom svahu nad bývalým kameňolomom neďaleko Bratislavského hradu.\nBudova je architektonickým unikátom — jej juhozápadné priečelie zdobí betónová socha strážcu, k",
+    "found_at": "2026-09-09T04:32:33.262325+00:00"
+  },
+  {
     "id": "reality:25435235",
     "portal": "reality",
     "title": "NA PREDAJ priestranný 2-izbový byt 54,35 m2 so samostatnou kuchyňou-Považanova ul., Bratislava-Dúbravka",
@@ -85,7 +98,7 @@
     "price": 224900,
     "price_text": "224 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1788900851",
+    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1788927873",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE:    \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - v",
     "found_at": "2026-09-08T18:32:24.761314+00:00"
