@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195393492",
+    "portal": "bazos",
+    "title": "Predám 1 izbový tehlovy byt",
+    "url": "https://reality.bazos.sk/inzerat/195393492/predam-1-izbovy-tehlovy-byt.php",
+    "price": 180000,
+    "price_text": "180 000 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/492/195393492.jpg",
+    "condition": "neznamy",
+    "desc": "Predám 1 izbový byt Podunajskych Biskupiciach na Kazanskej ulici Bratislava,rok výstavby 2005.Výmera bytu je 34,20 m2 + BALKÓN o výmere 3,68 m2. K bytu prislúcha aj pivnica, kumbal ktorý je na poschodí hneď vedľa bytu.\r\nNachádza sa na 6. poschodí 8 poschodového, zatepleného bytového domu. Na byte pr",
+    "found_at": "2026-09-10T04:32:53.259236+00:00"
+  },
+  {
     "id": "bazos:195391565",
     "portal": "bazos",
     "title": "Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul.",
@@ -10,20 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/565/195391565.jpg?t=1788993440",
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
-    "found_at": "2026-09-10T00:05:30.875378+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JukB1_43hLn",
-    "portal": "nehnutelnosti",
-    "title": "Coskoro v ponuke na predaj vynimocny 3 izbovy byt s velkou loggiou vo flat 75 na zaciatku petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JukB1_43hLn/coskoro-v-ponuke-na-predaj-vynimocny-3-izbovy-byt-s-velkou-loggiou-vo-flat-75-na-zaciatku-petrzalky",
-    "price": 204900,
-    "price_text": "204 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
-    "found_at": "2026-09-09T21:38:34.675773+00:00"
+    "found_at": "2026-09-10T00:05:30.875432+00:00"
   },
   {
     "id": "nehnutelnosti:JupyIZYBxxb",
@@ -117,19 +117,6 @@
     "found_at": "2026-09-09T18:29:48.833923+00:00"
   },
   {
-    "id": "bazos:195382334",
-    "portal": "bazos",
-    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Podunajské",
-    "url": "https://reality.bazos.sk/inzerat/195382334/halo-reality-predaj-jednoizbovy-byt-bratislava-podunajske.php",
-    "price": 231900,
-    "price_text": "231 900 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/334/195382334.jpg?t=1788970973",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária HALO reality a Rastislav Laurenčík, kontakt: 0902 891 971, nehnuteľnosť s ID: BA-72639:\nPonúkame na predaj štýlový 1,5-izbový byt o výmere 48m2 s vlastnou predzáhradkou, ktorá má výmeru 11m2, nachádzajúci sa v obľúbenom projekte na rohu Kazanskej a Uzbeckej ulice v Podunajských B",
-    "found_at": "2026-09-09T14:26:43.408711+00:00"
-  },
-  {
     "id": "bazos:195356709",
     "portal": "bazos",
     "title": "HALO reality - Predaj, dvojizbový byt Bratislava Karlova Ves",
@@ -137,7 +124,7 @@
     "price": 224900,
     "price_text": "224 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1788944942",
+    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1789000653",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE:    \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - v",
     "found_at": "2026-09-08T18:32:24.761314+00:00"
@@ -319,7 +306,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1788989101",
+    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1789007521",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
     "found_at": "2026-08-25T01:46:07.542448+00:00"
@@ -332,7 +319,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1788828866",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1789000650",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
@@ -384,35 +371,9 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1788989101",
+    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1789007463",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 204900,
-    "price_text": "204 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 204900,
-    "price_text": "204 900",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
