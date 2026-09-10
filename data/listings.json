@@ -1,16 +1,29 @@
 [
   {
+    "id": "bazos:195391565",
+    "portal": "bazos",
+    "title": "Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul.",
+    "url": "https://reality.bazos.sk/inzerat/195391565/na-predaj-2-izbovy-byt-5270-m-s-loggiou-pecnianska-ul.php",
+    "price": 204900,
+    "price_text": "204 900 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/565/195391565.jpg?t=1788993440",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
+    "found_at": "2026-09-10T00:05:30.875378+00:00"
+  },
+  {
     "id": "nehnutelnosti:JukB1_43hLn",
     "portal": "nehnutelnosti",
     "title": "Coskoro v ponuke na predaj vynimocny 3 izbovy byt s velkou loggiou vo flat 75 na zaciatku petrzalky",
     "url": "https://www.nehnutelnosti.sk/detail/JukB1_43hLn/coskoro-v-ponuke-na-predaj-vynimocny-3-izbovy-byt-s-velkou-loggiou-vo-flat-75-na-zaciatku-petrzalky",
-    "price": 224900,
-    "price_text": "224 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wkPOWeimb_fss?st=YCkV7p9209R1Zm43zJ5xyED8rUyz3HbMCiaBBHJe1X0&ts=1779812253&e=0",
+    "price": 204900,
+    "price_text": "204 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 47.2 m² 224 900 € 4 764,83 €/m² PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 i",
-    "found_at": "2026-09-09T21:38:34.675746+00:00"
+    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
+    "found_at": "2026-09-09T21:38:34.675773+00:00"
   },
   {
     "id": "nehnutelnosti:JupyIZYBxxb",
@@ -23,7 +36,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wkPOWeimb_fss?st=YCkV7p9209R1Zm43zJ5xyED8rUyz3HbMCiaBBHJe1X0&ts=1779812253&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 47.2 m² 224 900 € 4 764,83 €/m² PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 i",
-    "found_at": "2026-09-09T21:38:34.675744+00:00"
+    "found_at": "2026-09-09T21:38:34.675772+00:00"
   },
   {
     "id": "bazos:195390707",
@@ -33,10 +46,10 @@
     "price": 210000,
     "price_text": "210 000 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/707/195390707.jpg",
+    "image": "https://www.bazos.sk/img/1t/707/195390707.jpg?t=1788991755",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-09-09T21:38:34.675734+00:00"
+    "found_at": "2026-09-09T21:38:34.675770+00:00"
   },
   {
     "id": "bazos:195390711",
@@ -46,10 +59,10 @@
     "price": 205000,
     "price_text": "205 000 €",
     "location": "Bratislava 850 00",
-    "image": "https://www.bazos.sk/img/1t/711/195390711.jpg",
+    "image": "https://www.bazos.sk/img/1t/711/195390711.jpg?t=1788991760",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestrannú 2-garsónku s výmerou 48 m² + lodžia 5 m², situovanú na 7. poschodí zatepleného bytového domu s výťahom na Mánesovom námestí v Bratislave – Petržalke. Byt prešiel čiastočnou rekonštrukciou v roku 2018 v podobe novej elektroinštalácie, rozvodov vody, výmeny plávajúcej po",
-    "found_at": "2026-09-09T21:38:34.675732+00:00"
+    "found_at": "2026-09-09T21:38:34.675769+00:00"
   },
   {
     "id": "bazos:195390708",
@@ -59,10 +72,10 @@
     "price": 174800,
     "price_text": "174 800 €",
     "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/708/195390708.jpg",
+    "image": "https://www.bazos.sk/img/1t/708/195390708.jpg?t=1788991760",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 22 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
-    "found_at": "2026-09-09T21:38:34.675730+00:00"
+    "found_at": "2026-09-09T21:38:34.675767+00:00"
   },
   {
     "id": "bazos:195384720",
@@ -102,19 +115,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj kompletne zariadený apartmán v obľúbenej lokalite Slnečné pobrežie (Sunny Beach), Bulharsko.\n\nZákladné informácie:\n\n* Lokalita: Slnečné pobrežie, Bulharsko 🇧🇬\n* Dispozícia: 2-izbový apartmán (2+kk)\n* Poschodie: 4/5\n* Celková plocha: 52 m²\n* Vzdialenosť od pláže: približne 900 m\n* ",
     "found_at": "2026-09-09T18:29:48.833923+00:00"
-  },
-  {
-    "id": "bazos:195382331",
-    "portal": "bazos",
-    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Nové Mesto",
-    "url": "https://reality.bazos.sk/inzerat/195382331/halo-reality-predaj-jednoizbovy-byt-bratislava-nove-mesto.php",
-    "price": 184900,
-    "price_text": "184 900 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/331/195382331.jpg?t=1788972918",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73860:\nPonúkame na predaj kompletne zariadený 1-izbový byt v projekte Koloseo na Tomášikovej ulici v mestskej časti Bratislava – Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE  \n - 1-izbový byt \n - úžitková ploc",
-    "found_at": "2026-09-09T14:26:43.408713+00:00"
   },
   {
     "id": "bazos:195382334",
@@ -338,19 +338,6 @@
     "found_at": "2026-08-20T21:36:51.382371+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
     "id": "bazos:194172381",
     "portal": "bazos",
     "title": "Ul.kpt.J.Rašu|1-izbový byt s krásnym výhľadom,BA- Dúbravka",
@@ -362,6 +349,19 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemný štartovací 1-izbový byt na ulici Kpt. Jána Rašu v jednej z najobľúbenejších lokalít bratislavskej Dúbravky.\r\n\r\nByt s výmerou 33,83 m² sa nachádza na 6. poschodí zo 7 v bytovom dome s výťahom. Je orientovaný na východ a ponúka krásny, ničím nerušený výhľad na zeleň a Malé ",
     "found_at": "2026-07-31T21:16:42.500058+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju6LTJ4_uAZ",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 2 izbovy byt 5270 m2 s loggiou pecnianska ul",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju6LTJ4_uAZ/na-predaj-2-izbovy-byt-5270-m2-s-loggiou-pecnianska-ul",
+    "price": 204900,
+    "price_text": "204 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
+    "found_at": "2026-07-28T10:43:20.839709+00:00"
   },
   {
     "id": "bazos:193941352",
@@ -394,12 +394,12 @@
     "portal": "nehnutelnosti",
     "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
     "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 224900,
-    "price_text": "224 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wkPOWeimb_fss?st=YCkV7p9209R1Zm43zJ5xyED8rUyz3HbMCiaBBHJe1X0&ts=1779812253&e=0",
+    "price": 204900,
+    "price_text": "204 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 47.2 m² 224 900 € 4 764,83 €/m² PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 i",
+    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
     "found_at": "2026-07-08T22:14:32.765627+00:00"
   },
   {
@@ -407,12 +407,12 @@
     "portal": "nehnutelnosti",
     "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
     "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 224900,
-    "price_text": "224 900",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wkPOWeimb_fss?st=YCkV7p9209R1Zm43zJ5xyED8rUyz3HbMCiaBBHJe1X0&ts=1779812253&e=0",
+    "price": 204900,
+    "price_text": "204 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NWp_bVluV_fss?st=w6x_qWLFg5zZbB3g8Xr-nF-S0axun834kQHdd31VFKM&ts=1788875253&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 47.2 m² 224 900 € 4 764,83 €/m² PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 i",
+    "desc": "PREMIUM Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m² 204 900 € 3 888,05 €/m² Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul. Pečnianska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 52.7 m",
     "found_at": "2026-07-08T22:14:32.765626+00:00"
   }
 ]
