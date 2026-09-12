@@ -1,29 +1,16 @@
 [
   {
-    "id": "nehnutelnosti:Ju5Sf9fGxZh",
+    "id": "nehnutelnosti:Juh7BX0-7yF",
     "portal": "nehnutelnosti",
-    "title": "Neibrs predaj 2 izb bytu s balkonom tarjanne od yit",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju5Sf9fGxZh/neibrs-predaj-2-izb-bytu-s-balkonom-tarjanne-od-yit",
-    "price": 249000,
-    "price_text": "249 000",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SP4i2--2z_fss?st=WGaJS_iOkhxlY3qpeWY5QEL9GUrgchFaRHdeBAmaYCk&ts=1787909124&e=0",
+    "title": "2 garsonka de luxe zaciatok petrzalky manesovo namestie",
+    "url": "https://www.nehnutelnosti.sk/detail/Juh7BX0-7yF/2-garsonka-de-luxe-zaciatok-petrzalky-manesovo-namestie",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/z3DCggF6Y_fss?st=VF6yK30g5intrE_0Y_wkYBJZHXvgoHm_qplI9Plzbmo&ts=1789227478&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Neibrs | Predaj 2 izb. bytu s balkónom, Tarjanne od YIT Martina Granca, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 56.88 m² 249 000 € 4 377,64 €/m² Neibrs | Predaj 2 izb. bytu s balkónom, Tarjanne od YIT Martina Granca, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 56.88 m",
-    "found_at": "2026-09-12T14:00:50.104978+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju81RAgQ_45",
-    "portal": "nehnutelnosti",
-    "title": "Na predaj i zahradnicka 91 i 3iz byt v standarde",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju81RAgQ_45/na-predaj-i-zahradnicka-91-i-3iz-byt-v-standarde",
-    "price": 175000,
-    "price_text": "175 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/IwkB3Dl3K_fss?st=jqftg00ArQbrEOirnz_xSaniO4CU03vgIsB87H3TbZA&ts=1785429988&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM NA PREDAJ I Záhradnícka 91 I 1iz byt v štandarde Záhradnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 19.93 m² 175 000 € 8 780,73 €/m² NA PREDAJ I Záhradnícka 91 I 1iz byt v štandarde Záhradnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 19.93 m² Ka2 Realitná kancelá",
-    "found_at": "2026-09-12T14:00:50.104976+00:00"
+    "desc": "PREMIUM 2 garsónka DE LUXE - začiatok Petržalky - Mánesovo námestie Mánesovo nám., Bratislava-Petržalka, okres Bratislava V 2 izbový byt 48 m² 205 000 € 4 270,83 €/m² 2 garsónka DE LUXE - začiatok Petržalky - Mánesovo námestie Mánesovo nám., Bratislava-Petržalka, okres Bratislava V 2 izbový byt 48 m",
+    "found_at": "2026-09-12T16:58:54.425108+00:00"
   },
   {
     "id": "bazos:195469825",
@@ -36,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/825/195469825.jpg?t=1789211527",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Karlova Ves, na ulici Veternicová. Byt sa nachádza na 2. poschodí zo 6 v tehlovom bytovom dome s výťahom.\r\nCelková podlahová plocha bytu je 36,81 m², z toho úžitková plocha predstavuje 36,09 m². K bytu prislúcha pivničná kobka s v",
-    "found_at": "2026-09-12T14:00:50.104962+00:00"
+    "found_at": "2026-09-12T14:00:50.104992+00:00"
   },
   {
     "id": "bazos:195469837",
@@ -49,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/837/195469837.jpg?t=1789211585",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s krásnym výhľadom, nachádzajúci sa na Galbavého ulici v obľúbenej a vyhľadávanej lokalite Bratislava – Dúbravka.\r\nByt má výmeru 55 m² a k bytu prislúcha aj pivnica v suteréne. Nachádza sa na 9. poschodí z 12 v bytovom dome s tromi výťahmi. Je orientovaný na juhozápad",
-    "found_at": "2026-09-12T14:00:50.104960+00:00"
+    "found_at": "2026-09-12T14:00:50.104990+00:00"
   },
   {
     "id": "bazos:195470910",
@@ -62,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/910/195470910.jpg",
     "condition": "neznamy",
     "desc": "🏠 KOMPLETNE ZARIADENÁ GARSÓNKA – DÚBRAVKA, SARATOVSKÁ – 27,74 m² – PEKNÝ VÝHĽAD\r\nCena: 137 990 €\r\nPonúkame na predaj kompletne zariadenú garsónku s výmerou 27,74 m² na Saratovskej ulici v Bratislave – Dúbravke.\r\nByt sa nachádza na 7. nadzemnom podlaží (vo výťahu označené ako 6. poschodie) panelového",
-    "found_at": "2026-09-12T14:00:50.104958+00:00"
+    "found_at": "2026-09-12T14:00:50.104988+00:00"
   },
   {
     "id": "bazos:195463381",
@@ -362,5 +349,18 @@
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
     "found_at": "2026-07-16T09:22:34.043050+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JugVqwoplmz",
+    "portal": "nehnutelnosti",
+    "title": "Kompletne zariadeny 1i byt s loggiou",
+    "url": "https://www.nehnutelnosti.sk/detail/JugVqwoplmz/kompletne-zariadeny-1i-byt-s-loggiou",
+    "price": 174000,
+    "price_text": "174 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/dXiuko9NX_fss?st=Jv_POelwPLc0qQIPQJ9SxMa6XZMOOjCggA2VTHz8MHI&ts=1783934397&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. APARTMÁN S PEKNOU LOGGIOU, 34,48 m2, PRI KLIENTSKOM CENTRE a JAZERE KUCHAJDA. Tomášikova 32, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 34.48 m² 174 000 € 5 046,4 €/m² KLIMATIZOVANÝ, KOMPLETNE ZARIADENÝ 1i. APARTMÁN S PEKNOU LOGGIOU, 34,48 m2,",
+    "found_at": "2026-07-13T19:41:57.065074+00:00"
   }
 ]
