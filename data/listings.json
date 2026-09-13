@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195500899",
+    "portal": "bazos",
+    "title": "1i byt Koliba, slepá ulička, záhrada a parkovanie",
+    "url": "https://reality.bazos.sk/inzerat/195500899/1i-byt-koliba-slepa-ulicka-zahrada-a-parkovanie.php",
+    "price": 198000,
+    "price_text": "198 000 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/899/195500899.jpg",
+    "condition": "neznamy",
+    "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
+    "found_at": "2026-09-13T16:08:46.222075+00:00"
+  },
+  {
     "id": "bazos:195488775",
     "portal": "bazos",
     "title": "RADO | 2 IZBOVY BYT 50m2 ZARIADENY | BRATISLAVA - RAČA",
@@ -7,10 +20,10 @@
     "price": 225000,
     "price_text": "225 000 €",
     "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/775/195488775.jpg",
+    "image": "https://www.bazos.sk/img/1t/775/195488775.jpg?t=1789309723",
     "condition": "neznamy",
     "desc": "RADO Reality Vám ponúka: Na predaj príjemný 2 izbový byt s nadštandardnou výmerou, výbornou dispozíciou a kompletnou vybavenosťou – ul. Hečkova 6, BA - Rača.\r\n\r\nHľadáte štartovacie bývanie alebo skvelú investičnú príležitosť v jednej z najobľúbenejších a najzelenších častí Bratislavy?\r\n\r\nExkluzívne ",
-    "found_at": "2026-09-13T11:40:22.997847+00:00"
+    "found_at": "2026-09-13T11:40:22.997871+00:00"
   },
   {
     "id": "bazos:195490209",
@@ -23,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/209/195490209.jpg",
     "condition": "neznamy",
     "desc": "Predáme 2-izbový byt na Čiližskej ulici v BA - Vrakuňa.\r\nVýmera 64 m2 + loggia 3,5 m2, murovaná pivnica 2,5 m2  \r\nsa nachádza v suteréne domu, podlažie 4/5,\r\nIzby a kuchyňa sú nepriechodné, orientácia je na dve svetové strany JV - SZ. \r\nByt je čiastočne rekonštruovaný, vo veľmi slušnom stave, kúpou ",
-    "found_at": "2026-09-13T11:40:22.997844+00:00"
+    "found_at": "2026-09-13T11:40:22.997870+00:00"
   },
   {
     "id": "bazos:195491465",
@@ -36,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/465/195491465.jpg",
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Agátová\n\rObec: Bratislava-Dúbravka\n\r\n\rBosen Group ponúka na predaj praktický 1 izbový apartmán v úplne novom projekte AGÁTY v Dúbravke na ulici Agátova. Náchádza sa na 3. podlaží zo 4. s výťahom. Celková výmera je 42,06 m2, z čoho je loggia 6,33 m2. \n\nDISPOZÍCIA A ...",
-    "found_at": "2026-09-13T11:40:22.997842+00:00"
+    "found_at": "2026-09-13T11:40:22.997868+00:00"
   },
   {
     "id": "bazos:195493177",
@@ -49,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/177/195493177.jpg",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
-    "found_at": "2026-09-13T11:40:22.997841+00:00"
+    "found_at": "2026-09-13T11:40:22.997867+00:00"
   },
   {
     "id": "bazos:195493467",
@@ -62,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/467/195493467.jpg",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj na ul. Lotyšská, k.ú. Podunajské Biskupice 2izb. byt o celkovej výmere 52 m2 ( byt má cca 50,5m2, pivnica 1,5m2). Nachádza sa na 8.poschodí v 8 podlažnom panelovom bytovom dome s výťahom. Bytový dom bol odovzdaný do užívania v roku 1974, aktuálne je upravený, zateplený, nová strech",
-    "found_at": "2026-09-13T11:40:22.997839+00:00"
+    "found_at": "2026-09-13T11:40:22.997865+00:00"
   },
   {
     "id": "bazos:195483105",
@@ -260,19 +273,6 @@
     "found_at": "2026-08-10T23:45:16.876494+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
     "id": "bazos:194172381",
     "portal": "bazos",
     "title": "Ul.kpt.J.Rašu|1-izbový byt s krásnym výhľadom,BA- Dúbravka",
@@ -297,18 +297,5 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový udržiavaný byt v prevažne pôvodnom stave s plastovými oknami, plávajúcou podlahou a novšou maľovkou. Bytové jadro, kuchyňa a vnútrobytové rozvody sú prevažne pôvodné ",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
-  },
-  {
-    "id": "bazos:193695861",
-    "portal": "bazos",
-    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lam",
-    "url": "https://reality.bazos.sk/inzerat/193695861/predaj-2-izbovy-byt-38-m-bakosova-ulica-bratislava-lam.php",
-    "price": 199900,
-    "price_text": "199 900 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/861/193695861.jpg?t=1789294052",
-    "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
-    "found_at": "2026-07-16T09:22:34.043050+00:00"
   }
 ]
