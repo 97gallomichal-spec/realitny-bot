@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/899/195500899.jpg",
     "condition": "neznamy",
     "desc": "Predáme priestranný 1-izbový byt na Boskovičovej ulici, Bratislava – Koliba.\r\n\r\nByt sa nachádza v menšom tehlovom bytovom dome v slepej uličke, bez zbytočnej tranzitnej dopravy. Lokalita ponúka pokojné bývanie a zároveň veľmi dobrú dostupnosť MHD – zastávka je prakticky na rohu ulíc Boskovičova a Ja",
-    "found_at": "2026-09-13T16:08:46.222075+00:00"
+    "found_at": "2026-09-13T16:08:46.222101+00:00"
   },
   {
     "id": "bazos:195488775",
@@ -20,7 +20,7 @@
     "price": 225000,
     "price_text": "225 000 €",
     "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/775/195488775.jpg?t=1789309723",
+    "image": "https://www.bazos.sk/img/1t/775/195488775.jpg?t=1789325538",
     "condition": "neznamy",
     "desc": "RADO Reality Vám ponúka: Na predaj príjemný 2 izbový byt s nadštandardnou výmerou, výbornou dispozíciou a kompletnou vybavenosťou – ul. Hečkova 6, BA - Rača.\r\n\r\nHľadáte štartovacie bývanie alebo skvelú investičnú príležitosť v jednej z najobľúbenejších a najzelenších častí Bratislavy?\r\n\r\nExkluzívne ",
     "found_at": "2026-09-13T11:40:22.997871+00:00"
@@ -273,6 +273,19 @@
     "found_at": "2026-08-10T23:45:16.876494+00:00"
   },
   {
+    "id": "nehnutelnosti:Jui6mWU-wL5",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
+    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
+    "price": 207900,
+    "price_text": "207 900",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
+    "found_at": "2026-08-07T11:52:19.426047+00:00"
+  },
+  {
     "id": "bazos:194172381",
     "portal": "bazos",
     "title": "Ul.kpt.J.Rašu|1-izbový byt s krásnym výhľadom,BA- Dúbravka",
@@ -297,5 +310,31 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový udržiavaný byt v prevažne pôvodnom stave s plastovými oknami, plávajúcou podlahou a novšou maľovkou. Bytové jadro, kuchyňa a vnútrobytové rozvody sú prevažne pôvodné ",
     "found_at": "2026-07-24T10:26:53.460100+00:00"
+  },
+  {
+    "id": "reality:238262",
+    "portal": "reality",
+    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
+    "url": "https://www.reality.sk/byty/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/Juk62kqVnFU/",
+    "price": 199900,
+    "price_text": "199900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
+    "condition": "neznamy",
+    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
+    "found_at": "2026-07-18T15:06:01.240368+00:00"
+  },
+  {
+    "id": "reality:13821",
+    "portal": "reality",
+    "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
+    "url": "https://www.reality.sk/byty/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/JuTsWhh1aHN/",
+    "price": 199900,
+    "price_text": "199900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
+    "condition": "neznamy",
+    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
+    "found_at": "2026-06-30T21:24:22.153055+00:00"
   }
 ]
