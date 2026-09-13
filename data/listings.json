@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/105/195483105.jpg?t=1789247061",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-09-12T22:11:16.745097+00:00"
+    "found_at": "2026-09-12T22:11:16.745136+00:00"
   },
   {
     "id": "bazos:195483109",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/109/195483109.jpg?t=1789247075",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestrannú 2-garsónku s výmerou 48 m² + lodžia 5 m², situovanú na 7. poschodí zatepleného bytového domu s výťahom na Mánesovom námestí v Bratislave – Petržalke. Byt prešiel čiastočnou rekonštrukciou v roku 2018 v podobe novej elektroinštalácie, rozvodov vody, výmeny plávajúcej po",
-    "found_at": "2026-09-12T22:11:16.745095+00:00"
+    "found_at": "2026-09-12T22:11:16.745134+00:00"
   },
   {
     "id": "bazos:195480777",
@@ -104,19 +104,6 @@
     "found_at": "2026-09-12T10:37:18.659676+00:00"
   },
   {
-    "id": "bazos:195453428",
-    "portal": "bazos",
-    "title": "Garsónka na ulici Záhradnícka",
-    "url": "https://reality.bazos.sk/inzerat/195453428/garsonka-na-ulici-zahradnicka.php",
-    "price": 174800,
-    "price_text": "174 800 €",
-    "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/428/195453428.jpg?t=1789162981",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 22 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla čiastočnou rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez p",
-    "found_at": "2026-09-11T21:40:44.369847+00:00"
-  },
-  {
     "id": "bazos:195447450",
     "portal": "bazos",
     "title": "2 garsónka DE LUXE - začiatok Petržalky - Mánesovo námestie",
@@ -141,19 +128,6 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Pečnianska\n\rObec: Bratislava-Petržalka\n\r\n\rExkluzívne Vám ponúkame na predaj 2-izbový byt, o výmere 52,70 m² spolu s pivničnou kobkou a loggiou, ktorý sa nachádza v Bratislave časť Petržalka, na Pečnianskej ulici.\n\nByt prešiel pred piatimi rokmi rekonštrukciou (okná, po ...",
     "found_at": "2026-09-10T00:05:30.875432+00:00"
-  },
-  {
-    "id": "bazos:195382331",
-    "portal": "bazos",
-    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Nové Mesto",
-    "url": "https://reality.bazos.sk/inzerat/195382331/halo-reality-predaj-jednoizbovy-byt-bratislava-nove-mesto.php",
-    "price": 184900,
-    "price_text": "184 900 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/331/195382331.jpg?t=1789087669",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73860:\nPonúkame na predaj kompletne zariadený 1-izbový byt v projekte Koloseo na Tomášikovej ulici v mestskej časti Bratislava – Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE  \n - 1-izbový byt \n - úžitková ploc",
-    "found_at": "2026-09-09T14:26:43.408713+00:00"
   },
   {
     "id": "bazos:195356709",
