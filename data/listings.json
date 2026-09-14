@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195515038",
+    "portal": "bazos",
+    "title": "1 izbový byt s úžitkovou plochou 36 m2 v tehlovej...",
+    "url": "https://reality.bazos.sk/inzerat/195515038/1-izbovy-byt-s-uzitkovou-plochou-36-m2-v-tehlovej.php",
+    "price": 189900,
+    "price_text": "189 900 €",
+    "location": "Bratislava 841 04",
+    "image": "https://www.bazos.sk/img/1t/038/195515038.jpg",
+    "condition": "neznamy",
+    "desc": "TUreality ponúkajú 1 izbový byt svetlý byt s výmerou 36 m2 v novšej tehlovej bytovke v bratislavskej Karlovej Vsi, vo vyhľadávanej lokalite Hlaváčikova ul. Byt pozostáva zo vstupnej chodby , ktorá prechádza  do priestranného obývacieho priestoru s oddeliteľným kuchynským kútom. Kuchyňa je vybavená s",
+    "found_at": "2026-09-14T00:57:17.192934+00:00"
+  },
+  {
     "id": "bazos:195513312",
     "portal": "bazos",
     "title": "Na predaj 2 izbový byt v starom meste na Povrazníckej ulici",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/312/195513312.jpg",
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Povraznícka\n\rObec: Bratislava-Staré Mesto\n\r\n\rV atraktícnej lokalite bratislavského Starého Mesta ponúkame na predaj 2 izbový byt na 3. p. päť poschodového tehlového bytového domu postaveného koncom dvadsiatych rokov minulého storočia na Povrazníckej ulici. Byt je orien ...",
-    "found_at": "2026-09-13T22:20:30.086108+00:00"
+    "found_at": "2026-09-13T22:20:30.086147+00:00"
   },
   {
     "id": "bazos:195500899",
@@ -117,19 +130,6 @@
     "found_at": "2026-09-12T22:11:16.745134+00:00"
   },
   {
-    "id": "bazos:195480777",
-    "portal": "bazos",
-    "title": "Luxusný apartmán v lyžiarskom stredisku Bansko",
-    "url": "https://reality.bazos.sk/inzerat/195480777/luxusny-apartman-v-lyziarskom-stredisku-bansko.php",
-    "price": 79000,
-    "price_text": "79 000 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/777/195480777.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj luxusný, kompletne zariadený 2-izbový apartmán v prestížnom 5★ rezorte Lucky Bansko, ktorý patrí medzi najvyhľadávanejšie a najlepšie hodnotené horské rezorty v Bulharsku. Nehnuteľnosť je ideálna na vlastnú rekreáciu aj ako investícia s výborným potenciálom prenájmu.\n\nApartmán s c",
-    "found_at": "2026-09-12T19:11:08.306493+00:00"
-  },
-  {
     "id": "bazos:195447450",
     "portal": "bazos",
     "title": "2 garsónka DE LUXE - začiatok Petržalky - Mánesovo námestie",
@@ -163,7 +163,7 @@
     "price": 224900,
     "price_text": "224 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1789087670",
+    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1789344602",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE:    \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - v",
     "found_at": "2026-09-08T18:32:24.761314+00:00"
@@ -280,7 +280,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1789087668",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1789344586",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
