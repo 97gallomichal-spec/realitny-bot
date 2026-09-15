@@ -1,5 +1,57 @@
 [
   {
+    "id": "bazos:195553830",
+    "portal": "bazos",
+    "title": "Veľký 2 izbový byt na začiatku Petržalky",
+    "url": "https://reality.bazos.sk/inzerat/195553830/velky-2-izbovy-byt-na-zaciatku-petrzalky.php",
+    "price": 232000,
+    "price_text": "232 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/830/195553830.jpg",
+    "condition": "neznamy",
+    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 68 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
+    "found_at": "2026-09-15T07:37:19.561512+00:00"
+  },
+  {
+    "id": "bazos:195556518",
+    "portal": "bazos",
+    "title": "Romantický byt v tichom dvore na Kozej",
+    "url": "https://reality.bazos.sk/inzerat/195556518/romanticky-byt-v-tichom-dvore-na-kozej.php",
+    "price": 250000,
+    "price_text": "250 000 €",
+    "location": "Bratislava 811 09",
+    "image": "https://www.bazos.sk/img/1t/518/195556518.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Kozia\n\rObec: Bratislava-Staré Mesto\n\r\n\rKozia – 2 izbový byt o výmere 50 m2 sa nachádza na prízemí, vo dvore historického, zrenovovaného domu. Na dvore sa nachádzajú iba dva byty a poskytuje súkromie a možnosť na rozšírenie životného priestoru...\n\nByt pozostáv ...",
+    "found_at": "2026-09-15T07:37:19.561510+00:00"
+  },
+  {
+    "id": "bazos:195558839",
+    "portal": "bazos",
+    "title": "1-izbový byt Slnečnice zóna Mesto, Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/195558839/1-izbovy-byt-slnecnice-zona-mesto-petrzalka.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/839/195558839.jpg?t=1789454860",
+    "condition": "neznamy",
+    "desc": "Hľadáte dokonalé štartovacie bývanie alebo bezstarostnú investíciu na prenájom?\r\n\r\nTento svetlý a štýlový 1-izbový byt na ulici Zuzany Chalupovej je presne to, čo hľadáte. Byt nevyžaduje žiadne ďalšie investície – stačí sa nasťahovať alebo okamžite prenajať.\r\nNajväčšie benefity bytu:\r\nTichá orientác",
+    "found_at": "2026-09-15T07:37:19.561490+00:00"
+  },
+  {
+    "id": "bazos:195551661",
+    "portal": "bazos",
+    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lam",
+    "url": "https://reality.bazos.sk/inzerat/195551661/predaj-2-izbovy-byt-38-m-bakosova-ulica-bratislava-lam.php",
+    "price": 199900,
+    "price_text": "199 900 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/661/195551661.jpg?t=1789440629",
+    "condition": "neznamy",
+    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\r\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
+    "found_at": "2026-09-15T01:22:24.453922+00:00"
+  },
+  {
     "id": "bazos:195551883",
     "portal": "bazos",
     "title": "HALO reality - Predaj, garsónka Bratislava Ružinov, Jašíkova",
@@ -10,20 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/883/195551883.jpg?t=1789434425",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Iveta Molnárová, kontakt: 0903 379 150, nehnuteľnosť s ID: BA-73118:\nPonúkame Vám na predaj výborný investičný bytík o výmere 19 m2. Nehnuteľnosť sa nachádza na 3.poschodí zatepleného bytového domu s výťahom, vyhľadávaná lokalita mestská časť Ružinov - Pošeň, Jašík",
-    "found_at": "2026-09-15T01:22:24.453900+00:00"
-  },
-  {
-    "id": "bazos:195551661",
-    "portal": "bazos",
-    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lam",
-    "url": "https://reality.bazos.sk/inzerat/195551661/predaj-2-izbovy-byt-38-m-bakosova-ulica-bratislava-lam.php",
-    "price": 199900,
-    "price_text": "199 900 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/661/195551661.jpg",
-    "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\r\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
-    "found_at": "2026-09-15T01:22:24.453900+00:00"
+    "found_at": "2026-09-15T01:22:24.453921+00:00"
   },
   {
     "id": "bazos:195551886",
@@ -33,10 +72,10 @@
     "price": 214900,
     "price_text": "214 900 €",
     "location": "Bratislava 841 08",
-    "image": "https://www.bazos.sk/img/1t/886/195551886.jpg",
+    "image": "https://www.bazos.sk/img/1t/886/195551886.jpg?t=1789441033",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Iveta Molnárová, kontakt: 0903 379 150, nehnuteľnosť s ID: BA-73194:\nPonúkame Vám na predaj 2 izbový byt vo veľkosti 3 izbového bytu o rozlohe 64,18 m2 plus 2 x lodžia. Nehnuteľnosť sa nachádza v Bratislave na ulici Jána Jonáša v blízkosti závodu Volkswagen, pokojn",
-    "found_at": "2026-09-15T01:22:24.453899+00:00"
+    "found_at": "2026-09-15T01:22:24.453920+00:00"
   },
   {
     "id": "bazos:195551895",
@@ -46,10 +85,10 @@
     "price": 167000,
     "price_text": "167 000 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/895/195551895.jpg",
+    "image": "https://www.bazos.sk/img/1t/895/195551895.jpg?t=1789441037",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Iveta Molnárová, kontakt: 0903 379 150, nehnuteľnosť s ID: BA-73395:\nPonúkame Vám na predaj výborný štartovací 1-izbový byt s investičným potenciálom s celkovou výmerou 37,79 m2 s pivnicou, ktorý sa nachádza vo vyhľadávanej časti Bratislavy, mestská časť Dúbravka, ",
-    "found_at": "2026-09-15T01:22:24.453898+00:00"
+    "found_at": "2026-09-15T01:22:24.453919+00:00"
   },
   {
     "id": "bazos:195551898",
@@ -59,10 +98,10 @@
     "price": 231600,
     "price_text": "231 600 €",
     "location": "Bratislava 841 07",
-    "image": "https://www.bazos.sk/img/1t/898/195551898.jpg",
+    "image": "https://www.bazos.sk/img/1t/898/195551898.jpg?t=1789441021",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Ing. Jana Nejedlíková, kontakt: 0948 490 041, nehnuteľnosť s ID: BA-73388:\nPonúkame na predaj veľkorysý jednoizbový byt s krytou terasou, predzáhradkou a vyhradeným parkovacím miestom v Bratislave, v obľúbenej lokalite v mestskej časti Devínska Nová Ves, Opletalova",
-    "found_at": "2026-09-15T01:22:24.453897+00:00"
+    "found_at": "2026-09-15T01:22:24.453918+00:00"
   },
   {
     "id": "bazos:195546604",
@@ -72,23 +111,10 @@
     "price": 189000,
     "price_text": "189 000 €",
     "location": "Bratislava 811 03",
-    "image": "https://www.bazos.sk/img/1t/604/195546604.jpg?t=1789418583",
+    "image": "https://www.bazos.sk/img/1t/604/195546604.jpg?t=1789448857",
     "condition": "neznamy",
     "desc": "B10 Vám ponúka na predaj 1-izbový byt na Baštovej ulici, priamo na pešej zóne historického centra Bratislavy, len pár krokov od Michalskej brány..BYT |Byt má výmeru 30 m² a nachádza sa na 3. poschodí tehlového bytového domu bez výťahu. Je orientovaný do vnútrobloku, vďaka čomu ponúka príjemný pokoj ",
     "found_at": "2026-09-14T22:25:27.728844+00:00"
-  },
-  {
-    "id": "bazos:195542050",
-    "portal": "bazos",
-    "title": "PREDAJ, 2 izbový byt s predzáhradkou a parkovaním, Záhorská",
-    "url": "https://reality.bazos.sk/inzerat/195542050/predaj-2-izbovy-byt-s-predzahradkou-a-parkovanim-zahorska.php",
-    "price": 249990,
-    "price_text": "249 990 €",
-    "location": "Bratislava 841 06",
-    "image": "https://www.bazos.sk/img/1t/050/195542050.jpg?t=1789435022",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj priestranný 2 izbový byt na Tatranskej ul. v centre Záhorskej Bystrice.\n\nBYT:\n\nByt sa nachádza na prízemí rodinného domu s 3 bytovými jednotkami a jeho úžitková plocha je 60 m2 + predzáhradka 58 m2 + prestrešené parkovacie státie.\n\nDISPOZÍCIA:\n\nVstupná chodba, priestranná obýv",
-    "found_at": "2026-09-14T18:32:03.911610+00:00"
   },
   {
     "id": "bazos:195545954",
@@ -128,19 +154,6 @@
     "condition": "neznamy",
     "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 garsónku de luxe na Mánesovom námestí v Petržalke.\r\n\r\nZnalecký posudok je v cene\r\n\r\nROZLOHA BYTU A POSCHODIE\r\nRozloha bytu je 48 m2 + loggia 5 m2 + pivnica (na rovnakom poschodí, ako je byt).\r\n",
     "found_at": "2026-09-11T18:23:36.242208+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jurns3bx82i",
-    "portal": "nehnutelnosti",
-    "title": "Na predaj 15 izbovy priestranny byt s balkonom kresankova ulica ba iv",
-    "url": "https://www.nehnutelnosti.sk/detail/Jurns3bx82i/na-predaj-15-izbovy-priestranny-byt-s-balkonom-kresankova-ulica-ba-iv",
-    "price": 229900,
-    "price_text": "229 900",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SmZRdj8tk_fss?st=LBGFgDDUcaLkd-1rpJioFx5hHAX1LupKVYaBdIcTbQ4&ts=1788774649&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM NA PREDAJ: 1,5 izbový priestranný byt s balkónom, Kresánkova ulica, BA IV. Kresánkova, Bratislava-Karlova Ves, okres Bratislava IV 1 izbový byt 54 m² 229 900 € 4 257,41 €/m² NA PREDAJ: 1,5 izbový priestranný byt s balkónom, Kresánkova ulica, BA IV. Kresánkova, Bratislava-Karlova Ves, okres B",
-    "found_at": "2026-09-10T21:34:11.980327+00:00"
   },
   {
     "id": "bazos:195391565",
@@ -221,6 +234,32 @@
     "found_at": "2026-09-01T14:45:04.522073+00:00"
   },
   {
+    "id": "nehnutelnosti:JuAZ0jPcLWb",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 2 izboveho bytu o vymere 5046m2 v lukrativnej casti ruzinova nezabudkova ul bratislava",
+    "url": "https://www.nehnutelnosti.sk/detail/JuAZ0jPcLWb/predaj-2-izboveho-bytu-o-vymere-5046m2-v-lukrativnej-casti-ruzinova-nezabudkova-ul-bratislava",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava Nezábudková",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_dXexVdrA_fss?st=JllSMJ8XOl-lAwO4iQjzKmbm6OxfausS5gqyq-c6HFI&ts=1788253089&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj 2 izbového bytu o výmere 50,46m2 v lukratívnej časti Ružinova, Nezábudkova ul., Bratislava Nezábudková, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 53.37 m² 244 900 € 4 588,72 €/m² Predaj 2 izbového bytu o výmere 50,46m2 v lukratívnej časti Ružinova, Nezábudkova ul., Bratisla",
+    "found_at": "2026-09-01T09:57:42.719885+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuMDSqSHeJO",
+    "portal": "nehnutelnosti",
+    "title": "Mensi stylovy 2 izbovy byt po kvalitnej rekonstrukcii s panoramatickym vyhladom klimatizacia",
+    "url": "https://www.nehnutelnosti.sk/detail/JuMDSqSHeJO/mensi-stylovy-2-izbovy-byt-po-kvalitnej-rekonstrukcii-s-panoramatickym-vyhladom-klimatizacia",
+    "price": 194990,
+    "price_text": "194 990",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RElpWOYp6_fss?st=9Bg4m0yp2e5dIeXYmZ2VNmkA9Od8e8eblrW1e1Pkf10&ts=1785756960&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Menší 2-izbový byt po kvalitnej rekonštrukcii s panoramatickým výhľadom | klimatizácia Drobného, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 33 m² 194 990 € 5 908,79 €/m² Menší 2-izbový byt po kvalitnej rekonštrukcii s panoramatickým výhľadom | klimatizácia Drobného, Bratislava-Dúb",
+    "found_at": "2026-08-31T13:32:27.472962+00:00"
+  },
+  {
     "id": "bazos:194899049",
     "portal": "bazos",
     "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lam",
@@ -228,7 +267,7 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1789425361",
+    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1789440617",
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\r\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\r\n\r\nZákladné informácie\r\nByt ",
     "found_at": "2026-08-25T01:46:07.542448+00:00"
@@ -273,32 +312,6 @@
     "found_at": "2026-07-18T15:06:01.240368+00:00"
   },
   {
-    "id": "nehnutelnosti:Juk62kqVnFU",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/Juk62kqVnFU/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 199 900 € 5 260,53 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-07-18T15:06:01.240366+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuiiSWIRxRj",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izboveho bytu s potencialom na 2 izbovy svidnicka bratislava ruzinov",
-    "url": "https://www.nehnutelnosti.sk/detail/JuiiSWIRxRj/predaj-1-izboveho-bytu-s-potencialom-na-2-izbovy-svidnicka-bratislava-ruzinov",
-    "price": 210000,
-    "price_text": "210 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
-    "found_at": "2026-07-09T22:40:40.296178+00:00"
-  },
-  {
     "id": "reality:13821",
     "portal": "reality",
     "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
@@ -310,18 +323,5 @@
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
     "found_at": "2026-06-30T21:24:22.153055+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTsWhh1aHN",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTsWhh1aHN/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 199900,
-    "price_text": "199 900",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 38 m² 199 900 € 5 260,53 €/m² Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-06-30T21:24:22.153040+00:00"
   }
 ]
