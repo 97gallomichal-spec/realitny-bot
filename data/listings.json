@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195587447",
+    "portal": "bazos",
+    "title": "NA PREDAJ UNIKÁTNY 4+1 izb.byt BA-Mlynská Dolina",
+    "url": "https://reality.bazos.sk/inzerat/195587447/na-predaj-unikatny-41-izbbyt-ba-mlynska-dolina.php",
+    "price": null,
+    "price_text": "1 €",
+    "location": "Bratislava 841 04",
+    "image": "https://www.bazos.sk/img/1t/447/195587447.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 4-izbový byt\n\rUlica: Staré Grunty\n\rObec: Bratislava-Karlova Ves\n\r\n\rAk ste fanúšikom moderných smart riešení, špičkových technológií a luxusných materiálov, tento veľkometrážny, kompletne zmodernizovaný byt je ako stvorený pre Vás. Pivnica a garážové státie v podzemnej garáži v cene. Prémio ...",
+    "found_at": "2026-09-16T05:54:36.313156+00:00"
+  },
+  {
     "id": "nehnutelnosti:JuNFh1KTT2W",
     "portal": "nehnutelnosti",
     "title": "Agaty kompletne zariadene 15 izbove byvanie s velkym balkonom a vyhladom na bazen",
@@ -10,7 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XneKMcmWr_fss?st=vD3NC436iehxAQz-lw2b_NuxNVgqFUiEBMwflBVWrtM&ts=1789076966&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM AGÁTY | Kompletne zariadené 1,5-izbové bývanie s veľkým balkónom a výhľadom na bazén Agátová, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 40.51 m² 211 900 € 5 230,81 €/m² AGÁTY | Kompletne zariadené 1,5-izbové bývanie s veľkým balkónom a výhľadom na bazén Agátová, Bratislava-Dúbrav",
-    "found_at": "2026-09-16T00:09:58.883128+00:00"
+    "found_at": "2026-09-16T00:09:58.883149+00:00"
   },
   {
     "id": "bazos:195582989",
@@ -63,19 +76,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj priestrannú 2-garsónku s výmerou 48 m² + lodžia 5 m², situovanú na 7. poschodí zatepleného bytového domu s výťahom na Mánesovom námestí v Bratislave – Petržalke. Byt prešiel čiastočnou rekonštrukciou v roku 2018 v podobe novej elektroinštalácie, rozvodov vody, výmeny plávajúcej po",
     "found_at": "2026-09-15T21:16:13.003456+00:00"
-  },
-  {
-    "id": "bazos:195573986",
-    "portal": "bazos",
-    "title": "2-izbový byt v rodinnom dome Ligurčeková ul. – Podunajské B.",
-    "url": "https://reality.bazos.sk/inzerat/195573986/2-izbovy-byt-v-rodinnom-dome-ligurcekova-ul-podunajske-b.php",
-    "price": 185000,
-    "price_text": "185 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/986/195573986.jpg",
-    "condition": "neznamy",
-    "desc": "Dom sa nachádza na Ligurčekovej ulici v Podunajských Biskupiciach, v novej radovej zástavbe.\r\n\r\nZákladné informácie o byte:\r\nRozloha bytu: 37,81 m² + balkón 6,9 m²\r\nPodlažie: 1/1, vstup z pavlače\r\n\r\nDispozícia bytu:\r\nvstupná chodba, samostatné WC, kúpeľňa s vaňou, obývačka s kuchyňou, spálňa\r\n\r\nVyba",
-    "found_at": "2026-09-15T18:06:55.927134+00:00"
   },
   {
     "id": "bazos:195579990",
@@ -228,9 +228,9 @@
     "price": 199900,
     "price_text": "199 900 €",
     "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1789515304",
+    "image": "https://www.bazos.sk/img/1t/049/194899049.jpg?t=1789527322",
     "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
+    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\r\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\r\n\r\nZákladné informácie\r\nByt ",
     "found_at": "2026-08-25T01:46:07.542448+00:00"
   },
   {
