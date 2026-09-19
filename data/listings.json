@@ -7,10 +7,10 @@
     "price": 210000,
     "price_text": "210 000 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/182/195701182.jpg",
+    "image": "https://www.bazos.sk/img/1t/182/195701182.jpg?t=1789836860",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-09-19T14:19:19.632795+00:00"
+    "found_at": "2026-09-19T14:19:19.632813+00:00"
   },
   {
     "id": "bazos:195681798",
@@ -33,7 +33,7 @@
     "price": 185300,
     "price_text": "185 300 €",
     "location": "Bratislava 851 06",
-    "image": "https://www.bazos.sk/img/1t/827/195681827.jpg",
+    "image": "https://www.bazos.sk/img/1t/827/195681827.jpg?t=1789834142",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Marián Matušek, kontakt: 0911 107 429, nehnuteľnosť s ID: BA-73488:\nPonúkame na predaj priestranný 1-izbový byt s výmerou 35 m2 a balkónom o výmere 5 m2, situovaný na Vyšehradskej ulici v obľúbenej mestskej časti Bratislava – Petržalka (Lúky). \n  \n Byt sa nachádza ",
     "found_at": "2026-09-19T00:10:53.910033+00:00"
@@ -193,6 +193,19 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
+  },
+  {
+    "id": "bazos:194447859",
+    "portal": "bazos",
+    "title": "Výmena  2-izbový byt v TT, za podobný byt( 1-izbový ) v BA.",
+    "url": "https://reality.bazos.sk/inzerat/194447859/vymena-2-izbovy-byt-v-tt-za-podobny-byt-lokalita-v-ba.php",
+    "price": 205000,
+    "price_text": "205 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/859/194447859.jpg?t=1789827769",
+    "condition": "povodny",
+    "desc": "Vymením (možný predaj) 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a kom",
+    "found_at": "2026-08-10T08:46:41.514106+00:00"
   },
   {
     "id": "bazos:194172381",
