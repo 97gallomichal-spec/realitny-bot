@@ -1,5 +1,18 @@
 [
   {
+    "id": "nehnutelnosti:Ju7XAZwdi-G",
+    "portal": "nehnutelnosti",
+    "title": "Babony tre i predaj vynimocny 1 izb apartman v projekte metropolis",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju7XAZwdi-G/babony-tre-i-predaj-vynimocny-1-izb-apartman-v-projekte-metropolis",
+    "price": null,
+    "price_text": "139",
+    "location": "Bratislava-Staré Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/VyorKY6-Y_fss?st=GP5hpGwUpz01hVJk1e0q81e402BqcqJN6PjA41bdbrE&ts=1778071145&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Babony TRE I Predaj Výnimočný 1-izb apartmán v projekte Metropolis Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 35.16 m² Cena dohodou Babony TRE I Predaj Výnimočný 1-izb apartmán v projekte Metropolis Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 35.16 m² Výnimočný apart",
+    "found_at": "2026-09-19T10:48:38.834806+00:00"
+  },
+  {
     "id": "bazos:195681798",
     "portal": "bazos",
     "title": "2 - izbový byt Bratislava V - Petržalka - ulica Bradáčova",
@@ -26,19 +39,6 @@
     "found_at": "2026-09-19T00:10:53.910033+00:00"
   },
   {
-    "id": "nehnutelnosti:JuNVfCcX0y9",
-    "portal": "nehnutelnosti",
-    "title": "Pripravujeme na predaj investicny 25izb byt v projekte unitas na sancovej",
-    "url": "https://www.nehnutelnosti.sk/detail/JuNVfCcX0y9/pripravujeme-na-predaj-investicny-25izb-byt-v-projekte-unitas-na-sancovej",
-    "price": 204990,
-    "price_text": "204 990",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/uxKfanfAf_fss?st=oHOE7B7p7okBJeaChTn-6c6MbLm8icB0o3YcCyevDVE&ts=1788534399&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM PRIPRAVUJEME NA PREDAJ | Investičný 2,5izb. byt v projekte UNITAS na Šancovej Šancova, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 43.73 m² 204 990 € 4 687,63 €/m² PRIPRAVUJEME NA PREDAJ | Investičný 2,5izb. byt v projekte UNITAS na Šancovej Šancova, Bratislava-Nové Mesto, okres",
-    "found_at": "2026-09-18T21:35:46.604468+00:00"
-  },
-  {
     "id": "bazos:195680756",
     "portal": "bazos",
     "title": "2izbový byt Ružinov pri OC Retro",
@@ -50,32 +50,6 @@
     "condition": "neznamy",
     "desc": "Bratislava – Ružinov | Rezedová ulica | 2 izby | 53 m² | 6/12 poschodie\r\n\r\nNiektoré adresy si svoju hodnotu držia dlhodobo. Rezedová ulica v bratislavskom Ružinove patrí medzi ne.\r\n\r\nAk hľadáte bývanie v lokalite, kde máte všetko potrebné na dosah a zároveň dostatok zelene na oddych, tento 2-izbový ",
     "found_at": "2026-09-18T21:35:46.604466+00:00"
-  },
-  {
-    "id": "bazos:195673537",
-    "portal": "bazos",
-    "title": "EXKLUZÍVNE PREDAJ 2-izbový byt, Špaldová, Bratislava - Podun",
-    "url": "https://reality.bazos.sk/inzerat/195673537/exkluzivne-predaj-2-izbovy-byt-spaldova-bratislava-podun.php",
-    "price": 244000,
-    "price_text": "244 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/537/195673537.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Špaldová ulica\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rRealitná kancelária NestGroup ponúka EXKLUZÍVNE na PREDAJ moderný 2-izbový byt na Špaldovej ulici v Bratislave.\n\nByt sa nachádza na 3. poschodí bytového domu a ponúka komfortné bývanie bez nutnosti ďalších investícií.",
-    "found_at": "2026-09-18T18:19:16.687080+00:00"
-  },
-  {
-    "id": "bazos:195673714",
-    "portal": "bazos",
-    "title": "Veľký 2 izbový byt na začiatku Petržalky na ulici Vilova",
-    "url": "https://reality.bazos.sk/inzerat/195673714/velky-2-izbovy-byt-na-zaciatku-petrzalky-na-ulici-vilova.php",
-    "price": 232000,
-    "price_text": "232 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/714/195673714.jpg",
-    "condition": "neznamy",
-    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 68 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
-    "found_at": "2026-09-18T18:19:16.687078+00:00"
   },
   {
     "id": "bazos:195673853",
@@ -286,32 +260,6 @@
     "found_at": "2026-07-18T15:06:01.240368+00:00"
   },
   {
-    "id": "nehnutelnosti:Juk62kqVnFU",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/Juk62kqVnFU/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 187000,
-    "price_text": "187 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-07-18T15:06:01.240366+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JurvZbDeiDQ",
-    "portal": "nehnutelnosti",
-    "title": "Hanacka 2i byt po novej rekonstrukcii nedaleko avionu",
-    "url": "https://www.nehnutelnosti.sk/detail/JurvZbDeiDQ/hanacka-2i-byt-po-novej-rekonstrukcii-nedaleko-avionu",
-    "price": 245900,
-    "price_text": "245 900",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/joWGzKa3Z_fss?st=aIVXU-1QFG3NE-960IJVEJfGfqnqcUHL3OnYzEZBpcY&ts=1783338770&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HANÁCKA - 2i BYT PO NOVEJ REKONŠTRUKCII NEĎALEKO AVIONU Hanácka 6, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 52.79 m² 245 900 € 4 658,08 €/m² HANÁCKA - 2i BYT PO NOVEJ REKONŠTRUKCII NEĎALEKO AVIONU Hanácka 6, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 52.79 m² Hľadáte BY",
-    "found_at": "2026-07-11T13:46:42.218457+00:00"
-  },
-  {
     "id": "reality:13821",
     "portal": "reality",
     "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
@@ -323,18 +271,5 @@
     "condition": "neznamy",
     "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
     "found_at": "2026-06-30T21:24:22.153055+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTsWhh1aHN",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTsWhh1aHN/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 187000,
-    "price_text": "187 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-06-30T21:24:22.153040+00:00"
   }
 ]
