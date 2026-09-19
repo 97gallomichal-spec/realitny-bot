@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/798/195681798.jpg",
     "condition": "neznamy",
     "desc": "Základné informácie:\nPonúkame na predaj 2-izbový byt vo vyhľadávanej a tichej lokalite na ulici Bradáčova v mestskej časti Bratislava V - Petržalka o výmere 55m2. Byt sa nachádza na 5/12 poschodí v panelovom bytovom dome. Byt má vynikajúcu a vysoko praktickú dispozíciu. Všetky miestnosti majú samost",
-    "found_at": "2026-09-19T00:10:53.910007+00:00"
+    "found_at": "2026-09-19T00:10:53.910034+00:00"
   },
   {
     "id": "bazos:195681827",
@@ -23,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/827/195681827.jpg",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Marián Matušek, kontakt: 0911 107 429, nehnuteľnosť s ID: BA-73488:\nPonúkame na predaj priestranný 1-izbový byt s výmerou 35 m2 a balkónom o výmere 5 m2, situovaný na Vyšehradskej ulici v obľúbenej mestskej časti Bratislava – Petržalka (Lúky). \n  \n Byt sa nachádza ",
-    "found_at": "2026-09-19T00:10:53.910006+00:00"
+    "found_at": "2026-09-19T00:10:53.910033+00:00"
   },
   {
     "id": "nehnutelnosti:JuNVfCcX0y9",
@@ -102,6 +102,19 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Homolova\n\rObec: Bratislava-Dúbravka\n\r\n\r10. poschodie, množstvo denného svetla a výhľady, ktoré Vás neomrzia.\n\nExkluzívne Vám ponúkame na predaj priestranný 2-izbový byt na Homolovej ulici v Bratislave - Dúbravke, byt zaujme nielen svojou veľkorysou výmerou, ale aj krásnymi ",
     "found_at": "2026-09-18T11:04:29.632754+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JunY3ISTVwq",
+    "portal": "nehnutelnosti",
+    "title": "Priestranny 2 izbovy byt na osuskeho ulici v petrzalke",
+    "url": "https://www.nehnutelnosti.sk/detail/JunY3ISTVwq/priestranny-2-izbovy-byt-na-osuskeho-ulici-v-petrzalke",
+    "price": 229990,
+    "price_text": "229 990",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vE7daI2n1_fss?st=ndDUpAz4y7PIw_6Bz20JtnOkCZlbcVw88n65rMxhZx8&ts=1789403383&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² 229 990 € 4 202,27 €/m² Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² Na preda",
+    "found_at": "2026-09-17T18:08:34.106619+00:00"
   },
   {
     "id": "bazos:195613349",
@@ -232,19 +245,6 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
   },
   {
     "id": "bazos:194172381",
