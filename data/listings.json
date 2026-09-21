@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:195741629",
+    "portal": "bazos",
+    "title": "1- izbový byt na  ulici Kazanská",
+    "url": "https://reality.bazos.sk/inzerat/195741629/1-izbovy-byt-na-ulici-kazanska.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/629/195741629.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt v mestskej časti Podunajské Biskupice na Kazanskej ulici. Byt sa nachádza na 6. poschodí bytového domu z roku 2005 a jeho celková výmera je 35 m².\r\nByt je vhodný na vlastné bývanie aj ako investičná nehnuteľnosť. Aktuálne je prenajatý, pričom existuje možnosť kúpy aj ",
+    "found_at": "2026-09-21T06:10:31.426288+00:00"
+  },
+  {
     "id": "bazos:195736807",
     "portal": "bazos",
     "title": "Svetlý klimatizovaný 2-izbový byt v Bratislave Dúbravke",
@@ -26,30 +39,17 @@
     "found_at": "2026-09-20T15:57:43.641070+00:00"
   },
   {
-    "id": "bazos:195720283",
-    "portal": "bazos",
-    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
-    "url": "https://reality.bazos.sk/inzerat/195720283/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
-    "price": 140000,
-    "price_text": "140 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/283/195720283.jpg?t=1789897179",
+    "id": "nehnutelnosti:Ju35ZFdMajZ",
+    "portal": "nehnutelnosti",
+    "title": "Fiebs nadcasovy 2 izbovy byt s kompletnym zariadenim",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju35ZFdMajZ/fiebs-nadcasovy-2-izbovy-byt-s-kompletnym-zariadenim",
+    "price": 185000,
+    "price_text": "185 000",
+    "location": "Bratislava-Podunajské Biskupice",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/bmvyMgfcx_fss?st=HARxkxI_9BanCVKokLB7eXqAXL15o7O5n9BXc6E2vKE&ts=1789845219&e=0",
     "condition": "neznamy",
-    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
-    "found_at": "2026-09-20T11:13:53.038393+00:00"
-  },
-  {
-    "id": "bazos:195720546",
-    "portal": "bazos",
-    "title": "2izb, Lotyšská, 52m2, p.8/8, 3D prehliadka, okamžite k dispo",
-    "url": "https://reality.bazos.sk/inzerat/195720546/2izb-lotysska-52m2-p88-3d-prehliadka-okamzite-k-dispo.php",
-    "price": 181000,
-    "price_text": "181 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/546/195720546.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj na ul. Lotyšská, k.ú. Podunajské Biskupice 2izb. byt o celkovej výmere 52 m2 ( byt má cca 50,5m2, pivnica 1,5m2). Nachádza sa na 8.poschodí v 8 podlažnom panelovom bytovom dome s výťahom. Bytový dom bol odovzdaný do užívania v roku 1974, aktuálne je upravený, zateplený, nová strech",
-    "found_at": "2026-09-20T11:13:53.038391+00:00"
+    "desc": "PREMIUM FIEBS | Nadčasový 2 izbový byt s kompletným zariadením Hronská, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 36 m² 185 000 € 5 138,89 €/m² FIEBS | Nadčasový 2 izbový byt s kompletným zariadením Hronská, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 36",
+    "found_at": "2026-09-19T20:31:23.011975+00:00"
   },
   {
     "id": "bazos:195664066",
@@ -65,6 +65,19 @@
     "found_at": "2026-09-18T11:04:29.632754+00:00"
   },
   {
+    "id": "nehnutelnosti:JunY3ISTVwq",
+    "portal": "nehnutelnosti",
+    "title": "Priestranny 2 izbovy byt na osuskeho ulici v petrzalke",
+    "url": "https://www.nehnutelnosti.sk/detail/JunY3ISTVwq/priestranny-2-izbovy-byt-na-osuskeho-ulici-v-petrzalke",
+    "price": 229990,
+    "price_text": "229 990",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vE7daI2n1_fss?st=ndDUpAz4y7PIw_6Bz20JtnOkCZlbcVw88n65rMxhZx8&ts=1789403383&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² 229 990 € 4 202,27 €/m² Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² Na preda",
+    "found_at": "2026-09-17T18:08:34.106619+00:00"
+  },
+  {
     "id": "bazos:195613349",
     "portal": "bazos",
     "title": "HALO reality - Predaj, jednoizbový byt Bratislava Nové Mesto",
@@ -72,7 +85,7 @@
     "price": 184900,
     "price_text": "184 900 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/349/195613349.jpg?t=1789686230",
+    "image": "https://www.bazos.sk/img/1t/349/195613349.jpg?t=1789950850",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73860:\nPonúkame na predaj kompletne zariadený 1-izbový byt v projekte Koloseo na Tomášikovej ulici v mestskej časti Bratislava – Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE  \n - 1-izbový byt \n - úžitková ploc",
     "found_at": "2026-09-16T20:01:12.712357+00:00"
@@ -176,7 +189,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1789686232",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1789950825",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
