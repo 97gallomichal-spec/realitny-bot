@@ -1,5 +1,44 @@
 [
   {
+    "id": "bazos:195818593",
+    "portal": "bazos",
+    "title": "NA PREDAJ: Investičná príležitosť - garsónka na Bôriku, Svet",
+    "url": "https://reality.bazos.sk/inzerat/195818593/na-predaj-investicna-prilezitost-garsonka-na-boriku-svet.php",
+    "price": 182900,
+    "price_text": "182 900 €",
+    "location": "Bratislava 811 02",
+    "image": "https://www.bazos.sk/img/1t/593/195818593.jpg?t=1790141880",
+    "condition": "neznamy",
+    "desc": "Hľadáte investíciu, ktorá vďaka svojej adrese vždy bude TOPkou? Realitná kancelária REMAX Expert Vám teraz vo výhradnom zatúpení klienta presne takú ponúka. \n\nPri investičných nehnuteľnostiach existuje jednoduché pravidlo, ktoré sa nemení ani po rokoch: lokalitu nie je možné nahradiť.\n\nTáto garzónka",
+    "found_at": "2026-09-23T05:51:15.903490+00:00"
+  },
+  {
+    "id": "bazos:195819689",
+    "portal": "bazos",
+    "title": "Predaj veľkého 2 izb. bytu ( 78 m2) so samostatným vchodom v",
+    "url": "https://reality.bazos.sk/inzerat/195819689/predaj-velkeho-2-izb-bytu-78-m2-so-samostatnym-vchodom-v.php",
+    "price": 229000,
+    "price_text": "229 000 €",
+    "location": "Bratislava 831 07",
+    "image": "https://www.bazos.sk/img/1t/689/195819689.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária REMAX ponúka na predaj priestranný 2 izbový byt v rodinnom dome len s dvoma bytovými jednotkami a so samostatným vchodom nachádzajúci sa v tichej lokalite na Roľníckej ulici, m.č. Bratislava III - Vajnory.  Rodinný dom sa nachádza v spoločnom dvore so zástavbou rodinných domov. S",
+    "found_at": "2026-09-23T05:51:15.903485+00:00"
+  },
+  {
+    "id": "bazos:195819831",
+    "portal": "bazos",
+    "title": "Slnečný 2 izbový kompletne zariadený byt, parkovanie vo dvor",
+    "url": "https://reality.bazos.sk/inzerat/195819831/slnecny-2-izbovy-kompletne-zariadeny-byt-parkovanie-vo-dvor.php",
+    "price": 197000,
+    "price_text": "197 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/831/195819831.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária RE/MAX Expert vo výhradnom zastúpení klienta ponúka na predaj slnečný a kompletne zariadený 2 izb. byt s maximálne funkčným pôdorysom. Juho-východná orientácia zabezpečuje úžasnú svetelnosť bytu a parkovanie vo dvore oceníte každý deň. Stane sa tento byt Vašim novým domovom? Aleb",
+    "found_at": "2026-09-23T05:51:15.903482+00:00"
+  },
+  {
     "id": "bazos:195759088",
     "portal": "bazos",
     "title": "PEDAJ - 1-izbový byt BA II. - NIVY",
@@ -11,19 +50,6 @@
     "condition": "neznamy",
     "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný 1-izbový byt o výmere 46 m2 na prízemí tehlového bytového domu. Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa s jedálenským kútom, chodba, kúpeľňa so ",
     "found_at": "2026-09-22T21:59:37.836889+00:00"
-  },
-  {
-    "id": "bazos:195805714",
-    "portal": "bazos",
-    "title": "GRAVITAS | Na predaj 2-izbový byt s balkónom - A1",
-    "url": "https://reality.bazos.sk/inzerat/195805714/gravitas-na-predaj-2-izbovy-byt-s-balkonom-a1.php",
-    "price": 245000,
-    "price_text": "245 000 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/714/195805714.jpg",
-    "condition": "neznamy",
-    "desc": "Gravitas ponúka exkluzívne na predaj úplne nový 2-izbový byt v projekte Pekná cesta, ktorý sa nachádza v atraktívnej a vyhľadávanej bratislavskej mestskej časti Rača, Horská ulica. V projekte Pekná cesta si svoje vysnívané bývanie nájde naozaj každý – single ľudia aj mladé páry, ale aj rodiny s deťm",
-    "found_at": "2026-09-22T18:46:16.965443+00:00"
   },
   {
     "id": "bazos:195767957",
@@ -65,17 +91,17 @@
     "found_at": "2026-09-18T11:04:29.632754+00:00"
   },
   {
-    "id": "nehnutelnosti:JucfLsnR2rE",
+    "id": "nehnutelnosti:JunY3ISTVwq",
     "portal": "nehnutelnosti",
-    "title": "Velkometrazny 4 izbovy atelier v premiovom projekte v blizkosti downtownu 200 m2 mozny odpocet dph",
-    "url": "https://www.nehnutelnosti.sk/detail/JucfLsnR2rE/velkometrazny-4-izbovy-atelier-v-premiovom-projekte-v-blizkosti-downtownu-200-m2-mozny-odpocet-dph",
-    "price": 215000,
-    "price_text": "215 000",
-    "location": "Bratislava Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/q1-74wUL5_fss?st=4V4izlzE8GlhBfdNbl7zSBCaZ9HqSq71aYX7GvNkfB0&ts=1779408449&e=0",
+    "title": "Priestranny 2 izbovy byt na osuskeho ulici v petrzalke",
+    "url": "https://www.nehnutelnosti.sk/detail/JunY3ISTVwq/priestranny-2-izbovy-byt-na-osuskeho-ulici-v-petrzalke",
+    "price": 224990,
+    "price_text": "224 990",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/vE7daI2n1_fss?st=ndDUpAz4y7PIw_6Bz20JtnOkCZlbcVw88n65rMxhZx8&ts=1789403383&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I Garsónka 35 m² 215 000 € 6 142,86 €/m² HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská,",
-    "found_at": "2026-09-16T22:51:57.828587+00:00"
+    "desc": "PREMIUM Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² 224 990 € 4 110,91 €/m² Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² Na preda",
+    "found_at": "2026-09-17T18:08:34.106619+00:00"
   },
   {
     "id": "bazos:195613349",
@@ -89,19 +115,6 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73860:\nPonúkame na predaj kompletne zariadený 1-izbový byt v projekte Koloseo na Tomášikovej ulici v mestskej časti Bratislava – Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE  \n - 1-izbový byt \n - úžitková ploc",
     "found_at": "2026-09-16T20:01:12.712357+00:00"
-  },
-  {
-    "id": "bazos:195577483",
-    "portal": "bazos",
-    "title": "Predaj 2-izbový byt - Ružinov",
-    "url": "https://reality.bazos.sk/inzerat/195577483/predaj-2-izbovy-byt-ruzinov.php",
-    "price": 220000,
-    "price_text": "220 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/obrazky/empty.gif",
-    "condition": "neznamy",
-    "desc": "Predaj 2-izbového bytu v top lokalite Ružinov. Rozloha bytu 45,22m2. Poschodie 6\\6 s výťahom. Byt prešiel čiastočnou rekonštrukciou. Lokalita sa vyznačuje vynikajúcou občianskou vybavenosťou a bezproblémovým parkovaním. Poprosím RK URČITE NEVOLAŤ. Ďakujem. Foto pošlem v prípade vážneho záujmu. Byt d",
-    "found_at": "2026-09-15T18:06:55.927131+00:00"
   },
   {
     "id": "bazos:195541707",
@@ -169,19 +182,6 @@
     "found_at": "2026-08-10T08:46:41.514106+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
     "id": "nehnutelnosti:Juk62kqVnFU",
     "portal": "nehnutelnosti",
     "title": "Predaj 2 izbovy byt 38 m2 bakosova ulica bratislava lamac",
@@ -193,32 +193,6 @@
     "condition": "neznamy",
     "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
     "found_at": "2026-07-18T15:06:01.240366+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju096qKN3uW",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
-    "price": 215000,
-    "price_text": "215 000",
-    "location": "Bratislava Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/q1-74wUL5_fss?st=4V4izlzE8GlhBfdNbl7zSBCaZ9HqSq71aYX7GvNkfB0&ts=1779408449&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I Garsónka 35 m² 215 000 € 6 142,86 €/m² HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská,",
-    "found_at": "2026-07-08T22:14:32.765627+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 215000,
-    "price_text": "215 000",
-    "location": "Bratislava Staré Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/q1-74wUL5_fss?st=4V4izlzE8GlhBfdNbl7zSBCaZ9HqSq71aYX7GvNkfB0&ts=1779408449&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I Garsónka 35 m² 215 000 € 6 142,86 €/m² HALO reality - Predaj, garsónka Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská,",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
   },
   {
     "id": "nehnutelnosti:JuTsWhh1aHN",
