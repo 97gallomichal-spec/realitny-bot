@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:Juk01GWGD6K",
+    "portal": "nehnutelnosti",
+    "title": "Prijemny 2 izbovy byt s vyhladom na zelen v zateplenom dome v srdci lamaca",
+    "url": "https://www.nehnutelnosti.sk/detail/Juk01GWGD6K/prijemny-2-izbovy-byt-s-vyhladom-na-zelen-v-zateplenom-dome-v-srdci-lamaca",
+    "price": 179000,
+    "price_text": "179 000",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XaAxj5S9E_fss?st=2SOCFedehmsa3lsBU5W8vAY9sWkJ36I14Tf8_yvEQdg&ts=1790318897&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Príjemný 2 izbový byt s výhľadom na zeleň v zateplenom dome v srdci Lamača Studenohorská, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 43 m² 179 000 € 4 162,79 €/m² Príjemný 2 izbový byt s výhľadom na zeleň v zateplenom dome v srdci Lamača Studenohorská, Bratislava-Lamač, okres Bratisl",
+    "found_at": "2026-09-25T07:39:45.982765+00:00"
+  },
+  {
+    "id": "bazos:195883483",
+    "portal": "bazos",
+    "title": "EXKLUZÍVNE 2-izb. apartmán vo vyhľadávanej lokalite Mlyn",
+    "url": "https://reality.bazos.sk/inzerat/195883483/exkluzivne-2-izb-apartman-vo-vyhladavanej-lokalite-mlyn.php",
+    "price": 179900,
+    "price_text": "179 900 €",
+    "location": "Bratislava 821 09",
+    "image": "https://www.bazos.sk/img/1t/483/195883483.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
+    "found_at": "2026-09-25T07:39:45.982757+00:00"
+  },
+  {
+    "id": "bazos:195885270",
+    "portal": "bazos",
+    "title": "1,5-IZB BYT S BALKÓNOM V OBĽÚBENEJ LOKALITE BRATISLAVA–RUŽIN",
+    "url": "https://reality.bazos.sk/inzerat/195885270/15-izb-byt-s-balkonom-v-oblubenej-lokalite-bratislavaruzin.php",
+    "price": 219900,
+    "price_text": "219 900 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/270/195885270.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 1-izbový byt\n\rMestská časť: Ostredky\n\rObec: Bratislava-Ružinov\n\r\n\rCASMAR RK ponúka na predaj 1,5-izbový byt s balkónom v obľúbenej lokalite Bratislava – Ružinov, na Mesačnej ulici. Byt sa nachádza na 3. poschodí zo 7 v zateplenom bytovom dome s novým výťahom.\n\nByt disponuje výmerou 43 m² + balk",
+    "found_at": "2026-09-25T07:39:45.982755+00:00"
+  },
+  {
+    "id": "bazos:195885802",
+    "portal": "bazos",
+    "title": "1,5-IZB BYT S BALKÓNOM V OBĽÚBENEJ LOKALITE BRATISLAVA – RUŽ",
+    "url": "https://reality.bazos.sk/inzerat/195885802/15-izb-byt-s-balkonom-v-oblubenej-lokalite-bratislava-ruz.php",
+    "price": 219900,
+    "price_text": "219 900 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/802/195885802.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rMestská časť: Ostredky\n\rObec: Bratislava-Ružinov\n\r\n\rCASMAR RK ponúka na predaj 1,5-izbový byt s balkónom v obľúbenej lokalite Bratislava – Ružinov, na Mesačnej ulici. Byt sa nachádza na 3. poschodí zo 7 v zateplenom bytovom dome s novým výťahom.\n\nByt disponuje výmerou 43 m² + balk",
+    "found_at": "2026-09-25T07:39:45.982753+00:00"
+  },
+  {
     "id": "bazos:195878524",
     "portal": "bazos",
     "title": "Predaj 2 izb. byt na Záhradníckej ul. Bratislava Staré Mesto",
@@ -63,19 +115,6 @@
     "condition": "neznamy",
     "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný 1-izbový byt o výmere 46 m2 na prízemí tehlového bytového domu. Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa s jedálenským kútom, chodba, kúpeľňa so ",
     "found_at": "2026-09-22T21:59:37.836889+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuunvVpnkcS",
-    "portal": "nehnutelnosti",
-    "title": "Halo reality predaj garsonka bratislava nove mesto prikopova exkluzivne halo reality",
-    "url": "https://www.nehnutelnosti.sk/detail/JuunvVpnkcS/halo-reality-predaj-garsonka-bratislava-nove-mesto-prikopova-exkluzivne-halo-reality",
-    "price": 165000,
-    "price_text": "165 000",
-    "location": "Bratislava Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wKwnBrTzy_fss?st=WPH3wdG3Qqc07Lh1Wml7OOBgMlqHrmJDPirjtzsROas&ts=1789078935&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, garsónka Bratislava Nové Mesto, Príkopova - EXKLUZÍVNE HALO REALITY Príkopova, Bratislava-Nové Mesto, okres Bratislava III Garsónka 33 m² 165 000 € 5 000 €/m² HALO reality - Predaj, garsónka Bratislava Nové Mesto, Príkopova - EXKLUZÍVNE HALO REALITY Príkopova, Bratisla",
-    "found_at": "2026-09-21T19:18:02.645849+00:00"
   },
   {
     "id": "bazos:195767957",
@@ -154,31 +193,5 @@
     "condition": "povodny",
     "desc": "Vymením (možný predaj) 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a kom",
     "found_at": "2026-08-10T08:46:41.514106+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Juk62kqVnFU",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/Juk62kqVnFU/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 187000,
-    "price_text": "187 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-07-18T15:06:01.240366+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTsWhh1aHN",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 1 izbovy byt 38 m2 bakosova ulica bratislava lamac",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTsWhh1aHN/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac",
-    "price": 187000,
-    "price_text": "187 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/desoHoD1n_fss?st=AZ7XX-maooeybKeIwUNCYXwS_srNKq0KDBhpvdGxDZA&ts=1782384954&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 1 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
-    "found_at": "2026-06-30T21:24:22.153040+00:00"
   }
 ]
