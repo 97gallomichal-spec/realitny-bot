@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:JuwGdaC96FG",
+    "portal": "nehnutelnosti",
+    "title": "2 izb byt klimatizovany zariadeny kupou volny",
+    "url": "https://www.nehnutelnosti.sk/detail/JuwGdaC96FG/2-izb-byt-klimatizovany-zariadeny-kupou-volny",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Mr5RH3Rf1_fss?st=H1pYQktEVGOm29Zl7NsdhlBodGMO2sMgZGx26-FBL6c&ts=1790426391&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2 izb byt , klimatizovaný, zariadený, kúpou voľný Vietnamská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 66.43 m² 250 000 € 3 763,36 €/m² 2 izb byt , klimatizovaný, zariadený, kúpou voľný Vietnamská, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 66.43 m² S poverením majiteľa",
+    "found_at": "2026-09-26T17:04:33.092324+00:00"
+  },
+  {
+    "id": "bazos:195927592",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Dúbravka,",
+    "url": "https://reality.bazos.sk/inzerat/195927592/halo-reality-predaj-jednoizbovy-byt-bratislava-dubravka.php",
+    "price": 148000,
+    "price_text": "148 000 €",
+    "location": "Bratislava 841 01",
+    "image": "https://www.bazos.sk/img/1t/592/195927592.jpg?t=1790439620",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Jana Nejedlíková, kontakt: 0948 490 041, nehnuteľnosť s ID: BA-74022:\nPonúkame na predaj jednoizbový byt so samostatnou kuchyňou a s lodžiou v obľúbenej lokalite v Bratislave, Dúbravka, časť Záluhy. Pôvodná úžitková plocha bytu 30,96 m2 vrátane pivničnej kobky",
+    "found_at": "2026-09-26T17:04:33.092311+00:00"
+  },
+  {
+    "id": "bazos:195930292",
+    "portal": "bazos",
+    "title": "VÝBORNÁ LOKALITA 2-izb. byt s DVOMI LOGGIAMI na Martinčekov",
+    "url": "https://reality.bazos.sk/inzerat/195930292/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/292/195930292.jpg",
+    "condition": "neznamy",
+    "desc": "VÝBORNÁ LOKALITA! 2-izb. byt s DVOMI LOGGIAMI na Martinčekovej ul. v Ružinove - Nivy. \nByt v osobnom vlastníctve, byt o rozlohe 42,71m2 + 6,80m2 dve veľké loggie, umiestnený na 4. poschodí v 7-poschodovom zateplenom dome s novým výťahom. \nByt má dve veľké zasklené loggie cez celý byt a prináleží k n",
+    "found_at": "2026-09-26T17:04:33.092309+00:00"
+  },
+  {
     "id": "bazos:195918304",
     "portal": "bazos",
     "title": "2- izbový byt na Rovníkovej ulici",
@@ -10,20 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/304/195918304.jpg?t=1790416951",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt v obľúbenej lokalite Ostredky. Byt sa nachádza na 6. poschodí zo 6 a disponuje loggiou a praktickým kumbálom. Rekonštrukcia bytu prebehla v roku 2006, v rámci ktorej boli osadené plastové okná, položené plávajúce podlahy a vykonané ďalšie úpravy. Súčasťou vybavenia sú",
-    "found_at": "2026-09-26T12:59:26.420409+00:00"
-  },
-  {
-    "id": "bazos:195924207",
-    "portal": "bazos",
-    "title": "VÝBORNÁ LOKALITA 2-izb. byt s DVOMI LOGGIAMI na Martinčekov",
-    "url": "https://reality.bazos.sk/inzerat/195924207/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/207/195924207.jpg",
-    "condition": "neznamy",
-    "desc": "VÝBORNÁ LOKALITA! 2-izb. byt s DVOMI LOGGIAMI na Martinčekovej ul. v Ružinove - Nivy. \nByt v osobnom vlastníctve, byt o rozlohe 42,71m2 + 6,80m2 dve veľké loggie, umiestnený na 4. poschodí v 7-poschodovom zateplenom dome s novým výťahom. \nByt má dve veľké zasklené loggie cez celý byt a prináleží k n",
-    "found_at": "2026-09-26T12:59:26.420407+00:00"
+    "found_at": "2026-09-26T12:59:26.420430+00:00"
   },
   {
     "id": "bazos:195925490",
@@ -33,10 +59,10 @@
     "price": 184900,
     "price_text": "184 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/490/195925490.jpg",
+    "image": "https://www.bazos.sk/img/1t/490/195925490.jpg?t=1790431623",
     "condition": "neznamy",
     "desc": "Hľadáte byt, pri ktorom nemusíte riešiť rekonštrukciu, dokupovanie nábytku ani ďalšie väčšie investície? Na Veternicovej ulici v obľúbenej časti Bratislavy – Dlhé Diely ponúkame na predaj prakticky riešený 1-izbový byt, ktorý sa predáva kompletne zariadený a je pripravený na okamžité bývanie alebo p",
-    "found_at": "2026-09-26T12:59:26.420404+00:00"
+    "found_at": "2026-09-26T12:59:26.420426+00:00"
   },
   {
     "id": "bazos:195925502",
@@ -46,10 +72,10 @@
     "price": 247000,
     "price_text": "247 000 €",
     "location": "Bratislava 841 01",
-    "image": "https://www.bazos.sk/img/1t/502/195925502.jpg",
+    "image": "https://www.bazos.sk/img/1t/502/195925502.jpg?t=1790431632",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s krásnym výhľadom, nachádzajúci sa na Galbavého ulici v obľúbenej a vyhľadávanej lokalite Bratislava – Dúbravka.\r\nByt má výmeru 55 m² a k bytu prislúcha aj pivnica v suteréne. Nachádza sa na 9. poschodí z 12 v bytovom dome s tromi výťahmi. Je orientovaný na juhozápad",
-    "found_at": "2026-09-26T12:59:26.420402+00:00"
+    "found_at": "2026-09-26T12:59:26.420424+00:00"
   },
   {
     "id": "bazos:195913973",
@@ -63,19 +89,6 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária The Home ponúka exkluzívne na predaj priestranný a tichý 2-izbový byt na Uhrovej ulici na Kramároch. \r\nByt sa nachádza na 2. poschodí z 5, má podlahovú plochu 56 m² a prislúcha k nemu loggia s výmerou cca 5 m² s príjemným výhľadom do zelene.\r\n\r\nDispozícia pozostáva zo vstupnej ch",
     "found_at": "2026-09-26T07:32:17.037313+00:00"
-  },
-  {
-    "id": "bazos:195902892",
-    "portal": "bazos",
-    "title": "RADO | 2 IZBOVY BYT 50m2 ZARIADENY | BRATISLAVA - RAČA",
-    "url": "https://reality.bazos.sk/inzerat/195902892/rado-2-izbovy-byt-50m2-zariadeny-bratislava-raca.php",
-    "price": 225000,
-    "price_text": "225 000 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/892/195902892.jpg?t=1790406883",
-    "condition": "neznamy",
-    "desc": "RADO Reality Vám ponúka: Na predaj príjemný 2 izbový byt s nadštandardnou výmerou, výbornou dispozíciou a kompletnou vybavenosťou – ul. Hečkova 6, BA - Rača.\r\n\r\nHľadáte štartovacie bývanie alebo skvelú investičnú príležitosť v jednej z najobľúbenejších a najzelenších častí Bratislavy?\r\n\r\nExkluzívne ",
-    "found_at": "2026-09-25T18:29:58.034213+00:00"
   },
   {
     "id": "bazos:195904678",
