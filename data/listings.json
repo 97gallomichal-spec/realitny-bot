@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:JuN1d8cdzLI",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj garsonka v oblubenej lokalite bratislava ruzinov ulica a mraza",
+    "url": "https://www.nehnutelnosti.sk/detail/JuN1d8cdzLI/na-predaj-garsonka-v-oblubenej-lokalite-bratislava-ruzinov-ulica-a-mraza",
+    "price": 142900,
+    "price_text": "142 900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/e5SmTwF6v_fss?st=Qp6SvsZjj4doVAbbf_QUtvAFPxc_Qk3kOjxPgiNpQ8g&ts=1790240514&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza Andreja Mráza, Bratislava-Ružinov, okres Bratislava II Garsónka 19.72 m² 142 900 € 7 246,45 €/m² Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza Andreja Mráza, Bratislava-Ružinov, okres",
+    "found_at": "2026-09-28T06:41:17.638575+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuZ8o55j4v1",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt na rekonstrukciu jana smreka dnv",
+    "url": "https://www.nehnutelnosti.sk/detail/JuZ8o55j4v1/2-izbovy-byt-na-rekonstrukciu-jana-smreka-dnv",
+    "price": 170000,
+    "price_text": "170 000",
+    "location": "Bratislava-Devínska Nová Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/a14lkCQ1H_fss?st=QDcDzBeTHWEuutRVdh29ZOBxBy0BREsAXXx7EHFxqLY&ts=1785848970&e=0",
+    "condition": "povodny",
+    "desc": "PREMIUM 2 izbový byt na rekonštrukciu - Jána Smreka DNV Jána Smreka, Bratislava-Devínska Nová Ves, okres Bratislava IV 2 izbový byt 48 m² 170 000 € 3 541,67 €/m² 2 izbový byt na rekonštrukciu - Jána Smreka DNV Jána Smreka, Bratislava-Devínska Nová Ves, okres Bratislava IV 2 izbový byt 48 m² Ponúkame",
+    "found_at": "2026-09-28T06:41:17.638573+00:00"
+  },
+  {
+    "id": "bazos:195974133",
+    "portal": "bazos",
+    "title": "VÝBORNÁ LOKALITA 2-izb. byt s DVOMI LOGGIAMI na Martinčekov",
+    "url": "https://reality.bazos.sk/inzerat/195974133/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/133/195974133.jpg",
+    "condition": "neznamy",
+    "desc": "VÝBORNÁ LOKALITA! 2-izb. byt s DVOMI LOGGIAMI na Martinčekovej ul. v Ružinove - Nivy. \nByt v osobnom vlastníctve, byt o rozlohe 42,71m2 + 6,80m2 dve veľké loggie, umiestnený na 4. poschodí v 7-poschodovom zateplenom dome s novým výťahom. \nByt má dve veľké zasklené loggie cez celý byt a prináleží k n",
+    "found_at": "2026-09-28T06:41:17.638559+00:00"
+  },
+  {
+    "id": "bazos:195974150",
+    "portal": "bazos",
+    "title": "PREDAJ - Garsónka s loggiou na  ulici Jána Jonáša",
+    "url": "https://reality.bazos.sk/inzerat/195974150/predaj-garsonka-s-loggiou-na-ulici-jana-jonasa.php",
+    "price": 139000,
+    "price_text": "139 000 €",
+    "location": "Bratislava 841 08",
+    "image": "https://www.bazos.sk/img/1t/150/195974150.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj garsónku na ulici Jana Jonáša v Bratislave – Devínskej Novej Vsi, ktorý sa nachádza na 7. poschodí bytového domu. Byt ponúka krásny výhľad na okolitú prírodu a veľkou výhodou je zasklená a zateplená lodžia s výmerou 5 m², ktorú je možné vďaka jej prevedeniu využívať počas celého r",
+    "found_at": "2026-09-28T06:41:17.638558+00:00"
+  },
+  {
     "id": "bazos:195968209",
     "portal": "bazos",
     "title": "2 izbový byt na predaj.",
@@ -10,20 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/209/195968209.jpg",
     "condition": "neznamy",
     "desc": "Na predaj 2-izbový byt – Podunajské Biskupice\n\nPonúkame na predaj prakticky riešený 2-izbový byt nachádzajúci sa v mestskej časti Podunajské Biskupice. Byt je situovaný na 1. poschodí bytového domu a má celkovú výmeru 43,6 m².\n\n3D obhliadku si môžete pozrieť tu: https://my.matterport.com/show/?m=Xmv",
-    "found_at": "2026-09-28T00:34:18.677073+00:00"
-  },
-  {
-    "id": "bazos:195968240",
-    "portal": "bazos",
-    "title": "VÝBORNÁ LOKALITA 2-izb. byt s DVOMI LOGGIAMI na Martinčekov",
-    "url": "https://reality.bazos.sk/inzerat/195968240/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/240/195968240.jpg",
-    "condition": "neznamy",
-    "desc": "VÝBORNÁ LOKALITA! 2-izb. byt s DVOMI LOGGIAMI na Martinčekovej ul. v Ružinove - Nivy. \nByt v osobnom vlastníctve, byt o rozlohe 42,71m2 + 6,80m2 dve veľké loggie, umiestnený na 4. poschodí v 7-poschodovom zateplenom dome s novým výťahom. \nByt má dve veľké zasklené loggie cez celý byt a prináleží k n",
-    "found_at": "2026-09-28T00:34:18.677071+00:00"
+    "found_at": "2026-09-28T00:34:18.677105+00:00"
   },
   {
     "id": "bazos:195959438",
@@ -78,58 +117,6 @@
     "found_at": "2026-09-27T18:17:00.384296+00:00"
   },
   {
-    "id": "bazos:195945097",
-    "portal": "bazos",
-    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
-    "url": "https://reality.bazos.sk/inzerat/195945097/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
-    "price": 140000,
-    "price_text": "140 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/097/195945097.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
-    "found_at": "2026-09-27T13:51:32.531946+00:00"
-  },
-  {
-    "id": "bazos:195945393",
-    "portal": "bazos",
-    "title": "2izb, Lotyšská, 52m2, p.8/8, 3D prehliadka, okamžite k dispo",
-    "url": "https://reality.bazos.sk/inzerat/195945393/2izb-lotysska-52m2-p88-3d-prehliadka-okamzite-k-dispo.php",
-    "price": 181000,
-    "price_text": "181 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/393/195945393.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj na ul. Lotyšská, k.ú. Podunajské Biskupice 2izb. byt o celkovej výmere 52 m2 ( byt má cca 50,5m2, pivnica 1,5m2). Nachádza sa na 8.poschodí v 8 podlažnom panelovom bytovom dome s výťahom. Bytový dom bol odovzdaný do užívania v roku 1974, aktuálne je upravený, zateplený, nová strech",
-    "found_at": "2026-09-27T13:51:32.531944+00:00"
-  },
-  {
-    "id": "bazos:195947761",
-    "portal": "bazos",
-    "title": "Pekný 1,5i štartovací byt v TOP lokalite Dúbravky",
-    "url": "https://reality.bazos.sk/inzerat/195947761/pekny-15i-startovaci-byt-v-top-lokalite-dubravky.php",
-    "price": 199990,
-    "price_text": "199 990 €",
-    "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/761/195947761.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Talichova\n\rObec: Bratislava-Dúbravka\n\r\n\rIBA U NÁS! Ponúkame na predaj pekný 1,5i byt na Talichovej ulici v Dúbravke. Byt má výmeru 35,5 m2 + loggia 4,3 m2 a nachádza sa na 2. poschodí v 3.podlažnom bytovom dome. Orientovaný je na východ. K bytu prislúcha pivničná  ...",
-    "found_at": "2026-09-27T13:51:32.531942+00:00"
-  },
-  {
-    "id": "bazos:195952837",
-    "portal": "bazos",
-    "title": "Priestranný 2-izbový byt na Osuského ulici v Petržalke",
-    "url": "https://reality.bazos.sk/inzerat/195952837/priestranny-2-izbovy-byt-na-osuskeho-ulici-v-petrzalke.php",
-    "price": 224990,
-    "price_text": "224 990 €",
-    "location": "Bratislava 850 00",
-    "image": "https://www.bazos.sk/img/1t/837/195952837.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 2-izbový byt\n\rUlica: Osuského 7\n\rObec: Bratislava-Petržalka\n\r\n\rNa predaj priestranný 2-izbový byt na Osuského ulici v Petržalke\n\nUPgreat Vám ponúka na predaj priestranný 2-izbový byt na Osuského ulici v obľúbenej a výborne dostupnej časti bratislavskej Petržalky.\n\nByt má podlahovú plochu 52,91 ",
-    "found_at": "2026-09-27T13:51:32.531940+00:00"
-  },
-  {
     "id": "bazos:195913973",
     "portal": "bazos",
     "title": "THE HOME | PREDAJ 2-izbový byt s loggiou a výhľadom na zeleň",
@@ -154,6 +141,19 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Lotyšská\n\rMestská časť: Medzi jarkami\n\rObec: Bratislava-Podunajské Biskupice\n\r\n\rPonúkame na predaj 2-izbový udržiavaný byt s plastovými oknami, plávajúcou podlahou a novšou maľovkou. Bytové jadro, kuchyňa a vnútrobytové rozvody sú prevažne pôvodné. Byt je obývateľný aj v sú",
     "found_at": "2026-09-24T14:55:46.038424+00:00"
+  },
+  {
+    "id": "bazos:195860629",
+    "portal": "bazos",
+    "title": "Tichý 2-izbový byt v zeleni – Ota Holúska, Záhorská Bystrica",
+    "url": "https://reality.bazos.sk/inzerat/195860629/tichy-2-izbovy-byt-v-zeleni-ota-holuska-zahorska-bystrica.php",
+    "price": 228000,
+    "price_text": "228 000 €",
+    "location": "Bratislava 841 06",
+    "image": "https://www.bazos.sk/img/1t/629/195860629.jpg?t=1790576581",
+    "condition": "neznamy",
+    "desc": "Tichý byt v bytovom dome s uzavretým areálom plným zelene, do ktorého stačí priniesť kufre. Miesto, kde si po náročnom dni naozaj vydýchnete.\r\n\r\nZákladné údaje\r\n• Lokalita: Bratislava – Záhorská Bystrica, ul. Ota Holúska\r\n• Poschodie: 2/3\r\n• Dispozícia: 2 izby + kuchyňa + kúpeľňa + WC + predsieň (53",
+    "found_at": "2026-09-24T09:54:04.923854+00:00"
   },
   {
     "id": "bazos:195759088",
@@ -208,6 +208,19 @@
     "found_at": "2026-09-18T11:04:29.632754+00:00"
   },
   {
+    "id": "nehnutelnosti:JuJGgB39mPU",
+    "portal": "nehnutelnosti",
+    "title": "Priestranny 1 izbovy byt 423 m2 pri parku ostredky moznost upravy na 15 izbovy",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJGgB39mPU/priestranny-1-izbovy-byt-423-m2-pri-parku-ostredky-moznost-upravy-na-15-izbovy",
+    "price": 187000,
+    "price_text": "187 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RsnImJTXUr_fss?st=q75SBFid2_A_CKP6tXsAp8J2yLROyW4tSvKQiSovg3Q&ts=1789476171&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranný 1-izbový byt 42,3 m² pri Parku Ostredky, možnosť úpravy na 1,5-izbový Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 187 000 € 4 452,38 €/m² Priestranný 1-izbový byt 42,3 m² pri Parku Ostredky, možnosť úpravy na 1,5-izbový Bratislava-Ružinov, okres Bratislava II 1 izb",
+    "found_at": "2026-09-15T13:26:51.108505+00:00"
+  },
+  {
     "id": "bazos:195541707",
     "portal": "bazos",
     "title": "PREDAJ 2 IZBOVÝ MEZONET S PARKOVANÍM BRATISLAVA",
@@ -245,19 +258,6 @@
     "condition": "povodny",
     "desc": "Vymením (možný predaj) 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a kom",
     "found_at": "2026-08-10T08:46:41.514106+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/54ULB-Q889_fss?st=yBG91gEmf3-bEll9VbNKGmnmYpAZpdQslVLocMpANMs&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj 1,5 kk apartmán v projekte AGÁTY v Dúbravke s bazénom a bezbariérovým riešením",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
   },
   {
     "id": "nehnutelnosti:Juk62kqVnFU",
