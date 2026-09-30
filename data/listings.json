@@ -1,16 +1,55 @@
 [
   {
-    "id": "bazos:196033933",
+    "id": "nehnutelnosti:JuGu3lTfDYu",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj krasny 2 izbovy byt s balkonom bratislava iii nove mesto racianska ulica",
+    "url": "https://www.nehnutelnosti.sk/detail/JuGu3lTfDYu/na-predaj-krasny-2-izbovy-byt-s-balkonom-bratislava-iii-nove-mesto-racianska-ulica",
+    "price": 229000,
+    "price_text": "229 000",
+    "location": "Bratislava III",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/8PXk3PHmT_fss?st=YKp4YtuFbXqPhMJEGnkjRDI--dn2RK0Kid1C56XtWwQ&ts=1790715509&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj: krásny 2-izbový byt s balkónom, Bratislava III – Nové Mesto, Račianska ulica Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 53 m² 229 000 € 4 320,75 €/m² Na predaj: krásny 2-izbový byt s balkónom, Bratislava III – Nové Mesto, Račianska ulica Bratislava-Nové Mesto, okres",
+    "found_at": "2026-09-30T00:19:09.309610+00:00"
+  },
+  {
+    "id": "bazos:196034373",
+    "portal": "bazos",
+    "title": "🔥 ZNÍŽENÁ CENA - Svetlý 1,5-izbový byt s 2 loggiami a murova",
+    "url": "https://reality.bazos.sk/inzerat/196034373/znizena-cena-svetly-15-izbovy-byt-s-2-loggiami-a-murova.php",
+    "price": 209900,
+    "price_text": "209 900 €",
+    "location": "Bratislava 830 00",
+    "image": "https://www.bazos.sk/img/1t/373/196034373.jpg?t=1790714850",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Riazanská\n\rObec: Bratislava-Nové Mesto\n\r\n\rByt sa nachádza na 1. poschodí zo 6-poschodového bytového domu s výťahom. Veľkým benefitom bytu sú dve loggie, murovaná pivnica a praktická dispozícia s oddelenou spacou časťou.\n\nLokalita patrí medzi najobľúbenejšie v Novom Meste a ",
+    "found_at": "2026-09-30T00:19:09.309605+00:00"
+  },
+  {
+    "id": "bazos:196034393",
+    "portal": "bazos",
+    "title": "PREDAJ: Útulná garzónka v Slávičom údolí – tiché bývanie v z",
+    "url": "https://reality.bazos.sk/inzerat/196034393/predaj-utulna-garzonka-v-slavicom-udoli-tiche-byvanie-v-z.php",
+    "price": 166900,
+    "price_text": "166 900 €",
+    "location": "Bratislava 811 09",
+    "image": "https://www.bazos.sk/img/1t/393/196034393.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: Garsónka\n\rUlica: Slávičie údolie\n\rObec: Bratislava-Staré Mesto\n\r\n\rAk hľadáte malé, praktické a pokojné bývanie v jednej z najkrajších lokalít Starého Mesta, táto garzónka v Slávičom údolí vás príjemne prekvapí. Je to byt, ktorý pôsobí útulne, svetlo a ponúka presne to, čo človek v meste potrebu",
+    "found_at": "2026-09-30T00:19:09.309603+00:00"
+  },
+  {
+    "id": "bazos:196035534",
     "portal": "bazos",
     "title": "VÝBORNÁ LOKALITA 2-izb. byt s DVOMI LOGGIAMI na Martinčekov",
-    "url": "https://reality.bazos.sk/inzerat/196033933/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
+    "url": "https://reality.bazos.sk/inzerat/196035534/vyborna-lokalita-2-izb-byt-s-dvomi-loggiami-na-martincekov.php",
     "price": 195000,
     "price_text": "195 000 €",
     "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/933/196033933.jpg",
+    "image": "https://www.bazos.sk/img/1t/534/196035534.jpg",
     "condition": "neznamy",
     "desc": "VÝBORNÁ LOKALITA! 2-izb. byt s DVOMI LOGGIAMI na Martinčekovej ul. v Ružinove - Nivy. \nByt v osobnom vlastníctve, byt o rozlohe 42,71m2 + 6,80m2 dve veľké loggie, umiestnený na 4. poschodí v 7-poschodovom zateplenom dome s novým výťahom. \nByt má dve veľké zasklené loggie cez celý byt a prináleží k n",
-    "found_at": "2026-09-29T20:40:27.133235+00:00"
+    "found_at": "2026-09-30T00:19:09.309601+00:00"
   },
   {
     "id": "bazos:196034134",
@@ -23,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/134/196034134.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj veľký 2 izbový byt po novej čiastočnej rekonštrukcii v tehlovom dome na Miletičovej ulici v Ružinove – časť Nivy, BA II.\r\n\r\n__________________________\r\n\r\nZÁKLADNÉ INFORMÁCIE:\r\n•\t2 izbový byt\r\n•\tO rozlohe 63,26 m2 vrátane murovanej pivnice\r\n•\tPoschodie 2/5 – bez výťahu a bez balkón",
-    "found_at": "2026-09-29T20:40:27.133234+00:00"
+    "found_at": "2026-09-29T20:40:27.133253+00:00"
   },
   {
     "id": "bazos:196019529",
@@ -221,19 +260,6 @@
     "found_at": "2026-09-24T09:54:04.923854+00:00"
   },
   {
-    "id": "bazos:195759088",
-    "portal": "bazos",
-    "title": "PEDAJ - 1-izbový byt BA II. - NIVY",
-    "url": "https://reality.bazos.sk/inzerat/195759088/pedaj-1-izbovy-byt-ba-ii-nivy.php",
-    "price": 206000,
-    "price_text": "206 000 €",
-    "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/088/195759088.jpg?t=1790104979",
-    "condition": "neznamy",
-    "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici príjemný 1-izbový byt o výmere 46 m2 na prízemí tehlového bytového domu. Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa s jedálenským kútom, chodba, kúpeľňa so ",
-    "found_at": "2026-09-22T21:59:37.836889+00:00"
-  },
-  {
     "id": "bazos:195763575",
     "portal": "bazos",
     "title": "Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul.",
@@ -332,7 +358,7 @@
     "price": 205000,
     "price_text": "205 000 €",
     "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/859/194447859.jpg?t=1789827769",
+    "image": "https://www.bazos.sk/img/1t/859/194447859.jpg?t=1790718639",
     "condition": "povodny",
     "desc": "Vymením (možný predaj) 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a kom",
     "found_at": "2026-08-10T08:46:41.514106+00:00"
@@ -375,6 +401,19 @@
     "condition": "neznamy",
     "desc": "PREMIUM Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 38 m² 187 000 € 4 921,05 €/m² Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač Bratislava-Lamač / Bakošova, Bratislava-Lamač, okres Bra",
     "found_at": "2026-07-18T15:06:01.240366+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuiiSWIRxRj",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 1 izboveho bytu s potencialom na 2 izbovy svidnicka bratislava ruzinov",
+    "url": "https://www.nehnutelnosti.sk/detail/JuiiSWIRxRj/predaj-1-izboveho-bytu-s-potencialom-na-2-izbovy-svidnicka-bratislava-ruzinov",
+    "price": 210000,
+    "price_text": "210 000",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6bGrKwF8W_fss?st=rJF8QTNVdiHgKAW7NWYE4H5CR8t_eTxh53OdAmG6-Sg&ts=1783203355&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 42 m² 210 000 € 5 000 €/m² Predaj 1-izbového bytu s potenciálom na 2-izbový – Svidnícka, Bratislava, Ružinov Svidnícka, Bratislava-Ružinov, okres",
+    "found_at": "2026-07-09T22:40:40.296178+00:00"
   },
   {
     "id": "reality:13821",
