@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:196066675",
+    "portal": "bazos",
+    "title": "NA PREDAJ GARSÓNKA S PRIESTRANNOU LOGGIOU A VÝBORNOU DOSTUPN",
+    "url": "https://reality.bazos.sk/inzerat/196066675/na-predaj-garsonka-s-priestrannou-loggiou-a-vybornou-dostupn.php",
+    "price": 149500,
+    "price_text": "149 500 €",
+    "location": "Bratislava 851 06",
+    "image": "https://www.bazos.sk/img/1t/675/196066675.jpg",
+    "condition": "neznamy",
+    "desc": "BEŇADICKÁ | GARSÓNKA S PRIESTRANNOU LOGGIOU A VÝBORNOU DOSTUPNOSŤOU\n\nHľadáte štartovacie bývanie alebo investičnú nehnuteľnosť vo vyhľadávanej časti Petržalky? Ponúkame na predaj útulnú garsónku na Beňadickej ulici, ktorá zaujme veľkou loggiou, nízkymi mesačnými nákladmi a výbornou dostupnosťou do c",
+    "found_at": "2026-10-01T02:02:03.816028+00:00"
+  },
+  {
     "id": "reality:29",
     "portal": "reality",
     "title": "KOMPAKTNÝ 2-IZBOVÝ BYT V DÚBRAVKE | NEJEDLÉHO ULICA",
@@ -10,7 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/Qlt8lIrYK_fss?st=vIdAyKA_B5ANyGzhoDtO5lcqkBX69OXZ9FwdFFpJazg&amp;ts=1790762728&amp;e=0",
     "condition": "neznamy",
     "desc": "3. poschodie z 8 | výťah | pivnica | spoločná bicykláreň | električka | neregulované parkovanie | príjemné prostredie\n\nHľadáte menší 2-izbový byt na vlastné bývanie alebo ako investíciu na prenájom? Tento pratický byt ponúka efektívne využitý priestor, dobrú dostupnosť, kompletnú občiansku vybavenos",
-    "found_at": "2026-09-30T22:58:40.171674+00:00"
+    "found_at": "2026-09-30T22:58:40.171686+00:00"
   },
   {
     "id": "nehnutelnosti:JuVKMroB9VY",
@@ -23,20 +36,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Qlt8lIrYK_fss?st=1ygXYgD01xoeoFIj5uJoqbRRWiAWzWevlWkdm6kSdFA&ts=1790762728&e=0",
     "condition": "neznamy",
     "desc": "PREMIUM KOMPAKTNÝ 2-IZBOVÝ BYT V DÚBRAVKE | NEJEDLÉHO ULICA Nejedlého, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 34.99 m² 155 000 € 4 429,84 €/m² KOMPAKTNÝ 2-IZBOVÝ BYT V DÚBRAVKE | NEJEDLÉHO ULICA Nejedlého, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 34.99 m² 3. poschodie z 8",
-    "found_at": "2026-09-30T22:58:40.171670+00:00"
-  },
-  {
-    "id": "bazos:196061662",
-    "portal": "bazos",
-    "title": "NA PREDAJ | PRIESTRANNÝ 2-IZBOVÝ BYT | 77 m² | BRATISLAVA",
-    "url": "https://reality.bazos.sk/inzerat/196061662/na-predaj-priestranny-2-izbovy-byt-77-m-bratislava.php",
-    "price": 239999,
-    "price_text": "239 999 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/662/196061662.jpg",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ | ZĽAVA 20 000 € | PRIESTRANNÝ 2-IZBOVÝ BYT | 77 m² | 2 BALKÓNY | KLIMATIZÁCIA | ŠATNÍK | VÝŤAH | SÚKROMNÝ DVOR\n\nNOVÁ CENA BYTU: 239 999 €\nPÔVODNÁ CENA BYTU: 259 999 €\nZĽAVA: 20 000 €\n\nPonúkame na predaj nadštandardne priestranný 2-izbový byt na Perličkovej ulici v Bratislave – Podunajskýc",
-    "found_at": "2026-09-30T19:07:01.691581+00:00"
+    "found_at": "2026-09-30T22:58:40.171684+00:00"
   },
   {
     "id": "bazos:195985106",
@@ -306,7 +306,7 @@
     "price": 184900,
     "price_text": "184 900 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/349/195613349.jpg?t=1790700666",
+    "image": "https://www.bazos.sk/img/1t/349/195613349.jpg?t=1790815290",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73860:\nPonúkame na predaj kompletne zariadený 1-izbový byt v projekte Koloseo na Tomášikovej ulici v mestskej časti Bratislava – Nové Mesto.  \n  \n ZÁKLADNÉ INFORMÁCIE  \n - 1-izbový byt \n - úžitková ploc",
     "found_at": "2026-09-16T20:01:12.712357+00:00"
@@ -332,7 +332,7 @@
     "price": 224900,
     "price_text": "224 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1790700718",
+    "image": "https://www.bazos.sk/img/1t/709/195356709.jpg?t=1790815287",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - vyvýš",
     "found_at": "2026-09-08T18:32:24.761314+00:00"
@@ -358,7 +358,7 @@
     "price": 214990,
     "price_text": "214 990 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1790700764",
+    "image": "https://www.bazos.sk/img/1t/689/194776689.jpg?t=1790815269",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-72560:\nPonúkame na predaj priestranný 2-izbový byt na ulici Homolova v mestskej časti Bratislava - Dúbravka.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 52,5 m2 + pivnica \n - 8. posch",
     "found_at": "2026-08-20T21:36:51.382371+00:00"
