@@ -1,16 +1,42 @@
 [
   {
-    "id": "nehnutelnosti:JuDtLgTGXPP",
-    "portal": "nehnutelnosti",
-    "title": "Priestranny 2 izbovy byt s potencialom 3 izboveho v pokojnej casti na zaciatku petrzalky",
-    "url": "https://www.nehnutelnosti.sk/detail/JuDtLgTGXPP/priestranny-2-izbovy-byt-s-potencialom-3-izboveho-v-pokojnej-casti-na-zaciatku-petrzalky",
-    "price": 222000,
-    "price_text": "222 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/aHcYA-xye_fss?st=09yWLVOB7LWMLtghRMERT6ruZK9gsuFZb7hE1PlJjCs&ts=1791886329&e=0",
+    "id": "bazos:196512851",
+    "portal": "bazos",
+    "title": "Garsónka v tehlovom dome - Andrusovova ul. / Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/196512851/garsonka-v-tehlovom-dome-andrusovova-ul-petrzalka.php",
+    "price": 164900,
+    "price_text": "164 900 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/851/196512851.jpg",
     "condition": "neznamy",
-    "desc": "PREMIUM Priestranný 2-izbový byt s potenciálom 3-izbového v pokojnej časti na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² 222 000 € 3 580,65 €/m² Priestranný 2-izbový byt s potenciálom 3-izbového v pokojnej časti na začiatku Petržalky Vilová, Bratislava-Pet",
-    "found_at": "2026-10-14T18:29:53.679803+00:00"
+    "desc": "Ponúkame na predaj príjemnú a prakticky riešenú garsónku s výmerou 27 m², situovanú na Andrusovovej ulici v Bratislave – Petržalke. Nehnuteľnosť sa nachádza v tehlovom bytovom dome z roku 2012 a predstavuje ideálnu kombináciu pokojného bývania, dobrej dostupnosti a praktického využitia priestoru. By",
+    "found_at": "2026-10-14T22:12:39.699739+00:00"
+  },
+  {
+    "id": "bazos:196512850",
+    "portal": "bazos",
+    "title": "Garsónka v Starom meste, Záhradnícka ul.",
+    "url": "https://reality.bazos.sk/inzerat/196512850/garsonka-v-starom-meste-zahradnicka-ul.php",
+    "price": 179800,
+    "price_text": "179 800 €",
+    "location": "Bratislava 811 07",
+    "image": "https://www.bazos.sk/img/1t/850/196512850.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 22 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez potreby ďalš",
+    "found_at": "2026-10-14T22:12:39.699737+00:00"
+  },
+  {
+    "id": "bazos:196513793",
+    "portal": "bazos",
+    "title": "2- izbový byt na  ulici Stavbárska",
+    "url": "https://reality.bazos.sk/inzerat/196513793/2-izbovy-byt-na-ulici-stavbarska.php",
+    "price": 115000,
+    "price_text": "115 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/793/196513793.jpg",
+    "condition": "neznamy",
+    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
+    "found_at": "2026-10-14T22:12:39.699735+00:00"
   },
   {
     "id": "bazos:196506990",
@@ -23,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/990/196506990.jpg?t=1792002026",
     "condition": "neznamy",
     "desc": "Hľadáte byt, pri ktorom nemusíte riešiť rekonštrukciu, dokupovanie nábytku ani ďalšie väčšie investície? Na Veternicovej ulici v obľúbenej časti Bratislavy – Dlhé Diely ponúkame na predaj prakticky riešený 1-izbový byt, ktorý sa predáva kompletne zariadený a je pripravený na okamžité bývanie alebo p",
-    "found_at": "2026-10-14T18:29:53.679796+00:00"
+    "found_at": "2026-10-14T18:29:53.679828+00:00"
   },
   {
     "id": "bazos:196508559",
@@ -36,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/559/196508559.jpg",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj garsónku s výmerou 29 m2 na Andrusovovej ulici v Bratislave – Petržalke, ktorá spája účelne využitý priestor s pokojným prostredím. Táto nehnuteľnosť ponúka skvelú možnosť aj v prípade, že hľadáte investičnú nehnuteľnosť.\r\n\r\nByt sa nachádza na zvýšenom prízemí tehlového by",
-    "found_at": "2026-10-14T18:29:53.679795+00:00"
+    "found_at": "2026-10-14T18:29:53.679826+00:00"
   },
   {
     "id": "bazos:196508882",
@@ -49,20 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/882/196508882.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj dvojgarzónku s loggiou, nachádzajúcu sa na Holíčskej ulici v obľúbenej mestskej časti Bratislava – Petržalka. Byt sa nachádza na 5. poschodí 12-poschodového bytového domu s výťahom a predstavuje zaujímavú príležitosť na vlastné bývanie aj ako investícia na prenájom.\r\n\r\nZÁKLADNÉ IN",
-    "found_at": "2026-10-14T18:29:53.679793+00:00"
-  },
-  {
-    "id": "bazos:196509672",
-    "portal": "bazos",
-    "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196509672/2-izbovy-byt-na-ulici-stavbarska.php",
-    "price": 115000,
-    "price_text": "115 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/672/196509672.jpg",
-    "condition": "neznamy",
-    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-14T18:29:53.679791+00:00"
+    "found_at": "2026-10-14T18:29:53.679824+00:00"
   },
   {
     "id": "bazos:196510074",
@@ -72,10 +85,10 @@
     "price": 247000,
     "price_text": "247 000 €",
     "location": "Bratislava 841 01",
-    "image": "https://www.bazos.sk/img/1t/074/196510074.jpg",
+    "image": "https://www.bazos.sk/img/1t/074/196510074.jpg?t=1792009023",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s krásnym výhľadom, nachádzajúci sa na Galbavého ulici v obľúbenej a vyhľadávanej lokalite Bratislava – Dúbravka.\r\nByt má výmeru 55 m² a k bytu prislúcha aj pivnica v suteréne. Nachádza sa na 9. poschodí z 12 v bytovom dome s tromi výťahmi. Je orientovaný na juhozápad",
-    "found_at": "2026-10-14T18:29:53.679790+00:00"
+    "found_at": "2026-10-14T18:29:53.679821+00:00"
   },
   {
     "id": "bazos:196510166",
@@ -88,7 +101,7 @@
     "image": "https://www.bazos.sk/img/1t/166/196510166.jpg",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj udržiavaný a kompletne zariadený 2-izbový byt na Ondavskej ulici v Ružinove, pripravený na okamžité bývanie alebo prenájom bez nutnosti ďalších investícií.\r\n\r\nZákladné parametre:\r\n\r\n•\tPlocha bytu: 48,4 m² + loggia 2,5 m²\r\n•\tPoschodie: 9. / 9. (s výťahom)\r\n•\tOrientácia: Východ\r\n•\tSt",
-    "found_at": "2026-10-14T18:29:53.679788+00:00"
+    "found_at": "2026-10-14T18:29:53.679820+00:00"
   },
   {
     "id": "bazos:196505006",
@@ -101,7 +114,7 @@
     "image": "https://www.bazos.sk/img/1t/006/196505006.jpg?t=1791990687",
     "condition": "neznamy",
     "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj 2 izbový byt na ulici Vilová v Bratislave – Petržalke.\r\n\r\nZnalecký posudok je v cene.\r\n\r\nPOPIS\r\nRozloha je 62 m2.\r\nByt sa nachádza na 7. poschodí zo 7.\r\nK bytu patrí murovaná kobka o poschodie ni",
-    "found_at": "2026-10-14T18:29:53.679767+00:00"
+    "found_at": "2026-10-14T18:29:53.679818+00:00"
   },
   {
     "id": "bazos:196505412",
@@ -114,33 +127,7 @@
     "image": "https://www.bazos.sk/img/1t/412/196505412.jpg?t=1791991468",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj veľký 2-izb. byt na ul. Vilova, Petržalka. \r\n\r\nVýmera 61,87 m2, nachádza sa na 7.p./7 v zateplenom panelovom dome s výťahom a novou strechou. \r\n\r\nByt je po čiastočnej rekonštrukcii: plastové okná, zánovná kuchynská linka, kúpeľňa. \r\n\r\nMesačné náklady sú 195,- €/2 osoby + elektrina",
-    "found_at": "2026-10-14T18:29:53.679765+00:00"
-  },
-  {
-    "id": "bazos:196501109",
-    "portal": "bazos",
-    "title": "Na predaj 1-izbový byt s lodžiou, 38  m², Hraničná ul. Ružin",
-    "url": "https://reality.bazos.sk/inzerat/196501109/na-predaj-1-izbovy-byt-s-lodziou-38-m-hranicna-ul-ruzin.php",
-    "price": 176000,
-    "price_text": "176 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/109/196501109.jpg",
-    "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Hraničná\n\rMestská časť: Prievoz\n\rObec: Bratislava-Ružinov\n\r\n\rČíslo ponuky : 2835, Kontakt: Eduard Číž, Telefón : 0910 706 802, E-mail : ciz(at)vasereality.sk\n\nRealitná kancelária Vaše Reality Vám ponúka na predaj elegantný 1-izbový byt s lodžiou vo vyhľadávanej bratisl ...",
-    "found_at": "2026-10-14T13:36:23.330682+00:00"
-  },
-  {
-    "id": "bazos:196502211",
-    "portal": "bazos",
-    "title": "garzónka, Andrusovova, Petržalka",
-    "url": "https://reality.bazos.sk/inzerat/196502211/garzonka-andrusovova-petrzalka.php",
-    "price": 164900,
-    "price_text": "164 900 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/211/196502211.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj garzónku na ul. Andrusovova, Petržalka. \r\n\r\nVýmera 27 m2, nachádza sa na 1. zvýšenom poschodí/4 v tehlovom dome. K bytu patrí pivnica. \r\n\r\nBytový dom bol kolaudovaný v roku 2012.\r\n\r\nMesačné náklady sú 110,- €/2 osoby + elektrina. \r\n\r\nByt sa predáva so zariadením.\r\n\r\nV okolí je kom",
-    "found_at": "2026-10-14T13:36:23.330680+00:00"
+    "found_at": "2026-10-14T18:29:53.679816+00:00"
   },
   {
     "id": "bazos:195989330",
@@ -169,6 +156,19 @@
     "found_at": "2026-10-13T15:52:14.202746+00:00"
   },
   {
+    "id": "nehnutelnosti:JuI6BDQEGx3",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 15 kk byt s balkonom v projekte agaty s investicnym potencialom",
+    "url": "https://www.nehnutelnosti.sk/detail/JuI6BDQEGx3/herrys-na-predaj-15-kk-byt-s-balkonom-v-projekte-agaty-s-investicnym-potencialom",
+    "price": 199990,
+    "price_text": "199 990",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/lg5dMgu24_fss?st=lBUxvXeV7QYxJPAe0js36BFLok_9QtxzSadUdp6uMaA&ts=1791274166&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.78 m² 199 990 € 5 750,14 €/m² HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka",
+    "found_at": "2026-10-09T20:49:46.593018+00:00"
+  },
+  {
     "id": "bazos:196334872",
     "portal": "bazos",
     "title": "NUERA︱VEĽKÝ 52m 2i slnečný byt pri Chorvátskom ramene, BA V",
@@ -180,6 +180,19 @@
     "condition": "neznamy",
     "desc": "Realitná kancelária NUERA ponúka na predaj slnečný byt vhodný ako investičná príležitosť, či ako vaše vlastné bývanie v obklopení zeleňou a na skok do mesta. \r\n\r\nSlnečný, juhovýchodne orientovaný 2 izbový byt vo vyhľadávanej lokalite pri Chorvátskom ramene sa nachádza na 11. poschodí bytového domu n",
     "found_at": "2026-10-09T16:05:59.405725+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JulNhdUsbqv",
+    "portal": "nehnutelnosti",
+    "title": "Frank zicher predavame kompletne zariadeny 2 izbovy byt s parkovanim v projekte element lamac",
+    "url": "https://www.nehnutelnosti.sk/detail/JulNhdUsbqv/frank-zicher-predavame-kompletne-zariadeny-2-izbovy-byt-s-parkovanim-v-projekte-element-lamac",
+    "price": 235000,
+    "price_text": "235 000",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9PKDercuZ_fss?st=XxbxpbbBGqhpDSWkKn30sN678bB_dqwg-mqllER0I-w&ts=1790799892&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM FRANK ZICHER - Predávame kompletne zariadený 2-izbový byt s parkovaním v projekte ELEMENT Lamač Hodonínska, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 49.25 m² 235 000 € 4 771,57 €/m² FRANK ZICHER - Predávame kompletne zariadený 2-izbový byt s parkovaním v projekte ELEMENT Lamač Hodo",
+    "found_at": "2026-10-08T21:59:58.074992+00:00"
   },
   {
     "id": "bazos:196287854",
@@ -206,6 +219,19 @@
     "condition": "neznamy",
     "desc": "JKV REAL v zastúpení majiteľov ponúka na predaj svetlý, čerstvo vymaľovaný a kompletne vyprataný 2-izbový byt s 2 nepriechodnými izbami a kuchyňou, ktorý sa nachádza na rozhraní mestských častí Rača a Vajnory.\n\n📸 Prejdite sa po byte najskôr cez virtuálnu 3D obhliadku:\nhttps: ...",
     "found_at": "2026-10-07T08:32:42.062038+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JukQfXht6g8",
+    "portal": "nehnutelnosti",
+    "title": "Predaj prakticky 25i byt s balkonom v raci pri sajbach",
+    "url": "https://www.nehnutelnosti.sk/detail/JukQfXht6g8/predaj-prakticky-25i-byt-s-balkonom-v-raci-pri-sajbach",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava-Rača",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rXcfFJdXt_fss?st=STpdJYyU0jcPB0SgQ8YCoEcxK6iQq2wZ8j_r7QG1poY&ts=1779697033&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ PRIESTRANNÝ 2i BYT S EXTRA IZBOU A BALKÓNOM Pri Šajbách, Bratislava-Rača, okres Bratislava III 2 izbový byt 49.67 m² 205 000 € 4 127,24 €/m² PREDAJ PRIESTRANNÝ 2i BYT S EXTRA IZBOU A BALKÓNOM Pri Šajbách, Bratislava-Rača, okres Bratislava III 2 izbový byt 49.67 m² NA PREDAJ PRAKTICKY",
+    "found_at": "2026-10-05T22:32:21.410396+00:00"
   },
   {
     "id": "bazos:196154302",
