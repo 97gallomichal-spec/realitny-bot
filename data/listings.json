@@ -1,5 +1,31 @@
 [
   {
+    "id": "bazos:196514012",
+    "portal": "bazos",
+    "title": "2-izbový príestranný byt s parkovaním Vajnory",
+    "url": "https://reality.bazos.sk/inzerat/196514012/2-izbovy-priestranny-byt-s-parkovanim-vajnory.php",
+    "price": 228000,
+    "price_text": "228 000 €",
+    "location": "Bratislava 831 07",
+    "image": "https://www.bazos.sk/img/1t/012/196514012.jpg",
+    "condition": "neznamy",
+    "desc": "Predaj 2-izbový priestranný byt s balkónom s parkovacím miestom v uzatvorenom dvore. Byt je priestraný a svetlý o velkosti 64,4m2 + balkón 4,3m2. Parkovacie miesto vo vlastníctve k bytu. Vlastný ohrev teplej vody, elektrické podlahové kúrenie. Byt je pripravený k nasťahovaniu pre nového majiteľa.",
+    "found_at": "2026-10-15T01:23:25.928504+00:00"
+  },
+  {
+    "id": "bazos:196514575",
+    "portal": "bazos",
+    "title": "2- izbový byt na  ulici Stavbárska",
+    "url": "https://reality.bazos.sk/inzerat/196514575/2-izbovy-byt-na-ulici-stavbarska.php",
+    "price": 115000,
+    "price_text": "115 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/575/196514575.jpg",
+    "condition": "neznamy",
+    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
+    "found_at": "2026-10-15T01:23:25.928502+00:00"
+  },
+  {
     "id": "bazos:196512851",
     "portal": "bazos",
     "title": "Garsónka v tehlovom dome - Andrusovova ul. / Petržalka",
@@ -7,10 +33,10 @@
     "price": 164900,
     "price_text": "164 900 €",
     "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/851/196512851.jpg",
+    "image": "https://www.bazos.sk/img/1t/851/196512851.jpg?t=1792016341",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj príjemnú a prakticky riešenú garsónku s výmerou 27 m², situovanú na Andrusovovej ulici v Bratislave – Petržalke. Nehnuteľnosť sa nachádza v tehlovom bytovom dome z roku 2012 a predstavuje ideálnu kombináciu pokojného bývania, dobrej dostupnosti a praktického využitia priestoru. By",
-    "found_at": "2026-10-14T22:12:39.699739+00:00"
+    "found_at": "2026-10-14T22:12:39.699775+00:00"
   },
   {
     "id": "bazos:196512850",
@@ -20,36 +46,10 @@
     "price": 179800,
     "price_text": "179 800 €",
     "location": "Bratislava 811 07",
-    "image": "https://www.bazos.sk/img/1t/850/196512850.jpg",
+    "image": "https://www.bazos.sk/img/1t/850/196512850.jpg?t=1792016319",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 22 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez potreby ďalš",
-    "found_at": "2026-10-14T22:12:39.699737+00:00"
-  },
-  {
-    "id": "bazos:196513793",
-    "portal": "bazos",
-    "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196513793/2-izbovy-byt-na-ulici-stavbarska.php",
-    "price": 115000,
-    "price_text": "115 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/793/196513793.jpg",
-    "condition": "neznamy",
-    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-14T22:12:39.699735+00:00"
-  },
-  {
-    "id": "bazos:196506990",
-    "portal": "bazos",
-    "title": "1-izb kompletne zariadený byt, Dlhé Diely, BA, 36,81 m², kli",
-    "url": "https://reality.bazos.sk/inzerat/196506990/1-izb-kompletne-zariadeny-byt-dlhe-diely-ba-3681-m-kli.php",
-    "price": 184900,
-    "price_text": "184 900 €",
-    "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/990/196506990.jpg?t=1792002026",
-    "condition": "neznamy",
-    "desc": "Hľadáte byt, pri ktorom nemusíte riešiť rekonštrukciu, dokupovanie nábytku ani ďalšie väčšie investície? Na Veternicovej ulici v obľúbenej časti Bratislavy – Dlhé Diely ponúkame na predaj prakticky riešený 1-izbový byt, ktorý sa predáva kompletne zariadený a je pripravený na okamžité bývanie alebo p",
-    "found_at": "2026-10-14T18:29:53.679828+00:00"
+    "found_at": "2026-10-14T22:12:39.699774+00:00"
   },
   {
     "id": "bazos:196508559",
