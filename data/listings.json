@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:196545688",
+    "portal": "bazos",
+    "title": "2- izbový byt na  ulici Stavbárska",
+    "url": "https://reality.bazos.sk/inzerat/196545688/2-izbovy-byt-na-ulici-stavbarska.php",
+    "price": 115000,
+    "price_text": "115 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/688/196545688.jpg",
+    "condition": "neznamy",
+    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
+    "found_at": "2026-10-16T01:11:44.302369+00:00"
+  },
+  {
     "id": "bazos:196539016",
     "portal": "bazos",
     "title": "Garsónka v tehlovom dome - Andrusovova ul. / Petržalka",
