@@ -1,16 +1,42 @@
 [
   {
-    "id": "bazos:196545688",
+    "id": "bazos:196546446",
+    "portal": "bazos",
+    "title": "PREDAJ – Garsónka 35 m², Bratislava – Devínska Nová Ves",
+    "url": "https://reality.bazos.sk/inzerat/196546446/predaj-garsonka-35-m-bratislava-devinska-nova-ves.php",
+    "price": 139900,
+    "price_text": "139 900 €",
+    "location": "Bratislava 841 08",
+    "image": "https://www.bazos.sk/img/1t/446/196546446.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: Garsónka\n\rUlica: Jána Jonáša\n\rObec: Bratislava-Devínska Nová Ves\n\r\n\rPonúkame na predaj garsónku s rozlohou 35 m² na 5. poschodí v obľúbenej lokalite Devínska Nová Ves, v bezprostrednej blízkosti závodu Volkswagen Slovakia. Byt sa skladá z hlavnej obytnej izby, kuchynského kútu, kúpeľne s vaňou ",
+    "found_at": "2026-10-16T07:02:23.710416+00:00"
+  },
+  {
+    "id": "bazos:196550663",
     "portal": "bazos",
     "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196545688/2-izbovy-byt-na-ulici-stavbarska.php",
+    "url": "https://reality.bazos.sk/inzerat/196550663/2-izbovy-byt-na-ulici-stavbarska.php",
     "price": 115000,
     "price_text": "115 000 €",
     "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/688/196545688.jpg",
+    "image": "https://www.bazos.sk/img/1t/663/196550663.jpg",
     "condition": "neznamy",
     "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-16T01:11:44.302369+00:00"
+    "found_at": "2026-10-16T07:02:23.710414+00:00"
+  },
+  {
+    "id": "bazos:196551943",
+    "portal": "bazos",
+    "title": "REZERVOVANÉ EXKLUZÍVNE 2-izb. apartmán vo vyhľadávanej",
+    "url": "https://reality.bazos.sk/inzerat/196551943/rezervovane-exkluzivne-2-izb-apartman-vo-vyhladavanej.php",
+    "price": 179900,
+    "price_text": "179 900 €",
+    "location": "Bratislava 821 09",
+    "image": "https://www.bazos.sk/img/1t/943/196551943.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame Vám na predaj 2-izbový apartmán s podlahovou plochou 36,65 m² vo vyhľadávanej lokalite Mlynské nivy na Oravskej ulici v Bratislave. Nehnuteľnosť je vhodná na vlastné bývanie aj ako investícia s výborným potenciálom dlhodobého prenájmu. Vďaka praktickému dispozičnému riešeniu, príjemnému pro",
+    "found_at": "2026-10-16T07:02:23.710412+00:00"
   },
   {
     "id": "bazos:196539016",
@@ -37,19 +63,6 @@
     "condition": "neznamy",
     "desc": "NUERA Real Estate Vám ponúka na predaj moderné bývanie v projekte Oppidum na Uzbeckej ulici v Podunajských Biskupiciach.\r\n\r\nZÁKLADNÉ INFORMÁCIE\r\n- Nebytový priestor - Apartmán\r\n- Poschodie: 8. NP\r\n- Dispozícia: 2-izbový s loggiou\r\n- Celková výmera: 59 m² (Interiér: 52 m² | Loggia: 4 m² | Kobka: 3 m²",
     "found_at": "2026-10-15T18:11:48.783986+00:00"
-  },
-  {
-    "id": "bazos:196533095",
-    "portal": "bazos",
-    "title": "Predaj - 2 izbový byt na ulici Bajkalská v Bratislave",
-    "url": "https://reality.bazos.sk/inzerat/196533095/predaj-2-izbovy-byt-na-ulici-bajkalska-v-bratislave.php",
-    "price": 190000,
-    "price_text": "190 000 €",
-    "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/095/196533095.jpg?t=1792074997",
-    "condition": "neznamy",
-    "desc": "Ponúkame na predaj útulný 2 izbový byt na Bajkalskej ulici v obľúbenej lokalite Bratislava – Ružinov. Byt je vhodný na vlastné bývanie aj ako zaujímavá investičná nehnuteľnosť na prenájom.\r\nByt má výmeru 36,16 m² a jeho veľkou výhodou je loggia s výmerou 4,18 m², vďaka ktorej celková plocha predstav",
-    "found_at": "2026-10-15T13:19:29.874532+00:00"
   },
   {
     "id": "bazos:196505006",
@@ -104,19 +117,6 @@
     "found_at": "2026-10-13T15:52:14.202746+00:00"
   },
   {
-    "id": "nehnutelnosti:JuI6BDQEGx3",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk byt s balkonom v projekte agaty s investicnym potencialom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuI6BDQEGx3/herrys-na-predaj-15-kk-byt-s-balkonom-v-projekte-agaty-s-investicnym-potencialom",
-    "price": 199990,
-    "price_text": "199 990",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/lg5dMgu24_fss?st=lBUxvXeV7QYxJPAe0js36BFLok_9QtxzSadUdp6uMaA&ts=1791274166&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.78 m² 199 990 € 5 750,14 €/m² HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka",
-    "found_at": "2026-10-09T20:49:46.593018+00:00"
-  },
-  {
     "id": "bazos:196334872",
     "portal": "bazos",
     "title": "NUERA︱VEĽKÝ 52m 2i slnečný byt pri Chorvátskom ramene, BA V",
@@ -154,6 +154,19 @@
     "condition": "neznamy",
     "desc": "JKV REAL v zastúpení majiteľov ponúka na predaj svetlý, čerstvo vymaľovaný a kompletne vyprataný 2-izbový byt s 2 nepriechodnými izbami a kuchyňou, ktorý sa nachádza na rozhraní mestských častí Rača a Vajnory.\n\n📸 Prejdite sa po byte najskôr cez virtuálnu 3D obhliadku:\nhttps: ...",
     "found_at": "2026-10-07T08:32:42.062038+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JukQfXht6g8",
+    "portal": "nehnutelnosti",
+    "title": "Predaj prakticky 25i byt s balkonom v raci pri sajbach",
+    "url": "https://www.nehnutelnosti.sk/detail/JukQfXht6g8/predaj-prakticky-25i-byt-s-balkonom-v-raci-pri-sajbach",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava-Rača",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/rXcfFJdXt_fss?st=STpdJYyU0jcPB0SgQ8YCoEcxK6iQq2wZ8j_r7QG1poY&ts=1779697033&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ PRIESTRANNÝ 2i BYT S EXTRA IZBOU A BALKÓNOM Pri Šajbách, Bratislava-Rača, okres Bratislava III 2 izbový byt 49.67 m² 205 000 € 4 127,24 €/m² PREDAJ PRIESTRANNÝ 2i BYT S EXTRA IZBOU A BALKÓNOM Pri Šajbách, Bratislava-Rača, okres Bratislava III 2 izbový byt 49.67 m² NA PREDAJ PRAKTICKY",
+    "found_at": "2026-10-05T22:32:21.410396+00:00"
   },
   {
     "id": "bazos:196154302",
@@ -247,19 +260,6 @@
     "found_at": "2026-09-26T19:46:12.795561+00:00"
   },
   {
-    "id": "nehnutelnosti:JuunvVpnkcS",
-    "portal": "nehnutelnosti",
-    "title": "Halo reality predaj garsonka bratislava nove mesto prikopova exkluzivne halo reality",
-    "url": "https://www.nehnutelnosti.sk/detail/JuunvVpnkcS/halo-reality-predaj-garsonka-bratislava-nove-mesto-prikopova-exkluzivne-halo-reality",
-    "price": 165000,
-    "price_text": "165 000",
-    "location": "Bratislava Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wKwnBrTzy_fss?st=WPH3wdG3Qqc07Lh1Wml7OOBgMlqHrmJDPirjtzsROas&ts=1789078935&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HALO reality - Predaj, garsónka Bratislava Nové Mesto, Príkopova - EXKLUZÍVNE HALO REALITY Príkopova, Bratislava-Nové Mesto, okres Bratislava III Garsónka 33 m² 165 000 € 5 000 €/m² HALO reality - Predaj, garsónka Bratislava Nové Mesto, Príkopova - EXKLUZÍVNE HALO REALITY Príkopova, Bratisla",
-    "found_at": "2026-09-21T19:18:02.645849+00:00"
-  },
-  {
     "id": "bazos:195763575",
     "portal": "bazos",
     "title": "Na predaj | 2 izbový byt 52,70 m² s loggiou - Pečnianska ul.",
@@ -284,6 +284,32 @@
     "condition": "neznamy",
     "desc": "TUreality ponúkajú 1 izbový byt svetlý byt s výmerou 36 m2 v novšej tehlovej bytovke v bratislavskej Karlovej Vsi, vo vyhľadávanej lokalite Hlaváčikova ul. Byt pozostáva zo vstupnej chodby , ktorá prechádza  do priestranného obývacieho priestoru s oddeliteľným kuchynským kútom. Kuchyňa je vybavená s",
     "found_at": "2026-09-14T00:57:17.192978+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JupyIZYBxxb",
+    "portal": "nehnutelnosti",
+    "title": "Predaj komfortny 2i apartman s balkonom v pokojnej casti kramarov",
+    "url": "https://www.nehnutelnosti.sk/detail/JupyIZYBxxb/predaj-komfortny-2i-apartman-s-balkonom-v-pokojnej-casti-kramarov",
+    "price": 219900,
+    "price_text": "219 900",
+    "location": "Bratislava-Nové Mesto",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/wkPOWeimb_fss?st=YCkV7p9209R1Zm43zJ5xyED8rUyz3HbMCiaBBHJe1X0&ts=1779812253&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 47.2 m² 219 900 € 4 658,9 €/m² PREDAJ KOMFORTNÝ 2I APARTMÁN S BALKÓNOM V POKOJNEJ ČASTI KRAMÁROV Ďumbierska, Bratislava-Nové Mesto, okres Bratislava III 2 iz",
+    "found_at": "2026-09-09T21:38:34.675772+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuAZ0jPcLWb",
+    "portal": "nehnutelnosti",
+    "title": "Predaj 2 izboveho bytu o vymere 5046m2 v lukrativnej casti ruzinova nezabudkova ul bratislava",
+    "url": "https://www.nehnutelnosti.sk/detail/JuAZ0jPcLWb/predaj-2-izboveho-bytu-o-vymere-5046m2-v-lukrativnej-casti-ruzinova-nezabudkova-ul-bratislava",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava Nezábudková",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_dXexVdrA_fss?st=JllSMJ8XOl-lAwO4iQjzKmbm6OxfausS5gqyq-c6HFI&ts=1788253089&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Predaj 2 izbového bytu o výmere 53,37m2 v lukratívnej časti Ružinova, Nezábudkova ul., Bratislava Nezábudková, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 53.37 m² 244 900 € 4 588,72 €/m² Predaj 2 izbového bytu o výmere 53,37m2 v lukratívnej časti Ružinova, Nezábudkova ul., Bratisla",
+    "found_at": "2026-09-01T09:57:42.719885+00:00"
   },
   {
     "id": "reality:238262",
