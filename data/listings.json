@@ -1,16 +1,42 @@
 [
   {
-    "id": "bazos:196573728",
+    "id": "bazos:196574504",
+    "portal": "bazos",
+    "title": "KRÁSNY VÝHĽAD, VEĽKÁ LOGGIA 1-izb. byt s pivnicou na Račian",
+    "url": "https://reality.bazos.sk/inzerat/196574504/krasny-vyhlad-velka-loggia-1-izb-byt-s-pivnicou-na-racian.php",
+    "price": 152000,
+    "price_text": "152 000 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/504/196574504.jpg",
+    "condition": "neznamy",
+    "desc": "KRÁSNY VÝHĽAD, VEĽKÁ LOGGIA! 1-izb. byt s pivnicou na Račianskej ul. Byt v osobnom vlastníctve, o celkovej rozlohe 26,95m2 + loggia o výmere 5,15, umiestnený na 10. poschodí v 10-poschodovom bytovom dome s dvomi výťahmi. Tento štýlový 1-izbový byt vám ponúkne rýchly prístup do lesa. \n\nV byte sa nach",
+    "found_at": "2026-10-17T04:12:09.408254+00:00"
+  },
+  {
+    "id": "bazos:196574503",
+    "portal": "bazos",
+    "title": "KRÁSNY VÝHĽAD, VEĽKÁ LOGGIA Tichý 1-izb. byt s pivnicou na",
+    "url": "https://reality.bazos.sk/inzerat/196574503/krasny-vyhlad-velka-loggia-tichy-1-izb-byt-s-pivnicou-na.php",
+    "price": 152000,
+    "price_text": "152 000 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/503/196574503.jpg",
+    "condition": "neznamy",
+    "desc": "KRÁSNY VÝHĽAD, VEĽKÁ LOGGIA!  Tichý 1-izb. byt na Račianskej ul. Byt v osobnom vlastníctve, o celkovej rozlohe 26,95m2 + loggia o výmere 5,15, umiestnený na 10. poschodí v 10-poschodovom bytovom dome s dvomi výťahmi. Tento štýlový 1-izbový byt vám ponúkne rýchly prístup do lesa. \n\nV byte sa nachádza",
+    "found_at": "2026-10-17T04:12:09.408252+00:00"
+  },
+  {
+    "id": "bazos:196574898",
     "portal": "bazos",
     "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196573728/2-izbovy-byt-na-ulici-stavbarska.php",
+    "url": "https://reality.bazos.sk/inzerat/196574898/2-izbovy-byt-na-ulici-stavbarska.php",
     "price": 115000,
     "price_text": "115 000 €",
     "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/728/196573728.jpg",
+    "image": "https://www.bazos.sk/img/1t/898/196574898.jpg",
     "condition": "neznamy",
     "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-16T23:28:10.504880+00:00"
+    "found_at": "2026-10-17T04:12:09.408250+00:00"
   },
   {
     "id": "nehnutelnosti:JuPUaqno0ZD",
@@ -52,19 +78,6 @@
     "found_at": "2026-10-16T20:56:52.934687+00:00"
   },
   {
-    "id": "bazos:196562314",
-    "portal": "bazos",
-    "title": "Priestranný 2-izbový byt s 3 loggiami na Heyrovského ul. v L",
-    "url": "https://reality.bazos.sk/inzerat/196562314/priestranny-2-izbovy-byt-s-3-loggiami-na-heyrovskeho-ul-v-l.php",
-    "price": 224900,
-    "price_text": "224 900 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/314/196562314.jpg",
-    "condition": "neznamy",
-    "desc": "2-izbový byt na Heyrovského ulici v Bratislave – Lamači, situovaný v pokojnom prostredí plnom zelene, mimo hlavnej cesty. Byt zaujme predovšetkým veľkorysou výmerou, praktickou dispozíciou s dvomi samostatnými izbami a až tromi loggiami, ktoré poskytujú množstvo možností na oddych a využitie vonkajš",
-    "found_at": "2026-10-16T17:19:38.190659+00:00"
-  },
-  {
     "id": "bazos:196563053",
     "portal": "bazos",
     "title": "Ponúkame Vám na predaj výborne dispozične riešený 2 izbový b",
@@ -102,19 +115,6 @@
     "condition": "neznamy",
     "desc": "Adresa: Záhradnícka, Bratislava, križovatka Jelačičová\r\nDispozícia: 2-izbový byt\r\nCelková úžitková plocha: 40.3 m2 (byt: 36.3 m2, pivnic: 2.0 m2, balkón: 2.0 m2)\r\nPoschodie: 2/5\r\nVýťah: áno\r\nOrientácia: západná\r\nRok rekonštrukcie: 2026\r\nMesačné náklady: 147 Eur (bytový fond) + elektrina a internet\r\n",
     "found_at": "2026-10-16T17:19:38.190651+00:00"
-  },
-  {
-    "id": "bazos:196562113",
-    "portal": "bazos",
-    "title": "Investičná príležitosť 1-izbák v Podunajských Biskupiciach",
-    "url": "https://reality.bazos.sk/inzerat/196562113/investicna-prilezitost-1-izbak-v-podunajskych-biskupiciach.php",
-    "price": 144900,
-    "price_text": "144 900 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/113/196562113.jpg",
-    "condition": "povodny",
-    "desc": "Investičný 1-izbový byt na prerábku | 34,5 m²\r\n\r\nHľadáte byt na rekonštrukciu s potenciálom nájomného až 600 € mesačne? Táto ponuka na Lotyšskej ulici môže byť vašou ďalšou investíciou.\r\n\r\nBYVO realitná kancelária ponúka na predaj jednoizbový byt s výmerou 34,5 m² v Bratislave, v mestskej časti Podu",
-    "found_at": "2026-10-16T12:16:53.669379+00:00"
   },
   {
     "id": "bazos:196535582",
