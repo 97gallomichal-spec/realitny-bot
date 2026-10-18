@@ -1,29 +1,29 @@
 [
   {
-    "id": "nehnutelnosti:Ju5WBu36a0T",
+    "id": "nehnutelnosti:JugGhph7LBM",
     "portal": "nehnutelnosti",
-    "title": "Frank zicher predavame velkorysy 3 izbovy byt povodne 4i s loggiou v panorama towers",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju5WBu36a0T/frank-zicher-predavame-velkorysy-3-izbovy-byt-povodne-4i-s-loggiou-v-panorama-towers",
-    "price": 219990,
-    "price_text": "219 990",
+    "title": "Velky 2 izbovy byt v pokojnej lokalite na zaciatku petrzalky",
+    "url": "https://www.nehnutelnosti.sk/detail/JugGhph7LBM/velky-2-izbovy-byt-v-pokojnej-lokalite-na-zaciatku-petrzalky",
+    "price": 222000,
+    "price_text": "222 000",
     "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/87-EKc31Z_fss?st=hAh_AO9T_G0u2Tx7ys_cwuH0bTghJXt424_FbId-O28&ts=1789403384&e=0",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/w5FLqzlxi_fss?st=7kHPMj8U7OxM5AbNA4yAqzY0tyMpzIETQBTwBxNXwiY&ts=1792159103&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² 219 990 € 4 019,55 €/m² Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² Na preda",
-    "found_at": "2026-10-18T10:53:53.569184+00:00"
+    "desc": "PREMIUM Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² 222 000 € 3 580,65 €/m² Veľký 2 izbový byt v pokojnej lokalite na začiatku Petržalky Vilová, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 62 m² MRK & RETE",
+    "found_at": "2026-10-18T14:29:26.042985+00:00"
   },
   {
-    "id": "bazos:196610124",
+    "id": "bazos:196621705",
     "portal": "bazos",
-    "title": "Garsónka v tehlovom dome - Andrusovova ul. / Petržalka",
-    "url": "https://reality.bazos.sk/inzerat/196610124/garsonka-v-tehlovom-dome-andrusovova-ul-petrzalka.php",
-    "price": 164900,
-    "price_text": "164 900 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/124/196610124.jpg?t=1792318965",
+    "title": "2- izbový byt na  ulici Stavbárska",
+    "url": "https://reality.bazos.sk/inzerat/196621705/2-izbovy-byt-na-ulici-stavbarska.php",
+    "price": 115000,
+    "price_text": "115 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/705/196621705.jpg",
     "condition": "neznamy",
-    "desc": "Ponúkame na predaj príjemnú a prakticky riešenú garsónku s výmerou 27 m², situovanú na Andrusovovej ulici v Bratislave – Petržalke. Nehnuteľnosť sa nachádza v tehlovom bytovom dome z roku 2012 a predstavuje ideálnu kombináciu pokojného bývania, dobrej dostupnosti a praktického využitia priestoru. By",
-    "found_at": "2026-10-18T10:53:53.569179+00:00"
+    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
+    "found_at": "2026-10-18T14:29:26.042973+00:00"
   },
   {
     "id": "bazos:196610126",
@@ -36,7 +36,20 @@
     "image": "https://www.bazos.sk/img/1t/126/196610126.jpg?t=1792318962",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj štýlovú a kompletne zariadenú garsónku s výmerou 22 m², situovanú na 4. poschodí bytového domu na Záhradníckej ulici v Bratislave – Starom Meste. Nehnuteľnosť prešla rekonštrukciou a vďaka kompletnému zariadeniu je pripravená na okamžité bývanie alebo prenajímanie bez potreby ďalš",
-    "found_at": "2026-10-18T10:53:53.569178+00:00"
+    "found_at": "2026-10-18T10:53:53.569200+00:00"
+  },
+  {
+    "id": "bazos:196610124",
+    "portal": "bazos",
+    "title": "Garsónka v tehlovom dome - Andrusovova ul. / Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/196610124/garsonka-v-tehlovom-dome-andrusovova-ul-petrzalka.php",
+    "price": 164900,
+    "price_text": "164 900 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/124/196610124.jpg?t=1792318965",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj príjemnú a prakticky riešenú garsónku s výmerou 27 m², situovanú na Andrusovovej ulici v Bratislave – Petržalke. Nehnuteľnosť sa nachádza v tehlovom bytovom dome z roku 2012 a predstavuje ideálnu kombináciu pokojného bývania, dobrej dostupnosti a praktického využitia priestoru. By",
+    "found_at": "2026-10-18T10:53:53.569200+00:00"
   },
   {
     "id": "bazos:196610471",
@@ -49,20 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/471/196610471.jpg",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
-    "found_at": "2026-10-18T10:53:53.569177+00:00"
-  },
-  {
-    "id": "bazos:196614268",
-    "portal": "bazos",
-    "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196614268/2-izbovy-byt-na-ulici-stavbarska.php",
-    "price": 115000,
-    "price_text": "115 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/268/196614268.jpg",
-    "condition": "neznamy",
-    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-18T10:53:53.569176+00:00"
+    "found_at": "2026-10-18T10:53:53.569199+00:00"
   },
   {
     "id": "bazos:196602917",
@@ -72,23 +72,10 @@
     "price": 249000,
     "price_text": "249 000 €",
     "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/917/196602917.jpg?t=1792283988",
+    "image": "https://www.bazos.sk/img/1t/917/196602917.jpg?t=1792332499",
     "condition": "neznamy",
     "desc": "Realitná kancelária MDG Reality ponúka na predaj svetlý a kompletne zariadený 2-izbový byt s celkovou výmerou 50,9 m² na Ondavskej ulici v Bratislave, v obľúbenej mestskej časti Ružinov. Nehnuteľnosť sa nachádza na 9. poschodí bytového domu s výťahom a ponúka praktické dispozičné riešenie, východnú ",
     "found_at": "2026-10-18T00:52:36.359117+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Juvntq-5TZx",
-    "portal": "nehnutelnosti",
-    "title": "Predaj garsonka lachova 34 m2 klimatizacia ba v",
-    "url": "https://www.nehnutelnosti.sk/detail/Juvntq-5TZx/predaj-garsonka-lachova-34-m2-klimatizacia-ba-v",
-    "price": 165000,
-    "price_text": "165 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FQTg5e1Wv_fss?st=cSfq0noi-vRd_zpbJPXcKnnRd1vl6PmZMuDjpOaw0Tg&ts=1791455167&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM PREDAJ - Lachova - zariadená klimatizovaná dizajnová garsónka, 34 m2, BA V Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 34 m² 165 000 € 4 852,94 €/m² PREDAJ - Lachova - zariadená klimatizovaná dizajnová garsónka, 34 m2, BA V Lachova, Bratislava-Petržalka, okres Bratislava V Gar",
-    "found_at": "2026-10-17T09:11:56.398396+00:00"
   },
   {
     "id": "bazos:196563071",
@@ -180,6 +167,19 @@
     "condition": "neznamy",
     "desc": "JKV REAL so súhlasom majiteľa ponúka na predaj útulný 2-izbový byt v zelenej časti Rače, ktorý spája výhodu bývania v meste s bývaním v kľudnej, rýchlo sa rozvíjajúcej lokalite s výborným napojením na mestský obchvat aj okolité štvrte.\n\nZÁKLADNÉ INFORMÁCIE:\n● Lokalita: Dopravná ulica\n● Úžitková ...",
     "found_at": "2026-10-13T15:52:14.202746+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuHUz33AsMk",
+    "portal": "nehnutelnosti",
+    "title": "Pozrite si novy 2 i byt po cerstvej rekonstrukcii klimatizacia",
+    "url": "https://www.nehnutelnosti.sk/detail/JuHUz33AsMk/pozrite-si-novy-2-i-byt-po-cerstvej-rekonstrukcii-klimatizacia",
+    "price": 204800,
+    "price_text": "204 800",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/gm9W_f8FD_fss?st=yYd55t4wdXU-pUwOKLSCgF9VPfJ9L9LMoAhn2i7xryk&ts=1790945184&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 35.14 m² 204 800 € 5 828,12 €/m² Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt",
+    "found_at": "2026-10-10T13:33:05.333324+00:00"
   },
   {
     "id": "bazos:196334872",
@@ -310,57 +310,5 @@
     "condition": "neznamy",
     "desc": "TUreality ponúkajú 1 izbový byt svetlý byt s výmerou 36 m2 v novšej tehlovej bytovke v bratislavskej Karlovej Vsi, vo vyhľadávanej lokalite Hlaváčikova ul. Byt pozostáva zo vstupnej chodby , ktorá prechádza  do priestranného obývacieho priestoru s oddeliteľným kuchynským kútom. Kuchyňa je vybavená s",
     "found_at": "2026-09-14T00:57:17.192978+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju8VjqDhwWz",
-    "portal": "nehnutelnosti",
-    "title": "Bosen investicny 1 izbovy byt petrzalka",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju8VjqDhwWz/bosen-investicny-1-izbovy-byt-petrzalka",
-    "price": 170000,
-    "price_text": "170 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/oWwAYrN_5_fss?st=7DGAZHKVHW8Mj7oqoD0q9SjC84LqDlrr0HEBam4ns5c&ts=1774959139&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM BOSEN | Investičný 1 izbový byt , Petržalka Rovniakova, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 26.53 m² 170 000 € 6 407,84 €/m² BOSEN | Investičný 1 izbový byt , Petržalka Rovniakova, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 26.53 m² Realitná kancelária Bosen Grou",
-    "found_at": "2026-07-19T09:11:06.393659+00:00"
-  },
-  {
-    "id": "reality:238262",
-    "portal": "reality",
-    "title": "Predaj, 2-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
-    "url": "https://www.reality.sk/byty/predaj-2-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/Juk62kqVnFU/",
-    "price": 187000,
-    "price_text": "187000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
-    "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 2-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia. Byt je na LV vedený ako 1 zb",
-    "found_at": "2026-07-18T15:06:01.240368+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 219990,
-    "price_text": "219 990",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/87-EKc31Z_fss?st=hAh_AO9T_G0u2Tx7ys_cwuH0bTghJXt424_FbId-O28&ts=1789403384&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² 219 990 € 4 019,55 €/m² Priestranný 2-izbový byt na Osuského ulici v Petržalke Osuského 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 54.73 m² Na preda",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
-  },
-  {
-    "id": "reality:13821",
-    "portal": "reality",
-    "title": "Predaj, 1-izbový byt 38 m², Bakošova ulica, Bratislava – Lamač",
-    "url": "https://www.reality.sk/byty/predaj-1-izbovy-byt-38-m2-bakosova-ulica-bratislava-lamac/JuTsWhh1aHN/",
-    "price": 187000,
-    "price_text": "187000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/desoHoD1n_fss?st=5r9SLunZmVU2mFWdJqLsdiVg9tioV1w1c7JAAWWjCxw&amp;ts=1782384954&amp;e=0",
-    "condition": "neznamy",
-    "desc": "SIERA realitná kancelária ponúka na predaj 1-izbový byt na Bakošovej ulici v mestskej časti Bratislava – Lamač.\n\nHľadáte praktické bývanie v pokojnej lokalite s výbornou dostupnosťou do centra Bratislavy? Tento byt je ideálnou voľbou na vlastné bývanie aj ako investícia.\n\nZákladné informácie\n\nByt má",
-    "found_at": "2026-06-30T21:24:22.153055+00:00"
   }
 ]
