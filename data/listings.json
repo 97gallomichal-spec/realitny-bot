@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:Ju2AJJkGmq0",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj 1 izbovy byt v atraktivnej lokalite bratislava stare mesto",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju2AJJkGmq0/na-predaj-1-izbovy-byt-v-atraktivnej-lokalite-bratislava-stare-mesto",
+    "price": 249000,
+    "price_text": "249 000",
+    "location": "Bratislava - Staré Mesto Ulica 2",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/hejZTmjKmW_fss?st=shQM5s0WDQzEep2s0obg3R28gU36wgr4AnNgsr18eH4&ts=1785953489&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj 1-izbový byt v atraktívnej lokalite Bratislava - Staré Mesto Ulica 29. augusta 23, Bratislava-Staré Mesto, okres Bratislava I Garsónka 37.41 m² 249 000 € 6 655,97 €/m² Na predaj 1-izbový byt v atraktívnej lokalite Bratislava - Staré Mesto Ulica 29. augusta 23, Bratislava-Staré Mest",
+    "found_at": "2026-10-19T23:32:20.885203+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuWrbd9_gFL",
+    "portal": "nehnutelnosti",
+    "title": "Jedinecny velkometrazny stresny byt",
+    "url": "https://www.nehnutelnosti.sk/detail/JuWrbd9_gFL/jedinecny-velkometrazny-stresny-byt",
+    "price": 146000,
+    "price_text": "146 000",
+    "location": "Bratislava Rača",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/2eWzg25sa_fss?st=JKrmvnWoPmWHawa_83NbacdMS4AlbzertKlwcqDbAIQ&ts=1790167000&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Rača, Pri Šajbách - EXKLUZÍVNE HALO REALITY Pri Šajbách, Bratislava-Rača, okres Bratislava III 1 izbový byt 35 m² 146 000 € 4 171,43 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Rača, Pri Šajbách - EXKLUZÍVNE HALO REALITY Pri Šajbác",
+    "found_at": "2026-10-19T23:32:20.885200+00:00"
+  },
+  {
+    "id": "bazos:196669115",
+    "portal": "bazos",
+    "title": "2 izbový byt s výmerou 40m2 Vrakuňa",
+    "url": "https://reality.bazos.sk/inzerat/196669115/2-izbovy-byt-s-vymerou-40m2-vrakuna.php",
+    "price": 99000,
+    "price_text": "99 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/115/196669115.jpg?t=1792447530",
+    "condition": "povodny",
+    "desc": "2 obytné miestnosti, samostatné WC a kúpeľna s celkovou výmerou podlahovej plochy 40 m² Nachádzajúci sa na Stavbárskej ulici 42 (pekný a bezpečný vchod) v mestskej časti Bratislava – Vrakuňa. Nachádza sa na 4 poschodí.\r\nByt má plastové okná, je vhodný na rekonštrukciu, ktorú Vám vieme zabezpečiť.\r\nB",
+    "found_at": "2026-10-19T23:32:20.885169+00:00"
+  },
+  {
     "id": "reality:235",
     "portal": "reality",
     "title": "2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto",
@@ -10,7 +49,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/SnhDLHPX8_fss?st=6MtAQmkG6c3KP4b5xQKJIWEZazEG31QAHL2G_cboWp4&amp;ts=1792436469&amp;e=0",
     "condition": "neznamy",
     "desc": "MRK reality, realitná kancelária s tradíciou od roku 1999, ponúka exkluzívne na predaj 2-izbový byt s balkónom na Mikovíniho ulici v Bratislave – Novom Meste, v bezprostrednej blízkosti Račianskeho mýta.\n\nByt sa nachádza na 4. poschodí z 8, je orientovaný na južnú stranu a ponúka príjemný výhľad do ",
-    "found_at": "2026-10-19T19:14:42.864103+00:00"
+    "found_at": "2026-10-19T19:14:42.864115+00:00"
   },
   {
     "id": "nehnutelnosti:Jup3op5SuVY",
@@ -22,34 +61,8 @@
     "location": "Bratislava",
     "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SnhDLHPX8_fss?st=UQPQuA5wSrapV47dkW74BJtxC6zd3AYGNMMki0ASOSw&ts=1792436469&e=0",
     "condition": "neznamy",
-    "desc": "2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 48.16 m² 210 000 € 4 360,47 €/m² 2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava III 2 izbo",
-    "found_at": "2026-10-19T19:14:42.864099+00:00"
-  },
-  {
-    "id": "bazos:196664419",
-    "portal": "bazos",
-    "title": "2- izbový byt na  ulici Stavbárska",
-    "url": "https://reality.bazos.sk/inzerat/196664419/2-izbovy-byt-na-ulici-stavbarska.php",
-    "price": 115000,
-    "price_text": "115 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/419/196664419.jpg",
-    "condition": "neznamy",
-    "desc": "MAXIM REAL ponúka na predaj 2-izbový byt s výmerou 38 m² na Stavbárskej ulici 40 v Bratislave – Vrakuni. Byt sa nachádza na 4. poschodí z 10 v bytovom dome s novým výťahom. Bytový dom je zateplený, vstup je zabezpečený čipovým systémom a v bytovom dome aj v jeho okolí je k dispozícii kamerový systém",
-    "found_at": "2026-10-19T19:14:42.864098+00:00"
-  },
-  {
-    "id": "bazos:196664842",
-    "portal": "bazos",
-    "title": "Bývanie nad mestom - 2 izbový byt s priestrannou loggiou na",
-    "url": "https://reality.bazos.sk/inzerat/196664842/byvanie-nad-mestom-2-izbovy-byt-s-priestrannou-loggiou-na.php",
-    "price": 186000,
-    "price_text": "186 000 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/842/196664842.jpg",
-    "condition": "neznamy",
-    "desc": "Hľadáte útulné a prakticky riešené bývanie v príjemnej lokalite s množstvom zelene? Tento 2-izbový byt na Ďurgalovej ulici ponúka zaujímavú kombináciu svetlej orientácie, šikovnej dispozície a nadštandardne veľkej loggie.\r\nByt s výmerou 30,83 m² + loggia 5,5 m² sa nachádza na 3. poschodí z 3 v tehlo",
-    "found_at": "2026-10-19T19:14:42.864097+00:00"
+    "desc": "PREMIUM 2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 48.16 m² 210 000 € 4 360,47 €/m² 2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava II",
+    "found_at": "2026-10-19T19:14:42.864114+00:00"
   },
   {
     "id": "bazos:196662617",
@@ -62,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/617/196662617.jpg?t=1792429463",
     "condition": "neznamy",
     "desc": "NUERA Real Estate Vám ponúka na predaj moderné bývanie v projekte Oppidum na Uzbeckej ulici v Podunajských Biskupiciach.\r\n\r\nZÁKLADNÉ INFORMÁCIE\r\n- Nebytový priestor - Apartmán\r\n- Poschodie: 8. NP\r\n- Dispozícia: 2-izbový s loggiou\r\n- Celková výmera: 59 m² (Interiér: 52 m² | Loggia: 4 m² | Kobka: 3 m²",
-    "found_at": "2026-10-19T19:14:42.864079+00:00"
+    "found_at": "2026-10-19T19:14:42.864111+00:00"
   },
   {
     "id": "bazos:196630900",
@@ -176,23 +189,23 @@
     "price": 199990,
     "price_text": "199 990 €",
     "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/444/196466444.jpg?t=1791901675",
+    "image": "https://www.bazos.sk/img/1t/444/196466444.jpg?t=1792442261",
     "condition": "neznamy",
     "desc": "JKV REAL so súhlasom majiteľa ponúka na predaj útulný 2-izbový byt v zelenej časti Rače, ktorý spája výhodu bývania v meste s bývaním v kľudnej, rýchlo sa rozvíjajúcej lokalite s výborným napojením na mestský obchvat aj okolité štvrte.\n\nZÁKLADNÉ INFORMÁCIE:\n● Lokalita: Dopravná ulica\n● Úžitková ...",
     "found_at": "2026-10-13T15:52:14.202746+00:00"
   },
   {
-    "id": "nehnutelnosti:JuI6BDQEGx3",
+    "id": "nehnutelnosti:JuRbnzMOY_N",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk byt s balkonom v projekte agaty s investicnym potencialom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuI6BDQEGx3/herrys-na-predaj-15-kk-byt-s-balkonom-v-projekte-agaty-s-investicnym-potencialom",
-    "price": 199990,
-    "price_text": "199 990",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/lg5dMgu24_fss?st=lBUxvXeV7QYxJPAe0js36BFLok_9QtxzSadUdp6uMaA&ts=1791274166&e=0",
+    "title": "2 izb byt ba lamac",
+    "url": "https://www.nehnutelnosti.sk/detail/JuRbnzMOY_N/2-izb-byt-ba-lamac",
+    "price": 247000,
+    "price_text": "247 000",
+    "location": "Bratislava-Lamač",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/tx0TlGYle_fss?st=heFGuW656pEbDROaY7pQMFjBmCLiI6HSaH_X3A671sA&ts=1791702952&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.78 m² 199 990 € 5 750,14 €/m² HERRYS – Na predaj 1,5 kk byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka",
-    "found_at": "2026-10-09T20:49:46.593018+00:00"
+    "desc": "PREMIUM 2-izb. byt po Reko | Najvyššie poschodie | Klíma Studenohorská, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 58.34 m² 247 000 € 4 233,8 €/m² 2-izb. byt po Reko | Najvyššie poschodie | Klíma Studenohorská, Bratislava-Lamač, okres Bratislava IV 2 izbový byt 58.34 m² Na predaj 2-izbový by",
+    "found_at": "2026-10-11T08:40:39.254593+00:00"
   },
   {
     "id": "bazos:196334872",
@@ -221,6 +234,19 @@
     "found_at": "2026-10-07T08:32:42.062038+00:00"
   },
   {
+    "id": "nehnutelnosti:JuVreiz-YVz",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava raca pri sajbach exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuVreiz-YVz/halo-reality-predaj-jednoizbovy-byt-bratislava-raca-pri-sajbach-exkluzivne-halo-reality",
+    "price": 146000,
+    "price_text": "146 000",
+    "location": "Bratislava Rača",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/2eWzg25sa_fss?st=JKrmvnWoPmWHawa_83NbacdMS4AlbzertKlwcqDbAIQ&ts=1790167000&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Rača, Pri Šajbách - EXKLUZÍVNE HALO REALITY Pri Šajbách, Bratislava-Rača, okres Bratislava III 1 izbový byt 35 m² 146 000 € 4 171,43 €/m² HALO reality - Predaj, jednoizbový byt Bratislava Rača, Pri Šajbách - EXKLUZÍVNE HALO REALITY Pri Šajbác",
+    "found_at": "2026-10-05T00:46:39.358676+00:00"
+  },
+  {
     "id": "bazos:196154302",
     "portal": "bazos",
     "title": "PREDAJ BYT S PARKOVANÍM V BRATISLAVE",
@@ -232,6 +258,19 @@
     "condition": "neznamy",
     "desc": "Na predaj šikovný 2 izbový mezonet s parkovaním a záhradkou Bratislava Vrakuňa.\r\n\r\n2 izbový dvojpodlažný mezonet o výmere 50 m2\r\n\r\nPrízemie: 25 m2\r\nPoschodie 25 m2\r\n\r\nDokončené v štandarde.\r\n\r\nV cene je vlastný pozemok o výmere 97 m² ako predzáhradka a 2 parkovacie miesta.\r\n\r\nElektrické podlahové kú",
     "found_at": "2026-10-03T21:07:24.009667+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuwUe5cQNyc",
+    "portal": "nehnutelnosti",
+    "title": "Nadcasovy 2 izbovy byt s inteligentnou domacnostou bratislava raca",
+    "url": "https://www.nehnutelnosti.sk/detail/JuwUe5cQNyc/nadcasovy-2-izbovy-byt-s-inteligentnou-domacnostou-bratislava-raca",
+    "price": 230000,
+    "price_text": "230 000",
+    "location": "Bratislava - Rača Cyprichova 1",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/4S6QAhMGp_fss?st=FhTsXfxAjr7EGGlPQfWe_2BOEuvRqcgGqxhES9ylRII&ts=1788382116&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Nadčasový 2-izbový byt s inteligentnou domácnosťou, Bratislava - Rača Cyprichova 1, Bratislava-Rača, okres Bratislava III 2 izbový byt 47.52 m² 230 000 € 4 840,07 €/m² Nadčasový 2-izbový byt s inteligentnou domácnosťou, Bratislava - Rača Cyprichova 1, Bratislava-Rača, okres Bratislava III 2",
+    "found_at": "2026-10-01T21:45:42.010379+00:00"
   },
   {
     "id": "bazos:196013018",
@@ -312,29 +351,16 @@
     "found_at": "2026-09-14T00:57:17.192978+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
+    "id": "nehnutelnosti:Jurns3bx82i",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Fp6EYe2dr_fss?st=BcnIBaabA1vxuOHr7mhYx0j6Ai-3HaQMhuxEuZat2vA&ts=1785932171&e=0",
+    "title": "Na predaj 15 izbovy priestranny byt s balkonom kresankova ulica ba iv",
+    "url": "https://www.nehnutelnosti.sk/detail/Jurns3bx82i/na-predaj-15-izbovy-priestranny-byt-s-balkonom-kresankova-ulica-ba-iv",
+    "price": 219000,
+    "price_text": "219 000",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/xkYQZajy-_fss?st=-K1BXyhv8WaJmVKGNYVr4hQUZLHYYfngxyyqwupVhSM&ts=1788774650&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým rieše",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 210000,
-    "price_text": "210 000",
-    "location": "Bratislava",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SnhDLHPX8_fss?st=UQPQuA5wSrapV47dkW74BJtxC6zd3AYGNMMki0ASOSw&ts=1792436469&e=0",
-    "condition": "neznamy",
-    "desc": "2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 48.16 m² 210 000 € 4 360,47 €/m² 2-izbový byt s balkónom – ulica Mikovíniho, Bratislava – Nové Mesto Mikovíniho, Bratislava-Nové Mesto, okres Bratislava III 2 izbo",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
+    "desc": "PREMIUM NA PREDAJ: 1,5 izbový priestranný byt s balkónom, Kresánkova ulica, BA IV. Kresánkova, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 54 m² 219 000 € 4 055,56 €/m² NA PREDAJ: 1,5 izbový priestranný byt s balkónom, Kresánkova ulica, BA IV. Kresánkova, Bratislava-Karlova Ves, okres B",
+    "found_at": "2026-09-10T21:34:11.980327+00:00"
   }
 ]
