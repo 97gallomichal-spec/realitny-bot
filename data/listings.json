@@ -1,16 +1,42 @@
 [
   {
-    "id": "nehnutelnosti:Jue04W6BVqn",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt na namesti biely kriz",
-    "url": "https://www.nehnutelnosti.sk/detail/Jue04W6BVqn/2-izbovy-byt-na-namesti-biely-kriz",
-    "price": 235000,
-    "price_text": "235 000",
-    "location": "Bratislava-Nové Mesto",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7gTibcjKG_fss?st=j1S8oTZws_5RL20URU47vACyc9Aqp-2j155DJvoWfGk&ts=1792759031&e=0",
+    "id": "bazos:196792571",
+    "portal": "bazos",
+    "title": "TOP PONUKA: Predaj klimatizovaného, Bratislava, Dúbravka",
+    "url": "https://reality.bazos.sk/inzerat/196792571/top-ponuka-predaj-klimatizovaneho-bratislava-dubravka.php",
+    "price": 214900,
+    "price_text": "214 900 €",
+    "location": "Bratislava 841 02",
+    "image": "https://www.bazos.sk/img/1t/571/196792571.jpg",
     "condition": "neznamy",
-    "desc": "PREMIUM 2-izbový byt na Námestí Biely kríž Námestie Biely Kríž, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 61 m² 235 000 € 3 852,46 €/m² 2-izbový byt na Námestí Biely kríž Námestie Biely Kríž, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 61 m² Hľadáte príjemné a priestranné",
-    "found_at": "2026-10-23T13:19:15.529095+00:00"
+    "desc": "Realitná kancelária MDG Reality ponúka na predaj slnečný 2-izbový byt s výmerou 40,11 m² a zaskleným balkónom s výmerou 5 m² vo vyhľadávanej lokalite Bratislava - Dúbravka. Nehnuteľnosť sa nachádza na 11. poschodí z 12 a vďaka juhozápadnej orientácii ponúka dostatok prirodzeného svetla a príjemné vý",
+    "found_at": "2026-10-23T18:14:35.018446+00:00"
+  },
+  {
+    "id": "bazos:196205131",
+    "portal": "bazos",
+    "title": "Príjemný 2-izbový byt v Bratislave (Stavbárska ulica)",
+    "url": "https://reality.bazos.sk/inzerat/196205131/prijemny-2-izbovy-byt-v-bratislave-stavbarska-ulica.php",
+    "price": 150000,
+    "price_text": "150 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/131/196205131.jpg?t=1792775349",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj svetlý a prakticky riešený 2-izbový byt nachádzajúci sa na Stavbárskej ulici č. 36 v Bratislave.\r\n\r\nZákladné parametre:\r\n\r\nVýmera: 41 m²\r\n\r\nStav: Dobrý zabývaný / obytný stav\r\n\r\nFinancovanie: Možnosť kúpy na hypotekárny úver\r\n\r\nDispozícia:\r\n\r\nObývacia izba prepojená s kuchyňou\r\n\r\n",
+    "found_at": "2026-10-23T18:14:35.018420+00:00"
+  },
+  {
+    "id": "bazos:196789330",
+    "portal": "bazos",
+    "title": "2-izbový byt Mlynské Nivy, Bratislava",
+    "url": "https://reality.bazos.sk/inzerat/196789330/2-izbovy-byt-mlynske-nivy-bratislava.php",
+    "price": 239600,
+    "price_text": "239 600 €",
+    "location": "Bratislava 821 08",
+    "image": "https://www.bazos.sk/img/1t/330/196789330.jpg?t=1792770872",
+    "condition": "neznamy",
+    "desc": "Adresa: Záhradnícka 53, Bratislava, križovatka Jelačičová\r\nDispozícia: 2-izbový byt\r\nCelková úžitková plocha: 40.3 m2 (byt: 36.3 m2, pivnic: 2.0 m2, balkón: 2.0 m2)\r\nPoschodie: 2/5\r\nVýťah: áno\r\nOrientácia: západná\r\nRok rekonštrukcie: 2026\r\nMesačné náklady: 147 Eur (bytový fond, 1 osoba) + 18 Eur (el",
+    "found_at": "2026-10-23T18:14:35.018375+00:00"
   },
   {
     "id": "bazos:196746787",
@@ -23,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/787/196746787.jpg?t=1792743492",
     "condition": "neznamy",
     "desc": "Predáme v lukratívnej časti BA II.- Nivy na Miletičovej ulici 1-izbový byt- 46 m2 na prízemí tehlového bytového domu. Samostatná, vzdušná izba s drevenými parketami je otočená do pokojného a zeleného dvora. K bytu prislúcha samostatná kuchyňa s jedálenským kútom, chodba, kúpeľňa so sprchovacím kútom",
-    "found_at": "2026-10-23T13:19:15.529066+00:00"
+    "found_at": "2026-10-23T13:19:15.529104+00:00"
   },
   {
     "id": "bazos:196742587",
@@ -108,10 +134,10 @@
     "portal": "bazos",
     "title": "NUERA︱OPPIDUM - 2-izbový byt v novostabe s parkingom a kobko",
     "url": "https://reality.bazos.sk/inzerat/196662617/nueraoppidum-2-izbovy-byt-v-novostabe-s-parkingom-a-kobko.php",
-    "price": 235000,
-    "price_text": "235 000 €",
+    "price": 229000,
+    "price_text": "229 000 €",
     "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/617/196662617.jpg?t=1792429463",
+    "image": "https://www.bazos.sk/img/1t/617/196662617.jpg?t=1792764819",
     "condition": "neznamy",
     "desc": "NUERA Real Estate Vám ponúka na predaj moderné bývanie v projekte Oppidum na Uzbeckej ulici v Podunajských Biskupiciach.\r\n\r\nZÁKLADNÉ INFORMÁCIE\r\n- Nebytový priestor - Apartmán\r\n- Poschodie: 8. NP\r\n- Dispozícia: 2-izbový s loggiou\r\n- Celková výmera: 59 m² (Interiér: 52 m² | Loggia: 4 m² | Kobka: 3 m²",
     "found_at": "2026-10-19T19:14:42.864111+00:00"
@@ -132,28 +158,15 @@
   {
     "id": "bazos:196563071",
     "portal": "bazos",
-    "title": "Komplet zariadený 2-izbový | JZ | Zaskl. balkón |",
+    "title": "Komplet zariadený 2-izbový | JZ | Zaskl. balkón | Dúbravka",
     "url": "https://reality.bazos.sk/inzerat/196563071/komplet-zariadeny-2-izbovy-jz-zaskl-balkon.php",
     "price": 214900,
     "price_text": "214 900 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/071/196563071.jpg?t=1792174970",
+    "image": "https://www.bazos.sk/img/1t/071/196563071.jpg?t=1792762782",
     "condition": "neznamy",
     "desc": "Niektoré byty si vyžadujú ďalšie investície. Do tohto sa môžete jednoducho nasťahovať a bývať.\n\nPonúkame na predaj slnečný 2-izbový byt s výmerou 40,11 m² a zaskleným balkónom 5 m² vo vyhľadávanej časti Bratislavy – Dúbravka. Nachádza sa na 11. poschodí z 12 a vďaka juhozápadnej orientácii je počas ",
     "found_at": "2026-10-16T17:19:38.190653+00:00"
-  },
-  {
-    "id": "bazos:196568874",
-    "portal": "bazos",
-    "title": "2-izbový byt Mlynské Nivy, Bratislava",
-    "url": "https://reality.bazos.sk/inzerat/196568874/2-izbovy-byt-mlynske-nivy-bratislava.php",
-    "price": 239600,
-    "price_text": "239 600 €",
-    "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/874/196568874.jpg?t=1792502910",
-    "condition": "neznamy",
-    "desc": "Adresa: Záhradnícka, Bratislava, križovatka Jelačičová\r\nDispozícia: 2-izbový byt\r\nCelková úžitková plocha: 40.3 m2 (byt: 36.3 m2, pivnic: 2.0 m2, balkón: 2.0 m2)\r\nPoschodie: 2/5\r\nVýťah: áno\r\nOrientácia: západná\r\nRok rekonštrukcie: 2026\r\nMesačné náklady: 147 Eur (bytový fond) + elektrina a internet\r\n",
-    "found_at": "2026-10-16T17:19:38.190651+00:00"
   },
   {
     "id": "bazos:196469017",
@@ -167,19 +180,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
     "found_at": "2026-10-13T15:52:14.202750+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuHUz33AsMk",
-    "portal": "nehnutelnosti",
-    "title": "Pozrite si novy 2 i byt po cerstvej rekonstrukcii klimatizacia",
-    "url": "https://www.nehnutelnosti.sk/detail/JuHUz33AsMk/pozrite-si-novy-2-i-byt-po-cerstvej-rekonstrukcii-klimatizacia",
-    "price": 204800,
-    "price_text": "204 800",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/gm9W_f8FD_fss?st=yYd55t4wdXU-pUwOKLSCgF9VPfJ9L9LMoAhn2i7xryk&ts=1790945184&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 35.14 m² 204 800 € 5 828,12 €/m² Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt",
-    "found_at": "2026-10-10T13:33:05.333324+00:00"
   },
   {
     "id": "bazos:196030206",
@@ -232,6 +232,19 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rUlica: Talichova\n\rObec: Bratislava-Dúbravka\n\r\n\rIBA U NÁS! Ponúkame na predaj pekný a praktický 1,5i byt na Talichovej ulici v Dúbravke. Byt má výmeru 35,5 m2 + loggia 4,3 m2 a nachádza sa na 2. poschodí v 3.podlažnom bytovom dome. Orientovaný je na východ. K bytu prislúc ...",
     "found_at": "2026-09-26T19:46:12.795561+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju7Metf8wqX",
+    "portal": "nehnutelnosti",
+    "title": "Utulny a bezbarierovy 2 izbovy byt v tichej lokalite bratislavy",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju7Metf8wqX/utulny-a-bezbarierovy-2-izbovy-byt-v-tichej-lokalite-bratislavy",
+    "price": 164000,
+    "price_text": "164 000",
+    "location": "Bratislava-Podunajské Biskupice",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/yIJn3t4A9_fss?st=PsUrlIlPl3Km7Tw_WRTHXHQxPjZ_gB2VM3xeR-cOliA&ts=1789569274&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Útulný a bezbariérový 2-izbový byt v tichej lokalite Bratislavy Hlbinná, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 39.6 m² 164 000 € 4 141,41 €/m² Útulný a bezbariérový 2-izbový byt v tichej lokalite Bratislavy Hlbinná, Bratislava-Podunajské Biskupice, okres Bratislav",
+    "found_at": "2026-09-20T18:42:00.659156+00:00"
   },
   {
     "id": "bazos:195551661",
