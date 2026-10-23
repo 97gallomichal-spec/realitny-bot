@@ -1,18 +1,5 @@
 [
   {
-    "id": "bazos:196763497",
-    "portal": "bazos",
-    "title": "Na predaj 2-garsónka na zač. Petržalky - Nám. Hraničiarov",
-    "url": "https://reality.bazos.sk/inzerat/196763497/na-predaj-2-garsonka-na-zac-petrzalky-nam-hraniciarov.php",
-    "price": 214900,
-    "price_text": "214 900 €",
-    "location": "Bratislava 851 05",
-    "image": "https://www.bazos.sk/img/1t/497/196763497.jpg",
-    "condition": "neznamy",
-    "desc": "Na predaj byt v TOP lokalite na začiatku Petržalky s kompletnou občianskou vybavenosťou - Nám. hraničiarov, Bratislava. Byt sa nachádza na 9/12 poschodí v zateplenom panelovom dome s výhľadom do dvora (južná orientácia).\r\nCelý interiér je zhotovený na mieru a bol premyslený do najmenšieho detailu. P",
-    "found_at": "2026-10-22T22:14:38.405411+00:00"
-  },
-  {
     "id": "bazos:196765144",
     "portal": "bazos",
     "title": "Na predaj investičný mezonet, Wellness + terasa + parking",
@@ -23,7 +10,7 @@
     "image": "https://www.bazos.sk/img/1t/144/196765144.jpg?t=1792705336",
     "condition": "neznamy",
     "desc": "Realitná kancelária MDG Reality ponúka na predaj výnimočný, kompletne zariadený 1-izbový byt s mezanínom a celkovou úžitkovou plochou približne 33 m² vo vyhľadávanej lokalite Bratislava – Petržalka, v bezprostrednej blízkosti nákupného centra Aupark a Sadu Janka Kráľa. Nehnuteľnosť ponúka nadštandar",
-    "found_at": "2026-10-22T22:14:38.405410+00:00"
+    "found_at": "2026-10-22T22:14:38.405423+00:00"
   },
   {
     "id": "bazos:196766168",
@@ -36,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/168/196766168.jpg",
     "condition": "povodny",
     "desc": "Ponúkame na predaj priestranný 2 izbový byt v Lamači na Heyrovského ulici.\n\nByt sa nachádza na 4/6 poschodí o výmere 52,67 m2. Balkón 4,53 m2\n\n2 priestranné izby, ktoré sú neprechodné. samostatne Wc a kúpeľňa\n\nSlušný pôvodný stav.\n\nObývačka a kuchyňa orientované na východnú svetovú stranu. Spálňa or",
-    "found_at": "2026-10-22T22:14:38.405409+00:00"
+    "found_at": "2026-10-22T22:14:38.405421+00:00"
   },
   {
     "id": "bazos:196742587",
@@ -180,6 +167,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
     "found_at": "2026-10-13T15:52:14.202750+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju43BkMo72O",
+    "portal": "nehnutelnosti",
+    "title": "100pro byvanie s atmosferou ktore si zamilujete na prvy pohlad 2i byt s loggiou na dlhych dieloch",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju43BkMo72O/100pro-byvanie-s-atmosferou-ktore-si-zamilujete-na-prvy-pohlad-2i-byt-s-loggiou-na-dlhych-dieloch",
+    "price": 199900,
+    "price_text": "199 900",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Y888QbGm5_fss?st=D10nwzzyy5mTWRSCFXoFFAvFCS-c-WhXrDxqJo-xdn8&ts=1791302984&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 100PRO | Bývanie s atmosférou, ktoré si zamilujete na prvý pohľad | 2i byt s loggiou na Dlhých dieloch Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 53 m² 199 900 € 3 771,7 €/m² 100PRO | Bývanie s atmosférou, ktoré si zamilujete na prvý pohľad | 2i byt s loggiou n",
+    "found_at": "2026-10-10T22:25:30.997100+00:00"
   },
   {
     "id": "nehnutelnosti:JuNGysN6onf",
