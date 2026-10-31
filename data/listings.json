@@ -1,5 +1,31 @@
 [
   {
+    "id": "nehnutelnosti:JurR17tSv5l",
+    "portal": "nehnutelnosti",
+    "title": "Predaj greatergreater 15 izbovy byt zaciatok petrzalky",
+    "url": "https://www.nehnutelnosti.sk/detail/JurR17tSv5l/predaj-greatergreater-15-izbovy-byt-zaciatok-petrzalky",
+    "price": 219000,
+    "price_text": "219 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Nb3yP5Xn-a_fss?st=dWUmqtpu7sWj9mgW5s-INDqB4zNJ0xb8uwqwId7s54A&ts=1793380224&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDAJ >> 1,5 izbový byt – Začiatok Petržalky Rusovská cesta 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 50 m² 219 000 € 4 380 €/m² PREDAJ >> 1,5 izbový byt – Začiatok Petržalky Rusovská cesta 7, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 50 m² Realitná kancelária MEN",
+    "found_at": "2026-10-31T17:38:25.236102+00:00"
+  },
+  {
+    "id": "bazos:197042124",
+    "portal": "bazos",
+    "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
+    "url": "https://reality.bazos.sk/inzerat/197042124/predaj-1-izbovy-byt-v-centre-bratislavy-sancova-ulica-ti.php",
+    "price": 199900,
+    "price_text": "199 900 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/124/197042124.jpg?t=1793450593",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 1-izbový byt vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Šancovej ulici. Možnosť parkovania na Šancovej a aj na Mýtnej ulici. \r\n\r\nByt sa nachádza na 1. podlaží bytového domu a disponuje podlahovou plochou 33,61 m². K bytu prislúcha aj pivnica o výmere 4,8 m².\r\n\r\nNehnuteľ",
+    "found_at": "2026-10-31T17:38:25.236076+00:00"
+  },
+  {
     "id": "bazos:197036684",
     "portal": "bazos",
     "title": "Bývanie v srdci Nového mesta na Vajnorskej ulici hneď oproti",
@@ -10,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/684/197036684.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj výborne dispozične riešený 2 izbový byt s loggiou v  bytovom dome vo vyhľadávanej lokalite na Vajnorskej ul. v Bratislave oproti Polusu\nHľadáte bývanie vo vyhľadávanej časti Bratislavy s výbornou dostupnosťou do centra?\nByt vyniká praktickou dispozíciou, dostatkom svetla a kom",
-    "found_at": "2026-10-31T12:11:40.874226+00:00"
+    "found_at": "2026-10-31T12:11:40.874243+00:00"
   },
   {
     "id": "bazos:196989690",
@@ -50,19 +76,6 @@
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Ľuda Zúbka\n\rObec: Bratislava-Dúbravka\n\r\n\rRealitná kancelária PORTO REAL GROUP vám ponúka na predaj 1-izbový byt s veľkou loggiou s krásnym výhľadom do zelene vo vyhľadávanej mestskej časti Bratislava – Dúbravka na ulici Ľuda Zúbka. Je situovaný na 4/9 poschodí čiastočn ...",
     "found_at": "2026-10-26T23:45:16.461848+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JudoM7p-B3P",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj prijemny 2 izbovy byt v bytovom dome v komornom prostredi na podunajskej ulici",
-    "url": "https://www.nehnutelnosti.sk/detail/JudoM7p-B3P/herrys-na-predaj-prijemny-2-izbovy-byt-v-bytovom-dome-v-komornom-prostredi-na-podunajskej-ulici",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Podunajské Biskupice",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/1eFAO94LY_fss?st=PLIfm63iTC2UBTE2NM1jUxXyracdxcVjkuj8HxYiXA8&ts=1792152063&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj príjemný 2-izbový byt v bytovom dome v komornom prostredí, na Podunajskej ulici. Podunajská, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 56.03 m² 239 000 € 4 265,57 €/m² HERRYS - Na predaj príjemný 2-izbový byt v bytovom dome v komornom prostredí, na",
-    "found_at": "2026-10-26T19:10:08.590323+00:00"
   },
   {
     "id": "bazos:196878330",
@@ -221,19 +234,6 @@
     "found_at": "2026-10-13T15:52:14.202750+00:00"
   },
   {
-    "id": "nehnutelnosti:JuI6BDQEGx3",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk byt s balkonom v projekte agaty s investicnym potencialom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuI6BDQEGx3/herrys-na-predaj-15-kk-byt-s-balkonom-v-projekte-agaty-s-investicnym-potencialom",
-    "price": 199990,
-    "price_text": "199 990",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/lg5dMgu24_fss?st=lBUxvXeV7QYxJPAe0js36BFLok_9QtxzSadUdp6uMaA&ts=1791274166&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 1,5-izbový byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.78 m² 199 990 € 5 750,14 €/m² HERRYS – Na predaj 1,5-izbový byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-",
-    "found_at": "2026-10-09T20:49:46.593018+00:00"
-  },
-  {
     "id": "bazos:196061662",
     "portal": "bazos",
     "title": "NA PREDAJ | PRIESTRANNÝ 2-IZBOVÝ BYT | 77 m² | BRATISLAVA",
@@ -273,29 +273,16 @@
     "found_at": "2026-09-26T19:46:12.795561+00:00"
   },
   {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": 207900,
-    "price_text": "207 900",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Fp6EYe2dr_fss?st=BcnIBaabA1vxuOHr7mhYx0j6Ai-3HaQMhuxEuZat2vA&ts=1785932171&e=0",
+    "id": "reality:47",
+    "portal": "reality",
+    "title": "Garsónka na predaj v tehlovom dome Petržalka",
+    "url": "https://www.reality.sk/byty/garsonka-na-predaj-v-tehlovom-dome-petrzalka/Ju4sQOkS7Tf/",
+    "price": 161900,
+    "price_text": "161900",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/DetTJXZgH_fss?st=QKMb0CQbdVzPz3kjHEftrNr8ULyXHvg46G6BAX2CqEM&amp;ts=1788764410&amp;e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² 207 900 € 5 929,83 €/m² HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým rieše",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuQTTIsvn_d",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 4 izbovy byt na hradnom kopci v projekte aura slavicie udolie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuQTTIsvn_d/herrys-na-predaj-4-izbovy-byt-na-hradnom-kopci-v-projekte-aura-slavicie-udolie",
-    "price": 239000,
-    "price_text": "239 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/NacD3BjwS_fss?st=LyB4KIZSw3ngEEv7pwEHIZiKkZ4ShJwBncd4WSgq12I&ts=1793268324&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Veľkorysý svetlý 2-izbový byt loggiou v Ružinove – Čmelíkova Čmelíkova 5, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 62.92 m² 239 000 € 3 798,47 €/m² Veľkorysý svetlý 2-izbový byt loggiou v Ružinove – Čmelíkova Čmelíkova 5, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 62.92",
-    "found_at": "2026-07-08T22:14:32.765626+00:00"
+    "desc": "Realitná kancelária Assenzio Vám ponúka na predaj garsónku situovaný v pokojnej lokalite Petržalky, na Andrusovovej ulici, v 4 poschodovom tehlovom bytovom dome kolaudovanom v roku 2012\r\n\r\nByt sa nachádza na 1. poschodí zo 4 bez  výťahu, otočený smerom k ihrisku, nie na hlavnú cestu čim je čo zaruču",
+    "found_at": "2026-09-07T10:08:48.576012+00:00"
   }
 ]
