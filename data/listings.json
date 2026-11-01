@@ -1,5 +1,44 @@
 [
   {
+    "id": "bazos:197062778",
+    "portal": "bazos",
+    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
+    "url": "https://reality.bazos.sk/inzerat/197062778/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
+    "price": 140000,
+    "price_text": "140 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/778/197062778.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
+    "found_at": "2026-11-01T14:57:47.091762+00:00"
+  },
+  {
+    "id": "bazos:197071744",
+    "portal": "bazos",
+    "title": "Predaj 1 izbového bytu Ba Hronska",
+    "url": "https://reality.bazos.sk/inzerat/197071744/predaj-1-izboveho-bytu-ba-hronska.php",
+    "price": 147000,
+    "price_text": "147 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/744/197071744.jpg",
+    "condition": "neznamy",
+    "desc": "Súkromná osoba preda v osobnom vlastníctve 1 izbový byt v Ba časť Podunajské Biskupice,ulica Hronská.Byt má výmeru 36 m plus pivnica 1,30 m,poschodie 5/8.Realitne kancelárie menovite TU reality,Hallo reality týmto žiadam aby ma už nekontaktovali !!! Cena bytu je 147 tie eur. Kontakt 0915051362",
+    "found_at": "2026-11-01T14:57:47.091759+00:00"
+  },
+  {
+    "id": "bazos:197075428",
+    "portal": "bazos",
+    "title": "Štýlový kompletne zariadený 2izb byt s loggiou a parkovaním",
+    "url": "https://reality.bazos.sk/inzerat/197075428/stylovy-kompletne-zariadeny-2izb-byt-s-loggiou-a-parkovanim.php",
+    "price": 224000,
+    "price_text": "224 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/428/197075428.jpg?t=1793542660",
+    "condition": "neznamy",
+    "desc": "Typ: 2-izbový byt\n\rUlica: Na piesku\n\rObec: Bratislava-Ružinov\n\r\n\rRealitná kancelária PORTO REAL GROUP vám ponúka na predaj štýlový, kompletne a vkusne zariadený 2-izbový byt vo vyhľadávanej mestskej časti Bratislava – Ružinov na ulici Na piesku situovaný na 1/3 NP v uzavretom areáli. Predá ...",
+    "found_at": "2026-11-01T14:57:47.091715+00:00"
+  },
+  {
     "id": "bazos:197042124",
     "portal": "bazos",
     "title": "Predaj 1 izbový byt v centre Bratislavy – Šancová ulica | ti",
@@ -46,7 +85,7 @@
     "price": 159900,
     "price_text": "159 900 €",
     "location": "Bratislava 841 02",
-    "image": "https://www.bazos.sk/img/1t/423/196882423.jpg?t=1793351918",
+    "image": "https://www.bazos.sk/img/1t/423/196882423.jpg?t=1793542576",
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Ľuda Zúbka\n\rObec: Bratislava-Dúbravka\n\r\n\rRealitná kancelária PORTO REAL GROUP vám ponúka na predaj 1-izbový byt s veľkou loggiou s krásnym výhľadom do zelene vo vyhľadávanej mestskej časti Bratislava – Dúbravka na ulici Ľuda Zúbka. Je situovaný na 4/9 poschodí čiastočn ...",
     "found_at": "2026-10-26T23:45:16.461848+00:00"
@@ -182,19 +221,6 @@
     "found_at": "2026-10-21T07:27:54.419303+00:00"
   },
   {
-    "id": "bazos:196630900",
-    "portal": "bazos",
-    "title": "KRÁSNY 2 IZB. BYT NA ZAČIATKU PETRŽALKY",
-    "url": "https://reality.bazos.sk/inzerat/196630900/krasny-2-izb-byt-na-zaciatku-petrzalky.php",
-    "price": 224990,
-    "price_text": "224 990 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/900/196630900.jpg?t=1792517465",
-    "condition": "neznamy",
-    "desc": "Aby sme vás trochu priblížili k vášmu snu, ponúkame vám bývanie v perfektnej časti Petržalky, na jej začiatku, na Jungmannovej ulici. Ide o zateplený panelový bytový dom, slušný a čistý, obklopený zelenými plochami. Byt, je 2-izbový, a je naozaj krásny a po úplne novej, kvalitnej a modernej rekonštr",
-    "found_at": "2026-10-18T20:31:53.397512+00:00"
-  },
-  {
     "id": "bazos:196469017",
     "portal": "bazos",
     "title": "Priestranná garsónka s investičným potenciálom,...",
@@ -206,6 +232,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
     "found_at": "2026-10-13T15:52:14.202750+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuHUz33AsMk",
+    "portal": "nehnutelnosti",
+    "title": "Pozrite si novy 2 i byt po cerstvej rekonstrukcii klimatizacia",
+    "url": "https://www.nehnutelnosti.sk/detail/JuHUz33AsMk/pozrite-si-novy-2-i-byt-po-cerstvej-rekonstrukcii-klimatizacia",
+    "price": 204800,
+    "price_text": "204 800",
+    "location": "Bratislava-Karlova Ves",
+    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/gm9W_f8FD_fss?st=yYd55t4wdXU-pUwOKLSCgF9VPfJ9L9LMoAhn2i7xryk&ts=1790945184&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 35.14 m² 204 800 € 5 828,12 €/m² Pozrite si NOVÝ 2 i BYT po ČERSTVEJ REKONŠTRUKCII, KLIMATIZÁCIA Adámiho, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt",
+    "found_at": "2026-10-10T13:33:05.333324+00:00"
   },
   {
     "id": "bazos:196061662",
@@ -232,18 +271,5 @@
     "condition": "neznamy",
     "desc": "1.kolo dobrovoľnej dražby 1izbového bytu na Hrachovej ulici v Bratislave. Byt sa nachádza v uzavretom komplexe s denným vrátnikom a rampou ovládanou prístupovou kartou. Dispozične pozostáva z jednej miestnosti a príslušenstva, ktorým je kuchynský kút, predsieň, kúpeľňa spolu s WC a pivnica o výmere ",
     "found_at": "2026-09-29T08:20:19.927317+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuKGSJc5QM9",
-    "portal": "nehnutelnosti",
-    "title": "Prijemny 2 izbovy byt s jedinecnou sukromnou terasou na ulici jana stanislava",
-    "url": "https://www.nehnutelnosti.sk/detail/JuKGSJc5QM9/prijemny-2-izbovy-byt-s-jedinecnou-sukromnou-terasou-na-ulici-jana-stanislava",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.unitedclassifieds.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/FBt9Wy-tN_fss?st=94Lr6Y9_78QiauchKjmHJTQvCs7xFbQJTYyB-t02So4&ts=1785775469&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV 2 izbový byt 82.29 m² 249 900 € 3 036,82 €/m² Príjemný 2-izbový byt s jedinečnou súkromnou terasou v Karlovej Vsi Jána Stanislava, Bratislava-Karlova Ves, okres Br",
-    "found_at": "2026-08-04T15:31:44.231130+00:00"
   }
 ]
