@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:197129507",
+    "portal": "bazos",
+    "title": "Predaj, dvojizbový byt Bratislava Petržalka, Budatínska",
+    "url": "https://reality.bazos.sk/inzerat/197129507/predaj-dvojizbovy-byt-bratislava-petrzalka-budatinska.php",
+    "price": 250000,
+    "price_text": "250 000 €",
+    "location": "Bratislava 851 10",
+    "image": "https://www.bazos.sk/img/1t/507/197129507.jpg?t=1793685085",
+    "condition": "neznamy",
+    "desc": "Predám priestranný 2-izbový byt v obľúbenej lokalite v Petržalke na Budatínskej ulici. Nachádza sa v polyfunkčnom bytovom dome na 4. z 12 poschodí s dvomi výťahmi. \r\n Podlahová plocha bytu je 62,95 m2 + balkón 3,89 m2. \r\n  \r\n DISPOZÍCIA: Vstupná hala, kuchyňa prepojená s obývacou miestnosťou, spálňa",
+    "found_at": "2026-11-03T06:31:41.709271+00:00"
+  },
+  {
     "id": "reality:36278",
     "portal": "reality",
     "title": "Zariadená garzónka v Karlovej Vsi – ideálna investícia, 36 m²",
@@ -10,98 +23,7 @@
     "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhqdWwvejYyY1VHQW41X2ZzcywtNSwtNSw1MCwzMCwzMCkvanVs/h1CifVo_C_fss?st=llSoU1VBuQ8yRWvqhtgYdERMzQk13OwUmCi9j20eC4Y&amp;ts=1792668193&amp;e=0",
     "condition": "neznamy",
     "desc": "BOND Reality ponúka na predaj nebytový priestor s výmerou 36 m² na ulici Jána Stanislava v Bratislave. Priestor je zariadený na bývanie, aktuálne obývaný nájomcom a predstavuje zaujímavú príležitosť aj pre investora.\n\nZÁKLADNÉ INFORMÁCIE\nVýmera: 36 m²\nTyp: nebytový priestor, vhodný na využitie ako a",
-    "found_at": "2026-11-02T23:25:28.797263+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuWcP6UZnpr",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt v projekte einpark v petrzalke",
-    "url": "https://www.nehnutelnosti.sk/detail/JuWcP6UZnpr/predaj-2-izbovy-byt-v-projekte-einpark-v-petrzalke",
-    "price": 30000,
-    "price_text": "30 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/L_HwdjQSX_fss?st=eXY_NXlSkN29yY7RRdWdetm_UTQVhJRCLBvhKAGDVB8&ts=1791197878&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj kompletne zariadený 2 izbový byt v projekte EINPARK v Petržalke Zadunajská cesta, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 43 m² HERRYS - Na predaj kompletne zariadený 2 izbový byt v projekte EINPARK v Petržalke Realitná kancelária HERRYS ponúka na predaj inve",
-    "found_at": "2026-11-02T23:25:28.797262+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju4uzeAUucZ",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj priestranny 1 izbovy apartman s balkonom v premiovom projekte metropolis",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju4uzeAUucZ/herrys-na-predaj-priestranny-1-izbovy-apartman-s-balkonom-v-premiovom-projekte-metropolis",
-    "price": null,
-    "price_text": "150",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/3y1B1_fKn_fss?st=dRmVlklPj-WT7TsOqhpQOkx59Vty-pIHssQsFasrX3M&ts=1791894652&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj priestranný 1-izbový apartmán s balkónom v prémiovom projekte Metropolis Bottova, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 34.74 m² HERRYS – Na predaj priestranný 1-izbový apartmán s balkónom v prémiovom projekte Metropolis Realitná kancelária HERRYS ponúka",
-    "found_at": "2026-11-02T23:25:28.797260+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTwCEOJcgJ",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj jedinecny 2 izbovy apartman s predzahradkou v premiovom projekte metropolis",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTwCEOJcgJ/herrys-na-predaj-jedinecny-2-izbovy-apartman-s-predzahradkou-v-premiovom-projekte-metropolis",
-    "price": null,
-    "price_text": "200",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/sjtR6w0Ev_fss?st=vC3EdA3aq5LN42V8oBBd3FjRHJZg5ks0tSr22YckxiQ&ts=1792053044&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Bottova, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 51.17 m² HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Realitná kancelária HERRYS p",
-    "found_at": "2026-11-02T23:25:28.797258+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuBGBC7mQe8",
-    "portal": "nehnutelnosti",
-    "title": "Zariadena garzonka v karlovej vsi idealna investicia 36 m2",
-    "url": "https://www.nehnutelnosti.sk/detail/JuBGBC7mQe8/zariadena-garzonka-v-karlovej-vsi-idealna-investicia-36-m2",
-    "price": null,
-    "price_text": "100",
-    "location": "Bratislava-Karlova Ves",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/h1CifVo_C_fss?st=gb_JJnbZPwhl3-kaG_rEOXs4zi_SAM9Dc8in6IzuzFM&ts=1792668193&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Zariadená garzónka v Karlovej Vsi – ideálna investícia, 36 m² Jána Stanislava, Bratislava-Karlova Ves, okres Bratislava IV Garsónka 36 m² BOND Reality ponúka na predaj nebytový priestor s výmerou 36 m² na ulici Jána Stanislava v Bratislave. Priestor je zariadený na bývanie, aktuálne obývaný",
-    "found_at": "2026-11-02T23:25:28.797255+00:00"
-  },
-  {
-    "id": "bazos:197119610",
-    "portal": "bazos",
-    "title": "BabonyTRE / Priestranný 1-izb.byt (s možnosťou prestavby na",
-    "url": "https://reality.bazos.sk/inzerat/197119610/babonytre-priestranny-1-izbbyt-s-moznostou-prestavby-na.php",
-    "price": 188000,
-    "price_text": "188 000 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/610/197119610.jpg?t=1793643869",
-    "condition": "neznamy",
-    "desc": "Hľadáte svetlý byt s krásnym výhľadom do zelene, výbornou dispozíciou a potenciálom vytvoriť si plnohodnotné dvojizbové bývanie?\r\nPonúkame na predaj priestranný 1-izbový byt s výmerou 43 m² na Bakošovej ulici v Lamači, 6p./7. K bytu prislúcha pivnica.\r\nByt zaujme predovšetkým svojou veľkorysou dispo",
-    "found_at": "2026-11-02T23:25:28.797252+00:00"
-  },
-  {
-    "id": "bazos:197119999",
-    "portal": "bazos",
-    "title": "BabonyTRE / Priestranný 1-izb.byt s možnosťou prestavby na 2",
-    "url": "https://reality.bazos.sk/inzerat/197119999/babonytre-priestranny-1-izbbyt-s-moznostou-prestavby-na-2.php",
-    "price": 188000,
-    "price_text": "188 000 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/999/197119999.jpg",
-    "condition": "neznamy",
-    "desc": "Hľadáte svetlý byt s krásnym výhľadom do zelene, výbornou dispozíciou a potenciálom vytvoriť si plnohodnotné dvojizbové bývanie?\r\nPonúkame na predaj priestranný 1-izbový byt s výmerou 43 m² na Bakošovej ulici v Lamači, 6p./7. K bytu prislúcha pivnica.\r\nByt zaujme predovšetkým svojou veľkorysou dispo",
-    "found_at": "2026-11-02T23:25:28.797250+00:00"
-  },
-  {
-    "id": "bazos:197121330",
-    "portal": "bazos",
-    "title": "REB.sk Predaj pekný 1 izbový byt, 35 m2, Dudvážska ulica, BA",
-    "url": "https://reality.bazos.sk/inzerat/197121330/rebsk-predaj-pekny-1-izbovy-byt-35-m2-dudvazska-ulica-ba.php",
-    "price": 153000,
-    "price_text": "153 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/330/197121330.jpg",
-    "condition": "neznamy",
-    "desc": "EKLUZÍVNE V PONUKE REB - REAL PARTNERS.\r\n\r\nPonúkame na predaj zariadený 1 izbový byt na Dudvážskej ul. v Podunajských Biskupiciach s pekným výhľadom.\r\nCelková plocha bytu je 35,29 m2. \r\n\r\nByt má úžitkovú plochu 33,80 m2, nachádza sa na 5/7 poschodí bytového domu.  \r\nK bytu prislúcha aj pivnica o vým",
-    "found_at": "2026-11-02T23:25:28.797248+00:00"
+    "found_at": "2026-11-02T23:25:28.797288+00:00"
   },
   {
     "id": "bazos:197116846",
@@ -114,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/846/197116846.jpg?t=1793640989",
     "condition": "neznamy",
     "desc": "Ako majiteľ predávam štartovací alebo investičný 1-izbový byt s výmerou 36 m² bez balkóna na 10. poschodí bytového domu na Jasovskej ulici. K bytu prislúcha pivnica o výmere 1,4m². Byt je pripravený na okamžité nasťahovanie. Veľkou výhodou je výhľad z okna, nepozeráte na susedov oproti.Bytový dom je",
-    "found_at": "2026-11-02T23:25:28.797222+00:00"
+    "found_at": "2026-11-02T23:25:28.797275+00:00"
   },
   {
     "id": "bazos:196886319",
@@ -349,19 +271,6 @@
     "condition": "neznamy",
     "desc": "BOND Reality ponúka na predaj priestrannú 2-garsónku s výmerou 40,29m² na Stavbárskej ulici v Bratislave – mestskej časti Vrakuňa.\n\nByt sa nachádza na 4. poschodí v bytovom dome s dvoma výťahmi. Je orientovaný do vnútrobloku, bez balkóna a pivnice.\n\nByt je po čiastočnej rekonštrukcii – plastové okná",
     "found_at": "2026-10-03T00:23:55.479899+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JupQ_Gb55nI",
-    "portal": "nehnutelnosti",
-    "title": "2 garsonka 42 m2 investicna prilezitost",
-    "url": "https://www.nehnutelnosti.sk/detail/JupQ_Gb55nI/2-garsonka-42-m2-investicna-prilezitost",
-    "price": 96000,
-    "price_text": "96 000",
-    "location": "Bratislava-Vrakuňa",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/CmtxrhQrj_fss?st=MNNIvqhdfs2_3yXn1C0_IWOkYEa0PKENjT-qTkooXw8&ts=1791978538&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM 2-GARSÓNKA| INVESTIČNÁ PRÍLEŽITOSŤ Stavbárska, Bratislava-Vrakuňa, okres Bratislava II Dvojgarsónka 41 m² BOND Reality ponúka na predaj priestrannú 2-garsónku s výmerou 40,29m² na Stavbárskej ulici v Bratislave – mestskej časti Vrakuňa. Byt sa nachádza na 4. poschodí v bytovom dome s dvoma v",
-    "found_at": "2026-10-03T00:23:55.479897+00:00"
   },
   {
     "id": "bazos:196061662",
