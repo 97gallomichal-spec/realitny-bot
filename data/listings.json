@@ -1,42 +1,55 @@
 [
   {
-    "id": "nehnutelnosti:JusHY1XHaXX",
+    "id": "nehnutelnosti:JuU9FV1wLOK",
     "portal": "nehnutelnosti",
-    "title": "Velkometrazny premiovo zariadeny 3 izbovy byt s terasou v starom meste",
-    "url": "https://www.nehnutelnosti.sk/detail/JusHY1XHaXX/velkometrazny-premiovo-zariadeny-3-izbovy-byt-s-terasou-v-starom-meste",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_36WCfaBr_fss?st=cYWl2xI2j-pPSoB-sgNSttPGnCHGGhV0qrpI_VNdcJc&ts=1791363980&e=0",
+    "title": "Dizajnovy penthouse s vlastnym horizontom a charakterom rodinneho domu",
+    "url": "https://www.nehnutelnosti.sk/detail/JuU9FV1wLOK/dizajnovy-penthouse-s-vlastnym-horizontom-a-charakterom-rodinneho-domu",
+    "price": 139000,
+    "price_text": "139 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Z2D2bQhD-_fss?st=y-84ltYZvbwvYTCuT4MS583k3UUt1XT_ZRF5wkZkeUk&ts=1793813971&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM VÝNIMOČNÝ SPOLOČENSKÝ BYT V HISTORICKOM CENTRE MESTA S NADČASOVOU ATMOSFÉROU Kúpeľná 3, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 83 m² FEDORS GROUP Vám ponúka na predaj výnimočný spoločenský 2-izbový byt na jednej z najžiadanejších adries v absolútnom centre Bratislavy. Nehnut",
-    "found_at": "2026-11-08T07:10:47.283226+00:00"
+    "desc": "PREMIUM Priestranná garsónka na Lachovej ulici v Petržalke Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² Ponúkame na predaj priestrannú garsónku vo vyhľadávanej lokalite v Petržalke - Lachova ulica. Byt má výmeru 28 m2 a nachádza sa na 6. poschodí z 12 v zateplenom bytovom dome s",
+    "found_at": "2026-11-08T15:00:10.549745+00:00"
+  },
+  {
+    "id": "bazos:197300675",
+    "portal": "bazos",
+    "title": "1 izb byt,Zlaté piesky, s pozemkom 250m2,voda, 50m od jazera",
+    "url": "https://reality.bazos.sk/inzerat/197300675/1-izb-bytzlate-piesky-s-pozemkom-250m2voda-50m-od-jazera.php",
+    "price": 140000,
+    "price_text": "140 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/675/197300675.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
+    "found_at": "2026-11-08T15:00:10.549727+00:00"
   },
   {
     "id": "nehnutelnosti:Jugh9sYnh7w",
     "portal": "nehnutelnosti",
     "title": "Dizajnovy penthouse s vlastnym horizontom a charakterom rodinneho domu",
     "url": "https://www.nehnutelnosti.sk/detail/Jugh9sYnh7w/dizajnovy-penthouse-s-vlastnym-horizontom-a-charakterom-rodinneho-domu",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_36WCfaBr_fss?st=cYWl2xI2j-pPSoB-sgNSttPGnCHGGhV0qrpI_VNdcJc&ts=1791363980&e=0",
+    "price": 139000,
+    "price_text": "139 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Z2D2bQhD-_fss?st=y-84ltYZvbwvYTCuT4MS583k3UUt1XT_ZRF5wkZkeUk&ts=1793813971&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM VÝNIMOČNÝ SPOLOČENSKÝ BYT V HISTORICKOM CENTRE MESTA S NADČASOVOU ATMOSFÉROU Kúpeľná 3, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 83 m² FEDORS GROUP Vám ponúka na predaj výnimočný spoločenský 2-izbový byt na jednej z najžiadanejších adries v absolútnom centre Bratislavy. Nehnut",
-    "found_at": "2026-11-08T07:10:47.283223+00:00"
+    "desc": "PREMIUM Priestranná garsónka na Lachovej ulici v Petržalke Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² Ponúkame na predaj priestrannú garsónku vo vyhľadávanej lokalite v Petržalke - Lachova ulica. Byt má výmeru 28 m2 a nachádza sa na 6. poschodí z 12 v zateplenom bytovom dome s",
+    "found_at": "2026-11-08T07:10:47.283239+00:00"
   },
   {
     "id": "nehnutelnosti:Ju9WdmK7UBc",
     "portal": "nehnutelnosti",
     "title": "Vynimocny spolocensky byt v historickom centre mesta s nadcasovou atmosferou",
     "url": "https://www.nehnutelnosti.sk/detail/Ju9WdmK7UBc/vynimocny-spolocensky-byt-v-historickom-centre-mesta-s-nadcasovou-atmosferou",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_36WCfaBr_fss?st=cYWl2xI2j-pPSoB-sgNSttPGnCHGGhV0qrpI_VNdcJc&ts=1791363980&e=0",
+    "price": 139000,
+    "price_text": "139 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Z2D2bQhD-_fss?st=y-84ltYZvbwvYTCuT4MS583k3UUt1XT_ZRF5wkZkeUk&ts=1793813971&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM VÝNIMOČNÝ SPOLOČENSKÝ BYT V HISTORICKOM CENTRE MESTA S NADČASOVOU ATMOSFÉROU Kúpeľná 3, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 83 m² FEDORS GROUP Vám ponúka na predaj výnimočný spoločenský 2-izbový byt na jednej z najžiadanejších adries v absolútnom centre Bratislavy. Nehnut",
-    "found_at": "2026-11-08T07:10:47.283220+00:00"
+    "desc": "PREMIUM Priestranná garsónka na Lachovej ulici v Petržalke Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² Ponúkame na predaj priestrannú garsónku vo vyhľadávanej lokalite v Petržalke - Lachova ulica. Byt má výmeru 28 m2 a nachádza sa na 6. poschodí z 12 v zateplenom bytovom dome s",
+    "found_at": "2026-11-08T07:10:47.283238+00:00"
   },
   {
     "id": "bazos:197288579",
@@ -49,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/579/197288579.jpg",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - vyvýš",
-    "found_at": "2026-11-08T07:10:47.283206+00:00"
+    "found_at": "2026-11-08T07:10:47.283236+00:00"
   },
   {
     "id": "bazos:197283708",
@@ -63,6 +76,19 @@
     "condition": "neznamy",
     "desc": "Ponúkam na predaj 2-izbový byt s veľkorysou metrážou a praktickou dispozíciou v obľúbenej lokalite Ružinov - časť Pošeň. Lokalita je stabilizovaná a plná zelene, s pokojnou atmosférou a zároveň s vybavenou infraštruktúrou a bezproblémovou dopravnou dostupnosťou.\n\n🌟 Základné parametre nehnuteľno ...",
     "found_at": "2026-11-07T20:48:07.845770+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuJ14NsUzWd",
+    "portal": "nehnutelnosti",
+    "title": "Pozrite si vkusny 2 i byt s teraskou a parkingom v garazi",
+    "url": "https://www.nehnutelnosti.sk/detail/JuJ14NsUzWd/pozrite-si-vkusny-2-i-byt-s-teraskou-a-parkingom-v-garazi",
+    "price": null,
+    "price_text": "165",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/02YIJeDkf_fss?st=TBlxWE4sSPDT6K-Ew2Kbc3-BStoTittgMeIXGNY-tMQ&ts=1793374738&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM POZRITE si VKUSNÝ 2 i BYT s TERASKOU a PARKINGOM v GARÁŽI! Martina Granca, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 51.3 m² Michal Novomeský ponúka na PREDAJ VKUSNÝ, NADŠTANDARDNÝ 2-izbový byt s TERASKOU, PIVNICOU a GARÁŽOVÝM STÁTÍM. Voľný je IHNEĎ. VÝHODY BYTU IDEÁLNA VEĽKOSŤ -",
+    "found_at": "2026-11-07T16:18:18.863865+00:00"
   },
   {
     "id": "bazos:197275472",
@@ -130,32 +156,6 @@
     "found_at": "2026-11-07T09:55:07.609068+00:00"
   },
   {
-    "id": "bazos:197253359",
-    "portal": "bazos",
-    "title": "Garsónka vo výbornej lokalite na ulici Lachova",
-    "url": "https://reality.bazos.sk/inzerat/197253359/garsonka-vo-vybornej-lokalite-na-ulici-lachova.php",
-    "price": 139000,
-    "price_text": "139 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/359/197253359.jpg",
-    "condition": "neznamy",
-    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj garsónku na ulici Lachova v Bratislave – Petržalke.\r\n\r\nZNALECKÝ POSUDOK JE V CENE.\r\n\r\nFoto bytu pripravujeme.\r\n\r\nByt je vhodný ako štartovací byt alebo ako investičný byt vďaka svojej polohe. Veľ",
-    "found_at": "2026-11-06T22:59:38.543287+00:00"
-  },
-  {
-    "id": "bazos:197253405",
-    "portal": "bazos",
-    "title": "Garsónka vo vynikajúcej lokalite na ulici Šustekova",
-    "url": "https://reality.bazos.sk/inzerat/197253405/garsonka-vo-vynikajucej-lokalite-na-ulici-sustekova.php",
-    "price": 153000,
-    "price_text": "153 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/405/197253405.jpg",
-    "condition": "neznamy",
-    "desc": "MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999\r\nVám ponúka na predaj garsónku na ulici Šustekova v Bratislave – Petržalke.\r\n\r\nZNALECKÝ POSUDOK JE V CENE.\r\n\r\nByt je vhodný ako štartovací byt alebo ako investičný byt vďaka svojej polohe (blízkosť Ekonomickej univerz",
-    "found_at": "2026-11-06T22:59:38.543286+00:00"
-  },
-  {
     "id": "bazos:197256024",
     "portal": "bazos",
     "title": "PREDAJ - Petržalka (Lachova) - garsónka 34m2",
@@ -180,32 +180,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2 garsónku s lodžiou v Bratislave, mestská časť Vrakuňa na Stavbárskej ulici v bytovom dome Pentagon. Byt sa nachádza v slušnom vchode, na 6.poschodí. Dom má novú vstupnú bránu, je vybavený bezpečnostnými kamerami, má 2 výťahy. \n\nDispozične pozostáva zo vstupnej chodby, kde je kuc",
     "found_at": "2026-11-06T22:59:38.543282+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuYVCc5nMKQ",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy apartman vo veo mestske byvanie na prestiznej adrese",
-    "url": "https://www.nehnutelnosti.sk/detail/JuYVCc5nMKQ/2-izbovy-apartman-vo-veo-mestske-byvanie-na-prestiznej-adrese",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_36WCfaBr_fss?st=cYWl2xI2j-pPSoB-sgNSttPGnCHGGhV0qrpI_VNdcJc&ts=1791363980&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM VÝNIMOČNÝ SPOLOČENSKÝ BYT V HISTORICKOM CENTRE MESTA S NADČASOVOU ATMOSFÉROU Kúpeľná 3, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 83 m² FEDORS GROUP Vám ponúka na predaj výnimočný spoločenský 2-izbový byt na jednej z najžiadanejších adries v absolútnom centre Bratislavy. Nehnut",
-    "found_at": "2026-11-06T09:15:23.181908+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Juv5JyWKnN4",
-    "portal": "nehnutelnosti",
-    "title": "1 izbovy apartman vo veo mestske byvanie na prestiznej adrese",
-    "url": "https://www.nehnutelnosti.sk/detail/Juv5JyWKnN4/1-izbovy-apartman-vo-veo-mestske-byvanie-na-prestiznej-adrese",
-    "price": 249900,
-    "price_text": "249 900",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/_36WCfaBr_fss?st=cYWl2xI2j-pPSoB-sgNSttPGnCHGGhV0qrpI_VNdcJc&ts=1791363980&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM VÝNIMOČNÝ SPOLOČENSKÝ BYT V HISTORICKOM CENTRE MESTA S NADČASOVOU ATMOSFÉROU Kúpeľná 3, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 83 m² FEDORS GROUP Vám ponúka na predaj výnimočný spoločenský 2-izbový byt na jednej z najžiadanejších adries v absolútnom centre Bratislavy. Nehnut",
-    "found_at": "2026-11-06T09:15:23.181907+00:00"
   },
   {
     "id": "bazos:197202640",
@@ -245,6 +219,45 @@
     "condition": "neznamy",
     "desc": "Typ: 2-izbový byt\n\rObec: Bratislava-Petržalka\n\r\n\rNA PREDAJ – PRIESTRANNÝ 2-IZBOVÝ BYT S BALKÓNOM A KLIMATIZÁCIOU, BRATISLAVA – PETRŽALKA, BUDATÍNSKA ULICA\n\nKancelária Realitné Očko Vám ponúka na predaj priestranný 2-izbový byt na Budatínskej ulici v bratislavskej Petržalke. Praktická dispozícia, kli",
     "found_at": "2026-11-04T22:33:55.618518+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuTHiBj0cqa",
+    "portal": "nehnutelnosti",
+    "title": "Premiove byvanie v srdci bratislavy kompletne zariadeny 3 izbovy byt",
+    "url": "https://www.nehnutelnosti.sk/detail/JuTHiBj0cqa/premiove-byvanie-v-srdci-bratislavy-kompletne-zariadeny-3-izbovy-byt",
+    "price": 139000,
+    "price_text": "139 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Z2D2bQhD-_fss?st=y-84ltYZvbwvYTCuT4MS583k3UUt1XT_ZRF5wkZkeUk&ts=1793813971&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranná garsónka na Lachovej ulici v Petržalke Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² Ponúkame na predaj priestrannú garsónku vo vyhľadávanej lokalite v Petržalke - Lachova ulica. Byt má výmeru 28 m2 a nachádza sa na 6. poschodí z 12 v zateplenom bytovom dome s",
+    "found_at": "2026-11-04T17:05:08.021667+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju7k_EZJblj",
+    "portal": "nehnutelnosti",
+    "title": "Priestranna garsonka na lachovej ulici v petrzalke",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju7k_EZJblj/priestranna-garsonka-na-lachovej-ulici-v-petrzalke",
+    "price": 139000,
+    "price_text": "139 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Z2D2bQhD-_fss?st=y-84ltYZvbwvYTCuT4MS583k3UUt1XT_ZRF5wkZkeUk&ts=1793813971&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Priestranná garsónka na Lachovej ulici v Petržalke Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² Ponúkame na predaj priestrannú garsónku vo vyhľadávanej lokalite v Petržalke - Lachova ulica. Byt má výmeru 28 m2 a nachádza sa na 6. poschodí z 12 v zateplenom bytovom dome s",
+    "found_at": "2026-11-03T20:54:17.725019+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuKfT3n826r",
+    "portal": "nehnutelnosti",
+    "title": "Velky 2 izbovy byt s balkonom na budatinskej ulici s parkovacim miestom",
+    "url": "https://www.nehnutelnosti.sk/detail/JuKfT3n826r/velky-2-izbovy-byt-s-balkonom-na-budatinskej-ulici-s-parkovacim-miestom",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SzfD4mNFE_fss?st=FKjNzHAU-hTSOo4rbDcW-OUL6XMBPExycTp-Jtw0Gr0&ts=1793713144&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Veľký 2-izbový byt s balkónom na Budatínskej ulici s parkovacím miestom Budatínska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 67 m² Ponúkame na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite v Petržalke - Budatínska ulica. Byt má výmeru 62,95 m2 + balkón 3,89 m2 a nachá",
+    "found_at": "2026-11-03T14:59:17.200451+00:00"
   },
   {
     "id": "bazos:197146646",
@@ -388,19 +401,6 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 1-izbový byt s výmerou 29 m2 na ulici Andrusovova v Bratislave – Petržalke, ktorá spája účelne využitý priestor s pokojným prostredím. Táto nehnuteľnosť ponúka skvelú možnosť aj v prípade, že hľadáte investičnú nehnuteľnosť.\r\n\r\nByt sa nachádza na zvýšenom prízemí tehlového",
     "found_at": "2026-10-25T18:55:08.852892+00:00"
-  },
-  {
-    "id": "bazos:196820827",
-    "portal": "bazos",
-    "title": "2-IZBOVÝ BYT NA KAZANSKEJ ULICI",
-    "url": "https://reality.bazos.sk/inzerat/196820827/2-izbovy-byt-na-kazanskej-ulici.php",
-    "price": 209000,
-    "price_text": "209 000 €",
-    "location": "Bratislava 811 09",
-    "image": "https://www.bazos.sk/img/1t/827/196820827.jpg?t=1793381916",
-    "condition": "neznamy",
-    "desc": "Ponúkam ako súkromný vlastník na predaj 2-izbový byt na Kazanskej ulici v Bratislave, ktorý má nový, svieži vzhľad a čaká na svojho nového majiteľa.\r\n\r\nByt sa nachádza v bytovom dome z roku 2005 a je ideálnou voľbou pre tých, ktorí si ho chcú sami zariadiť ako svoje prvé bývanie alebo ako investíciu",
-    "found_at": "2026-10-24T18:02:47.049906+00:00"
   },
   {
     "id": "bazos:196469017",
