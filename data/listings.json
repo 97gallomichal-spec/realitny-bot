@@ -1,5 +1,44 @@
 [
   {
+    "id": "nehnutelnosti:JuLIMRAgVum",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt vo vyhladavanej lokalite dubravky",
+    "url": "https://www.nehnutelnosti.sk/detail/JuLIMRAgVum/2-izbovy-byt-vo-vyhladavanej-lokalite-dubravky",
+    "price": 197500,
+    "price_text": "197 500",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/ozwfdLHPp_fss?st=3R0rhunyrwLMiZ5yRQHjnVyS2CdeivMs5VkhPgq25rk&ts=1793340501&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt vo vyhľadávanej lokalite Dúbravky Pekníkova, Bratislava-Dúbravka, okres Bratislava IV 2 izbový byt 49.44 m² EXKLUZÍVNE iba u nás: Ponúkame na predaj 2-izbový byt vo vyhľadávanej lokalite na Pekníkovej ulici v Dúbravke. Byt o výmere 49,44 m2 (vrátane pivnice 1,8 x 1,1 m) sa nachá",
+    "found_at": "2026-11-09T06:03:20.452801+00:00"
+  },
+  {
+    "id": "bazos:197322549",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, jednoizbový byt Bratislava Podunajské",
+    "url": "https://reality.bazos.sk/inzerat/197322549/halo-reality-predaj-jednoizbovy-byt-bratislava-podunajske.php",
+    "price": 228600,
+    "price_text": "228 600 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/549/197322549.jpg?t=1794193749",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnuteľnosť s ID: BA-72639:\nNa predaj Vám ponúkame štýlový 1,5-izbový byt o výmere 48m2 s vlastnou predzáhradkou, ktorá má výmeru 11m2, nachádzajúci sa v obľúbenom projekte na rohu Kazanskej a Uzbeckej ulice v Podunajs",
+    "found_at": "2026-11-09T06:03:20.452788+00:00"
+  },
+  {
+    "id": "bazos:197322788",
+    "portal": "bazos",
+    "title": "Na predaj – veľkometrážny 1 izbový byt s impozantnými výhľad",
+    "url": "https://reality.bazos.sk/inzerat/197322788/na-predaj-velkometrazny-1-izbovy-byt-s-impozantnymi-vyhlad.php",
+    "price": 249900,
+    "price_text": "249 900 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/788/197322788.jpg",
+    "condition": "neznamy",
+    "desc": "Tento sympatický a veľkoryso riešený 1 izbový byt s výmerou 52,80 m² sa nachádza vo výraznej mestskej vile Ing. Bartošku, postavenej na príkrom svahu nad bývalým kameňolomom neďaleko Bratislavského hradu.\nBudova je architektonickým unikátom — jej juhozápadné priečelie zdobí betónová socha strážcu, k",
+    "found_at": "2026-11-09T06:03:20.452787+00:00"
+  },
+  {
     "id": "bazos:197318647",
     "portal": "bazos",
     "title": "Predam 2i / dvojgarsonka delux 53m2",
@@ -10,7 +49,7 @@
     "image": "https://www.bazos.sk/img/1t/647/197318647.jpg?t=1794168315",
     "condition": "neznamy",
     "desc": "Predam dvojgarsonka deluxe - 53m2, najvacsi typ, takmer ako 2i byt dispoziciou.\r\n\r\nVnutorna plocha bytu 48m2\r\nLodgia 4m2\r\nPivnica 1m2 /priamo na poschodi/\r\n\r\nPo starsej rekonstrukcii /okna, dvere, stierky, podlahy, kupelna, vstavana skrina, kuchyna/.\r\nS komplet nabytkom.\r\n\r\nNachadza sa na Fedinovej ",
-    "found_at": "2026-11-08T23:37:52.266461+00:00"
+    "found_at": "2026-11-08T23:37:52.266486+00:00"
   },
   {
     "id": "bazos:197319787",
@@ -23,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/787/197319787.jpg",
     "condition": "neznamy",
     "desc": "REB.SK ponúka na predaj veľkomatrážny 2-izbový byt v centre Starého Mesta s množstvom benefitov.\r\n\r\n\r\nVÝNIMOČNÁ INVESTIČNÁ PRÍLEŽITOSŤ A KOMFORTNÉ BÝVANIE V SRDCI BRATISLAVY – STARÉ MESTO\r\n\r\nRealitná kancelária REB – REAL PARTNERS ponúka na predaj exkluzívny mestský byt situovaný v atraktívnej časti",
-    "found_at": "2026-11-08T23:37:52.266459+00:00"
+    "found_at": "2026-11-08T23:37:52.266484+00:00"
   },
   {
     "id": "bazos:197314949",
@@ -59,36 +98,10 @@
     "price": 219900,
     "price_text": "219 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/579/197288579.jpg",
+    "image": "https://www.bazos.sk/img/1t/579/197288579.jpg?t=1794186649",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - vyvýš",
     "found_at": "2026-11-08T07:10:47.283236+00:00"
-  },
-  {
-    "id": "bazos:197283708",
-    "portal": "bazos",
-    "title": "Predaj priestranného 2-izbového bytu v Bratislave Ružinov",
-    "url": "https://reality.bazos.sk/inzerat/197283708/predaj-priestranneho-2-izboveho-bytu-v-bratislave-ruzinov.php",
-    "price": 235500,
-    "price_text": "235 500 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/708/197283708.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkam na predaj 2-izbový byt s veľkorysou metrážou a praktickou dispozíciou v obľúbenej lokalite Ružinov - časť Pošeň. Lokalita je stabilizovaná a plná zelene, s pokojnou atmosférou a zároveň s vybavenou infraštruktúrou a bezproblémovou dopravnou dostupnosťou.\n\n🌟 Základné parametre nehnuteľno ...",
-    "found_at": "2026-11-07T20:48:07.845770+00:00"
-  },
-  {
-    "id": "bazos:197275472",
-    "portal": "bazos",
-    "title": "Predaj  2-izbového bytu 57m2 s balkónom , Bratislava II.",
-    "url": "https://reality.bazos.sk/inzerat/197275472/predaj-2-izboveho-bytu-57m2-s-balkonom-bratislava-ii.php",
-    "price": 198000,
-    "price_text": "198 000 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/472/197275472.jpg",
-    "condition": "neznamy",
-    "desc": "Ponúkame Vám na predaj  2-izbový byt s balkónom v tehlovom 4podlažnom bytovom dome Residencia Sole na Leknovej ul. katastrálne územie Vrakuňa, Bratislava II.  na 2.poschodí bez výťahu. \r\nBytovový dom sa nachádza v  uzavretom dvore priamo prístupný z ulice Leknová .  Rozloha bytu je 48,19m2 + bakón 5",
-    "found_at": "2026-11-07T16:18:18.863864+00:00"
   },
   {
     "id": "bazos:197255134",
