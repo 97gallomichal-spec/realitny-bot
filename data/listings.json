@@ -1,68 +1,29 @@
 [
   {
-    "id": "nehnutelnosti:JubXK8taeF-",
-    "portal": "nehnutelnosti",
-    "title": "1izb byt s priestrannou logiou s krasnym vyhladom vhodny na rekonstrukciu",
-    "url": "https://www.nehnutelnosti.sk/detail/JubXK8taeF-/1izb-byt-s-priestrannou-logiou-s-krasnym-vyhladom-vhodny-na-rekonstrukciu",
-    "price": 156800,
-    "price_text": "156 800",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/kGzTKwrnE_fss?st=Zf2tR7etQ47FEjqoAXlm2o2oinxHJX8X-8GdsOc4g5I&ts=1794397004&e=0",
-    "condition": "povodny",
-    "desc": "PREMIUM 1izb byt s priestrannou logiou s krásnym výhľadom vhodný na rekonštrukciu Ľuda Zúbka, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 38.13 m² Realitná kancelária PORTO REAL GROUP vám ponúka na predaj 1-izbový byt s veľkou loggiou s krásnym výhľadom do zelene vo vyhľadávanej mestskej č",
-    "found_at": "2026-11-14T21:21:11.894563+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Ju4PHR9lG9B",
-    "portal": "nehnutelnosti",
-    "title": "Stylovy kompletne zariadeny 2izb byt s loggiou a parkovanim",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju4PHR9lG9B/stylovy-kompletne-zariadeny-2izb-byt-s-loggiou-a-parkovanim",
-    "price": 224000,
-    "price_text": "224 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/gZudNyjiH_fss?st=K90kWea-_3nwefgcqDQOmelqDobs9OrTsJWuva9BW8M&ts=1793548299&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Štýlový kompletne zariadený 2izb byt s loggiou a parkovaním Na piesku, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 48.67 m² Realitná kancelária PORTO REAL GROUP vám ponúka na predaj štýlový, kompletne a vkusne zariadený 2-izbový byt vo vyhľadávanej mestskej časti Bratislava – Ružino",
-    "found_at": "2026-11-14T21:21:11.894562+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuAA0g4weIY",
-    "portal": "nehnutelnosti",
-    "title": "Moderny 2 izbovy byt v projekte bory na hradzi s velkou predzahradkou",
-    "url": "https://www.nehnutelnosti.sk/detail/JuAA0g4weIY/moderny-2-izbovy-byt-v-projekte-bory-na-hradzi-s-velkou-predzahradkou",
-    "price": 219000,
-    "price_text": "219 000",
-    "location": "Bratislava-Devínska Nová Ves",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/tCeoZTaLfM_fss?st=xRl15JQ72Es23Eye2AjZ9CqkfJNfhwyl2owtVyfkbyo&ts=1794311111&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Moderný 2 izbový byt v projekte Bory Na Hrádzi s veľkou predzáhradkou Mateja Encingera, Bratislava-Devínska Nová Ves, okres Bratislava IV 2 izbový byt 37 m² Ponúkame na predaj moderný 2 izbový byt s vlastnou predzáhradkou v projekte Bory Na Hrádzi na ulici Mateja Encingera v Bratislave, v me",
-    "found_at": "2026-11-14T21:21:11.894561+00:00"
-  },
-  {
-    "id": "bazos:197517276",
+    "id": "bazos:197525370",
     "portal": "bazos",
-    "title": "RADO | 1-izb. byt s možnosťou úpravy na 2-izbový | 45 m² | S",
-    "url": "https://reality.bazos.sk/inzerat/197517276/rado-1-izb-byt-s-moznostou-upravy-na-2-izbovy-45-m-s.php",
-    "price": 199900,
-    "price_text": "199 900 €",
-    "location": "Bratislava 811 01",
-    "image": "https://www.bazos.sk/img/1t/276/197517276.jpg",
+    "title": "NA PREDAJ UNIKÁTNY 4+1 izb.byt BA-Mlynská Dolina",
+    "url": "https://reality.bazos.sk/inzerat/197525370/na-predaj-unikatny-41-izbbyt-ba-mlynska-dolina.php",
+    "price": null,
+    "price_text": "1 €",
+    "location": "Bratislava 841 04",
+    "image": "https://www.bazos.sk/img/1t/370/197525370.jpg",
     "condition": "neznamy",
-    "desc": "1-izbový byt s možnosťou úpravy na 2-izbový | 45 m² | Staré Mesto – Sokolská, pri Hlavnej stanici\r\n\r\n\r\nVýmera bytu 45 m², izbu s plochou 24 m² a samostatnú miestnosť s plochou 9 m², ktorá doteraz slúžila ako kuchyňa.\r\nKuchynská linka v byte momentálne nie je, takže si sami vyberiete, ako byt usporia",
-    "found_at": "2026-11-14T21:21:11.894560+00:00"
+    "desc": "Typ: 4-izbový byt\n\rUlica: Staré Grunty\n\rObec: Bratislava-Karlova Ves\n\r\n\rAk ste fanúšikom moderných smart riešení, špičkových technológií a luxusných materiálov, tento veľkometrážny, kompletne zmodernizovaný byt je ako stvorený pre Vás. Pivnica a garážové státie v podzemnej garáži v cene. Prémio ...",
+    "found_at": "2026-11-15T09:11:16.823041+00:00"
   },
   {
-    "id": "bazos:197508449",
+    "id": "bazos:197530060",
     "portal": "bazos",
-    "title": "2-izbový  byt v tichej lokalite Podunajských Biskupíc - BA",
-    "url": "https://reality.bazos.sk/inzerat/197508449/2-izbovy-byt-v-tichej-lokalite-podunajskych-biskupic-ba.php",
-    "price": 199900,
-    "price_text": "199 900 €",
-    "location": "Bratislava 821 07",
-    "image": "https://www.bazos.sk/img/1t/449/197508449.jpg?t=1794682672",
+    "title": "NOVÁ CENA - TOP PONUKA- GARSÓNKA NA VILOVEJ ULICI ,PETRŽALKA",
+    "url": "https://reality.bazos.sk/inzerat/197530060/nova-cena-top-ponuka-garsonka-na-vilovej-ulici-petrzalka.php",
+    "price": 133000,
+    "price_text": "133 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/060/197530060.jpg",
     "condition": "neznamy",
-    "desc": "Nie som Realitná kancelária a prosím, aby ma realitné kancelárie nekontaktovali. Byt predávam bez realitky jeden mesiac, potom oslovím svojho vlastného realitného makléra.\r\n\r\nPonúkam na predaj príjemný 2-izbový byt s výmerou 52,54 m² na zvýšenom prízemí zatepleného bytového domu na Hornádskej ulici ",
-    "found_at": "2026-11-14T16:58:13.665833+00:00"
+    "desc": "F071-115-JAOS\n\nPonúkame Vám na predaj Garsónku vo výbornej lokalite na začiatku Petržalky, Vilová ulica. Byt sa nachádza na 5.p/8 o rozlohe 19,78m2.\n\nByt sa nachádza v zateplenom bytovom dome s bránou na čip, novou strechou, novými stúpačkami a novým moderným výťahom.\n\nJe to veľmi tichá ,príjemná lo",
+    "found_at": "2026-11-15T09:11:16.823040+00:00"
   },
   {
     "id": "bazos:197484852",
@@ -312,6 +273,19 @@
     "found_at": "2026-10-29T14:07:43.621259+00:00"
   },
   {
+    "id": "nehnutelnosti:Ju7iIUVmomm",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s predzahradkou v novom projekte v ruzinove stedra",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju7iIUVmomm/2-izbovy-byt-s-predzahradkou-v-novom-projekte-v-ruzinove-stedra",
+    "price": 240500,
+    "price_text": "240 500",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/8n1jDmk_k_fss?st=pAKSlElVtGVvs9zH7BKRCMKRCunCZZ1ZBthwqqZxz0U&ts=1776005756&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM PREDZÁHRADKA - zľava 10% do konca roka - úplne nový 2 izbový byt v štandarde s predzáhradkou v novom projekte v Ružinove - Štedrá Štedrá, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 92 m² Realitná kancelária Tom & Tiles Vám ponúka na predaj 2 izbový byt s priestrannou predzáhradkou",
+    "found_at": "2026-10-26T12:48:01.852987+00:00"
+  },
+  {
     "id": "bazos:196751456",
     "portal": "bazos",
     "title": "Priestranný 1-izbový byt s investičným potenciálom,...",
@@ -338,17 +312,17 @@
     "found_at": "2026-10-25T18:55:08.852892+00:00"
   },
   {
-    "id": "bazos:196469017",
-    "portal": "bazos",
-    "title": "Priestranná garsónka s investičným potenciálom,...",
-    "url": "https://reality.bazos.sk/inzerat/196469017/priestranna-garsonka-s-investicnym-potencialom.php",
-    "price": 149990,
-    "price_text": "149 990 €",
-    "location": "Bratislava 850 09",
-    "image": "https://www.bazos.sk/img/1t/017/196469017.jpg?t=1794334947",
+    "id": "nehnutelnosti:JuZrPkcR4UT",
+    "portal": "nehnutelnosti",
+    "title": "Bosen priestranny a svetly 2 izb byt s investicnym potencialom bratislava vrakuna",
+    "url": "https://www.nehnutelnosti.sk/detail/JuZrPkcR4UT/bosen-priestranny-a-svetly-2-izb-byt-s-investicnym-potencialom-bratislava-vrakuna",
+    "price": 198000,
+    "price_text": "198 000",
+    "location": "Bratislava - Vrakuňa Dvojkrížna",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/WgsB06z1x_fss?st=j5qgzn805PJ6CgWbkvYDBouLW0sezGgQH5N11r8Q7Io&ts=1788206918&e=0",
     "condition": "neznamy",
-    "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
-    "found_at": "2026-10-13T15:52:14.202750+00:00"
+    "desc": "PREMIUM BOSEN | Priestranný a svetlý 2 izb. byt s investičným potenciálom, Bratislava - Vrakuňa Dvojkrížna, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 56.65 m² Bosen Group vám exkluzívne ponúka na predaj priestranný a svetlý 2 izbový byt na Dvojkrížnej ulici v obľúbenej bratislavskej mests",
+    "found_at": "2026-10-25T11:13:39.116535+00:00"
   },
   {
     "id": "bazos:196447164",
@@ -362,5 +336,18 @@
     "condition": "neznamy",
     "desc": "Hľadáte príjemný byt na bývanie alebo na prenájom? Real For You ponúka na predaj svetlý a útulný 1-izbový byt v pokojnej časti Rače.\n\nByt sa predáva kompletne zariadený, s nábytkom aj potrebnými spotrebičmi. Stačí si priniesť osobné veci a môžete bývať. Má praktickú dispozíciu a dostatok miesta na o",
     "found_at": "2026-10-13T00:32:27.336231+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju1M1nexNKo",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s vynimocnymi 87 m2 terasami",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju1M1nexNKo/2-izbovy-byt-s-vynimocnymi-87-m2-terasami",
+    "price": 239990,
+    "price_text": "239 990",
+    "location": "Bratislava-Podunajské Biskupice",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/-2-VbI56p_fss?st=DrQNogoheWnDuFpnB04lRijp7jIHQG0dFlONUl40Vnk&ts=1788853437&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM 2-izbový byt s výnimočnými 87 m² terasami Podzáhradná, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 41 m² Hľadáte byt, ktorý nekončí pri balkónových dverách? Byt B.4.1 v projekte PODZÁHRADNÁ ponúka 41,30 m² premysleného interiéru a až 87,25 m² terás. Spolu tak získate 12",
+    "found_at": "2026-09-29T08:20:19.927327+00:00"
   }
 ]
