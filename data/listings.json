@@ -1,5 +1,18 @@
 [
   {
+    "id": "nehnutelnosti:JuEp9k-aQPc",
+    "portal": "nehnutelnosti",
+    "title": "Slnecny a priestranny 2 izbovy byt s lodziou pri kuchajde",
+    "url": "https://www.nehnutelnosti.sk/detail/JuEp9k-aQPc/slnecny-a-priestranny-2-izbovy-byt-s-lodziou-pri-kuchajde",
+    "price": null,
+    "price_text": "198",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/fmnTBgMai_fss?st=hz-afZkjWXxwUwvh7bSLkKNOe5ZHOux7YVvCTGZ4aNA&ts=1794777329&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Slnečný a priestranný 2-izbový byt s lodžiou pri Kuchajde Tomášikova, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 67.8 m² Konečne priestranný 2-izbový byt pri Kuchajde | Koloseo M&M Reality Group ponúka na predaj priestranný, kompletne zariadený 2-izbový byt v bytovom komplexe Kolos",
+    "found_at": "2026-11-16T01:51:52.321350+00:00"
+  },
+  {
     "id": "bazos:197555380",
     "portal": "bazos",
     "title": "Zariadený 1 izbový byt na ulici Rovniankova v Bratislave",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/380/197555380.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 1 izbový byt na Rovniankovej ulici v Bratislave – Petržalke.\n\nVýmera bytu je 26,56 m2, loggie 3 m2 a pivnice 2,07 m2.\n\nByt sa nachádza na 2. (3NP) v 12. (13NP) poschodovom zateplenom bytovom dome s dvomi výťahmi. \n\nDispozícia bytu: Vstupná predsieň, v ktorej sa nachádza kuchyňa. I",
-    "found_at": "2026-11-15T21:40:07.773352+00:00"
+    "found_at": "2026-11-15T21:40:07.773367+00:00"
   },
   {
     "id": "bazos:197555565",
@@ -23,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/565/197555565.jpg",
     "condition": "neznamy",
     "desc": "Ponúkame Vám na predaj veľký 2-izbový byt na ul. Nezábudková, Ružinov – Trávniky. \r\n\r\nVýmera 67 m2 s murovaným kumbálom, nachádza sa na 1.p./7 v zateplenom panelovom dome s novým výťahom (pod bytom je prízemný byt). \r\n\r\nZaujímavá investičná príležitosť – byt je aktuálne prenajatý, pričom po vzájomne",
-    "found_at": "2026-11-15T21:40:07.773351+00:00"
+    "found_at": "2026-11-15T21:40:07.773365+00:00"
   },
   {
     "id": "bazos:197543137",
@@ -189,7 +202,7 @@
     "price": 219900,
     "price_text": "219 900 €",
     "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/579/197288579.jpg?t=1794533151",
+    "image": "https://www.bazos.sk/img/1t/579/197288579.jpg?t=1794792369",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - vyvýš",
     "found_at": "2026-11-08T07:10:47.283236+00:00"
@@ -232,19 +245,6 @@
     "condition": "neznamy",
     "desc": "Predám slnečný 2-izbový byt na Nejedlého ulici v Bratislave – Dúbravke. Ponúka zariadený interiér s nábytkom na mieru, klimatizáciu a zasklený balkón s elektrickým tienením. Je pripravený na nasťahovanie, bez potreby rekonštrukcie.\n\nByt má podlahovú plochu 40,11 m² a balkón s výmerou 5 m², spolu 45,",
     "found_at": "2026-11-03T14:59:17.200444+00:00"
-  },
-  {
-    "id": "bazos:196886319",
-    "portal": "bazos",
-    "title": "Priestranný 2 izbový byt vo vyhľadávanej lokalite - BA...",
-    "url": "https://reality.bazos.sk/inzerat/196886319/priestranny-2-izbovy-byt-vo-vyhladavanej-lokalite-ba.php",
-    "price": 249990,
-    "price_text": "249 990 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/319/196886319.jpg?t=1794236809",
-    "condition": "neznamy",
-    "desc": "TUreality ponúka na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite Bratislava – Ružinov, na Trenčianskej ulici. Byt s výmerou 62 m2 sa nachádza na 2. poschodí bytového domu a ponúka príjemný priestor pre komfortné mestské bývanie. Súčasťou bytu je aj pivničná kobka, ktorá poskytuje praktic",
-    "found_at": "2026-11-02T15:34:50.301245+00:00"
   },
   {
     "id": "bazos:196989690",
@@ -310,5 +310,18 @@
     "condition": "neznamy",
     "desc": "Hľadáte príjemný byt na bývanie alebo na prenájom? Real For You ponúka na predaj svetlý a útulný 1-izbový byt v pokojnej časti Rače.\n\nByt sa predáva kompletne zariadený, s nábytkom aj potrebnými spotrebičmi. Stačí si priniesť osobné veci a môžete bývať. Má praktickú dispozíciu a dostatok miesta na o",
     "found_at": "2026-10-13T00:32:27.336231+00:00"
+  },
+  {
+    "id": "bazos:196354813",
+    "portal": "bazos",
+    "title": "Výmena  2-izbový byt v TT, za podobný byt( 1-izbový ) v BA.",
+    "url": "https://reality.bazos.sk/inzerat/196354813/vymena-2-izbovy-byt-v-tt-za-podobny-byt-lokalita-v-ba.php",
+    "price": 207000,
+    "price_text": "207 000 €",
+    "location": "Bratislava 811 01",
+    "image": "https://www.bazos.sk/img/1t/813/196354813.jpg?t=1794790694",
+    "condition": "povodny",
+    "desc": "Vymením (možný predaj) 2-izbový byt 52m2, zvýšené prízemie, bez balkóna, zachovalý pôvodný stav, 1x klíma, ulica Ľudmily Podjavorinskej v Trnave bez finančného doplatku, za podobný byt (môže aj 1-izbový byt, cca 40m2, kde je  samostatná kuchyňa, izba) aj lokalitu v Bratislave. Som majiteľ bytu a kom",
+    "found_at": "2026-10-10T06:57:08.932881+00:00"
   }
 ]
