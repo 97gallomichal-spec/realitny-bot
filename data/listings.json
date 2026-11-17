@@ -1,5 +1,57 @@
 [
   {
+    "id": "nehnutelnosti:JuLFdumod_B",
+    "portal": "nehnutelnosti",
+    "title": "Rivers na predaj 4 izbovy byt s vyhladom na hrad panorama city",
+    "url": "https://www.nehnutelnosti.sk/detail/JuLFdumod_B/rivers-na-predaj-4-izbovy-byt-s-vyhladom-na-hrad-panorama-city",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava Devínska Nová Ves",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/epeZRFUR0_fss?st=Zhta6zlqerZ9N7ARtmzXYfgCfG051EubQv4FE7Y-7_I&ts=1783635052&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Devínska Nová Ves, Opletalova, s predzáhradkou - EXKLUZÍVNE HALO REALITY Opletalova, Bratislava-Devínska Nová Ves, okres Bratislava IV 1 izbový byt 46 m² Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnute",
+    "found_at": "2026-11-17T03:42:09.461286+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Jukcno7mo8M",
+    "portal": "nehnutelnosti",
+    "title": "Na predaj investicna prilezitost garsonka na boriku svetla ulba i",
+    "url": "https://www.nehnutelnosti.sk/detail/Jukcno7mo8M/na-predaj-investicna-prilezitost-garsonka-na-boriku-svetla-ulba-i",
+    "price": 179900,
+    "price_text": "179 900",
+    "location": "Bratislava-Staré Mesto",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/JQtO8nXEA_fss?st=2Jqtp8pmbCpZm2ugBploJuXMrFa6injkg0QCdH2rqbs&ts=1780329882&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM NA PREDAJ: Investičná príležitosť - garsónka na Bôriku, Svetlá ul.,BA I. Svetlá, Bratislava-Staré Mesto, okres Bratislava I Garsónka 28 m² Hľadáte investíciu, ktorá vďaka svojej adrese vždy bude TOPkou? Realitná kancelária REMAX Expert Vám teraz vo výhradnom zatúpení klienta presne takú ponú",
+    "found_at": "2026-11-17T03:42:09.461285+00:00"
+  },
+  {
+    "id": "bazos:197599348",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Staré Mesto",
+    "url": "https://reality.bazos.sk/inzerat/197599348/halo-reality-predaj-dvojizbovy-byt-bratislava-stare-mesto.php",
+    "price": 250000,
+    "price_text": "250 000 €",
+    "location": "Bratislava 831 04",
+    "image": "https://www.bazos.sk/img/1t/348/197599348.jpg?t=1794877627",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Ing. Daniel Pribičko, kontakt: 0948 402 243, nehnuteľnosť s ID: BA-74402:\nPonúkame na predaj štýlový 2-izbový byt s výmerou 45 m2 a murovanou pivnicou 3,5 m2 na Šancovej ulici v Bratislave – Starom Meste, kde sa pulzujúci mestský život stretáva s pokojom zeleného v",
+    "found_at": "2026-11-17T03:42:09.461272+00:00"
+  },
+  {
+    "id": "bazos:196250296",
+    "portal": "bazos",
+    "title": "NA PREDAJ: Investičná príležitosť - garsónka na Bôriku, Svet",
+    "url": "https://reality.bazos.sk/inzerat/196250296/na-predaj-investicna-prilezitost-garsonka-na-boriku-svet.php",
+    "price": 179900,
+    "price_text": "179 900 €",
+    "location": "Bratislava 811 02",
+    "image": "https://www.bazos.sk/img/1t/296/196250296.jpg?t=1794861737",
+    "condition": "neznamy",
+    "desc": "Hľadáte investíciu, ktorá vďaka svojej adrese vždy bude TOPkou? Realitná kancelária REMAX Expert Vám teraz vo výhradnom zatúpení klienta presne takú ponúka. \n\nPri investičných nehnuteľnostiach existuje jednoduché pravidlo, ktoré sa nemení ani po rokoch: lokalitu nie je možné nahradiť.\n\nTáto garzónka",
+    "found_at": "2026-11-17T03:42:09.461245+00:00"
+  },
+  {
     "id": "bazos:197595585",
     "portal": "bazos",
     "title": "RADO | 1-IZB. BYT 38m²+7m² BALKÓN | PARKOVANIE | PODUNAJSKÉ",
@@ -10,7 +62,7 @@
     "image": "https://www.bazos.sk/img/1t/585/197595585.jpg",
     "condition": "neznamy",
     "desc": "RADOReality Vám ponúka [b]na predaj moderný 1-izbový byt s podlahovou plochou 38 m² a balkónom s výmerou 7 m²[/b]. Byt sa nachádza na 2. poschodí tehlového domu v radovej zástavbe bytových domov, postaveného v roku 2017 na Ligurčekovej ulici v Bratislave – Podunajských Biskupiciach.\n\nByt je kompletn",
-    "found_at": "2026-11-16T20:17:50.067461+00:00"
+    "found_at": "2026-11-16T20:17:50.067485+00:00"
   },
   {
     "id": "bazos:197595635",
@@ -23,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/635/197595635.jpg",
     "condition": "neznamy",
     "desc": "RADO Reality Vám ponúka 2-IZBOVÝ BYT S VÝMEROU 50 m² V RAČI: Vymenená medená elektrika, zateplený dom a výborná dostupnosť električky!\n\nHľadáte priestranný, bezpečný a svetlý domov v jednej z najzelenších častí Bratislavy, kde nebudete musieť hneď riešiť drahú rekonštrukciu?\nPonúkame na predaj výbor",
-    "found_at": "2026-11-16T20:17:50.067459+00:00"
+    "found_at": "2026-11-16T20:17:50.067484+00:00"
   },
   {
     "id": "bazos:197596056",
@@ -36,7 +88,7 @@
     "image": "https://www.bazos.sk/img/1t/056/197596056.jpg",
     "condition": "neznamy",
     "desc": "BYVO ponúka na predaj útulnú celoročne obývateľnú chatku v záhradkárskej oblasti pri Zlatých pieskoch v Bratislave\r\nTáto nehnuteľnosť ponúka ideálne spojenie mestského komfortu a vidieckeho pokoja - vlastný pozemok, 50 metrov od jazera, a možnosť celoročného bývania.\r\n\r\nVýhody nehnuteľnosti\r\n    • l",
-    "found_at": "2026-11-16T20:17:50.067457+00:00"
+    "found_at": "2026-11-16T20:17:50.067482+00:00"
   },
   {
     "id": "bazos:197584212",
@@ -49,7 +101,7 @@
     "image": "https://www.bazos.sk/img/1t/212/197584212.jpg?t=1794837720",
     "condition": "povodny",
     "desc": "Výhľad, ktorý vás neomrzí, skvelá lokalita a priestor na bývanie presne podľa vašich predstáv!\n\nPonúkame na predaj priestrannú garzónku s nadštandardnou výmerou 38 m² na 11. poschodí z 12 na Nobelovom námestí v Petržalke.\n\nByt v pôvodnom stave je kompletne vyprataný a pripravený na rekonštrukciu. Vď",
-    "found_at": "2026-11-16T20:17:50.067427+00:00"
+    "found_at": "2026-11-16T20:17:50.067480+00:00"
   },
   {
     "id": "bazos:197543137",
@@ -63,6 +115,32 @@
     "condition": "neznamy",
     "desc": "NA KÚPU JE POTREBNÁ LEN HOTOVOSŤ, resp. zabezpečenie HÚ inou nehnuteľnostou, byt je na LV vedený ako priestor. \r\nRealitná kancelária Konig-real Vám, ponúka na predaj jedinečný  menší 2-izbový byt ( 2-Garsónka) o výmere 45m2+ 16m2 parkovacie miesto a Terasa o výmere 16m2. \r\nByt je v stave bez kuchyns",
     "found_at": "2026-11-15T16:58:09.383196+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuttelFewT9",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava stare mesto lazaretska exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuttelFewT9/halo-reality-predaj-jednoizbovy-byt-bratislava-stare-mesto-lazaretska-exkluzivne-halo-reality",
+    "price": 205990,
+    "price_text": "205 990",
+    "location": "Bratislava Staré Mesto",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6G27LT3TN_fss?st=Voj8aOf7NzeauHZXmu5L0P6--nySLtRQf5Xx0qTFenQ&ts=1794525820&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 35 m² Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnuteľnosť s ID: BA-74395: Hľadáte",
+    "found_at": "2026-11-14T03:03:27.876138+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju2NNREiA8D",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava devinska nova ves opletalova s predzahradkou exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju2NNREiA8D/halo-reality-predaj-jednoizbovy-byt-bratislava-devinska-nova-ves-opletalova-s-predzahradkou-exkluzivne-halo-reality",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava Devínska Nová Ves",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/epeZRFUR0_fss?st=Zhta6zlqerZ9N7ARtmzXYfgCfG051EubQv4FE7Y-7_I&ts=1783635052&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Devínska Nová Ves, Opletalova, s predzáhradkou - EXKLUZÍVNE HALO REALITY Opletalova, Bratislava-Devínska Nová Ves, okres Bratislava IV 1 izbový byt 46 m² Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnute",
+    "found_at": "2026-11-14T03:03:27.876137+00:00"
   },
   {
     "id": "bazos:197484852",
@@ -156,6 +234,19 @@
     "found_at": "2026-11-11T10:42:56.243776+00:00"
   },
   {
+    "id": "nehnutelnosti:JuoiphvJ8i6",
+    "portal": "nehnutelnosti",
+    "title": "Velky 2 izbovy byt s balkonom na budatinskej ulici s parkovacim miestom",
+    "url": "https://www.nehnutelnosti.sk/detail/JuoiphvJ8i6/velky-2-izbovy-byt-s-balkonom-na-budatinskej-ulici-s-parkovacim-miestom",
+    "price": 250000,
+    "price_text": "250 000",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SzfD4mNFE_fss?st=FKjNzHAU-hTSOo4rbDcW-OUL6XMBPExycTp-Jtw0Gr0&ts=1793713144&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Veľký 2-izbový byt s balkónom na Budatínskej ulici s parkovacím miestom Budatínska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 69 m² Ponúkame na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite v Petržalke - Budatínska ulica. Byt má výmeru 63,62 m2 + balkón 5,33 m2 a nachá",
+    "found_at": "2026-11-10T22:17:44.476050+00:00"
+  },
+  {
     "id": "bazos:197386836",
     "portal": "bazos",
     "title": "Ideálna štartovacia garsónka s loggiou- Rybničná ulica",
@@ -195,19 +286,6 @@
     "found_at": "2026-11-09T16:01:22.786126+00:00"
   },
   {
-    "id": "bazos:197288579",
-    "portal": "bazos",
-    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Karlova Ves",
-    "url": "https://reality.bazos.sk/inzerat/197288579/halo-reality-predaj-dvojizbovy-byt-bratislava-karlova-ves.php",
-    "price": 219900,
-    "price_text": "219 900 €",
-    "location": "Bratislava 841 05",
-    "image": "https://www.bazos.sk/img/1t/579/197288579.jpg?t=1794792369",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-73835:\nPonúkame na predaj kompletne zariadený 2-izbový byt na Pribišovej ulici v mestskej časti Bratislava – Karlova Ves.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 46,5 m2 \n - vyvýš",
-    "found_at": "2026-11-08T07:10:47.283236+00:00"
-  },
-  {
     "id": "bazos:197275472",
     "portal": "bazos",
     "title": "Predaj  2-izbový byt 57m2 s balkónom , Bratislava II.",
@@ -234,19 +312,6 @@
     "found_at": "2026-11-04T22:33:55.618518+00:00"
   },
   {
-    "id": "nehnutelnosti:JuWcP6UZnpr",
-    "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt v projekte einpark v petrzalke",
-    "url": "https://www.nehnutelnosti.sk/detail/JuWcP6UZnpr/predaj-2-izbovy-byt-v-projekte-einpark-v-petrzalke",
-    "price": 30000,
-    "price_text": "30 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/L_HwdjQSX_fss?st=eXY_NXlSkN29yY7RRdWdetm_UTQVhJRCLBvhKAGDVB8&ts=1791197878&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj kompletne zariadený 2 izbový byt v projekte EINPARK v Petržalke Zadunajská cesta, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 43 m² HERRYS - Na predaj kompletne zariadený 2 izbový byt v projekte EINPARK v Petržalke Realitná kancelária HERRYS ponúka na predaj inve",
-    "found_at": "2026-11-02T23:25:28.797286+00:00"
-  },
-  {
     "id": "nehnutelnosti:Ju4uzeAUucZ",
     "portal": "nehnutelnosti",
     "title": "Herrys na predaj priestranny 1 izbovy apartman s balkonom v premiovom projekte metropolis",
@@ -271,6 +336,19 @@
     "condition": "neznamy",
     "desc": "PREMIUM HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Bottova, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 51.17 m² HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Realitná kancelária HERRYS p",
     "found_at": "2026-11-02T23:25:28.797283+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuRKG6ahD8n",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s balkonom ba ruzinov astrova ulica 17 posch 57m2 ciastocna rekonstrukcia zariadeny",
+    "url": "https://www.nehnutelnosti.sk/detail/JuRKG6ahD8n/2-izbovy-byt-s-balkonom-ba-ruzinov-astrova-ulica-17-posch-57m2-ciastocna-rekonstrukcia-zariadeny",
+    "price": null,
+    "price_text": "139",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9oiEVLq28_fss?st=E1jBO9IBRV-7eKhJeIMkvVjmhPEaGn1nhPdh22lyPc4&ts=1792697072&e=0",
+    "condition": "povodny",
+    "desc": "PREMIUM 2 izbový byt s balkónom, BA- Ružinov, Astrová ulica, 1/7 posch., 57m2, vynikajúca poloha, čiastočná rekonštrukcia, zariadený Astrová, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Realitná kancelária DAJANA reality, s.r.o., Vám exkluzívne ponúka na predaj svetlý a veľmi príjemný",
+    "found_at": "2026-11-02T15:34:50.301248+00:00"
   },
   {
     "id": "bazos:196886319",
@@ -338,29 +416,16 @@
     "found_at": "2026-10-10T06:57:08.932881+00:00"
   },
   {
-    "id": "nehnutelnosti:JuI6BDQEGx3",
+    "id": "nehnutelnosti:Ju83tL0peLL",
     "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk byt s balkonom v projekte agaty s investicnym potencialom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuI6BDQEGx3/herrys-na-predaj-15-kk-byt-s-balkonom-v-projekte-agaty-s-investicnym-potencialom",
-    "price": null,
-    "price_text": "150",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/lg5dMgu24_fss?st=lBUxvXeV7QYxJPAe0js36BFLok_9QtxzSadUdp6uMaA&ts=1791274166&e=0",
+    "title": "Utulny byt s charizmou vo vyhladavanej lokalite prazska 17 bratislava stare mesto",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju83tL0peLL/utulny-byt-s-charizmou-vo-vyhladavanej-lokalite-prazska-17-bratislava-stare-mesto",
+    "price": 244900,
+    "price_text": "244 900",
+    "location": "Bratislava - Staré mesto Pražská",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/xyXjxtEW8_fss?st=7rSrd_Ul8MR-8BZv4YfQ4JAzT7OQ9NL8rJ-fc7Z1CW8&ts=1790067829&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj 1,5-izbový byt s balkónom v projekte AGÁTY s investičným potenciálom Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 34.78 m² HERRYS – Na predaj 1,5-izbový byt s balkónom v projekte AGÁTY s investičným potenciálom Realitná kancelária HERRYS ponúka exkluzívne",
-    "found_at": "2026-10-09T20:49:46.593018+00:00"
-  },
-  {
-    "id": "nehnutelnosti:Jui6mWU-wL5",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj 15 kk apartman v projekte agaty v dubravke s bazenom a bezbarierovym riesenim",
-    "url": "https://www.nehnutelnosti.sk/detail/Jui6mWU-wL5/herrys-na-predaj-15-kk-apartman-v-projekte-agaty-v-dubravke-s-bazenom-a-bezbarierovym-riesenim",
-    "price": null,
-    "price_text": "153",
-    "location": "Bratislava-Dúbravka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/Fp6EYe2dr_fss?st=BcnIBaabA1vxuOHr7mhYx0j6Ai-3HaQMhuxEuZat2vA&ts=1785932171&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Realitná kancelária",
-    "found_at": "2026-08-07T11:52:19.426047+00:00"
+    "desc": "PREMIUM Útulný byt s charizmou vo vyhľadávanej lokalite | Pražská 17, Bratislava - Staré mesto Pražská 17, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 52.6 m² RE/MAX Diamond ponúka na predaj byt, ktorý v sebe spája šmrnc mestského bývania a zaujímavé dispozičné riešenie. Nachádza sa na o",
+    "found_at": "2026-09-24T14:55:46.038432+00:00"
   }
 ]
