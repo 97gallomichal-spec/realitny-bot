@@ -1,29 +1,16 @@
 [
   {
-    "id": "bazos:197615220",
+    "id": "bazos:197619969",
     "portal": "bazos",
-    "title": "PRIESTRANNÝ BYT SO ZÁHRADOU A S PARKOVANÍM / BRATISLAVA IV.",
-    "url": "https://reality.bazos.sk/inzerat/197615220/priestranny-byt-so-zahradou-a-s-parkovanim-bratislava-iv.php",
-    "price": 123456,
-    "price_text": "123 456 €",
-    "location": "Bratislava 841 06",
-    "image": "https://www.bazos.sk/img/1t/220/197615220.jpg?t=1794914132",
+    "title": "svetlý 2 izbový byt",
+    "url": "https://reality.bazos.sk/inzerat/197619969/svetly-2-izbovy-byt.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/969/197619969.jpg?t=1794922938",
     "condition": "neznamy",
-    "desc": "onúkam na predaj priestranný, klimatizovaný a bezbariérový 3+1 izbový byt S KRBOM, so záhradou a s parkovaním, ktorý je situovaný na 1.podlaží v trojpodlažnom zateplenom tehlovom obytnom dome (r.2011) len s tromi bytovými jednotkami v atraktívnej lokalite Bratislavy m.č. Záhorská Bystrica na ulici S",
-    "found_at": "2026-11-17T13:06:52.158521+00:00"
-  },
-  {
-    "id": "bazos:197618914",
-    "portal": "bazos",
-    "title": "2-izbový byt s balkónom a výhľadom do parku – Guothova ulica",
-    "url": "https://reality.bazos.sk/inzerat/197618914/2-izbovy-byt-s-balkonom-a-vyhladom-do-parku-guothova-ulica.php",
-    "price": 229900,
-    "price_text": "229 900 €",
-    "location": "Bratislava 831 01",
-    "image": "https://www.bazos.sk/img/1t/914/197618914.jpg",
-    "condition": "neznamy",
-    "desc": "AVE estate Vám ponúka na predaj príjemný 2-izbový byt s balkónom na Kramároch – Guothová ulica.\r\nByt sa nachádza v mimoriadne pokojnom prostredí obklopenom zeleňou, ktoré napriek svojej polohe v hlavnom meste poskytuje dostatok súkromia a pokoja, no zároveň ponúka kompletnú občiansku vybavenosť v pe",
-    "found_at": "2026-11-17T13:06:52.158520+00:00"
+    "desc": "Predám slnečný 2-izbový byt nachádzajúci sa v kľudnej lokalite Vrakune. Byt sa nachádza v zateplenom nízko podlažnom bytovom dome bez výťahu a vďaka veľkým oknám pôsobí veľmi vzdušne a svetlo.\r\n\r\nZákladné parametre:\r\n\r\n• Lokalita: Hnilecká ulica, Bratislava - Vrakuňa\r\n• Poschodie: 2/3\r\n• Plocha: 49,",
+    "found_at": "2026-11-17T21:44:05.376852+00:00"
   },
   {
     "id": "bazos:196250296",
@@ -169,19 +156,6 @@
     "found_at": "2026-11-10T22:17:44.476046+00:00"
   },
   {
-    "id": "bazos:197381785",
-    "portal": "bazos",
-    "title": "🔥 PREDAJ INVESTIČNEJ GARSÓNKY V OBĽÚBENEJ LOKALITE RUŽINOVA",
-    "url": "https://reality.bazos.sk/inzerat/197381785/predaj-investicnej-garsonky-v-oblubenej-lokalite-ruzinova.php",
-    "price": 109990,
-    "price_text": "109 990 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/785/197381785.jpg?t=1794323134",
-    "condition": "neznamy",
-    "desc": "Hľadáte nehnuteľnosť, ktorá nenechá Vaše peniaze požierať infláciou? Byty v tejto lokalite sú dlhodobo najžiadanejším artiklom v Bratislave. Či už hľadáte bezpečný prístav pre investíciu, štartovacie bývanie alebo priestor na podnikanie, táto ponuka spĺňa všetko.\n \n📍 LOKALITA, KTORÚ NÁJOMCOVIA  ...",
-    "found_at": "2026-11-10T16:57:58.706531+00:00"
-  },
-  {
     "id": "bazos:197345268",
     "portal": "bazos",
     "title": "Útulný 2 izbový byt na Rajčianskej ulici - 54 m2 | BA...",
@@ -225,10 +199,10 @@
     "portal": "bazos",
     "title": "Priestranný 2 izbový byt vo vyhľadávanej lokalite - BA...",
     "url": "https://reality.bazos.sk/inzerat/196886319/priestranny-2-izbovy-byt-vo-vyhladavanej-lokalite-ba.php",
-    "price": 249990,
-    "price_text": "249 990 €",
+    "price": 247990,
+    "price_text": "247 990 €",
     "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/319/196886319.jpg?t=1794821699",
+    "image": "https://www.bazos.sk/img/1t/319/196886319.jpg?t=1794928255",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite Bratislava – Ružinov, na Trenčianskej ulici. Byt s výmerou 62 m2 sa nachádza na 2. poschodí bytového domu a ponúka príjemný priestor pre komfortné mestské bývanie. Súčasťou bytu je aj pivničná kobka, ktorá poskytuje praktic",
     "found_at": "2026-11-02T15:34:50.301245+00:00"
@@ -260,17 +234,30 @@
     "found_at": "2026-10-29T14:07:43.621259+00:00"
   },
   {
-    "id": "nehnutelnosti:JuDIBNxrg0E",
-    "portal": "nehnutelnosti",
-    "title": "Gaudio reality zariadeny dve izby s balkonom na muchovom namesti garazove parkovanie",
-    "url": "https://www.nehnutelnosti.sk/detail/JuDIBNxrg0E/gaudio-reality-zariadeny-dve-izby-s-balkonom-na-muchovom-namesti-garazove-parkovanie",
-    "price": 30000,
-    "price_text": "30 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/5aBGu1CSX_fss?st=TBRzHutEROldCPGhqwVVSNzhG5v_XXA4bWpynaAcSps&ts=1792867860&e=0",
+    "id": "bazos:196751456",
+    "portal": "bazos",
+    "title": "Priestranný 1-izbový byt s investičným potenciálom,...",
+    "url": "https://reality.bazos.sk/inzerat/196751456/priestranny-1-izbovy-byt-s-investicnym-potencialom.php",
+    "price": 149990,
+    "price_text": "149 990 €",
+    "location": "Bratislava 850 09",
+    "image": "https://www.bazos.sk/img/1t/456/196751456.jpg?t=1794931911",
     "condition": "neznamy",
-    "desc": "PREMIUM GAUDIO reality | zariadený, dve izby s lodžiou na Muchovom námestí | Garážové parkovanie Muchovo námestie, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 41 m² Samostatná spálňa, zariadenie zahrnuté v predaji, priestranná lodžia a poloha na začiatku Petržalky. Nehnuteľnosť na Muchovom",
-    "found_at": "2026-10-24T20:39:50.914591+00:00"
+    "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
+    "found_at": "2026-10-25T18:55:08.852893+00:00"
+  },
+  {
+    "id": "bazos:196469017",
+    "portal": "bazos",
+    "title": "Priestranná garsónka s investičným potenciálom,...",
+    "url": "https://reality.bazos.sk/inzerat/196469017/priestranna-garsonka-s-investicnym-potencialom.php",
+    "price": 149990,
+    "price_text": "149 990 €",
+    "location": "Bratislava 850 09",
+    "image": "https://www.bazos.sk/img/1t/017/196469017.jpg?t=1794931890",
+    "condition": "neznamy",
+    "desc": "TUreality ponúka na predaj priestrannú garsónku s investičným potenciálom.  Bytový dom sa nachádza na ulici Švabinského v Bratislave - Petržalka. \r\n\r\nByt s výmerou 30 m2 sa nachádza na 1.poschodí bytového domu. Bytový dom je zateplený. \r\nAk hľadáte svoje prvé bývanie alebo skvelú investičnú príležit",
+    "found_at": "2026-10-13T15:52:14.202750+00:00"
   },
   {
     "id": "bazos:196447164",
