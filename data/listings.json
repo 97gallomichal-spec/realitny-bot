@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:197635394",
+    "portal": "bazos",
+    "title": "Na predaj útulná garsónka na Fedinovej ulici - Petržalka",
+    "url": "https://reality.bazos.sk/inzerat/197635394/na-predaj-utulna-garsonka-na-fedinovej-ulici-petrzalka.php",
+    "price": 169900,
+    "price_text": "169 900 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/394/197635394.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária Mentor Group Real Estate ponúka na predaj útulnú a praktickú garsónku na Fedinovej ulici v Petržalke, vhodná nielen na vlastné bývanie, ale aj ako zaujímavá investičná príležitosť. \nCelková výmera 35 m², z toho tvorí balón o výmere 6 m2, ktorý ponúka príjemný priestor na posedeni",
+    "found_at": "2026-11-18T03:38:03.856356+00:00"
+  },
+  {
     "id": "bazos:197619969",
     "portal": "bazos",
     "title": "svetlý 2 izbový byt",
@@ -10,7 +23,7 @@
     "image": "https://www.bazos.sk/img/1t/969/197619969.jpg?t=1794922938",
     "condition": "neznamy",
     "desc": "Predám slnečný 2-izbový byt nachádzajúci sa v kľudnej lokalite Vrakune. Byt sa nachádza v zateplenom nízko podlažnom bytovom dome bez výťahu a vďaka veľkým oknám pôsobí veľmi vzdušne a svetlo.\r\n\r\nZákladné parametre:\r\n\r\n• Lokalita: Hnilecká ulica, Bratislava - Vrakuňa\r\n• Poschodie: 2/3\r\n• Plocha: 49,",
-    "found_at": "2026-11-17T21:44:05.376852+00:00"
+    "found_at": "2026-11-17T21:44:05.376888+00:00"
   },
   {
     "id": "bazos:196250296",
@@ -50,6 +63,19 @@
     "condition": "neznamy",
     "desc": "NA KÚPU JE POTREBNÁ LEN HOTOVOSŤ, resp. zabezpečenie HÚ inou nehnuteľnostou, byt je na LV vedený ako priestor. \r\nRealitná kancelária Konig-real Vám, ponúka na predaj jedinečný  menší 2-izbový byt ( 2-Garsónka) o výmere 45m2+ 16m2 parkovacie miesto a Terasa o výmere 16m2. \r\nByt je v stave bez kuchyns",
     "found_at": "2026-11-15T16:58:09.383196+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju4PHR9lG9B",
+    "portal": "nehnutelnosti",
+    "title": "Stylovy kompletne zariadeny 2izb byt s loggiou a parkovanim",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju4PHR9lG9B/stylovy-kompletne-zariadeny-2izb-byt-s-loggiou-a-parkovanim",
+    "price": 224000,
+    "price_text": "224 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/gZudNyjiH_fss?st=K90kWea-_3nwefgcqDQOmelqDobs9OrTsJWuva9BW8M&ts=1793548299&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Štýlový kompletne zariadený 2izb byt s loggiou a parkovaním Na piesku, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 48.67 m² Realitná kancelária PORTO REAL GROUP vám ponúka na predaj štýlový, kompletne a vkusne zariadený 2-izbový byt vo vyhľadávanej mestskej časti Bratislava – Ružino",
+    "found_at": "2026-11-14T21:21:11.894562+00:00"
   },
   {
     "id": "bazos:197484852",
