@@ -1,29 +1,68 @@
 [
   {
-    "id": "bazos:197714805",
-    "portal": "bazos",
-    "title": "BOSEN | Investičný 1 izbový byt v Petržalke,",
-    "url": "https://reality.bazos.sk/inzerat/197714805/bosen-investicny-1-izbovy-byt-v-petrzalke.php",
+    "id": "nehnutelnosti:JuotpShMRuU",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj 2 izbovy byt na 8 poschodi s krasnym vyhladom downtown yards",
+    "url": "https://www.nehnutelnosti.sk/detail/JuotpShMRuU/herrys-na-predaj-2-izbovy-byt-na-8-poschodi-s-krasnym-vyhladom-downtown-yards",
     "price": null,
-    "price_text": "159 €",
-    "location": "Bratislava 850 00",
-    "image": "https://www.bazos.sk/img/1t/805/197714805.jpg",
+    "price_text": "000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/QwmWB7esU_fss?st=_HDLfWUxk3xFAr4syNc_mncnZkw_LmYV5tgXh61Uel8&ts=1794987046&e=0",
     "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Rovniakova\n\rMestská časť: Zrkadlový háj\n\rObec: Bratislava-Petržalka\n\r\n\rRealitná kancelária Bosen Group Vám ponúka na predaj 1-izbový byt v pôvodnom stave, nachádzajúci sa vo vyhľadávanej časti Bratislavy – Petržalka, na ulici Rovniankova. Tento byt predstavuje ideálnu príle",
-    "found_at": "2026-11-20T11:21:57.154273+00:00"
+    "desc": "PREMIUM HERRYS - Na predaj 2-izbový byt na 8. poschodí s krásnym výhľadom | Downtown Yards Košická, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 52.8 m² HERRYS - Na predaj 2-izbový byt na 8. poschodí s krásnym výhľadom | Downtown Yards Realitná kancelária HERRYS ponúka na predaj atraktívny 2",
+    "found_at": "2026-11-20T19:58:53.570157+00:00"
   },
   {
-    "id": "bazos:197716018",
+    "id": "bazos:197727946",
     "portal": "bazos",
-    "title": "PREDAJ veľký 1i byt 40,4m2 na Kadnárovej ulici, BA Rača",
-    "url": "https://reality.bazos.sk/inzerat/197716018/predaj-velky-1i-byt-404m2-na-kadnarovej-ulici-ba-raca.php",
-    "price": 195000,
-    "price_text": "195 000 €",
-    "location": "Bratislava 831 06",
-    "image": "https://www.bazos.sk/img/1t/018/197716018.jpg",
+    "title": "Svetlý 2-izbový byt s veľkým potenciálom – Heyrovského",
+    "url": "https://reality.bazos.sk/inzerat/197727946/svetly-2-izbovy-byt-s-velkym-potencialom-heyrovskeho.php",
+    "price": 235000,
+    "price_text": "235 000 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/946/197727946.jpg",
+    "condition": "povodny",
+    "desc": "Popis:\r\nPonúkame na predaj priestranný a dobre dispozične riešený 2-izbový byt vo vyhľadávanej lokalite bratislavského Lamača na Heyrovského ulici. Byt je v udržiavanom stave, vyprataný a pripravený na rekonštrukciu presne podľa predstáv nového majiteľa.\r\n\r\nSúčasťou fotodokumentácie sú aj profesioná",
+    "found_at": "2026-11-20T19:58:53.570143+00:00"
+  },
+  {
+    "id": "bazos:197728730",
+    "portal": "bazos",
+    "title": "Štýlový a veľkorysý 2-izbový byt so šatníkom, klimatizáciou",
+    "url": "https://reality.bazos.sk/inzerat/197728730/stylovy-a-velkorysy-2-izbovy-byt-so-satnikom-klimatizaciou.php",
+    "price": 235000,
+    "price_text": "235 000 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/730/197728730.jpg",
     "condition": "neznamy",
-    "desc": "Typ: 1-izbový byt\n\rUlica: Kadnárova\n\rObec: Bratislava-Rača\n\r\n\rRealitná kancelária NestGroup ponúka na PREDAJ útulný kompletne zariadený 1-izbový byt na Kadnárovej ulici v Bratislave.\n\nByt je ideálnou voľbou pre jednotlivca alebo pár, ktorí hľadajú praktické bývanie v kompletne zariadenej nehnuteľnos",
-    "found_at": "2026-11-20T11:21:57.154272+00:00"
+    "desc": "Popis:\r\nHľadáte moderné bývanie bez kompromisov a ďalších investícií? Ponúkame na predaj vkusný, priestranný a svetlý 2-izbový byt s výmerou až 68,19 m², ktorý sa nachádza na prízemí 3-podlažného bytového domu na pokojnej ulici Perličková v Bratislave - Podunajských Biskupiciach.\r\n\r\nByt vás okamžite",
+    "found_at": "2026-11-20T19:58:53.570141+00:00"
+  },
+  {
+    "id": "bazos:197730250",
+    "portal": "bazos",
+    "title": "AXIS REAL | 1-izb.byt s PIVNICOU v nízkopodlažnom dome – MED",
+    "url": "https://reality.bazos.sk/inzerat/197730250/axis-real-1-izbbyt-s-pivnicou-v-nizkopodlaznom-dome-med.php",
+    "price": 159900,
+    "price_text": "159 900 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/250/197730250.jpg",
+    "condition": "neznamy",
+    "desc": "360° VIRTUÁLNU PREHLIADKU A 3D PÔDORYS NEHNUTEĽNOSTI NÁJDETE NA: \r\n\r\nPOPIS BYTU: \r\nRealitná kancelária AXIS REAL ponúka na predaj 1-izbový byt v lokalite Bratislava V. Petržalka - Ovsište, na ulici Medveďovej.\r\nNehnuteľnosť má celkovú podlahovú plochu 35,04 m² (byt 33,51 m², pivnica 1,53 m²). Byt je",
+    "found_at": "2026-11-20T19:58:53.570140+00:00"
+  },
+  {
+    "id": "bazos:197730634",
+    "portal": "bazos",
+    "title": "Predáme garsónku - Ružinov A.Mráza",
+    "url": "https://reality.bazos.sk/inzerat/197730634/predam-garsonku-ruzinov.php",
+    "price": 135000,
+    "price_text": "135 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/634/197730634.jpg",
+    "condition": "neznamy",
+    "desc": "Ako RK ponúkame na predaj garsónka o výmere 19,72 m² na 1. poschodí bytového domu s výťahom. Dom je zateplený, stúpačky sú vymenené.\r\n\r\nByt má plastové okná, plávajúcu podlahu a murované jadro so sprchovacím kútom a WC. Bez balkóna.\r\n\r\nTiché a príjemné prostredie, dobrá občianska vybavenosť.\r\n\r\nMesa",
+    "found_at": "2026-11-20T19:58:53.570138+00:00"
   },
   {
     "id": "bazos:196686615",
@@ -36,7 +75,7 @@
     "image": "https://www.bazos.sk/img/1t/615/196686615.jpg?t=1795159196",
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj 2-izbový byt o výmere 41m2 plus balkón o výmere 4m2. Byt sa nachádza na šiestom poschodí zo siedmich s pekným výhľadom. Dispozične byt pozostáva zo vstupnej chodby, obývacej časti spojenej s kuchyňou, ktorá je vybavená všetkými spotrebičmi, spálňovej časti z ktorej sa vych",
-    "found_at": "2026-11-20T11:21:57.154260+00:00"
+    "found_at": "2026-11-20T11:21:57.154293+00:00"
   },
   {
     "id": "bazos:197619969",
@@ -221,19 +260,6 @@
     "found_at": "2026-11-02T15:34:50.301245+00:00"
   },
   {
-    "id": "bazos:196989690",
-    "portal": "bazos",
-    "title": "NUERA | PREDAJ 1i slnečný byt na skok do centra, Kominárska,",
-    "url": "https://reality.bazos.sk/inzerat/196989690/nuera-predaj-1i-slnecny-byt-na-skok-do-centra-kominarska.php",
-    "price": 169000,
-    "price_text": "169 000 €",
-    "location": "Bratislava 830 00",
-    "image": "https://www.bazos.sk/img/1t/690/196989690.jpg?t=1794395783",
-    "condition": "neznamy",
-    "desc": "Realitná kancelária NUERA ponúka na predaj útulný, slnečný 1izbový byt na hranici Starého a Nového Mesta. Byt na Kominárskej ulici zaujme najmä svojou strategickou polohou, praktickosťou a dostatkom svetla. \r\n\r\nByt sa nachádza v tehlovom dome na 6. poschodí a ďalšie náklady so zariaďovaním Vás nečak",
-    "found_at": "2026-10-29T20:12:03.196639+00:00"
-  },
-  {
     "id": "bazos:196984677",
     "portal": "bazos",
     "title": "2-IZBOVÝ BYT,PÔVODNÝ STAV,RUŽINOV,63m2",
@@ -306,7 +332,7 @@
     "price": 129000,
     "price_text": "129 000 €",
     "location": "Bratislava 821 02",
-    "image": "https://www.bazos.sk/img/1t/302/196154302.jpg?t=1795078489",
+    "image": "https://www.bazos.sk/img/1t/302/196154302.jpg?t=1795188544",
     "condition": "neznamy",
     "desc": "Na predaj šikovný 2 izbový mezonet s parkovaním a záhradkou Bratislava Vrakuňa.\r\n\r\n2 izbový dvojpodlažný mezonet o výmere 50 m2\r\n\r\nPrízemie: 25 m2\r\nPoschodie 25 m2\r\n\r\nDokončené v štandarde.\r\n\r\nV cene je vlastný pozemok o výmere 97 m² ako predzáhradka a 2 parkovacie miesta.\r\n\r\nElektrické podlahové kú",
     "found_at": "2026-10-03T21:07:24.009667+00:00"
@@ -325,17 +351,30 @@
     "found_at": "2026-10-02T08:23:25.040176+00:00"
   },
   {
-    "id": "nehnutelnosti:JuiDo25KhXQ",
+    "id": "nehnutelnosti:JuN1d8cdzLI",
     "portal": "nehnutelnosti",
-    "title": "Goodess property exkluzivne predaj 1 izbovy byt 36 m2 s klimatizaciou moderne zariadeny komora a pivnica murovana toryska ulica vrakuna",
-    "url": "https://www.nehnutelnosti.sk/detail/JuiDo25KhXQ/goodess-property-exkluzivne-predaj-1-izbovy-byt-36-m2-s-klimatizaciou-moderne-zariadeny-komora-a-pivnica-murovana-toryska-ulica-vrakuna",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Vrakuňa",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/OV6REDRfn_fss?st=61wk8Ph9rddCd7I70uZdYDYQf9fgfsL8MzJUxuPsOHM&ts=1788886671&e=0",
+    "title": "Na predaj garsonka v oblubenej lokalite bratislava ruzinov ulica a mraza",
+    "url": "https://www.nehnutelnosti.sk/detail/JuN1d8cdzLI/na-predaj-garsonka-v-oblubenej-lokalite-bratislava-ruzinov-ulica-a-mraza",
+    "price": null,
+    "price_text": "000",
+    "location": "Bratislava",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/e5SmTwF6v_fss?st=Qp6SvsZjj4doVAbbf_QUtvAFPxc_Qk3kOjxPgiNpQ8g&ts=1790240514&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM GOODESS PROPERTY - exkluzívne - PREDAJ 1 izbový byt 36 m2 s KLIMATIZÁCIOU - moderne zariadený - komora a pivnica murovaná - Toryská ulica - VRAKUŇA Toryská, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 36.3 m² GODDESS PROPERTY ponúka exkluzívne na PREDAJ moderný, slnečný ZARIADENÝ 1",
-    "found_at": "2026-09-11T18:23:36.242221+00:00"
+    "desc": "PREMIUM Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza Andreja Mráza, Bratislava-Ružinov, okres Bratislava II Garsónka 19.72 m² Ponúkame na predaj útulnú garsónku s podlahovou plochou 19,72 m², nachádzajúcu sa na 1. poschodí bytového domu s výťahom vo vyhľadávanej a pok",
+    "found_at": "2026-09-28T06:41:17.638591+00:00"
+  },
+  {
+    "id": "reality:18",
+    "portal": "reality",
+    "title": "Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza",
+    "url": "https://www.reality.sk/byty/na-predaj-garsonka-v-oblubenej-lokalite-bratislava-ruzinov-ulica-a-mraza/JuN1d8cdzLI/",
+    "price": 135000,
+    "price_text": "135000",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApOndhdGVybWFyayhwdXMvaHdOa2pQZUI4X2ZzcywtNSwtNSwwLDMwLDMwKS9qdWw=/e5SmTwF6v_fss?st=qJR1cr9jIA2afT3EBmnJtzDT8LutYfbXJQKd_Vlui70&amp;ts=1790240514&amp;e=0",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj útulnú garsónku s podlahovou plochou 19,72 m², nachádzajúcu sa na 1. poschodí bytového domu s výťahom vo vyhľadávanej a pokojnej časti Ružinova na ulici A. Mráza.\n\nBytový dom je zateplený a má vymenené rozvody – stúpačky.\n\nGarsónka disponuje plastovými oknami, plávajúcou podlahou ",
+    "found_at": "2026-09-17T07:33:19.198184+00:00"
   },
   {
     "id": "nehnutelnosti:Jui6mWU-wL5",
@@ -349,6 +388,19 @@
     "condition": "neznamy",
     "desc": "PREMIUM HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Agátová, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 35.06 m² HERRYS - Na predaj úplne nový 1,5-izb. apartmán v projekte AGÁTY s bazénom a bezbariérovým riešením Realitná kancelária",
     "found_at": "2026-08-07T11:52:19.426047+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju096qKN3uW",
+    "portal": "nehnutelnosti",
+    "title": "Herrys na predaj velkometrazny 3 izbovy byt vo vilovej stvrti pri slavine",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju096qKN3uW/herrys-na-predaj-velkometrazny-3-izbovy-byt-vo-vilovej-stvrti-pri-slavine",
+    "price": null,
+    "price_text": "000",
+    "location": "Bratislava",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/e5SmTwF6v_fss?st=Qp6SvsZjj4doVAbbf_QUtvAFPxc_Qk3kOjxPgiNpQ8g&ts=1790240514&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza Andreja Mráza, Bratislava-Ružinov, okres Bratislava II Garsónka 19.72 m² Ponúkame na predaj útulnú garsónku s podlahovou plochou 19,72 m², nachádzajúcu sa na 1. poschodí bytového domu s výťahom vo vyhľadávanej a pok",
+    "found_at": "2026-07-08T22:14:32.765627+00:00"
   },
   {
     "id": "nehnutelnosti:Juh52gjFL6e",
