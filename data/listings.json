@@ -1,5 +1,18 @@
 [
   {
+    "id": "bazos:197700788",
+    "portal": "bazos",
+    "title": "2 izbový byt v tichej lokalite Podunajských Biskupíc",
+    "url": "https://reality.bazos.sk/inzerat/197700788/2-izbovy-byt-v-tichej-lokalite-podunajskych-biskupic.php",
+    "price": 199900,
+    "price_text": "199 900 €",
+    "location": "Bratislava 821 07",
+    "image": "https://www.bazos.sk/img/1t/788/197700788.jpg?t=1795131178",
+    "condition": "neznamy",
+    "desc": "Nie som Realitná kancelária a prosím, aby ma realitné kancelárie nekontaktovali. Byt predávam bez realitky jeden mesiac, potom oslovím svojho vlastného realitného makléra.\r\n\r\nPonúkam na predaj príjemný 2-izbový byt s výmerou 52,54 m² na zvýšenom prízemí zatepleného bytového domu na Hornádskej ulici ",
+    "found_at": "2026-11-20T02:59:54.965170+00:00"
+  },
+  {
     "id": "bazos:197694470",
     "portal": "bazos",
     "title": "Hľadám byť v Petržalke",
@@ -10,20 +23,20 @@
     "image": "https://www.bazos.sk/obrazky/empty.gif",
     "condition": "povodny",
     "desc": "Hľadám byť do 130000 v Petržalke \r\nMôže byť aj pôvodný stav \r\n1 izbový/ dvojgarsonka/väčšia garsónka \r\nMin 30m2",
-    "found_at": "2026-11-19T21:23:23.968355+00:00"
+    "found_at": "2026-11-19T21:23:23.968372+00:00"
   },
   {
     "id": "bazos:197694982",
     "portal": "bazos",
-    "title": "2- izbový byt na Obchodnej ulici",
+    "title": "Zariadený 2 izbový byt na Obchodnej ulici v Bratislave",
     "url": "https://reality.bazos.sk/inzerat/197694982/2-izbovy-byt-na-obchodnej-ulici.php",
-    "price": 225000,
-    "price_text": "225 000 €",
+    "price": 230000,
+    "price_text": "230 000 €",
     "location": "Bratislava 811 06",
-    "image": "https://www.bazos.sk/img/1t/982/197694982.jpg",
+    "image": "https://www.bazos.sk/img/1t/982/197694982.jpg?t=1795123981",
     "condition": "neznamy",
     "desc": "Ponúkame na predaj 2-izbový byt s výmerou 61 m², nachádzajúci sa vo vyhľadávanej lokalite Bratislava – Staré Mesto, na Obchodnej ulici.\nByt je svetlý, udržiavaný a zariadený. Vďaka svojej polohe, praktickej dispozícii a príjemnému výhľadu predstavuje zaujímavú príležitosť na vlastné bývanie, ale aj ",
-    "found_at": "2026-11-19T21:23:23.968353+00:00"
+    "found_at": "2026-11-19T21:23:23.968370+00:00"
   },
   {
     "id": "bazos:197619969",
@@ -76,6 +89,32 @@
     "condition": "neznamy",
     "desc": "NA KÚPU JE POTREBNÁ LEN HOTOVOSŤ, resp. zabezpečenie HÚ inou nehnuteľnostou, byt je na LV vedený ako priestor. \r\nRealitná kancelária Konig-real Vám, ponúka na predaj jedinečný  menší 2-izbový byt ( 2-Garsónka) o výmere 45m2+ 16m2 parkovacie miesto a Terasa o výmere 16m2. \r\nByt je v stave bez kuchyns",
     "found_at": "2026-11-15T16:58:09.383196+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuttelFewT9",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava stare mesto lazaretska exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/JuttelFewT9/halo-reality-predaj-jednoizbovy-byt-bratislava-stare-mesto-lazaretska-exkluzivne-halo-reality",
+    "price": 205990,
+    "price_text": "205 990",
+    "location": "Bratislava Staré Mesto",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/6G27LT3TN_fss?st=Voj8aOf7NzeauHZXmu5L0P6--nySLtRQf5Xx0qTFenQ&ts=1794525820&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Staré Mesto, Lazaretská - EXKLUZÍVNE HALO REALITY Lazaretská, Bratislava-Staré Mesto, okres Bratislava I 1 izbový byt 35 m² Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnuteľnosť s ID: BA-74395: Hľadáte",
+    "found_at": "2026-11-14T03:03:27.876138+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju2NNREiA8D",
+    "portal": "nehnutelnosti",
+    "title": "Halo reality predaj jednoizbovy byt bratislava devinska nova ves opletalova s predzahradkou exkluzivne halo reality",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju2NNREiA8D/halo-reality-predaj-jednoizbovy-byt-bratislava-devinska-nova-ves-opletalova-s-predzahradkou-exkluzivne-halo-reality",
+    "price": 205000,
+    "price_text": "205 000",
+    "location": "Bratislava Devínska Nová Ves",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/epeZRFUR0_fss?st=Zhta6zlqerZ9N7ARtmzXYfgCfG051EubQv4FE7Y-7_I&ts=1783635052&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM HALO reality - Predaj, jednoizbový byt Bratislava Devínska Nová Ves, Opletalova, s predzáhradkou - EXKLUZÍVNE HALO REALITY Opletalova, Bratislava-Devínska Nová Ves, okres Bratislava IV 1 izbový byt 46 m² Realitná kancelária HALO reality a Ing. Katarína Paršová, kontakt: 0905 784 757, nehnute",
+    "found_at": "2026-11-14T03:03:27.876137+00:00"
   },
   {
     "id": "bazos:197484852",
@@ -167,19 +206,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj útulnú garzónku s výmerou 28 m², nachádzajúcu sa na 6. poschodí bytového domu na Rybničnej ulici v Bratislave.\n\nByt prešiel čiastočnou rekonštrukciou a jeho veľkým benefitom je priestranná loggia.\n\nDo bytu nie je nutné investovať, je možné v ňom bývať/ prenajímať ho v stave,  ...",
     "found_at": "2026-11-10T22:17:44.476046+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuTwCEOJcgJ",
-    "portal": "nehnutelnosti",
-    "title": "Herrys na predaj jedinecny 2 izbovy apartman s predzahradkou v premiovom projekte metropolis",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTwCEOJcgJ/herrys-na-predaj-jedinecny-2-izbovy-apartman-s-predzahradkou-v-premiovom-projekte-metropolis",
-    "price": null,
-    "price_text": "200",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/sjtR6w0Ev_fss?st=vC3EdA3aq5LN42V8oBBd3FjRHJZg5ks0tSr22YckxiQ&ts=1792053044&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Bottova, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 51.17 m² HERRYS – Na predaj jedinečný 2-izbový apartmán s predzáhradkou v prémiovom projekte Metropolis Realitná kancelária HERRYS p",
-    "found_at": "2026-11-02T23:25:28.797283+00:00"
   },
   {
     "id": "nehnutelnosti:JuRKG6ahD8n",
