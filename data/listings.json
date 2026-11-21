@@ -1,16 +1,55 @@
 [
   {
-    "id": "nehnutelnosti:Ju6jrF_ecya",
-    "portal": "nehnutelnosti",
-    "title": "Krasny 2 izbovy byt vo vyhladavanej lokalite ruzovej doliny v ba",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju6jrF_ecya/krasny-2-izbovy-byt-vo-vyhladavanej-lokalite-ruzovej-doliny-v-ba",
+    "id": "reality:25",
+    "portal": "reality",
+    "title": "BabonyTRE I Na predaj 2-i byt s terasou pri Bratislavskom hrade",
+    "url": "https://www.reality.sk/byty/babonytre-i-na-predaj-2-i-byt-s-terasou-pri-bratislavskom-hrade/JucXpdX_z5n/",
     "price": null,
-    "price_text": "000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/bvybCo5Aw_fss?st=z-UL8c_xivvhO4hW67KS-TCDAaC3-rtyObrzQn5GPcY&ts=1795046097&e=0",
+    "price_text": "Cena dohodou",
+    "location": "Bratislava",
+    "image": "https://img.unitedclassifieds.sk/foto/MjY4eDIwNi9maWx0ZXJzOnF1YWxpdHkoODApL2p1bA==/yvKBtScbe_fss?st=rmk1Uu5jDBLVWed6yurdQH8lq1DQC50odJ0qQ_JjpHs&amp;ts=1791981333&amp;e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM REALITÉ - Krásny 2-izbový byt v Ružovej doline v BA Ružová dolina, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 60.27 m² 2-izbový byt vo vyhľadávanej lokalite s množstvom zelene, v Ružovej doline v BA-Ružinov, komplet. rekonštrukcia bytu vrátane nových okien v roku 2024, v izbách pôv",
-    "found_at": "2026-11-21T01:22:23.126530+00:00"
+    "desc": "BabonyTRE I Na predaj 2-i byt s terasou pri Bratislavskom hrade\r\nPonúkame na predaj priestranný 2-izbový byt na ulici Palisády 13 v mestskej časti Staré Mesto, na prízemí, v samom srdci Bratislavy.\r\nÚžitková plocha: 68,50 m² + terasa 44 m².\r\n\r\nDispozícia:\r\n•\tByt má terasu 44 m² s prístupom z obývace",
+    "found_at": "2026-11-21T09:37:04.813377+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju48SjJwms8",
+    "portal": "nehnutelnosti",
+    "title": "Babony tre i 2i byt s loggiou na zaciatku petrzalky cernysevskeho 21",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju48SjJwms8/babony-tre-i-2i-byt-s-loggiou-na-zaciatku-petrzalky-cernysevskeho-21",
+    "price": 214900,
+    "price_text": "214 900",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/HFqLbYyAO_fss?st=PoaPeTI8d9gzSadyFsqKZQKGLl2CMtisxuRAmEYisc8&ts=1794518298&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Babony TRE I 2i byt s loggiou na začiatku Petržalky – Černyševského 21 Černyševského, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 49 m² Babony TRE Vám ponúka na predaj 2-izbový byt vo vyhľadávanej lokalite na začiatku Petržalky, na ulici Černyševského 21. Výborná poloha, kompletná",
+    "found_at": "2026-11-21T09:37:04.813372+00:00"
+  },
+  {
+    "id": "bazos:197742104",
+    "portal": "bazos",
+    "title": "REZERVOVANÉ | 2-IZBOVÝ BYT V PROJEKTE OC RETRO  | RUŽINOV",
+    "url": "https://reality.bazos.sk/inzerat/197742104/rezervovane-2-izbovy-byt-v-projekte-oc-retro-ruzinov.php",
+    "price": 245000,
+    "price_text": "245 000 €",
+    "location": "Bratislava 821 01",
+    "image": "https://www.bazos.sk/img/1t/104/197742104.jpg",
+    "condition": "neznamy",
+    "desc": "NA PREDAJ | 2-IZBOVÝ BYT V RETRO RESIDENCE | 51 m² | RUŽINOV\n\nOPÄŤ V PONUKE. VÝHODNÁ PRÍLEŽITOSŤ BÝVAŤ PRIAMO V RETRE.\n\nUrban & Partner ponúka na predaj 2-izbový byt v projekte RETRO Residence na Nevädzovej ulici v Bratislave. Jeho prednosťami sú samostatná kuchyňa, dve oddelené obytné izby, juž ...",
+    "found_at": "2026-11-21T09:37:04.813367+00:00"
+  },
+  {
+    "id": "bazos:197743891",
+    "portal": "bazos",
+    "title": "Predaj 1.izbového bytu v Petržalke",
+    "url": "https://reality.bazos.sk/inzerat/197743891/predaj-1izboveho-bytu-v-petrzalke.php",
+    "price": 171000,
+    "price_text": "171 000 €",
+    "location": "Bratislava 851 01",
+    "image": "https://www.bazos.sk/img/1t/891/197743891.jpg",
+    "condition": "neznamy",
+    "desc": "Popis:\r\nPonúkame na predaj svetlý a prakticky riešený 1-izbový byt, nachádzajúci sa vo vyhľadávanej lokalite Bratislava – Petržalka, časť Dvory, na Fedinovej ulici.\r\n\r\nHľadáte nehnuteľnosť, ktorá vám môže prinášať pravidelný príjem bez potreby hľadania nového nájomníka? Alebo hľadáte štartovací byt ",
+    "found_at": "2026-11-21T09:37:04.813366+00:00"
   },
   {
     "id": "bazos:197735128",
@@ -20,36 +59,10 @@
     "price": 214900,
     "price_text": "214 900 €",
     "location": "Bratislava 831 53",
-    "image": "https://www.bazos.sk/img/1t/128/197735128.jpg",
+    "image": "https://www.bazos.sk/img/1t/128/197735128.jpg?t=1795231622",
     "condition": "neznamy",
     "desc": "Realitná kancelária HALO reality a Mgr. Andrej Nabo, kontakt: 0917 489 038, nehnuteľnosť s ID: BA-74488:\nPonúkame na predaj slnečný 2-izbový byt v tehlovom bytovom dome na Černockého ulici v mestskej časti Bratislava – Rača.  \n  \n ZÁKLADNÉ INFORMÁCIE \n - 2-izbový byt \n - úžitková plocha 50 m2 + pivn",
-    "found_at": "2026-11-21T01:22:23.126521+00:00"
-  },
-  {
-    "id": "bazos:197727946",
-    "portal": "bazos",
-    "title": "Svetlý 2-izbový byt s veľkým potenciálom – Heyrovského",
-    "url": "https://reality.bazos.sk/inzerat/197727946/svetly-2-izbovy-byt-s-velkym-potencialom-heyrovskeho.php",
-    "price": 235000,
-    "price_text": "235 000 €",
-    "location": "Bratislava 841 03",
-    "image": "https://www.bazos.sk/img/1t/946/197727946.jpg",
-    "condition": "povodny",
-    "desc": "Popis:\r\nPonúkame na predaj priestranný a dobre dispozične riešený 2-izbový byt vo vyhľadávanej lokalite bratislavského Lamača na Heyrovského ulici. Byt je v udržiavanom stave, vyprataný a pripravený na rekonštrukciu presne podľa predstáv nového majiteľa.\r\n\r\nSúčasťou fotodokumentácie sú aj profesioná",
-    "found_at": "2026-11-20T19:58:53.570172+00:00"
-  },
-  {
-    "id": "bazos:197728730",
-    "portal": "bazos",
-    "title": "Štýlový a veľkorysý 2-izbový byt so šatníkom, klimatizáciou",
-    "url": "https://reality.bazos.sk/inzerat/197728730/stylovy-a-velkorysy-2-izbovy-byt-so-satnikom-klimatizaciou.php",
-    "price": 235000,
-    "price_text": "235 000 €",
-    "location": "Bratislava 821 06",
-    "image": "https://www.bazos.sk/img/1t/730/197728730.jpg",
-    "condition": "neznamy",
-    "desc": "Popis:\r\nHľadáte moderné bývanie bez kompromisov a ďalších investícií? Ponúkame na predaj vkusný, priestranný a svetlý 2-izbový byt s výmerou až 68,19 m², ktorý sa nachádza na prízemí 3-podlažného bytového domu na pokojnej ulici Perličková v Bratislave - Podunajských Biskupiciach.\r\n\r\nByt vás okamžite",
-    "found_at": "2026-11-20T19:58:53.570170+00:00"
+    "found_at": "2026-11-21T01:22:23.126546+00:00"
   },
   {
     "id": "bazos:197730250",
@@ -72,7 +85,7 @@
     "price": 135000,
     "price_text": "135 000 €",
     "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/634/197730634.jpg",
+    "image": "https://www.bazos.sk/img/1t/634/197730634.jpg?t=1795250393",
     "condition": "neznamy",
     "desc": "Ako RK ponúkame na predaj garsónka o výmere 19,72 m² na 1. poschodí bytového domu s výťahom. Dom je zateplený, stúpačky sú vymenené.\r\n\r\nByt má plastové okná, plávajúcu podlahu a murované jadro so sprchovacím kútom a WC. Bez balkóna.\r\n\r\nTiché a príjemné prostredie, dobrá občianska vybavenosť.\r\n\r\nMesa",
     "found_at": "2026-11-20T19:58:53.570167+00:00"
@@ -156,6 +169,19 @@
     "found_at": "2026-11-13T16:08:15.829999+00:00"
   },
   {
+    "id": "nehnutelnosti:JubAzzo2Ki6",
+    "portal": "nehnutelnosti",
+    "title": "Nova ponuka garsonky v ruzinove",
+    "url": "https://www.nehnutelnosti.sk/detail/JubAzzo2Ki6/nova-ponuka-garsonky-v-ruzinove",
+    "price": null,
+    "price_text": "Cena dohodou",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/S5rsk1Gcr_fss?st=6n0q_Nz5bbqR1C2c25_Oz-m1v3XElRcwpAGqA0VIfuI&ts=1793364911&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM garsónka s výhľadom, nízke náklady Štefunkova 15, Bratislava-Ružinov, okres Bratislava II Garsónka 19.25 m² VR: https://riesimebyvanie.sk/property/predaj-1i-byty-a-garzonky-bratislava-ruzinov-326879/ Ak hľadáte dobrú investičnú príležitosť, zamerajte sa na túto slnečnú garsónku (19,25 m2) s",
+    "found_at": "2026-11-12T18:09:17.415976+00:00"
+  },
+  {
     "id": "bazos:197438847",
     "portal": "bazos",
     "title": "2-izbový byt Nivy, Záhradnícka, Bratislava",
@@ -195,19 +221,6 @@
     "found_at": "2026-11-12T01:28:15.545281+00:00"
   },
   {
-    "id": "nehnutelnosti:JuoiphvJ8i6",
-    "portal": "nehnutelnosti",
-    "title": "Velky 2 izbovy byt s balkonom na budatinskej ulici s parkovacim miestom",
-    "url": "https://www.nehnutelnosti.sk/detail/JuoiphvJ8i6/velky-2-izbovy-byt-s-balkonom-na-budatinskej-ulici-s-parkovacim-miestom",
-    "price": 250000,
-    "price_text": "250 000",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SzfD4mNFE_fss?st=FKjNzHAU-hTSOo4rbDcW-OUL6XMBPExycTp-Jtw0Gr0&ts=1793713144&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Veľký 2-izbový byt s balkónom na Budatínskej ulici s parkovacím miestom Budatínska, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 69 m² Ponúkame na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite v Petržalke - Budatínska ulica. Byt má výmeru 63,62 m2 + balkón 5,33 m2 a nachá",
-    "found_at": "2026-11-10T22:17:44.476050+00:00"
-  },
-  {
     "id": "bazos:197386836",
     "portal": "bazos",
     "title": "Ideálna štartovacia garsónka s loggiou- Rybničná ulica",
@@ -219,19 +232,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj útulnú garzónku s výmerou 28 m², nachádzajúcu sa na 6. poschodí bytového domu na Rybničnej ulici v Bratislave.\n\nByt prešiel čiastočnou rekonštrukciou a jeho veľkým benefitom je priestranná loggia.\n\nDo bytu nie je nutné investovať, je možné v ňom bývať/ prenajímať ho v stave,  ...",
     "found_at": "2026-11-10T22:17:44.476046+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuRKG6ahD8n",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt s balkonom ba ruzinov astrova ulica 17 posch 57m2 ciastocna rekonstrukcia zariadeny",
-    "url": "https://www.nehnutelnosti.sk/detail/JuRKG6ahD8n/2-izbovy-byt-s-balkonom-ba-ruzinov-astrova-ulica-17-posch-57m2-ciastocna-rekonstrukcia-zariadeny",
-    "price": null,
-    "price_text": "139",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9oiEVLq28_fss?st=E1jBO9IBRV-7eKhJeIMkvVjmhPEaGn1nhPdh22lyPc4&ts=1792697072&e=0",
-    "condition": "povodny",
-    "desc": "PREMIUM 2 izbový byt s balkónom, BA- Ružinov, Astrová ulica, 1/7 posch., 57m2, vynikajúca poloha, čiastočná rekonštrukcia, zariadený Astrová, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Realitná kancelária DAJANA reality, s.r.o., Vám exkluzívne ponúka na predaj svetlý a veľmi príjemný",
-    "found_at": "2026-11-02T15:34:50.301248+00:00"
   },
   {
     "id": "bazos:196886319",
@@ -258,6 +258,19 @@
     "condition": "povodny",
     "desc": "TUreality ponúka na predaj 2-izbový byt o výmere 63m2. Byt je v udržiavanom, obývateľnom, pôvodnom stave a nachádza na piatom poschodí zo siedmich. K bytu taktiež prináleží aj kobka, ktorá je na medziposchodí. Byt dispozične pozostáva z chodby, samostatnej kuchyne, dvoch nepriechodných izieb, šatník",
     "found_at": "2026-10-29T14:07:43.621259+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuZrPkcR4UT",
+    "portal": "nehnutelnosti",
+    "title": "Bosen priestranny a svetly 2 izb byt s investicnym potencialom bratislava vrakuna",
+    "url": "https://www.nehnutelnosti.sk/detail/JuZrPkcR4UT/bosen-priestranny-a-svetly-2-izb-byt-s-investicnym-potencialom-bratislava-vrakuna",
+    "price": 194900,
+    "price_text": "194 900",
+    "location": "Bratislava - Vrakuňa Dvojkrížna",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/7TT_aNvx8_fss?st=OKrF7uc9xPHT2QR6vgtxxkFqEI0EzpyS5v4xbeZwpDY&ts=1788206915&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM BOSEN | Priestranný a svetlý 2 izb. byt s investičným potenciálom, Bratislava - Vrakuňa Dvojkrížna, Bratislava-Vrakuňa, okres Bratislava II 2 izbový byt 56.65 m² Bosen Group vám exkluzívne ponúka na predaj priestranný a svetlý 2 izbový byt na Dvojkrížnej ulici v obľúbenej bratislavskej mests",
+    "found_at": "2026-10-25T11:13:39.116535+00:00"
   },
   {
     "id": "bazos:196760013",
@@ -338,17 +351,17 @@
     "found_at": "2026-10-02T08:23:25.040176+00:00"
   },
   {
-    "id": "nehnutelnosti:JuN1d8cdzLI",
+    "id": "nehnutelnosti:Ju1M1nexNKo",
     "portal": "nehnutelnosti",
-    "title": "Na predaj garsonka v oblubenej lokalite bratislava ruzinov ulica a mraza",
-    "url": "https://www.nehnutelnosti.sk/detail/JuN1d8cdzLI/na-predaj-garsonka-v-oblubenej-lokalite-bratislava-ruzinov-ulica-a-mraza",
-    "price": null,
-    "price_text": "000",
-    "location": "Bratislava",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/e5SmTwF6v_fss?st=Qp6SvsZjj4doVAbbf_QUtvAFPxc_Qk3kOjxPgiNpQ8g&ts=1790240514&e=0",
+    "title": "2 izbovy byt s vynimocnymi 87 m2 terasami",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju1M1nexNKo/2-izbovy-byt-s-vynimocnymi-87-m2-terasami",
+    "price": 239990,
+    "price_text": "239 990",
+    "location": "Bratislava-Podunajské Biskupice",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/-2-VbI56p_fss?st=DrQNogoheWnDuFpnB04lRijp7jIHQG0dFlONUl40Vnk&ts=1788853437&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Na predaj garsónka v obľúbenej lokalite Bratislava – Ružinov, ulica A. Mráza Andreja Mráza, Bratislava-Ružinov, okres Bratislava II Garsónka 19.72 m² Ponúkame na predaj útulnú garsónku s podlahovou plochou 19,72 m², nachádzajúcu sa na 1. poschodí bytového domu s výťahom vo vyhľadávanej a pok",
-    "found_at": "2026-09-28T06:41:17.638591+00:00"
+    "desc": "PREMIUM 2-izbový byt s výnimočnými 87 m² terasami Podzáhradná, Bratislava-Podunajské Biskupice, okres Bratislava II 2 izbový byt 41 m² Hľadáte byt, ktorý nekončí pri balkónových dverách? Byt B.4.1 v projekte PODZÁHRADNÁ ponúka 41,30 m² premysleného interiéru a až 87,25 m² terás. Spolu tak získate 12",
+    "found_at": "2026-09-29T08:20:19.927327+00:00"
   },
   {
     "id": "reality:18",
