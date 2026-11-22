@@ -1,16 +1,29 @@
 [
   {
-    "id": "nehnutelnosti:JuTvoLTwSz3",
+    "id": "nehnutelnosti:Ju7BfvtSTOh",
     "portal": "nehnutelnosti",
-    "title": "Predaj 2 izbovy byt v jedinecnom projekte pri suchom mlyne",
-    "url": "https://www.nehnutelnosti.sk/detail/JuTvoLTwSz3/predaj-2-izbovy-byt-v-jedinecnom-projekte-pri-suchom-mlyne",
-    "price": 35000,
-    "price_text": "35 000",
-    "location": "Bratislava-Staré Mesto",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/ug9Stht6e_fss?st=hGmt3cDCdXYFnru6DbpzB18ezc3MstCqVCjj-pt0GZw&ts=1782301575&e=0",
+    "title": "Dom realit 2 izbovy byt s pivnicnou kobkou v cene city park ruzinov",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju7BfvtSTOh/dom-realit-2-izbovy-byt-s-pivnicnou-kobkou-v-cene-city-park-ruzinov",
+    "price": null,
+    "price_text": "150",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RnkHWXk8O_fss?st=iwTbehZlwb_TFHPHYbWh5X16uxQH0E_IyZcr3VtaosE&ts=1795195652&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Mestské bývanie v dotyku s prírodou Pri Suchom mlyne, Bratislava-Staré Mesto, okres Bratislava I 2 izbový byt 59.7 m² Ponúkame na predaj 2-izbový byt v projekte Pri Suchom Mlyne – na mieste, kde sa stretáva mestský komfort s pokojom jednej z najvyhľadávanejších lokalít Bratislavy. Byt s celk",
-    "found_at": "2026-11-22T11:04:54.103029+00:00"
+    "desc": "PREMIUM DOM-REALÍT,- 2 izbový byt s pivničnou kobkou v cene, City Park Ružinov Bratislava-Ružinov, okres Bratislava II 2 izbový byt 50 m² Ponúkame na predaj prakticky riešený 2-izbový BYT v novšej stavbe CityPark Ružinov na Jarabinkovej / Plynárenskej ulici, vo veži C. + 2-izbový byt s celkovou výme",
+    "found_at": "2026-11-22T18:26:55.277107+00:00"
+  },
+  {
+    "id": "bazos:197795785",
+    "portal": "bazos",
+    "title": "Klimatizovaný zariadený 1i byt s balkónom a parkovaním – Sln",
+    "url": "https://reality.bazos.sk/inzerat/197795785/klimatizovany-zariadeny-1i-byt-s-balkonom-a-parkovanim-sln.php",
+    "price": 185000,
+    "price_text": "185 000 €",
+    "location": "Bratislava 850 00",
+    "image": "https://www.bazos.sk/img/1t/785/197795785.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 1-izbový byt\n\rUlica: Zuzany Chalupovej 14A\n\rMestská časť: Lúky\n\rObec: Bratislava-Petržalka\n\r\n\rNa predaj klimatizovaný zariadený 1-izbový byt s balkónom a parkovacím miestom, Zuzany Chalupovej ul. – Petržalka\n\nDispozícia bytu:\n\n› izby: 1 – obytná a spacia časť\n› plocha: 24.65 m² byt +  ...",
+    "found_at": "2026-11-22T18:26:55.277099+00:00"
   },
   {
     "id": "bazos:197776830",
@@ -23,7 +36,7 @@
     "image": "https://www.bazos.sk/img/1t/830/197776830.jpg",
     "condition": "neznamy",
     "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
-    "found_at": "2026-11-22T11:04:54.103024+00:00"
+    "found_at": "2026-11-22T11:04:54.103041+00:00"
   },
   {
     "id": "bazos:197765428",
@@ -195,6 +208,32 @@
     "found_at": "2026-11-10T22:17:44.476046+00:00"
   },
   {
+    "id": "nehnutelnosti:JuDukoWqZfn",
+    "portal": "nehnutelnosti",
+    "title": "Frank zicher predavame byt dvojgarzonku s dvomi loggiami na blagoevovej ulici",
+    "url": "https://www.nehnutelnosti.sk/detail/JuDukoWqZfn/frank-zicher-predavame-byt-dvojgarzonku-s-dvomi-loggiami-na-blagoevovej-ulici",
+    "price": null,
+    "price_text": "800",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/jpRJ4VU39_fss?st=ftMr1l1idPPvkOhoAf5AkKR7okCm_7m6vhJkj_F_9_U&ts=1792009132&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM FRANK ZICHER - Predávame byt (dvojgarzonku) s dvomi loggiami na Blagoevovej ulici Blagoevova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 51.95 m² Realitná kancelária FRANK ZICHER ponúka na predaj byt - dvojgarzonku na Blagoevovej ulici v Petržalke. Nachádza sa v bytovom dome s výť",
+    "found_at": "2026-11-04T08:58:54.857795+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuRKG6ahD8n",
+    "portal": "nehnutelnosti",
+    "title": "2 izbovy byt s balkonom ba ruzinov astrova ulica 17 posch 57m2 ciastocna rekonstrukcia zariadeny",
+    "url": "https://www.nehnutelnosti.sk/detail/JuRKG6ahD8n/2-izbovy-byt-s-balkonom-ba-ruzinov-astrova-ulica-17-posch-57m2-ciastocna-rekonstrukcia-zariadeny",
+    "price": null,
+    "price_text": "139",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9oiEVLq28_fss?st=E1jBO9IBRV-7eKhJeIMkvVjmhPEaGn1nhPdh22lyPc4&ts=1792697072&e=0",
+    "condition": "povodny",
+    "desc": "PREMIUM 2 izbový byt s balkónom, BA- Ružinov, Astrová ulica, 1/7 posch., 57m2, vynikajúca poloha, čiastočná rekonštrukcia, zariadený Astrová, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Realitná kancelária DAJANA reality, s.r.o., Vám exkluzívne ponúka na predaj svetlý a veľmi príjemný",
+    "found_at": "2026-11-02T15:34:50.301248+00:00"
+  },
+  {
     "id": "bazos:196984677",
     "portal": "bazos",
     "title": "2-IZBOVÝ BYT,PÔVODNÝ STAV,RUŽINOV,63m2",
@@ -247,19 +286,6 @@
     "found_at": "2026-10-13T00:32:27.336231+00:00"
   },
   {
-    "id": "nehnutelnosti:JupAfTrvw5b",
-    "portal": "nehnutelnosti",
-    "title": "1 izbovy byt s balkonom slnecnice mesto zuzany chalupovej",
-    "url": "https://www.nehnutelnosti.sk/detail/JupAfTrvw5b/1-izbovy-byt-s-balkonom-slnecnice-mesto-zuzany-chalupovej",
-    "price": null,
-    "price_text": "102",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/P2qU50rnj_fss?st=zkcNLgMUDeJkD1k9bWt-E7mi7-07FlJleGWsLagFOJU&ts=1791437518&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Svetlý 1-izbový byt s balkónom v Slnečniciach – Zuzany Chalupovej Zuzany Chalupovej, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 28.84 m² Ponúkame na predaj príjemný svetlý 1-izbový byt s krásnym výhľadom v obľúbenom projekte Slnečnice – Mesto na ulici Zuzany Chalupovej v bratislav",
-    "found_at": "2026-10-12T17:45:23.687653+00:00"
-  },
-  {
     "id": "bazos:196354813",
     "portal": "bazos",
     "title": "Výmena  2-izbový byt v TT, za podobný byt( 1-izbový ) v BA.",
@@ -284,18 +310,5 @@
     "condition": "neznamy",
     "desc": "Na predaj šikovný 2 izbový mezonet s parkovaním a záhradkou Bratislava Vrakuňa.\r\n\r\n2 izbový dvojpodlažný mezonet o výmere 50 m2\r\n\r\nPrízemie: 25 m2\r\nPoschodie 25 m2\r\n\r\nDokončené v štandarde.\r\n\r\nV cene je vlastný pozemok o výmere 97 m² ako predzáhradka a 2 parkovacie miesta.\r\n\r\nElektrické podlahové kú",
     "found_at": "2026-10-03T21:07:24.009667+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuiDo25KhXQ",
-    "portal": "nehnutelnosti",
-    "title": "Goodess property exkluzivne predaj 1 izbovy byt 36 m2 s klimatizaciou moderne zariadeny komora a pivnica murovana toryska ulica vrakuna",
-    "url": "https://www.nehnutelnosti.sk/detail/JuiDo25KhXQ/goodess-property-exkluzivne-predaj-1-izbovy-byt-36-m2-s-klimatizaciou-moderne-zariadeny-komora-a-pivnica-murovana-toryska-ulica-vrakuna",
-    "price": 155000,
-    "price_text": "155 000",
-    "location": "Bratislava-Vrakuňa",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/OV6REDRfn_fss?st=61wk8Ph9rddCd7I70uZdYDYQf9fgfsL8MzJUxuPsOHM&ts=1788886671&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM GOODESS PROPERTY - exkluzívne - PREDAJ 1 izbový byt 36 m2 s KLIMATIZÁCIOU - moderne zariadený - komora a pivnica murovaná - Toryská ulica - VRAKUŇA Toryská, Bratislava-Vrakuňa, okres Bratislava II 1 izbový byt 36.3 m² GODDESS PROPERTY ponúka exkluzívne na PREDAJ moderný, slnečný ZARIADENÝ 1",
-    "found_at": "2026-09-11T18:23:36.242221+00:00"
   }
 ]
