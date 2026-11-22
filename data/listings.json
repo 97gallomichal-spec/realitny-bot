@@ -10,7 +10,7 @@
     "image": "https://www.bazos.sk/obrazky/empty.gif",
     "condition": "neznamy",
     "desc": ")",
-    "found_at": "2026-11-21T23:03:19.913239+00:00"
+    "found_at": "2026-11-21T23:03:19.913279+00:00"
   },
   {
     "id": "bazos:197756597",
@@ -50,32 +50,6 @@
     "condition": "neznamy",
     "desc": "Na predaj šikovný 2 izbový mezonet s parkovaním a záhradkou Bratislava Vrakuňa.\r\n\r\n2 izbový dvojpodlažný mezonet o výmere 50 m²\r\n\r\nPrízemie: 25 m²\r\nPoschodie 25 m²\r\n\r\nDokončené v štandarde.\r\n\r\nV cene je vlastný pozemok o výmere 97 m² ako predzáhradka a 2 parkovacie miesta.\r\n\r\nElektrické podlahové kú",
     "found_at": "2026-11-21T17:20:56.095957+00:00"
-  },
-  {
-    "id": "bazos:197742104",
-    "portal": "bazos",
-    "title": "REZERVOVANÉ | 2-IZBOVÝ BYT V PROJEKTE OC RETRO  | RUŽINOV",
-    "url": "https://reality.bazos.sk/inzerat/197742104/rezervovane-2-izbovy-byt-v-projekte-oc-retro-ruzinov.php",
-    "price": 245000,
-    "price_text": "245 000 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/104/197742104.jpg",
-    "condition": "neznamy",
-    "desc": "NA PREDAJ | 2-IZBOVÝ BYT V RETRO RESIDENCE | 51 m² | RUŽINOV\n\nOPÄŤ V PONUKE. VÝHODNÁ PRÍLEŽITOSŤ BÝVAŤ PRIAMO V RETRE.\n\nUrban & Partner ponúka na predaj 2-izbový byt v projekte RETRO Residence na Nevädzovej ulici v Bratislave. Jeho prednosťami sú samostatná kuchyňa, dve oddelené obytné izby, juž ...",
-    "found_at": "2026-11-21T09:37:04.813390+00:00"
-  },
-  {
-    "id": "bazos:197743891",
-    "portal": "bazos",
-    "title": "Predaj 1.izbového bytu v Petržalke",
-    "url": "https://reality.bazos.sk/inzerat/197743891/predaj-1izboveho-bytu-v-petrzalke.php",
-    "price": 171000,
-    "price_text": "171 000 €",
-    "location": "Bratislava 851 01",
-    "image": "https://www.bazos.sk/img/1t/891/197743891.jpg",
-    "condition": "neznamy",
-    "desc": "Popis:\r\nPonúkame na predaj svetlý a prakticky riešený 1-izbový byt, nachádzajúci sa vo vyhľadávanej lokalite Bratislava – Petržalka, časť Dvory, na Fedinovej ulici.\r\n\r\nHľadáte nehnuteľnosť, ktorá vám môže prinášať pravidelný príjem bez potreby hľadania nového nájomníka? Alebo hľadáte štartovací byt ",
-    "found_at": "2026-11-21T09:37:04.813388+00:00"
   },
   {
     "id": "nehnutelnosti:JuotpShMRuU",
@@ -297,19 +271,6 @@
     "condition": "povodny",
     "desc": "PREMIUM 2 izbový byt s balkónom, BA- Ružinov, Astrová ulica, 1/7 posch., 57m2, vynikajúca poloha, čiastočná rekonštrukcia, zariadený Astrová, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Realitná kancelária DAJANA reality, s.r.o., Vám exkluzívne ponúka na predaj svetlý a veľmi príjemný",
     "found_at": "2026-11-02T15:34:50.301248+00:00"
-  },
-  {
-    "id": "bazos:196886319",
-    "portal": "bazos",
-    "title": "Priestranný 2 izbový byt vo vyhľadávanej lokalite - BA...",
-    "url": "https://reality.bazos.sk/inzerat/196886319/priestranny-2-izbovy-byt-vo-vyhladavanej-lokalite-ba.php",
-    "price": 247990,
-    "price_text": "247 990 €",
-    "location": "Bratislava 821 01",
-    "image": "https://www.bazos.sk/img/1t/319/196886319.jpg?t=1794928255",
-    "condition": "neznamy",
-    "desc": "TUreality ponúka na predaj priestranný 2-izbový byt vo vyhľadávanej lokalite Bratislava – Ružinov, na Trenčianskej ulici. Byt s výmerou 62 m2 sa nachádza na 2. poschodí bytového domu a ponúka príjemný priestor pre komfortné mestské bývanie. Súčasťou bytu je aj pivničná kobka, ktorá poskytuje praktic",
-    "found_at": "2026-11-02T15:34:50.301245+00:00"
   },
   {
     "id": "bazos:196984677",
