@@ -1,16 +1,107 @@
 [
   {
-    "id": "nehnutelnosti:Ju7BfvtSTOh",
+    "id": "nehnutelnosti:Jut36UA1esG",
     "portal": "nehnutelnosti",
-    "title": "Dom realit 2 izbovy byt s pivnicnou kobkou v cene city park ruzinov",
-    "url": "https://www.nehnutelnosti.sk/detail/Ju7BfvtSTOh/dom-realit-2-izbovy-byt-s-pivnicnou-kobkou-v-cene-city-park-ruzinov",
-    "price": null,
-    "price_text": "150",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/RnkHWXk8O_fss?st=iwTbehZlwb_TFHPHYbWh5X16uxQH0E_IyZcr3VtaosE&ts=1795195652&e=0",
+    "title": "Predaj 2 izbovy byt vymera 49m2 vajnorska ulica bratislava",
+    "url": "https://www.nehnutelnosti.sk/detail/Jut36UA1esG/predaj-2-izbovy-byt-vymera-49m2-vajnorska-ulica-bratislava",
+    "price": 226600,
+    "price_text": "226 600",
+    "location": "Bratislava Vajnorská",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/px9Z_zIN-_fss?st=7V7EW3m3uvmjGXNOgVJLviASBozdFTcwqb5Q_nRzJd0&ts=1795377419&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM DOM-REALÍT,- 2 izbový byt s pivničnou kobkou v cene, City Park Ružinov Bratislava-Ružinov, okres Bratislava II 2 izbový byt 50 m² Ponúkame na predaj prakticky riešený 2-izbový BYT v novšej stavbe CityPark Ružinov na Jarabinkovej / Plynárenskej ulici, vo veži C. + 2-izbový byt s celkovou výme",
-    "found_at": "2026-11-22T18:26:55.277107+00:00"
+    "desc": "PREMIUM PREDAJ 2-izbový byt, výmera 49m2, Vajnorská ulica, Bratislava Vajnorská, Bratislava-Nové Mesto, okres Bratislava III 2 izbový byt 49 m² Realitná kancelária BROTHERS Vám ponúka na predaj 2-izbový byt, Vajnorská ulica, 49 m², pivnica, parkovanie Ponúkame na predaj 2-izbový byt s výmerou 49 m²",
+    "found_at": "2026-11-23T00:11:19.089695+00:00"
+  },
+  {
+    "id": "nehnutelnosti:Ju4lyj4fBIQ",
+    "portal": "nehnutelnosti",
+    "title": "Velky 2 izb byt na ul nezabudkova ruzinov travniky 2 np",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju4lyj4fBIQ/velky-2-izb-byt-na-ul-nezabudkova-ruzinov-travniky-2-np",
+    "price": 248000,
+    "price_text": "248 000",
+    "location": "Bratislava-Ružinov",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/2HQCAZIBP_fss?st=SXrcdr4xOuD9kGh6mB0NVvvWnkqLe2Z9cnHbwCC5yVE&ts=1794380592&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM veľký 2-izb. byt na ul. Nezábudková, Ružinov - Trávniky, 2 NP Nezábudková, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 67 m² Ponúkame Vám na predaj veľký 2-izbový byt na ul. Nezábudková, Ružinov – Trávniky. Výmera 67 m2 s murovaným kumbálom, nachádza sa na 1.p./7 v zateplenom panelo",
+    "found_at": "2026-11-23T00:11:19.089694+00:00"
+  },
+  {
+    "id": "bazos:197798060",
+    "portal": "bazos",
+    "title": "1-izb kompletne zariadený byt, Dlhé Diely, BA, 36,81 m², kli",
+    "url": "https://reality.bazos.sk/inzerat/197798060/1-izb-kompletne-zariadeny-byt-dlhe-diely-ba-3681-m-kli.php",
+    "price": 179900,
+    "price_text": "179 900 €",
+    "location": "Bratislava 841 05",
+    "image": "https://www.bazos.sk/img/1t/060/197798060.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame prakticky riešený 1izb. byt, pri ktorom nemusíte riešiť rekonštrukciu, dokupovanie nábytku ani ďalšie väčšie investície. Nachádza sa na Veternicovej ulici v obľúbenej časti Bratislavy – Dlhé Diely,  na 2. poschodí zo 6 v tehlovom bytovom dome postavenom v období druhej polovice 90. rokov  s",
+    "found_at": "2026-11-23T00:11:19.089689+00:00"
+  },
+  {
+    "id": "bazos:197798255",
+    "portal": "bazos",
+    "title": "2- izbový byt na ulici Galbavého v Dúbravke",
+    "url": "https://reality.bazos.sk/inzerat/197798255/2-izbovy-byt-na-ulici-galbaveho-v-dubravke.php",
+    "price": 247000,
+    "price_text": "247 000 €",
+    "location": "Bratislava 841 01",
+    "image": "https://www.bazos.sk/img/1t/255/197798255.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkame na predaj 2-izbový byt s krásnym výhľadom, nachádzajúci sa na Galbavého ulici v obľúbenej a vyhľadávanej lokalite Bratislava – Dúbravka.\nByt má výmeru 55 m² a k bytu prislúcha aj pivnica v suteréne. Nachádza sa na 9. poschodí z 12 v bytovom dome s tromi výťahmi. Je orientovaný na juhozápad,",
+    "found_at": "2026-11-23T00:11:19.089688+00:00"
+  },
+  {
+    "id": "bazos:197802608",
+    "portal": "bazos",
+    "title": "Na predaj 2-izbový byt, Ul. Hanulova, Dúbravka",
+    "url": "https://reality.bazos.sk/inzerat/197802608/na-predaj-2-izbovy-byt-ul-hanulova-dubravka.php",
+    "price": 195000,
+    "price_text": "195 000 €",
+    "location": "Bratislava 841 01",
+    "image": "https://www.bazos.sk/img/1t/608/197802608.jpg",
+    "condition": "neznamy",
+    "desc": "Ponúkam na predaj klimatizovaný a príjemne presvetlený 2-izbový byt s výmerou 44,45 m², ktorý sa nachádza na Ul. Hanulova v obľúbenej bratislavskej mestskej časti  Dúbravka. Má francúzsky balkón z kuchyne.\r\nByt je po staršej rekonštrukcii a je vhodný na okamžité bývanie, prípadne ponúka priestor na ",
+    "found_at": "2026-11-23T00:11:19.089686+00:00"
+  },
+  {
+    "id": "bazos:197803614",
+    "portal": "bazos",
+    "title": "PREDAJ 2-IZBOVÝ BYT S BALKÓNOM S POTENCIÁLOM NA 3-IZBOVÝ BYT",
+    "url": "https://reality.bazos.sk/inzerat/197803614/predaj-2-izbovy-byt-s-balkonom-s-potencialom-na-3-izbovy-byt.php",
+    "price": 188900,
+    "price_text": "188 900 €",
+    "location": "Bratislava 831 06",
+    "image": "https://www.bazos.sk/img/1t/614/197803614.jpg",
+    "condition": "neznamy",
+    "desc": "Typ: 3-izbový byt\n\rObec: Bratislava-Rača\n\r\n\rHľadáte bývanie v 3-izbovom byte, ale ceny v Bratislave sú mimo Vášho rozpočtu? Jednoduchou dispozičnou zmenou premeníte tento 2-izbový byt na 3-izbový. Bývajte v lokalite na skok od prírody s pravidelnými MHD spojmi a rý ...",
+    "found_at": "2026-11-23T00:11:19.089685+00:00"
+  },
+  {
+    "id": "bazos:197800994",
+    "portal": "bazos",
+    "title": "NUERA︱OPPIDUM - 2-izbový byt v novostabe s parkingom a kobko",
+    "url": "https://reality.bazos.sk/inzerat/197800994/nueraoppidum-2-izbovy-byt-v-novostabe-s-parkingom-a-kobko.php",
+    "price": 219000,
+    "price_text": "219 000 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/994/197800994.jpg?t=1795377647",
+    "condition": "neznamy",
+    "desc": "NUERA Real Estate Vám ponúka na predaj moderné bývanie v projekte Oppidum na Uzbeckej ulici v Podunajských Biskupiciach.\r\n\r\nZÁKLADNÉ INFORMÁCIE\r\n- Nebytový priestor - Apartmán\r\n- Poschodie: 8. NP\r\n- Dispozícia: 2-izbový s loggiou\r\n- Celková výmera: 59 m² (Interiér: 52 m² | Loggia: 4 m² | Kobka: 3 m²",
+    "found_at": "2026-11-23T00:11:19.089662+00:00"
+  },
+  {
+    "id": "bazos:197801439",
+    "portal": "bazos",
+    "title": "PREDAJ 2-izbový byt, 49m2, Vajnorská ulica, Bratislava",
+    "url": "https://reality.bazos.sk/inzerat/197801439/predaj-2-izbovy-byt-49m2-vajnorska-ulica-bratislava.php",
+    "price": 226600,
+    "price_text": "226 600 €",
+    "location": "Bratislava 831 03",
+    "image": "https://www.bazos.sk/img/1t/439/197801439.jpg?t=1795378812",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária BROTHERS Vám ponúka na predaj 2-izbový byt na skvelej adrese – Nová doba, 49 m², pivnica, parkovanie\r\n\r\nPonúkame na predaj 2-izbový byt s výmerou 49 m² v bytovom dome Nová doba, na 1. poschodí zo 4, bez výťahu. K bytu prislúcha pivnica a bonusom je možnosť parkovania na súkromnom",
+    "found_at": "2026-11-23T00:11:19.089660+00:00"
   },
   {
     "id": "bazos:197795785",
@@ -23,7 +114,7 @@
     "image": "https://www.bazos.sk/img/1t/785/197795785.jpg",
     "condition": "neznamy",
     "desc": "Typ: 1-izbový byt\n\rUlica: Zuzany Chalupovej 14A\n\rMestská časť: Lúky\n\rObec: Bratislava-Petržalka\n\r\n\rNa predaj klimatizovaný zariadený 1-izbový byt s balkónom a parkovacím miestom, Zuzany Chalupovej ul. – Petržalka\n\nDispozícia bytu:\n\n› izby: 1 – obytná a spacia časť\n› plocha: 24.65 m² byt +  ...",
-    "found_at": "2026-11-22T18:26:55.277099+00:00"
+    "found_at": "2026-11-22T18:26:55.277118+00:00"
   },
   {
     "id": "bazos:197776830",
@@ -37,19 +128,6 @@
     "condition": "neznamy",
     "desc": "Ponúkam na predaj v mestskej časti Ružinov na ul. Studená, časť Zlaté piesky- rekreačný pozemok s chatkou o celkovej výmere cca 250m2. Rozmer pozemku 12m x 20m. Pozemok je situovaný 50 m od jazera Zlaté Piesky, pri nákupnom centre STYLA (nie osada Mokráň záhoň). Je prístupný po krásnej asfaltovej pr",
     "found_at": "2026-11-22T11:04:54.103041+00:00"
-  },
-  {
-    "id": "bazos:197765428",
-    "portal": "bazos",
-    "title": "Hladam podnájom garzonka )",
-    "url": "https://reality.bazos.sk/inzerat/197765428/hladam-podnajom-garzonka.php",
-    "price": null,
-    "price_text": "450 €",
-    "location": "Bratislava 850 00",
-    "image": "https://www.bazos.sk/obrazky/empty.gif",
-    "condition": "neznamy",
-    "desc": ")",
-    "found_at": "2026-11-21T23:03:19.913279+00:00"
   },
   {
     "id": "bazos:197749082",
@@ -163,7 +241,7 @@
     "price": 239600,
     "price_text": "239 600 €",
     "location": "Bratislava 821 08",
-    "image": "https://www.bazos.sk/img/1t/847/197438847.jpg?t=1795038853",
+    "image": "https://www.bazos.sk/img/1t/847/197438847.jpg?t=1795379973",
     "condition": "neznamy",
     "desc": "Adresa: Záhradnícka 53, Bratislava, križovatka Jelačičová\r\nDispozícia: 2-izbový byt\r\nCelková úžitková plocha: 40.3 m2 (byt: 36.3 m2, pivnic: 2.0 m2, balkón: 2.0 m2)\r\nPoschodie: 2/5\r\nVýťah: áno\r\nOrientácia: západná\r\nRok rekonštrukcie: 2026\r\nMesačné náklady: 147 Eur (bytový fond, 1 osoba) + 18 Eur (el",
     "found_at": "2026-11-12T09:41:34.728973+00:00"
@@ -206,32 +284,6 @@
     "condition": "neznamy",
     "desc": "Ponúkame na predaj útulnú garzónku s výmerou 28 m², nachádzajúcu sa na 6. poschodí bytového domu na Rybničnej ulici v Bratislave.\n\nByt prešiel čiastočnou rekonštrukciou a jeho veľkým benefitom je priestranná loggia.\n\nDo bytu nie je nutné investovať, je možné v ňom bývať/ prenajímať ho v stave,  ...",
     "found_at": "2026-11-10T22:17:44.476046+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuDukoWqZfn",
-    "portal": "nehnutelnosti",
-    "title": "Frank zicher predavame byt dvojgarzonku s dvomi loggiami na blagoevovej ulici",
-    "url": "https://www.nehnutelnosti.sk/detail/JuDukoWqZfn/frank-zicher-predavame-byt-dvojgarzonku-s-dvomi-loggiami-na-blagoevovej-ulici",
-    "price": null,
-    "price_text": "800",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/jpRJ4VU39_fss?st=ftMr1l1idPPvkOhoAf5AkKR7okCm_7m6vhJkj_F_9_U&ts=1792009132&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM FRANK ZICHER - Predávame byt (dvojgarzonku) s dvomi loggiami na Blagoevovej ulici Blagoevova, Bratislava-Petržalka, okres Bratislava V 2 izbový byt 51.95 m² Realitná kancelária FRANK ZICHER ponúka na predaj byt - dvojgarzonku na Blagoevovej ulici v Petržalke. Nachádza sa v bytovom dome s výť",
-    "found_at": "2026-11-04T08:58:54.857795+00:00"
-  },
-  {
-    "id": "nehnutelnosti:JuRKG6ahD8n",
-    "portal": "nehnutelnosti",
-    "title": "2 izbovy byt s balkonom ba ruzinov astrova ulica 17 posch 57m2 ciastocna rekonstrukcia zariadeny",
-    "url": "https://www.nehnutelnosti.sk/detail/JuRKG6ahD8n/2-izbovy-byt-s-balkonom-ba-ruzinov-astrova-ulica-17-posch-57m2-ciastocna-rekonstrukcia-zariadeny",
-    "price": null,
-    "price_text": "139",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/9oiEVLq28_fss?st=E1jBO9IBRV-7eKhJeIMkvVjmhPEaGn1nhPdh22lyPc4&ts=1792697072&e=0",
-    "condition": "povodny",
-    "desc": "PREMIUM 2 izbový byt s balkónom, BA- Ružinov, Astrová ulica, 1/7 posch., 57m2, vynikajúca poloha, čiastočná rekonštrukcia, zariadený Astrová, Bratislava-Ružinov, okres Bratislava II 2 izbový byt 57 m² Realitná kancelária DAJANA reality, s.r.o., Vám exkluzívne ponúka na predaj svetlý a veľmi príjemný",
-    "found_at": "2026-11-02T15:34:50.301248+00:00"
   },
   {
     "id": "bazos:196984677",
