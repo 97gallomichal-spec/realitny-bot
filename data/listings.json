@@ -1,29 +1,81 @@
 [
   {
-    "id": "nehnutelnosti:Juf8zOzt_7Z",
+    "id": "nehnutelnosti:Ju65sPPCfOc",
     "portal": "nehnutelnosti",
-    "title": "Garsonka vo vybornej lokalite na ulici lachova",
-    "url": "https://www.nehnutelnosti.sk/detail/Juf8zOzt_7Z/garsonka-vo-vybornej-lokalite-na-ulici-lachova",
+    "title": "2 izbovy byt v raci pri malych karpatoch 535 m2 zarnovicka",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju65sPPCfOc/2-izbovy-byt-v-raci-pri-malych-karpatoch-535-m2-zarnovicka",
     "price": null,
-    "price_text": "120",
-    "location": "Bratislava-Petržalka",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/XzvoGZP1G_fss?st=p8XeKVvappiLwXUKdndEous6t26oe67w6ffLGM-0fGM&ts=1795814398&e=0",
+    "price_text": "155",
+    "location": "Bratislava-Rača",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/kL-CDDR_f_fss?st=iLaza2ORA-cKQUcdbw3e_yU8lVlOgk6URYglRh0sfoE&ts=1790542781&e=0",
     "condition": "neznamy",
-    "desc": "PREMIUM Garsónka vo výbornej lokalite na ulici Lachova Lachova, Bratislava-Petržalka, okres Bratislava V Garsónka 28 m² MRK & RETEX, s.r.o. – realitná kancelária pôsobiaca na realitnom trhu od roku 1999 Vám ponúka na predaj garsónku na ulici Lachova v Bratislave – Petržalke. ZNALECKÝ POSUDOK JE V CE",
-    "found_at": "2026-11-28T01:52:54.463600+00:00"
+    "desc": "PREMIUM 2-izbový byt s nepriechodnými izbami v Rači – Žarnovická 1 Žarnovická 1, Bratislava-Rača, okres Bratislava III 2 izbový byt 52 m² 2-izbový byt s nepriechodnými izbami v Rači – Žarnovická 1 Realitná kancelária MENSORI ponúka EXKLUZÍVNE na PREDAJ 2-izbový byt s nepriechodnými izbami na Žarnovi",
+    "found_at": "2026-11-28T10:12:01.694961+00:00"
   },
   {
-    "id": "bazos:197961712",
-    "portal": "bazos",
-    "title": "2-izbový byt v Dúbravke",
-    "url": "https://reality.bazos.sk/inzerat/197961712/2-izbovy-byt-v-dubravke.php",
-    "price": 199000,
-    "price_text": "199 000 €",
-    "location": "Bratislava 841 01",
-    "image": "https://www.bazos.sk/img/1t/712/197961712.jpg",
+    "id": "nehnutelnosti:JuFstAk4V_t",
+    "portal": "nehnutelnosti",
+    "title": "1bcr reality investicny 1 izbovy byt kadnarova ul bratislava raca",
+    "url": "https://www.nehnutelnosti.sk/detail/JuFstAk4V_t/1bcr-reality-investicny-1-izbovy-byt-kadnarova-ul-bratislava-raca",
+    "price": null,
+    "price_text": "100",
+    "location": "Bratislava-Rača",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/51kkcBQnq_fss?st=n0FvRe7cb4Jn9nCi6zd_QslzmAG1NsL6AlUJm9oQfu4&ts=1795777039&e=0",
     "condition": "neznamy",
-    "desc": "Predám dvojizbový byt v Dúbravke, má 51 m2 a je v pôvodnom stave, nachádza sa na 6 poschodí z 12. Je orientovaný na dve strany, s pekným výhľadom do parku Pekníková. RK prosím volať s konkrétnym záujemcom.",
-    "found_at": "2026-11-27T18:50:45.956912+00:00"
+    "desc": "PREMIUM 1.BCR REALITY | INVESTIČNÝ 1-IZBOVÝ BYT | KADNÁROVA UL. | BRATISLAVA | RAČA Kadnárova, Bratislava-Rača, okres Bratislava III 1 izbový byt 27 m² V zastúpení majiteľa vám ponúkame na predaj jednoizbový byt na Kadnárovej ulici v Bratislave, v mestskej časti Rača. Byt so samostatnou kuchyňou je",
+    "found_at": "2026-11-28T10:12:01.694960+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JuINw32DTUC",
+    "portal": "nehnutelnosti",
+    "title": "Bosen 2 izbovy byt na predaj v devinskej novej vsi",
+    "url": "https://www.nehnutelnosti.sk/detail/JuINw32DTUC/bosen-2-izbovy-byt-na-predaj-v-devinskej-novej-vsi",
+    "price": 189000,
+    "price_text": "189 000",
+    "location": "Bratislava-Devínska Nová Ves",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/aFuvWku8r_fss?st=VdiYZooRGjOl7rXNVuwK_nxR75gg6xKqSkFo_TP36v0&ts=1792061095&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM BOSEN |2 izbový byt na predaj v Devínskej Novej Vsi Milana Marečka, Bratislava-Devínska Nová Ves, okres Bratislava IV 2 izbový byt 52.22 m² Realitná kancelária Bosen Group Vám exkluzívne ponúka na predaj 2 - izbový byt v pôvodnom stave v Devínskej Novej Vsi BYTOVÝ DOM: Byt sa nachádza na 9/9",
+    "found_at": "2026-11-28T10:12:01.694959+00:00"
+  },
+  {
+    "id": "bazos:197975816",
+    "portal": "bazos",
+    "title": "2 izbový byt na predaj.",
+    "url": "https://reality.bazos.sk/inzerat/197975816/2-izbovy-byt-na-predaj.php",
+    "price": 184900,
+    "price_text": "184 900 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/816/197975816.jpg",
+    "condition": "neznamy",
+    "desc": "Na predaj 2-izbový byt – Podunajské Biskupice\n\nPonúkame na predaj prakticky riešený 2-izbový byt nachádzajúci sa v mestskej časti Podunajské Biskupice. Byt je situovaný na 1. poschodí bytového domu a má celkovú výmeru 43,6 m².\n\n3D obhliadku si môžete pozrieť tu: https://my.matterport.com/show/?m=Xmv",
+    "found_at": "2026-11-28T10:12:01.694954+00:00"
+  },
+  {
+    "id": "bazos:197975860",
+    "portal": "bazos",
+    "title": "HALO reality - Predaj, dvojizbový byt Bratislava Podunajské",
+    "url": "https://reality.bazos.sk/inzerat/197975860/halo-reality-predaj-dvojizbovy-byt-bratislava-podunajske.php",
+    "price": 175990,
+    "price_text": "175 990 €",
+    "location": "Bratislava 821 06",
+    "image": "https://www.bazos.sk/img/1t/860/197975860.jpg",
+    "condition": "neznamy",
+    "desc": "Realitná kancelária HALO reality a Marián Matušek, kontakt: 0911 107 429, nehnuteľnosť s ID: BA-73975:\nPonúka exkluzívne na predaj 2-izbový byt s výmerou 49,40 m2 na Bodrockej ulici v Bratislave, v mestskej časti Podunajské Biskupice. Byt sa nachádza na 3. poschodí bytového domu bez výťahu a je orie",
+    "found_at": "2026-11-28T10:12:01.694953+00:00"
+  },
+  {
+    "id": "bazos:197984910",
+    "portal": "bazos",
+    "title": "Na predaj príjemný, prakticky dispozične riešený 1-izbový by",
+    "url": "https://reality.bazos.sk/inzerat/197984910/na-predaj-prijemny-prakticky-dispozicne-rieseny-1-izbovy-by.php",
+    "price": 189000,
+    "price_text": "189 000 €",
+    "location": "Bratislava 841 03",
+    "image": "https://www.bazos.sk/img/1t/910/197984910.jpg",
+    "condition": "neznamy",
+    "desc": "Zaujímavá investičná príležitosť s existujúcou nájomníčkou, ktorá má záujem pokračovať v prenájme!\n\nPonúkame Vám na predaj príjemný, prakticky dispozične riešený 1-izbový byt s pivnicou vo vyhľadávanej mestskej časti Bratislava – Lamač, na Studenohorskej ulici.\n\nByt s výmerou 41 m2 + pivnica sa nach",
+    "found_at": "2026-11-28T10:12:01.694950+00:00"
   },
   {
     "id": "bazos:197965874",
@@ -182,19 +234,6 @@
     "found_at": "2026-11-20T11:21:57.154293+00:00"
   },
   {
-    "id": "nehnutelnosti:JuwbCcfzrmK",
-    "portal": "nehnutelnosti",
-    "title": "1 izb byt priamo pri oc central",
-    "url": "https://www.nehnutelnosti.sk/detail/JuwbCcfzrmK/1-izb-byt-priamo-pri-oc-central",
-    "price": 215000,
-    "price_text": "215 000",
-    "location": "Bratislava-Ružinov",
-    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/eVbq3K34H_fss?st=GirMEiL8vKOctNyxFEjHLmLL3hJnJW8d5XF7PTESIPw&ts=1792605898&e=0",
-    "condition": "neznamy",
-    "desc": "PREMIUM Tehlový byt priamo pri OC Central - možnosť 2 izieb - veľká kuchyňa Miletičova, Bratislava-Ružinov, okres Bratislava II 1 izbový byt 37.25 m² Tento skvelo usporiadaný 1-izbový byt sa nachádza v tehlovom bytovom dome priamo pri OC Central. Vyhľadávaná lokalita na rozhraní Starého a Nového Mes",
-    "found_at": "2026-11-19T12:50:36.451125+00:00"
-  },
-  {
     "id": "bazos:197543137",
     "portal": "bazos",
     "title": "2-izbový byt ( 2-Garsónka) o výmere 45m2+ 16m2 TERASA",
@@ -234,6 +273,19 @@
     "found_at": "2026-11-11T18:35:55.908753+00:00"
   },
   {
+    "id": "nehnutelnosti:Ju1vQi-EMCT",
+    "portal": "nehnutelnosti",
+    "title": "Predpredajceresne nova etapa plaza predaj 1i bytudokoncenie 2029",
+    "url": "https://www.nehnutelnosti.sk/detail/Ju1vQi-EMCT/predpredajceresne-nova-etapa-plaza-predaj-1i-bytudokoncenie-2029",
+    "price": 187449,
+    "price_text": "187 449",
+    "location": "Bratislava-Dúbravka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/SAl2CsROU_fss?st=HnCJjiX8PoD5opgy2GDdUvCM7zZZt-mcYKCM2JYKv9c&ts=1769595664&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM ČEREŠNE NOVÁ ETAPA PLAZA PREDAJ 1i BYTU_DOKONČENIE 2029 Polianky, Bratislava-Dúbravka, okres Bratislava IV 1 izbový byt 33.86 m² Ponúkame na predaj novú etapu Čerešní - PLAZU, 1 izbový BYT so západnou orientáciou T15 - výmera interiéru je 30,65 m2 plus loggia 3,21 m2 spolu o výmere 33,86 m2.",
+    "found_at": "2026-11-03T14:59:17.200455+00:00"
+  },
+  {
     "id": "bazos:196760013",
     "portal": "bazos",
     "title": "Priestranný, slnečný 2-izbový byt vo vyhľadávaných...",
@@ -245,6 +297,19 @@
     "condition": "neznamy",
     "desc": "TUreality ponúka na predaj priestranný a svetlý 2-izbový byt po čiastočnej rekonštrukcii na ulici Černockého v Bratislave-Rači.Má vlastné plynové kúrenie, veľkú pivnicu a je dostupný hneď. \r\n________________________________________________________________________________________________________\r\n??V",
     "found_at": "2026-10-22T18:28:07.629930+00:00"
+  },
+  {
+    "id": "nehnutelnosti:JupAfTrvw5b",
+    "portal": "nehnutelnosti",
+    "title": "1 izbovy byt s balkonom slnecnice mesto zuzany chalupovej",
+    "url": "https://www.nehnutelnosti.sk/detail/JupAfTrvw5b/1-izbovy-byt-s-balkonom-slnecnice-mesto-zuzany-chalupovej",
+    "price": null,
+    "price_text": "102",
+    "location": "Bratislava-Petržalka",
+    "image": "https://img.nehnutelnosti.sk/foto/Zml0LWluLzgwMHgyMDAwL2ZpbHRlcnM6cXVhbGl0eSg4MCk6Zm9ybWF0KHdlYnApL2p1bA==/P2qU50rnj_fss?st=zkcNLgMUDeJkD1k9bWt-E7mi7-07FlJleGWsLagFOJU&ts=1791437518&e=0",
+    "condition": "neznamy",
+    "desc": "PREMIUM Svetlý 1-izbový byt s balkónom v Slnečniciach – Zuzany Chalupovej Zuzany Chalupovej, Bratislava-Petržalka, okres Bratislava V 1 izbový byt 28.84 m² Ponúkame na predaj príjemný svetlý 1-izbový byt s krásnym výhľadom v obľúbenom projekte Slnečnice – Mesto na ulici Zuzany Chalupovej v bratislav",
+    "found_at": "2026-10-12T17:45:23.687653+00:00"
   },
   {
     "id": "bazos:196354813",
